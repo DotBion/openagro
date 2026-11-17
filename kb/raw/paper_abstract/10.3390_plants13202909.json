@@ -1,0 +1,17 @@
+{
+  "provider": "crossref",
+  "doi": "10.3390/plants13202909",
+  "title": "The Application of a Foliar Spray Containing Methylobacterium symbioticum Had a Limited Effect on Crop Yield and Nitrogen Recovery in Field and Pot-Grown Maize",
+  "abstract": "In this study, the effectiveness of an inoculant containing a nitrogen (N)-fixing microorganism (Methylobacterium symbioticum) was evaluated on maize (Zea mays L.) grown both in the field (silage maize) and in pots over two years (2021 and 2022). The field trial included the following two treatments: with (Yes) and without (No) the inoculant. The pot experiment was designed as a factorial arrangement with two factors: the application of the inoculant (Yes and No) and N applied to the soil (0, 0.4, 0.8, and 1.6 g pot−1). In the field, total dry matter yield (DMY) did not differ significantly between treatments, although the average DMY was higher in the inoculant treatment. In pots, the total DMY varied significantly across all N rates but was only significantly affected by the inoculant application in 2022. N fixation estimates in the field were 58.8 and 14.5 kg ha−1 for 2021 and 2022, respectively, representing 23.7% and 9.1% of the N recovered in the aboveground plant parts. In pots, the estimated fixed N values were −49.2 and 199.2 mg pot−1 in 2021 and 2022, respectively, which corresponded to −5.2% and 18.5% of the N found in the aboveground plant parts. Considering the average values obtained across the four cultivation conditions, there was a positive outcome for the treated plants. However, these values cannot be considered significant when compared to nitrogen removal in maize crops. A commercial product should provide an unequivocal and quantitatively relevant contribution to plant nutrition, which did not appear to be the case. Thus, for this inoculant to provide reliable guarantees of positive outcomes for farmers and become a useful tool in promoting more sustainable agriculture, further studies appear necessary. These studies should aim to determine in which crops and under what cultivation conditions the application of the inoculant is truly effective in enhancing N fixation and improving crop productivity.",
+  "authors": [
+    "Manuel Ângelo Rodrigues",
+    "Carlos Manuel Correia",
+    "Margarida Arrobas"
+  ],
+  "year": 2024,
+  "container": "Plants",
+  "licenses": [
+    "https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "url": "https://doi.org/10.3390/plants13202909"
+}

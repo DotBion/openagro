@@ -1,0 +1,21 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1371/journal.pone.0180442",
+  "title": "Organic farming enhances soil microbial abundance and activity—A meta-analysis and meta-regression",
+  "abstract": "Population growth and climate change challenge our food and farming systems and provide arguments for an increased intensification of agriculture. A promising option is eco-functional intensification through organic farming, an approach based on using and enhancing internal natural resources and processes to secure and improve agricultural productivity, while minimizing negative environmental impacts. In this concept an active soil microbiota plays an important role for various soil based ecosystem services such as nutrient cycling, erosion control and pest and disease regulation. Several studies have reported a positive effect of organic farming on soil health and quality including microbial community traits. However, so far no systematic quantification of whether organic farming systems comprise larger and more active soil microbial communities compared to conventional farming systems was performed on a global scale. Therefore, we conducted a meta-analysis on current literature to quantify possible differences in key indicators for soil microbial abundance and activity in organic and conventional cropping systems. All together we integrated data from 56 mainly peer-reviewed papers into our analysis, including 149 pairwise comparisons originating from different climatic zones and experimental duration ranging from 3 to more than 100 years. Overall, we found that organic systems had 32% to 84% greater microbial biomass carbon, microbial biomass nitrogen, total phospholipid fatty-acids, and dehydrogenase, urease and protease activities than conventional systems. Exclusively the metabolic quotient as an indicator for stresses on microbial communities remained unaffected by the farming systems. Categorical subgroup analysis revealed that crop rotation, the inclusion of legumes in the crop rotation and organic inputs are important farming practices affecting soil microbial community size and activity. Furthermore, we show that differences in microbial size and activity between organic and conventional farming systems vary as a function of land use (arable, orchards, and grassland), plant life cycle (annual and perennial) and climatic zone. In summary, this study shows that overall organic farming enhances total microbial abundance and activity in agricultural soils on a global scale.",
+  "authors": [
+    "Martina Lori",
+    "Sarah Symnaczik",
+    "Paul Mäder",
+    "Gerlinde De Deyn",
+    "Andreas Gattinger"
+  ],
+  "year": 2017,
+  "container": "PLOS ONE",
+  "licenses": [
+    "http://creativecommons.org/licenses/by/4.0/",
+    "cc-by",
+    "oa_status:gold"
+  ],
+  "url": "https://doi.org/10.1371/journal.pone.0180442"
+}

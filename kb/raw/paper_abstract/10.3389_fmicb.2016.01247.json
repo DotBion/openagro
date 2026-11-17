@@ -1,0 +1,25 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.3389/fmicb.2016.01247",
+  "title": "Soil Fungal:Bacterial Ratios Are Linked to Altered Carbon Cycling",
+  "abstract": "Despite several lines of observational evidence, there is a lack of consensus on whether higher fungal:bacterial (F:B) ratios directly cause higher soil carbon (C) storage. We employed RNA sequencing, protein profiling and isotope tracer techniques to evaluate whether differing F:B ratios are associated with differences in C storage. A mesocosm (13)C labeled foliar litter decomposition experiment was performed in two soils that were similar in their physico-chemical properties but differed in microbial community structure, specifically their F:B ratio (determined by PLFA analyses, RNA sequencing and protein profiling; all three corroborating each other). Following litter addition, we observed a consistent increase in abundance of fungal phyla; and greater increases in the fungal dominated soil; implicating the role of fungi in litter decomposition. Litter derived (13)C in respired CO2 was consistently lower, and residual (13)C in bulk SOM was higher in high F:B soil demonstrating greater C storage potential in the F:B dominated soil. We conclude that in this soil system, the increased abundance of fungi in both soils and the altered C cycling patterns in the F:B dominated soils highlight the significant role of fungi in litter decomposition and indicate that F:B ratios are linked to higher C storage potential.",
+  "authors": [
+    "Ashish A. Malik",
+    "Somak Chowdhury",
+    "Veronika Schlager",
+    "Anna Oliver",
+    "Jeremy Puissant",
+    "Perla G. M. Vazquez",
+    "Nico Jehmlich",
+    "Martin von Bergen",
+    "Robert I. Griffiths",
+    "Gerd Gleixner"
+  ],
+  "year": 2016,
+  "container": "Frontiers in Microbiology",
+  "licenses": [
+    "cc-by",
+    "oa_status:gold"
+  ],
+  "url": "https://doi.org/10.3389/fmicb.2016.01247"
+}

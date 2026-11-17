@@ -1,0 +1,23 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1016/j.fcr.2025.109990",
+  "title": "Long-term field study on corn response to sulfur fertilization in Iowa, USA",
+  "abstract": "Context Declines in atmospheric sulfur (S) deposition and S removal through cropping have increased response to S fertilization in many crops. Yet, responses to S fertilization by corn ( Zea mays L.) have been inconsistent. Objective We aimed to: (i) determine corn grain yield response to S fertilizer; (ii) evaluate pre-plant soil S and plant S at different growth stages as S diagnostic methods of corn S status; and (iii) explore the cost-effectiveness of S sources under historical and current market price conditions. Methods Twelve field experiments were conducted in central Iowa, USA, to evaluate corn response to ammonium sulfate (AMS), ammonium thiosulfate (ATS), and gypsum (GYP) applied at 34 kg S ha −1 . Extractable soil S was measured before planting, and S concentrations in plants at V5, in ear leaves at mid-silk R1 stage, and in grain were determined. Grain yield was measured at R6. Results Sulfur fertilization increased S concentration in 50 % of trials at V5, 33 % at mid-silk, and 30 % in grain. Grain yield increased in only 17 % of trials (6.2–34 % greater than the control). Extractable S, soil organic matter, and S concentration in corn tissue failed as predictors of grain yield response. Economic return from S fertilization via AMS and ATS was positive at current price levels (average return up to $ 27.6 ha −1 ), after accounting for the value of N in the fertilizer. Conclusion Overall, our results showed that S application may improve early season S uptake by the corn plant but rarely increases grain yield. However, long-term positive economic returns are possible.",
+  "authors": [
+    "Cecilia Crespo",
+    "John L. Kovar",
+    "Chad E. Hart",
+    "Richard T. Roth",
+    "Peter L. O’Brien",
+    "Sabrina J. Ruis"
+  ],
+  "year": 2025,
+  "container": "Field Crops Research",
+  "licenses": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "cc-by-nc",
+    "oa_status:hybrid"
+  ],
+  "url": "https://doi.org/10.1016/j.fcr.2025.109990"
+}

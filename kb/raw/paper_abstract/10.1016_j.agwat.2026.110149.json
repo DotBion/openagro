@@ -1,0 +1,28 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1016/j.agwat.2026.110149",
+  "title": "Precision nanobubble irrigation tailors plant physiology to drive sustainable lettuce growth with water savings",
+  "abstract": "Under accelerating climate-driven water scarcity, improving irrigation efficiency for high-value leafy crops has become an urgent challenge for global food security. Nanobubbles (NBs), gas-filled cavities < 500 nm in diameter, have emerged as a promising irrigation technology capable of enhancing root-zone processes and early plant development with minimal additional water inputs. However, their effects in soil-based systems remain poorly resolved, particularly for leafy vegetables grown in water-stressed regions. Here, we systematically evaluate the influence of four gas types (O 2 , CO 2 , N 2 , and air), delivered as NBs at three dilution levels (100 %, 50 %, and 10 %; corresponding to >10 8 particles mL −1 at 100 %), on early-stage growth and water productivity (WP) in lettuce ( Lactuca sativa, var. 'Little Gem') grown in a peat moss, coconut coir, and vermiculite mixture. Our results reveal that moderately diluted O 2 NBs (10 %–50 %) accelerate germination, boost biomass accumulation, and improve water savings by up to ∼23 %. In contrast, high concentrations (100 %) of O 2 NBs reduced overall performance and induced elongated but narrow leaf morphology, consistent with stress-related growth allocation. The use of CO 2 NBs, particularly at higher concentrations, stimulates root expansion and leaf area development, while moderate N 2 NBs concentration enhanced ammonium uptake and root elongation. Air NBs produce modest and variable effects, serving as a baseline but never outperforming pure gas NBs. Together, these results demonstrate that gas-specific NBs treatments can be strategically tuned to regulate distinct physiological pathways during early plant development, supporting the potential of NBs-based irrigation as a tool for water-efficient, climate-resilient leafy crop production.",
+  "authors": [
+    "Jesús Morón-López",
+    "Aislinn Varela",
+    "Renato Montenegro-Ayo",
+    "Andrea Maya",
+    "Mariana Hernandez-Molina",
+    "Kenneth Flores",
+    "Emily E. Matula",
+    "John Graf",
+    "Onur Apul",
+    "Sergi Garcia-Segura"
+  ],
+  "year": 2026,
+  "container": "Agricultural Water Management",
+  "licenses": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "cc-by-nc-nd",
+    "oa_status:gold"
+  ],
+  "url": "https://doi.org/10.1016/j.agwat.2026.110149"
+}

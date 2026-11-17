@@ -1,0 +1,21 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1016/j.apsoil.2024.105559",
+  "title": "An assessment of twenty-three mycorrhizal inoculants reveals limited viability of AM fungi, pathogen contamination, and negative microbial effect on crop growth for commercial products",
+  "abstract": "Ensuring sustainable agriculture is crucial amidst global challenges, demanding effective methods to enhance soil health and nutrient cycling. Microbial inoculants, particularly arbuscular mycorrhizal (AM) fungi, offer promising solutions. However, concerns persist regarding the efficacy and quality control of commercial products. Past work assessing commercial inoculants have not controlled for fertilizers added to individual products when assessing product effects under typical use. This study examines twenty-three mycorrhizal inoculants using conventions of organic production to shed light on differences between laboratory grown fungi, commercial products, and field soil. Employing a comprehensive approach, inoculants were assessed through spore enumeration, root infection potential, and crop growth response. The results uncover significant shortcomings in many commercial products compared to laboratory grown fungi. Key findings include discrepancies of up to 100 % in reported propagule counts versus spore concentrations, insufficient root colonization by commercial inoculants, and contamination by fungal plant pathogens, particularly Olpidium, in products. Moreover, while laboratory grown fungi exhibited superior symbiotic relationships with host plants due to increased colonization abilities and crop benefit, commercial inoculants often failed to deliver significant growth benefits when fertilizers are controlled for. These findings highlight the urgent need for improved standards and practices within the commercial inoculant industry.",
+  "authors": [
+    "Liz Koziol",
+    "Terra Lubin",
+    "James D. Bever"
+  ],
+  "year": 2024,
+  "container": "Applied Soil Ecology",
+  "licenses": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "http://creativecommons.org/licenses/by/4.0/",
+    "cc-by",
+    "oa_status:hybrid"
+  ],
+  "url": "https://doi.org/10.1016/j.apsoil.2024.105559"
+}

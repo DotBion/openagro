@@ -1,0 +1,22 @@
+{
+  "provider": "crossref",
+  "doi": "10.1038/ismej.2010.58",
+  "title": "Soil bacterial and fungal communities across a pH gradient in an arable soil",
+  "abstract": "Soils collected across a long-term liming experiment (pH 4.0–8.3), in which variation in factors other than pH have been minimized, were used to investigate the direct influence of pH on the abundance and composition of the two major soil microbial taxa, fungi and bacteria. We hypothesized that bacterial communities would be more strongly influenced by pH than fungal communities. To determine the relative abundance of bacteria and fungi, we used quantitative PCR (qPCR), and to analyze the composition and diversity of the bacterial and fungal communities, we used a bar-coded pyrosequencing technique. Both the relative abundance and diversity of bacteria were positively related to pH, the latter nearly doubling between pH 4 and 8. In contrast, the relative abundance of fungi was unaffected by pH and fungal diversity was only weakly related with pH. The composition of the bacterial communities was closely defined by soil pH; there was as much variability in bacterial community composition across the 180-m distance of this liming experiment as across soils collected from a wide range of biomes in North and South America, emphasizing the dominance of pH in structuring bacterial communities. The apparent direct influence of pH on bacterial community composition is probably due to the narrow pH ranges for optimal growth of bacteria. Fungal community composition was less strongly affected by pH, which is consistent with pure culture studies, demonstrating that fungi generally exhibit wider pH ranges for optimal growth.",
+  "authors": [
+    "Johannes Rousk",
+    "Erland Bååth",
+    "Philip C Brookes",
+    "Christian L Lauber",
+    "Catherine Lozupone",
+    "J Gregory Caporaso",
+    "Rob Knight",
+    "Noah Fierer"
+  ],
+  "year": 2010,
+  "container": "The ISME Journal",
+  "licenses": [
+    "https://academic.oup.com/pages/standard-publication-reuse-rights"
+  ],
+  "url": "https://doi.org/10.1038/ismej.2010.58"
+}

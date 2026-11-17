@@ -1,0 +1,20 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1371/journal.pone.0157017",
+  "title": "Testing an Alternative Method for Estimating the Length of Fungal Hyphae Using Photomicrography and Image Processing",
+  "abstract": "This study aimed to develop and test an unbiased and rapid methodology to estimate the length of external arbuscular mycorrhizal fungal (AMF) hyphae in soil. The traditional visual gridline intersection (VGI) method, which consists in a direct visual examination of the intersections of hyphae with gridlines on a microscope eyepiece after aqueous extraction, membrane-filtration, and staining (e.g., with trypan blue), was refined. For this, (i) images of the stained hyphae were taken by using a digital photomicrography technique to avoid the use of the microscope and the method was referred to as \"digital gridline intersection\" (DGI) method; and (ii), the images taken in (i) were processed and the hyphal length was measured by using ImageJ software, referred to as the \"photomicrography-ImageJ processing\" (PIP) method. The DGI and PIP methods were tested using known grade lengths of possum fur. Then they were applied to measure the hyphal lengths in soils with contrasting phosphorus (P) fertility status. Linear regressions were obtained between the known lengths (Lknown) of possum fur and the values determined by using either the DGI (LDGI) (LDGI = 0.37 + 0.97 × Lknown, r2 = 0.86) or PIP (LPIP) methods (LPIP = 0.33 + 1.01 × Lknown, r2 = 0.98). There were no significant (P > 0.05) differences between the LDGI and LPIP values. While both methods provided accurate estimation (slope of regression being 1.0), the PIP method was more precise, as reflected by a higher value of r2 and lower coefficients of variation. The average hyphal lengths (6.5-19.4 m g-1) obtained by the use of these methods were in the range of those typically reported in the literature (3-30 m g-1). Roots growing in P-deficient soil developed 2.5 times as many hyphae as roots growing in P-rich soil (17.4 vs 7.2 m g-1). These tests confirmed that the use of digital photomicrography in conjunction with either the grid-line intersection principle or image processing is a suitable method for the measurement of AMF hyphal lengths in soils for comparative investigations.",
+  "authors": [
+    "Qinhua Shen",
+    "Miko U. F. Kirschbaum",
+    "Mike J. Hedley",
+    "Marta Camps Arbestain"
+  ],
+  "year": 2016,
+  "container": "PLOS ONE",
+  "licenses": [
+    "http://creativecommons.org/licenses/by/4.0/",
+    "cc-by",
+    "oa_status:gold"
+  ],
+  "url": "https://doi.org/10.1371/journal.pone.0157017"
+}

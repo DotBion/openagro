@@ -1,0 +1,18 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1073/pnas.1716329114",
+  "title": "Continuum of root–fungal symbioses for plant nutrition",
+  "abstract": "Plants accommodate a specific microbiota on and in their roots that, similar to the microbial communities in human or animal guts, supports the host in nutrient acquisition (1). Beneficial associations with fungi are widespread in the plant kingdom and probably best known are so-called mycorrhizal symbioses (Fig. 1), which are formed between soil fungi and ∼90% of land plants (2). In these partnerships, fungi provide limiting nutrients such as phosphorus (P) in return for photosynthetically fixed carbon from the plant host. Up to 80% of plant P can be derived from the symbionts, underpinning the importance of these associations for plant nutrition. However, ∼10% of all plants do not form mycorrhizal associations, and this prompts the question how nonmycorrhizal plants like the Brassicaceae manage to scavenge sufficient amounts of soil nutrients, especially when growing in nutrient poor environments?",
+  "authors": [
+    "Marcel G. A. van der Heijden",
+    "Nina Dombrowski",
+    "Klaus Schlaeppi"
+  ],
+  "year": 2017,
+  "container": "Proceedings of the National Academy of Sciences",
+  "licenses": [
+    "http://www.pnas.org/site/aboutpnas/licenses.xhtml",
+    "oa_status:bronze"
+  ],
+  "url": "https://doi.org/10.1073/pnas.1716329114"
+}

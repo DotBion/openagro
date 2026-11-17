@@ -1,0 +1,16 @@
+{
+  "provider": "crossref",
+  "doi": "10.3389/fmicb.2022.949404",
+  "title": "Toward a holistic view of orchard ecosystem dynamics: A comprehensive review of the multiple factors governing development or suppression of apple replant disease",
+  "abstract": "Replant diseases are a common occurrence in perennial cropping systems. In apple, progress toward the development of a universally effective disease management strategy, beyond the use of broad-spectrum soil fumigants, is impeded by inconsistencies in defining replant disease etiology. A preponderance of evidence attributes apple replant disease to plant-induced changes in the soil microbiome including the proliferation of soilborne plant pathogens. Findings from alternative studies suggest that the contribution of abiotic factors, such as the accumulation of phenolic detritus from previous orchard plantings, may play a part as well. Engineering of the resident soil microbiome using resource-based strategies is demonstrating potential to limit activity of replant pathogens and improve productivity in newly established orchards. An understanding of factors promoting the assembly of a disease-suppressive soil microbiome along with consideration of host factors that confer disease tolerance or resistance is imperative to the developing a more holistic view of orchard ecosystem dynamics. Here, we review the literature concerning the transition of orchard soil from a healthy state to a replant disease-conducive state. Included in the scope of this review are studies on the influence of soil type and geography on the apple replant pathogen complex. Furthermore, several tolerance and innate resistance mechanisms that have been described in apple to date, including the role of root chemistry/exudates are discussed. Finally, the interplay between apple rootstock genotype and key resource-based strategies which have been shown to “reshape” the plant holobiont in favor of a more prophylactic or disease-suppressive state is highlighted.",
+  "authors": [
+    "Tracey S. Somera",
+    "Mark Mazzola"
+  ],
+  "year": 2022,
+  "container": "Frontiers in Microbiology",
+  "licenses": [
+    "https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "url": "https://doi.org/10.3389/fmicb.2022.949404"
+}

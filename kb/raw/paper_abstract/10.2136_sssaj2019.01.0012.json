@@ -1,0 +1,18 @@
+{
+  "provider": "crossref",
+  "doi": "10.2136/sssaj2019.01.0012",
+  "title": "Use of Soil Protein Pools as Indicators of Soil Nitrogen Mineralization Potential",
+  "abstract": "Autoclaved‐citrate extractable (ACE) soil protein is included in some soil health assessments as a biological indicator. Furthermore, soil protein contents may be related to the ability of a soil to make nitrogen (N) available for plants by mineralization. The main objective of this study was to evaluate the correlation between ACE protein and potential net N mineralization in undisturbed soil cores from 57 fields in California under annual crops. Total N in the soils ranged from 0.65 to 12.5 g kg −1 , and the sites represented eight Soil Taxonomy orders. Soil ACE protein concentrations ranged from 1.0 to 45.2 g kg −1 soil. Although the correlation between ACE protein and potential net N mineralization was positive, ACE protein explained only 21% of the variability in potential net N mineralization across all sites, which was less than total N. Under the assumption that proteins contain 16% N, ACE protein‐N accounted for 28% of total N across all sites. However, in some soils with a high total N content, ACE protein accounted for up to 67% of total N. Because autoclaving is expected to denature some proteins, these values seem very high and are likely caused by the interference of coextracted humic substances. Our results do not suggest that ACE protein is a better predictor of potential net N mineralization than total soil N, which may be at least partly due to an apparent interference of coextracted humic substances with the protein assay. ACE protein concentrations ranged from 1.0 to 45.2 g kg −1 soil. ACE protein and N mineralization were positively correlated (r = 0.46). The correlation was weaker than between N mineralization and total soil N. Co‐extracted humic substances appear to interfere with the protein assay.",
+  "authors": [
+    "Daniel Geisseler",
+    "Kenneth Miller",
+    "Michelle Leinfelder‐Miles",
+    "Rob Wilson"
+  ],
+  "year": 2019,
+  "container": "Soil Science Society of America Journal",
+  "licenses": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "url": "https://doi.org/10.2136/sssaj2019.01.0012"
+}

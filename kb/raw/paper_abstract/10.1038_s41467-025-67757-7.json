@@ -1,0 +1,18 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1038/s41467-025-67757-7",
+  "title": "Long-term agricultural diversification increases financial profitability, biodiversity, and ecosystem services: a second-order meta-analysis",
+  "abstract": "Sustainable agriculture in the 21st century requires the production of sufficient food, while reducing environmental impacts and safeguarding human livelihoods. Many studies have confirmed agricultural diversification with practices such as intercropping, organic farming, and soil inoculations, as suitable pathways to achieve these goals, but the long-term viability of socioeconomic and ecological benefits is uncertain. Here, we use a second-order meta-analysis to quantify long-term effects of agricultural diversification practices on socioeconomic and ecological benefits based on 120 years of data from 184 meta-analyses with 6741 effect sizes. Diversification increases financial profitability, biodiversity, pollination, soil quality, and carbon sequestration from 37 to 189% over 20 years, and we find no significant effects on crop yield, pest control, and climate regulation. Non-crop and crop diversification practices and use of organic amendments increase or maintain most of these benefits over time. Trade-off analysis between yield and all services shows win-win outcomes during the first 40 years. Our synthesis provides the urgently needed evidence for farmers and other decision-makers that diversification increases long-term financial profitability, biodiversity, soil quality, and climate change mitigation benefits. A large-scale implementation of agricultural diversification requires, however, careful consideration of factors that mediate these benefits. Then, agricultural diversification can be upscaled for long-term socioeconomic and nature-positive outcomes and, ultimately, for a global food system transformation. Feeding a growing population while protecting the environment is a major global challenge. This study suggests that agricultural diversification enhances long-term profitability, biodiversity, soil health, and climate benefits while maintaining crop yields, supporting a shift toward nature-positive farming.",
+  "authors": [
+    "Estelle Raveloaritiana",
+    "Thomas Cherico Wanger"
+  ],
+  "year": 2026,
+  "container": "Nature Communications",
+  "licenses": [
+    "https://creativecommons.org/licenses/by-nc-nd/4.0",
+    "cc-by-nc-nd",
+    "oa_status:gold"
+  ],
+  "url": "https://doi.org/10.1038/s41467-025-67757-7"
+}

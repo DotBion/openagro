@@ -1,0 +1,23 @@
+{
+  "provider": "crossref",
+  "doi": "10.1111/nph.70253",
+  "title": "From glomalin to glomalose: unraveling the molecular identity of the <scp>MAb32B11</scp> antigen",
+  "abstract": "Glomalin, a substance produced by arbuscular mycorrhizal (AM) fungi, has well‐documented benefits for plant and soil health, including water retention and soil aggregation. Glomalin quantification has been performed by enzyme‐linked immunosorbent assay (ELISA) using a monoclonal antibody, MAb32B11, that has been described as targeting a heat shock protein 60 ( Ri HSP60). In this study, we re‐examined the molecular nature of the antigen recognized by MAb32B11. MAb32B11 did not cross‐react with the Ri HSP60 polypeptide. Glomalin extracts of Rhizophagus irregularis showed strong and dose‐dependent cross‐reactivity with MAb32B11 even when protein levels were undetectable, raising doubts about the proteinaceous nature of the antigen. Protease treatments of glomalin extracts did not affect the ELISA signal. However, treatment with periodate, which degrades polysaccharides, significantly reduced the signal. A strong correlation between carbohydrate content and the ELISA signal was observed in glomalin extracts. These findings indicate that MAb32B11 recognizes a carbohydrate, likely originating from cell walls of AM fungi. Further analysis of glomalin extracts using size exclusion chromatography suggests that the epitope of MAb32B11 is a complex carbohydrate in the size range of 511–600 kDa. Understanding the true nature of glomalin will enhance our ability to quantify it accurately and leverage its agricultural benefits.",
+  "authors": [
+    "Burcu Alptekin",
+    "Hayley Hirsch",
+    "Bailey Kleven",
+    "Lauren King",
+    "Caitlin McLimans",
+    "Dierdra Daniels",
+    "Thomas Irving",
+    "Daniela Floss",
+    "Jean‐Michel Ané"
+  ],
+  "year": 2025,
+  "container": "New Phytologist",
+  "licenses": [
+    "http://creativecommons.org/licenses/by/4.0/"
+  ],
+  "url": "https://doi.org/10.1111/nph.70253"
+}

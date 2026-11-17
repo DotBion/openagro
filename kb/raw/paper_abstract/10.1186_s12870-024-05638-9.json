@@ -1,0 +1,19 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1186/s12870-024-05638-9",
+  "title": "Inoculation with arbuscular mycorrhizal fungi improves plant biomass and nitrogen and phosphorus nutrients: a meta-analysis",
+  "abstract": "Arbuscular mycorrhizal fungi (AMF) have profound effects on plant growth and nitrogen (N) and phosphorus (P) nutrition. However, a comprehensive evaluation of how plant N and P respond to AMF inoculation is still unavailable. Here, we complied data from 187 original researches and carried out a meta-analysis to assess the effects of AMF inoculation on plant growth and N and P nutrition. We observe overall positive effects of AMF inoculation on plant performance. The mean increases of plant biomass, N concentration, P concentration, N and P uptake of whole plant are 47%, 16%, 27%, 67%, and 105%, respectively. AMF inoculation induces more increases in plant concentrations and storage of P than N. Plant responses to AMF inoculation are substantially higher with single AMF species than with mixed AMF species, in laboratory experiments than in field experiments, and in legumes than in non-legumes. The response ratios of plant N and P nutrition are positively correlated with AMF colonization rate, N addition, P addition, and water condition, while unvaried with experiment duration. The biggest and smallest effect sizes of AMF inoculation on plant performance are observed in the application of nitrate and ammonium, respectively. Accordingly, this meta-analysis study clearly suggests that AMF inoculation improves both plant N and P nutrients and systematically clarifies the variation patterns in AMF effects with various biotic and abiotic factors. These findings highlight the important role of AMF inoculation in enhancing plant N and P resource acquisitions and provide useful references for evaluating the AMF functions under the future global changes.",
+  "authors": [
+    "Yingjie Wu",
+    "Chongjuan Chen",
+    "Guoan Wang"
+  ],
+  "year": 2024,
+  "container": "BMC Plant Biology",
+  "licenses": [
+    "https://creativecommons.org/licenses/by-nc-nd/4.0",
+    "cc-by-nc-nd",
+    "oa_status:gold"
+  ],
+  "url": "https://doi.org/10.1186/s12870-024-05638-9"
+}

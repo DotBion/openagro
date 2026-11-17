@@ -1,0 +1,16 @@
+{
+  "provider": "crossref",
+  "doi": "10.1007/s00374-021-01613-w",
+  "title": "Phospholipid fatty acids in soil—drawbacks and future prospects",
+  "abstract": "The current opinion and position paper highlights (1) correct assignation of indicator phospholipid fatty acids (PLFA), (2) specificity and recycling of PLFA in microorganisms, and (3) complete extraction and detection of PLFA. The straight-chain PLFA 14:0, 15:0, 16:0, and 17:0 occur in all microorganisms, i.e., also in fungi and not only in bacteria. If the phylum Actinobacteria is excluded from the group of Gram-positive bacteria, all remaining bacteria belong to the bacterial phylum Firmicutes, which should be considered. The PLFA 16:1ω5 should be used as an indicator for the biomass of arbuscular mycorrhizal fungi (AMF) as there is no experimental evidence that they occur in marked amounts in Gram-negative bacteria. Fungal PLFA should embrace the AMF-specific 16:1ω5. In the presence of plants, ergosterol should be used instead of the PLFA 18:2ω6,9 and 18:1ω9 as fungal indicators for Mucoromycotina, Ascomycota, and Basidiomycota. The majority of indicator PLFA are not fully specific for a certain microbial group. This problem might be intensified by recycling processes during decomposition to an unknown extent. Soil handling and extraction conditions should be further optimized. The reliability and accuracy of gas chromatographic separation need to be regularly checked against unintentional variations. PLFA analysis will still be of interest over the next decades as an important independent control of DNA-based methods.",
+  "authors": [
+    "Rainer Georg Joergensen"
+  ],
+  "year": 2022,
+  "container": "Biology and Fertility of Soils",
+  "licenses": [
+    "https://creativecommons.org/licenses/by/4.0",
+    "https://creativecommons.org/licenses/by/4.0"
+  ],
+  "url": "https://doi.org/10.1007/s00374-021-01613-w"
+}

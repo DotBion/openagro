@@ -1,0 +1,30 @@
+{
+  "provider": "crossref",
+  "doi": "10.1093/clinchem/hvaf043",
+  "title": "MIQE 2.0: Revision of the Minimum Information for Publication of Quantitative Real-Time PCR Experiments Guidelines",
+  "abstract": "In 2009, the Minimum Information for Publication of Quantitative Real-Time PCR Experiments (MIQE) guidelines established standards for the design, execution, and reporting of quantitative PCR (qPCR) in research. The expansion of qPCR into numerous new domains has driven the development of new reagents, methods, consumables, and instruments, requiring revisions to best practices that are tailored to the evolving complexities of contemporary qPCR applications. Transparent, clear, and comprehensive description and reporting of all experimental details are necessary to ensure the repeatability and reproducibility of qPCR results. These revised MIQE guidelines reflect recent advances in qPCR technology, offering clear recommendations for sample handling, assay design, and validation, along with guidance on qPCR data analysis. Instrument manufacturers are encouraged to enable the export of raw data to facilitate thorough analyses and re-evaluation by manuscript reviewers and interested researchers. The guidelines emphasize that quantification cycle (Cq) values should be converted into efficiency-corrected target quantities and reported with prediction intervals, along with detection limits and dynamic ranges for each target, based on the chosen quantification method. Additionally, best practices for normalization and quality control are outlined and reporting requirements have been clarified and streamlined. The aim is to encourage researchers to provide all necessary information without undue burden, thereby promoting more rigorous and reproducible qPCR research. Building on the collaborative efforts of an international team of researchers, we present updates, simplifications, and new recommendations to the original MIQE guidelines, designed to maintain their relevance and applicability in the context of emerging technologies and evolving qPCR applications.",
+  "authors": [
+    "Stephen A Bustin",
+    "Jan M Ruijter",
+    "Maurice J B van den Hoff",
+    "Mikael Kubista",
+    "Michael W Pfaffl",
+    "Gregory L Shipley",
+    "Nham Tran",
+    "Stefan Rödiger",
+    "Andreas Untergasser",
+    "Reinhold Mueller",
+    "Tania Nolan",
+    "Mojca Milavec",
+    "Malcolm J Burns",
+    "Jim F Huggett",
+    "Jo Vandesompele",
+    "Carl T Wittwer"
+  ],
+  "year": 2025,
+  "container": "Clinical Chemistry",
+  "licenses": [
+    "https://academic.oup.com/pages/standard-publication-reuse-rights"
+  ],
+  "url": "https://doi.org/10.1093/clinchem/hvaf043"
+}

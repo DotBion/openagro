@@ -1,0 +1,18 @@
+{
+  "provider": "crossref",
+  "doi": "10.1007/s13593-022-00760-0",
+  "title": "Cover crop legacy impacts on soil water and nitrogen dynamics, and on subsequent crop yields in drylands: a meta-analysis",
+  "abstract": "Cover crops can provide a wide range of ecosystem services including soil water conservation, improved soil nutrient supply and retention, and enhanced crop yields. However, achieving these services in dryland cropping systems can be highly challenging, and cover crops may carry a greater risk of causing ecosystem disservices. Assessment of the balance of ecosystem services vs disservices is critical for understanding the potential role of cover crops within dryland cropping systems. The objective of this meta-analysis was to assess the effects of cover cropping in drylands on soil water and soil mineral nitrogen content at sowing of subsequent cash crops and their yields compared to control fallows. A total of 38 articles were examined, for a total of 1006 cash crop yield, 539 soil water, and 516 soil mineral nitrogen independent studies, spanning the period 1994–2021. On average, cover cropping reduced cash crop yield by 7%, soil water content by 18%, and soil mineral nitrogen by 25%, with significant variation across climates, soil types, and crop management conditions. Subsequent cash crop yields changed by +15, +4, −12, and −11% following cover crops in tropical, continental, dry, and temperate dryland climates, respectively. The most significant yield benefits were proportionate to soil water content and soil mineral nitrogen at the time of cash crop sowing. This is the first meta-analysis to demonstrate that minimum annual precipitation of ~700 mm represents a “break-even” point to realize significant cash crop yield benefits of cover cropping compared to control fallows in dryland environments. The successful incorporation of cover crops into dryland cropping systems requires careful planning based on context-specific biophysical conditions to minimize trade-offs between ecosystem services and disservices.",
+  "authors": [
+    "Ismail I. Garba",
+    "Lindsay W. Bell",
+    "Alwyn Williams"
+  ],
+  "year": 2022,
+  "container": "Agronomy for Sustainable Development",
+  "licenses": [
+    "https://creativecommons.org/licenses/by/4.0",
+    "https://creativecommons.org/licenses/by/4.0"
+  ],
+  "url": "https://doi.org/10.1007/s13593-022-00760-0"
+}

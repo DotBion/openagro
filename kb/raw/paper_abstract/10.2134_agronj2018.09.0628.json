@@ -1,0 +1,18 @@
+{
+  "provider": "crossref",
+  "doi": "10.2134/agronj2018.09.0628",
+  "title": "Phospholipid Fatty Acid Profiles of Soils under Variable Handling and Storage Conditions",
+  "abstract": "Sample handling had profound and disproportionate effects on PLFA biomarkers. Gram positive and actinobacteria were not significantly affected by storage. Gram negative and fungal biomarkers were dramatically affected by storage. PLFA ratios significantly changed as a result of sample handling and storage. Interpretation of PLFA profiles is highly sensitive to sample handling. Phospholipid fatty acid (PLFA) analysis is an increasingly popular method for estimating microbial biomass and assessing microbial community structure in soils. In particular, there is a strong interest in the use of PLFA microbial group ratios as benchmarks for soil health assessment and interpretation. Due to the sensitivity of PLFA biomarkers, the recommended procedure for sample handling involves immediate analysis of fresh, field‐moist soil, immediate lyophilization with freezer storage, or storage at –80°C. This protocol may not be practical under all circumstances, yet the effects of handling and storage conditions, and the implications for interpretation of PLFA biomarkers, are not fully understood. The primary objective of this study was to evaluate the effects of multiple sample handling and storage conditions on quantification and interpretation of PLFA biomarkers. A suite of soil properties were measured on 17 prairie soil samples, including PLFA analysis. Multiple processing and handling procedures were evaluated by splitting the soil samples and comparing PLFA profiles from (i) fresh soil, (ii) soil stored air‐dry for 7 and 14 d, (iii) soil stored field‐moist at room temperature for 7 and 14 d, and (iv) soil oven‐dried for 24 h at 105°C. All handling and storage procedures resulted in significant losses of PLFA biomarkers relative to fresh, lyophilized samples and microbial groups were disproportionately affected, leading to significant shifts in biomarker ratios. Overall, this study highlights the sensitivity of PLFA biomarkers, the importance of proper sample handling for PLFA analysis, and the potential for error and misinterpretation of PLFA data.",
+  "authors": [
+    "Kristen S. Veum",
+    "Todd Lorenz",
+    "Robert J. Kremer"
+  ],
+  "year": 2019,
+  "container": "Agronomy Journal",
+  "licenses": [
+    "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+  ],
+  "url": "https://doi.org/10.2134/agronj2018.09.0628"
+}

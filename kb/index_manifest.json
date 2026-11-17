@@ -1,0 +1,104 @@
+{
+  "chunk_version": "v2",
+  "embedding_model": "BAAI/bge-m3",
+  "tokenizer": "BAAI/bge-m3",
+  "tokenizer_class": "XLMRobertaTokenizer",
+  "expected_dim": 1024,
+  "token_count_method": "AutoTokenizer.from_pretrained('BAAI/bge-m3').encode(text, add_special_tokens=False)",
+  "created_at": "2026-11-17T10:20:31-05:00",
+  "today_for_expired_flag": "2026-11-17",
+  "source_file": "/workspace/openagronomy/kb/kb.jsonl",
+  "chunks_file": "/workspace/openagronomy/kb/chunks_v2.jsonl",
+  "n_parents": 652,
+  "n_chunks": 1838,
+  "rules": {
+    "she_qa": "Keep the whole question+answer unless over ~1000 bge-m3 tokens; then split at markdown sections and repeat a short doc header.",
+    "she_funding": "Keep the whole program page (structured fields + eligibility) unless over ~1000 tokens; then split at sections with header repeated. deadline_iso is parsed only when a single close date is clearly stated; expired is versus 2026-11-17; as_of is last_verified in ISO form.",
+    "she_journal": "Heading-aware windows of 350-500 tokens with ~15% token overlap.",
+    "paper_abstract": "Exactly one chunk per abstract, even if outside the 350-500 window. abstract_only=true, trust_tier=4.",
+    "farmdeck_product": "Heading-aware windows of 350-500 tokens, no overlap. trust_tier=5.",
+    "trust_tiers": {
+      "1": "expert Q&A",
+      "2": "peer-reviewed full source (none in this corpus; abstracts are tier 4)",
+      "3": "SHE Journal article",
+      "4": "abstract-only paper",
+      "5": "FarmDeck product/commercial",
+      "program_page": "SHE funding program page"
+    },
+    "embed_text": "Contextual header (title + section path, source type, state/coverage if known, as-of for funding) followed by the chunk text. Raw text is stored separately in 'text'."
+  },
+  "stats_overall": {
+    "count": 1838,
+    "parents": 652,
+    "token_min": 117,
+    "token_median": 462,
+    "token_max": 1668,
+    "token_avg": 460.0,
+    "below_350": 394,
+    "in_350_500": 753,
+    "above_500": 691,
+    "above_1000": 5
+  },
+  "stats_by_source": {
+    "she_qa": {
+      "count": 87,
+      "parents": 33,
+      "token_min": 395,
+      "token_median": 743,
+      "token_max": 991,
+      "token_avg": 724.9,
+      "below_350": 0,
+      "in_350_500": 11,
+      "above_500": 76,
+      "above_1000": 0
+    },
+    "she_journal": {
+      "count": 1045,
+      "parents": 76,
+      "token_min": 117,
+      "token_median": 446,
+      "token_max": 620,
+      "token_avg": 434.4,
+      "below_350": 213,
+      "in_350_500": 494,
+      "above_500": 338,
+      "above_1000": 0
+    },
+    "she_funding": {
+      "count": 206,
+      "parents": 206,
+      "token_min": 171,
+      "token_median": 343,
+      "token_max": 705,
+      "token_avg": 357.2,
+      "below_350": 108,
+      "in_350_500": 87,
+      "above_500": 11,
+      "above_1000": 0
+    },
+    "farmdeck_product": {
+      "count": 220,
+      "parents": 57,
+      "token_min": 125,
+      "token_median": 438,
+      "token_max": 589,
+      "token_avg": 409.3,
+      "below_350": 64,
+      "in_350_500": 106,
+      "above_500": 50,
+      "above_1000": 0
+    },
+    "paper_abstract": {
+      "count": 280,
+      "parents": 280,
+      "token_min": 182,
+      "token_median": 582,
+      "token_max": 1668,
+      "token_avg": 588.8,
+      "below_350": 9,
+      "in_350_500": 55,
+      "above_500": 216,
+      "above_1000": 5
+    }
+  }
+}

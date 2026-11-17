@@ -1,0 +1,28 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1093/femsre/fuy006",
+  "title": "Soil protists: a fertile frontier in soil biology research",
+  "abstract": "Protists include all eukaryotes except plants, fungi and animals. They are an essential, yet often forgotten, component of the soil microbiome. Method developments have now furthered our understanding of the real taxonomic and functional diversity of soil protists. They occupy key roles in microbial foodwebs as consumers of bacteria, fungi and other small eukaryotes. As parasites of plants, animals and even of larger protists, they regulate populations and shape communities. Pathogenic forms play a major role in public health issues as human parasites, or act as agricultural pests. Predatory soil protists release nutrients enhancing plant growth. Soil protists are of key importance for our understanding of eukaryotic evolution and microbial biogeography. Soil protists are also useful in applied research as bioindicators of soil quality, as models in ecotoxicology and as potential biofertilizers and biocontrol agents. In this review, we provide an overview of the enormous morphological, taxonomical and functional diversity of soil protists, and discuss current challenges and opportunities in soil protistology. Research in soil biology would clearly benefit from incorporating more protistology alongside the study of bacteria, fungi and animals.",
+  "authors": [
+    "Stefan Geisen",
+    "Edward A D Mitchell",
+    "Sina Adl",
+    "Michael Bonkowski",
+    "Micah Dunthorn",
+    "Flemming Ekelund",
+    "Leonardo D Fernández",
+    "Alexandre Jousset",
+    "Valentyna Krashevska",
+    "David Singer",
+    "Frederick W Spiegel",
+    "Julia Walochnik",
+    "Enrique Lara"
+  ],
+  "year": 2018,
+  "container": "FEMS Microbiology Reviews",
+  "licenses": [
+    "http://academic.oup.com/journals/pages/about_us/legal/notices",
+    "oa_status:green"
+  ],
+  "url": "https://doi.org/10.1093/femsre/fuy006"
+}

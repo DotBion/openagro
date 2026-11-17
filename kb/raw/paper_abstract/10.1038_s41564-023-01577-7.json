@@ -1,0 +1,24 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1038/s41564-023-01577-7",
+  "title": "Author Correction: Soil microbiome indicators can predict crop growth response to large-scale inoculation with arbuscular mycorrhizal fungi",
+  "abstract": "This article was originally published under a standard Springer Nature licence (© The Author(s), under exclusive licence to Springer Nature Limited). It is now available as an open-access paper under a Creative Commons Attribution 4.0 International licence, © The Author(s). The error has been corrected in the HTML and PDF versions of the article.",
+  "authors": [
+    "Stefanie Lutz",
+    "Natacha Bodenhausen",
+    "Julia Hess",
+    "Alain Valzano-Held",
+    "Jan Waelchli",
+    "Gabriel Deslandes-Hérold",
+    "Klaus Schlaeppi",
+    "Marcel G. A. van der Heijden"
+  ],
+  "year": 2023,
+  "container": "Nature Microbiology",
+  "licenses": [
+    "https://creativecommons.org/licenses/by/4.0",
+    "cc-by",
+    "oa_status:hybrid"
+  ],
+  "url": "https://doi.org/10.1038/s41564-023-01577-7"
+}

@@ -1,0 +1,18 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1016/j.micres.2013.09.009",
+  "title": "Bacteria with ACC deaminase can promote plant growth and help to feed the world",
+  "abstract": "To feed all of the world's people, it is necessary to sustainably increase agricultural productivity. One way to do this is through the increased use of plant growth-promoting bacteria; recently, scientists have developed a more profound understanding of the mechanisms employed by these bacteria to facilitate plant growth. Here, it is argued that the ability of plant growth-promoting bacteria that produce 1-aminocyclopropane-1-carboxylate (ACC) deaminase to lower plant ethylene levels, often a result of various stresses, is a key component in the efficacious functioning of these bacteria. The optimal functioning of these bacteria includes the synergistic interaction between ACC deaminase and both plant and bacterial auxin, indole-3-acetic acid (IAA). These bacteria not only directly promote plant growth, they also protect plants against flooding, drought, salt, flower wilting, metals, organic contaminants, and both bacterial and fungal pathogens. While a considerable amount of both basic and applied work remains to be done before ACC deaminase-producing plant growth-promoting bacteria become a mainstay of plant agriculture, the evidence indicates that with the expected shift from chemicals to soil bacteria, the world is on the verge of a major paradigm shift in plant agriculture.",
+  "authors": [
+    "Bernard R. Glick"
+  ],
+  "year": 2014,
+  "container": "Microbiological Research",
+  "licenses": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/open-access/userlicense/1.0/",
+    "cc-by",
+    "oa_status:hybrid"
+  ],
+  "url": "https://doi.org/10.1016/j.micres.2013.09.009"
+}

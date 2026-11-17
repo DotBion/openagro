@@ -1,0 +1,17 @@
+{
+  "provider": "crossref",
+  "doi": "10.1017/s174217050800224x",
+  "title": "Soil CO<sub>2</sub> respiration: Comparison of chemical titration, CO<sub>2</sub> IRGA analysis and the Solvita gel system",
+  "abstract": "The measurement of soil carbon dioxide respiration is a means to gauge biological soil fertility. Test methods for respiration employed in the laboratory vary somewhat, and to date the equipment and labor required have somewhat limited more widespread adoption of such methodologies. The purpose of this research is to compare the results of measured soil CO 2 respiration using three methods: (1) titration method; (2) infrared gas analysis (IRGA); and (3) the Solvita gel system for soil CO 2 analysis. We acquired 36 soil samples from across the USA for comparison, which ranged in pH from 4.5 to 8.5, organic C from 0.8 to 4.6% and the clay content from 6 to 62%. All three methods were highly correlated with each other after 24-h of incubation (titration and Solvita r 2 =0.82, respirometer and Solvita r 2 =0.79 and titration versus respirometer r 2 =0.95). The 24-h (1-day) CO 2 release from all three methods was also highly correlated to both basal soil respiration (7–28 days) and cumulative 28-day CO 2 respiration. An additional 24 soil samples were acquired and added to the original 36, for a total of 60 soil samples. These samples were used for calibration of the Solvita gel digital color reader results using CO 2 -titration results and regression analysis. Regression analysis resulted in the equation y =20.6∗(Solvita number)−16.5 with an r 2 of 0.83. The data suggest that the Solvita gel system for soil CO 2 analysis could be a simple and easily used method to quantify soil microbial activity. Applications may also exist for the gel system for in situ measurements in surface gas chambers. Once standardized soil sampling and laboratory analysis protocols are established, the Solvita method could be easily adapted to commercial soil testing labs as an index of soil microbial activity.",
+  "authors": [
+    "R.L. Haney",
+    "W.F. Brinton",
+    "E. Evans"
+  ],
+  "year": 2008,
+  "container": "Renewable Agriculture and Food Systems",
+  "licenses": [
+    "https://www.cambridge.org/core/terms"
+  ],
+  "url": "https://doi.org/10.1017/s174217050800224x"
+}

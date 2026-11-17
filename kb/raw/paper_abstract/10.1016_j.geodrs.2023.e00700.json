@@ -1,0 +1,30 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1016/j.geodrs.2023.e00700",
+  "title": "Long-term cover crops and no-tillage in Entisol increase enzyme activity and carbon stock and enable the system fertilization in southern Brazil",
+  "abstract": "The use of cover crops and the adoption of no-tillage are essential conservation practices to increase carbon (C) and nitrogen (N) stocks and increase soil microbial activity . However, in lowland areas cultivated with irrigated rice , there is a large gap on the effects of no-tillage with long-term cover crops on soil attributes, crop responses and the effect of the system fertilization. The aim of this work was to evaluate the long-term adoption of cover crops and no-tillage on soil microbial activity , soil organic carbon (SOC) stock and on the response of irrigated rice to system fertilization. Treatments consisted of fallow-conventional, fallow-no tillage, annual ryegrass , Oat, Ornithphus micranthus and Lotus cornicultaus . In the sub-plots, system and conventional fertilization per crop were compared. The experiment was conducted in southern Brazil in an Entisol and started in the 1996/97 crop season. Cover crops associated with the use of no-tillage increases basal respiration (+ 31%) of the soil, β-glucosidase activity (+ 259%), SOC and N stocks. Urease activity increased by an average of 41% in no-tillage under cover crops compared to the conventional system under fallow, with the exception of ryegrass . System fertilization promoted higher dry matter production (+ 130%) in grasses and a lower increase (+ 23%) in winter legumes. The use of long-term no-tillage and cover crops promoted higher rice productivity (+ 9%). In this way, the association of cover crops and no-tillage increases C and N stocks and the biological activity of the soil under long-term continuous irrigated rice cultivation.",
+  "authors": [
+    "Filipe Selau Carlos",
+    "Rogério Oliveira de Sousa",
+    "Rafael Nunes",
+    "Felipe de Campos Carmona",
+    "Tiago Cereza",
+    "Cristiano Weinert",
+    "Ezequiel Helbig Pasa",
+    "Cimélio Bayer",
+    "Flávio Anastácio de Oliveira Camargo"
+  ],
+  "year": 2023,
+  "container": "Geoderma Regional",
+  "licenses": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "https://doi.org/10.15223/policy-017",
+    "https://doi.org/10.15223/policy-037",
+    "https://doi.org/10.15223/policy-012",
+    "https://doi.org/10.15223/policy-029",
+    "https://doi.org/10.15223/policy-004",
+    "oa_status:green"
+  ],
+  "url": "https://doi.org/10.1016/j.geodrs.2023.e00700"
+}

@@ -1,0 +1,25 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1371/journal.pone.0160974",
+  "title": "Soil Water Holding Capacity Mitigates Downside Risk and Volatility in US Rainfed Maize: Time to Invest in Soil Organic Matter?",
+  "abstract": "Yield stability is fundamental to global food security in the face of climate change, and better strategies are needed for buffering crop yields against increased weather variability. Regional- scale analyses of yield stability can support robust inferences about buffering strategies for widely-grown staple crops, but have not been accomplished. We present a novel analytical approach, synthesizing 2000-2014 data on weather and soil factors to quantify their impact on county-level maize yield stability in four US states that vary widely in these factors (Illinois, Michigan, Minnesota and Pennsylvania). Yield stability is quantified as both 'downside risk' (minimum yield potential, MYP) and 'volatility' (temporal yield variability). We show that excessive heat and drought decreased mean yields and yield stability, while higher precipitation increased stability. Soil water holding capacity strongly affected yield volatility in all four states, either directly (Minnesota and Pennsylvania) or indirectly, via its effects on MYP (Illinois and Michigan). We infer that factors contributing to soil water holding capacity can help buffer maize yields against variable weather. Given that soil water holding capacity responds (within limits) to agronomic management, our analysis highlights broadly relevant management strategies for buffering crop yields against climate variability, and informs region-specific strategies.",
+  "authors": [
+    "Alwyn Williams",
+    "Mitchell C. Hunter",
+    "Melanie Kammerer",
+    "Daniel A. Kane",
+    "Nicholas R. Jordan",
+    "David A. Mortensen",
+    "Richard G. Smith",
+    "Sieglinde Snapp",
+    "Adam S. Davis"
+  ],
+  "year": 2016,
+  "container": "PLOS ONE",
+  "licenses": [
+    "https://creativecommons.org/publicdomain/zero/1.0/",
+    "public-domain",
+    "oa_status:gold"
+  ],
+  "url": "https://doi.org/10.1371/journal.pone.0160974"
+}

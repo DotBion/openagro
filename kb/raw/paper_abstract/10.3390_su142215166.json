@@ -1,0 +1,20 @@
+{
+  "provider": "crossref",
+  "doi": "10.3390/su142215166",
+  "title": "Manure Application Is the Key to Improving Soil Quality of New Terraces",
+  "abstract": "Building level terraces is a crucial strategy for agriculture development in mountainous areas. There have been many studies on improving the soil quality of terraces, but the main factors involved are still unclear. We conducted an 18-year long-term experiment on a newly built terrace with four fertilization treatments: applied mineral nitrogen and phosphorus fertilizer (NP), applied sheep manure (M), applied sheep manure combined with mineral nitrogen and phosphorus fertilizer (MNP), and an unfertilized control (CK). A soil quality index (SQI) was used to evaluate the dynamic evolution of soil quality in the terrace for these fertilization treatments, and the relationship between soil quality and crop yield was investigated. A total data set (TDS) and a minimum data set (MDS) were used to calculate the SQIs according to the linear scoring method and the nonlinear scoring method of soil indicators, respectively. The results showed that the SQI for all treatments increased over time, and both the SQI and crop yield were significantly increased by fertilization treatments. The SQI of all three fertilized treatments in the sixth rotation cycle increased by 38–313% compared to the control in the first rotation cycle (3 years). There was no significant difference in the SQI between the M and MNP, but it was significantly higher than for both the NP and CK. During the 18 year experimental period, the SQI for the M and MNP treatments showed an upward trend, while it tended to be stable after initially increasing for the NP and CK treatments. For each treatment, the SQI calculated by the linear and nonlinear scoring methods using the MDS and TDS were all significantly positively correlated, and were also significantly positively correlated with crop yield. Overall, the soil quality in the terrace was increased by fertilization; however, the application of manure was the key to a rapid increase in soil quality, and the SQI measurements demonstrated a clear link between the soil quality of the terrace and crop yield.",
+  "authors": [
+    "Xiaopeng Shi",
+    "Xin Song",
+    "Guibin Zhao",
+    "Qifeng Yang",
+    "Lynette K. Abbott",
+    "Fengmin Li"
+  ],
+  "year": 2022,
+  "container": "Sustainability",
+  "licenses": [
+    "https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "url": "https://doi.org/10.3390/su142215166"
+}

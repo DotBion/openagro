@@ -1,0 +1,18 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1038/s44264-026-00155-8",
+  "title": "Additionality constrains investment in carbon sequestration",
+  "abstract": "Additionality is a structural constraint that only recognizes land-based carbon sequestration if it would not have occurred without carbon payments. This discourages large-scale investment because it removes a significant portion of the potential carbon storage asset. Here, we examine the effects of replacing the additionality requirement with a carbon asset class that rewards carbon accumulation from carbon amendments on soil organic carbon (SOC) sequestration on cropland. We construct and calibrate an economic model focused on crop and carbon farming in Texas. Our results indicate that eliminating the additionality constraint and monetizing the SOC pool can significantly increase investment in land management practices. Under a carbon offset price of $150 per Mg of CO₂ with the additionality constraint in place, oilseed and grain, and vegetable and melon farmers do not sequester any additional carbon by 2050. However, when additionality is replaced with a carbon asset class, and farmers receive annuity payments based on their existing carbon stocks, they sequester an additional 26.92 and 30.05 Mg of carbon per hectare by 2050, a 271.9% and 303.5% increase relative to the original carbon pool. The historically accumulated carbon becomes a source of revenue that incentivizes new investment.",
+  "authors": [
+    "Stan Kannegieter",
+    "Kenneth B. Medlock"
+  ],
+  "year": 2026,
+  "container": "npj Sustainable Agriculture",
+  "licenses": [
+    "https://creativecommons.org/licenses/by-nc-nd/4.0",
+    "cc-by-nc-nd",
+    "oa_status:gold"
+  ],
+  "url": "https://doi.org/10.1038/s44264-026-00155-8"
+}

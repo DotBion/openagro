@@ -1,0 +1,19 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1371/journal.pone.0219847",
+  "title": "Does diversifying crop rotations suppress weeds? A meta-analysis",
+  "abstract": "Over the past half-century, crop rotations have become increasingly simplified, with whole regions producing only one or two crops in succession. Simplification is problematic from a weed management perspective, because it results in weeds' repeated exposure to the same set of ecological and agronomic conditions. This can exacerbate weed infestations and promote the evolution of herbicide resistance. Diversifying crop rotations through addition of crop species and their associated managements may suppress weeds and reduce selection pressure for herbicide resistance by altering stress and mortality factors affecting weed dynamics. Here we report the results of a meta-analysis using 298 paired observations from 54 studies across six continents to compare weed responses due to simple and more diverse crop rotations. We found diversifying from simple rotations reduced weed density (49%), but did not have a significant effect on weed biomass. We investigated the effect of management practices, environmental factors, and rotation design on this effect. Diversification that increased the variance around crop planting dates was more effective in suppressing weeds than increasing crop species richness alone. Increasing rotational diversity reduced weed density more under zero-tillage conditions (65%) than tilled conditions (41%), and did so regardless of environmental context and auxiliary herbicide use. Our findings highlight the value of diversifying crop rotations to control weed populations, and support its efficacy under varied environmental conditions and management scenarios.",
+  "authors": [
+    "David Weisberger",
+    "Virginia Nichols",
+    "Matt Liebman"
+  ],
+  "year": 2019,
+  "container": "PLOS ONE",
+  "licenses": [
+    "http://creativecommons.org/licenses/by/4.0/",
+    "cc-by",
+    "oa_status:gold"
+  ],
+  "url": "https://doi.org/10.1371/journal.pone.0219847"
+}

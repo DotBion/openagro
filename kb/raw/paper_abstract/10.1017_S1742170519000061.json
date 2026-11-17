@@ -1,0 +1,19 @@
+{
+  "provider": "crossref",
+  "doi": "10.1017/s1742170519000061",
+  "title": "Cover crop species affect mycorrhizae-mediated nutrient uptake and pest resistance in maize",
+  "abstract": "Arbuscular mycorrhizal fungi (AMF) can increase plant nutrient uptake and chemical defense production, both of which can improve plants’ ability to resist insect herbivory. Cover crops—non-commercial species planted in between cash crops in a crop rotation—can naturally alter both soil nutrients and AMF. We tested whether different cover crop species alter AMF colonization, plant nutrient status and plant–insect interactions in a subsequent maize crop. Cover crop species were either non-mycorrhizal, non-leguminous (canola, forage radish), mycorrhizal non-leguminous (cereal rye, oats), mycorrhizal leguminous (clover, pea) or absent (fallow). We measured the cascading consequences of cover crop treatment on maize root AMF colonization, maize growth and performance of an herbivorous insect (European corn borer) feeding on the maize. Maize AMF colonization was greater in plots previously planted with mycorrhizal (rye, oats) than non-mycorrhizal (canola, radish) cover crops or no cover crop (fallow). AMF colonization was linked to increased plant phosphorous and nitrogen, and maize growth increased with low plant N:P. Induced jasmonic acid pathway plant defenses increased with increasing maize growth and AMF colonization. European corn borer survivorship decreased with lower plant N:P, and insect development rate decreased with increased induced plant defenses. Our data describe a cascade in which cover crop species selection can increase or decrease mycorrhizal colonization of subsequent maize crop roots, which in turn impacts phosphorus uptake and may affect herbivory resistance in the maize. These results suggest that farmers could select cover crop species to manage nutrient uptake and pest resistance, in order to amend or limit fertilizer and pesticide use.",
+  "authors": [
+    "Ebony G. Murrell",
+    "Swayamjit Ray",
+    "Mary E. Lemmon",
+    "Dawn S. Luthe",
+    "Jason P. Kaye"
+  ],
+  "year": 2020,
+  "container": "Renewable Agriculture and Food Systems",
+  "licenses": [
+    "https://www.cambridge.org/core/terms"
+  ],
+  "url": "https://doi.org/10.1017/s1742170519000061"
+}

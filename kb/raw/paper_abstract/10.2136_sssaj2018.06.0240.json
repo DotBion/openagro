@@ -1,0 +1,18 @@
+{
+  "provider": "crossref",
+  "doi": "10.2136/sssaj2018.06.0240",
+  "title": "Comparing Biological and Conventional Chemical Soil Tests in Long‐Term Tillage, Rotation, N Rate Field Study",
+  "abstract": "Haney N and P tests were correlated with conventional soil NO 3 –N and Mehlich III P. Corn and soybean yields were generally not correlated with soil health indicators. Haney and conventional soil test methods had similar laboratory precision as determined by sensitivity ratio analysis. Haney Soil Health Tests generated additional information, particularly about organic C and N fractions, that is not available from conventional chemical soil tests. The Haney Soil Health Tool is a suite of tests integrating chemical and biological factors to provide a sophisticated analysis of soil nutrient availability. This research was conducted to determine if Haney tests (including H 3 A and water extracts, Solvita 24‐h CO 2 evolution, and Soil Health Calculation [SHC]) can add value to conventional chemical soil testing methods and increase knowledge of the effects of tillage systems, crop rotation, and N rate on soil health and corn grain yield. We studied rainfed continuous corn ( Zea mays L.) and corn following soybean [ Glycine max (L.) Merr.] under three tillage systems and three N rates in a long‐term field experiment in northeast Nebraska. The H 3 A ammonium, H 3 A inorganic N, and water‐extractable total N tests detected more differences (significant F tests for main effects and interactions involving all treatments) than conventional NO 3 –N analysis (which detected the interaction of rotation × N rate). Water‐extractable organic C detected more differences than LOI. There was a three‐way interaction of tillage × rotation × N rate for Solvita and SHC; high N and intensive tillage mostly corresponded to low Solvita and SHC values. We did not expect the treatments to affect P or K directly, but the tillage × rotation interaction was significant for Mehlich III P, tillage for H 3 A organic P, and N rate for H 3 A inorganic and total P. Correlation analysis confirmed linear relationships between many Haney and conventional soil tests, and we concluded via sensitivity ratio calculations that the tests offered similar precision.",
+  "authors": [
+    "Christina M. Bavougian",
+    "Charles A. Shapiro",
+    "Zachary P. Stewart",
+    "Kent M. Eskridge"
+  ],
+  "year": 2019,
+  "container": "Soil Science Society of America Journal",
+  "licenses": [
+    "https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "url": "https://doi.org/10.2136/sssaj2018.06.0240"
+}

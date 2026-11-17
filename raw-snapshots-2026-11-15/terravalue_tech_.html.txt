@@ -1,0 +1,446 @@
+TerraValue — The ecosystem dividend for farmland
+Platform
+Pricing
+Atlas
+Perspectives
+Company
+45Z tool
+Workspace
+Open the workspace
+The ecosystem dividend, field by field
+Nature does 
+$
+125
+ trillion
+ of work a year. Almost none of it is paid for.
+A farm produces more than yield: cleaner water, stored carbon, water held in the soil, habitat, a steadier harvest. On a 
+tile-drained corn–soybean field
+ in the Corn Belt, buyers would pay about $
+66
+ an acre a year for that work, at prices already paid somewhere in the US. TerraValue measures it, prices it, connects the people who benefit, and exists to get the money to the farmer.
+See what a field is worth
+Tell us what your market needs
+$
+125
+ trillion is the value of all the world’s ecosystem services in 2011, in 2007 dollars (
+Costanza et al. 2014
+). $
+66
+ an acre is the
+working paper’s
+core bundle of cover crops, no-till and right-sized nitrogen. Both are estimates.
+Model output · one surveyed field
+York, Nebraska
+ · 
+Hord
+silt loam
+York County
+Sandhills
+Conventional
+Irrigated corn
+Reduced till + cover
+Regenerative
+TerraValue score
+72
+/ 100
++
+27
+ vs conventional
+Net benefit vs conventional
+$86
+per acre per year
+ Private
+$8
+ Programs
+$90
+ Costs
+−$12
+Six outcomes
+Soil carbon
++2.9 t CO₂e/ha
+83
+Water quality
+4.9 kg N/ha leached
+94
+Water quantity
+5 mm runoff
+74
+Biodiversity
+$64/ac, not counted
+62
+Yield resilience
+58% kept in a dry year
+67
+Economics
+$86/ac net
+48
+Reduced Till + Cover Crops
+.
+Reduced tillage with a grass cover crop
+, on the same soil, slope and climate as the conventional twin.
+Run your own field →
+USDA soil survey record and ERA5 climate 1991–2020 for one point. Estimates, not measurements.
+USDA SSURGO soil survey
+ERA5 climate, 1991–2020
+USDA NASS yields
+Iowa Nutrient Reduction Strategy
+IPCC 2019 guidelines
+FAO-56 and FAO-33
+Compared with a conventional twin on the same soil
+Estimates, not measurements
+Sources on every figure
+USDA SSURGO soil survey
+ERA5 climate, 1991–2020
+USDA NASS yields
+Iowa Nutrient Reduction Strategy
+IPCC 2019 guidelines
+FAO-56 and FAO-33
+Compared with a conventional twin on the same soil
+Estimates, not measurements
+Sources on every figure
+Six outcomes, one field
+What a field produces besides the crop.
+Most tools price one thing, usually carbon. One management change moves all six at once, so TerraValue evaluates them together and shows the source behind every figure.
+0
+1
+Soil carbon
+Carbon gained or lost in the top 30 cm, and the nitrous oxide avoided when less nitrogen is applied.
+Sequestration potential
+0.5–1.5
+t CO₂/ha/yr
+Global soil carbon stock
+2,500
+Gt C in top 2m
+Voluntary carbon price
+$5–50
+per tonne CO₂e
+US farmland carbon value
+$8B+
+potential/yr
+Sources: 
+IPCC, Lal 2004, Ecosystem Marketplace 2024
+0
+2
+Water quality
+Nitrate leaving the root zone, soil lost to erosion and phosphorus risk, against the conventional twin.
+Des Moines nitrate plant
+$16K
+per day at full capacity
+Nitrate cut, cereal rye cover
+15–45
+% decrease, 31% typical
+Nutrient credit price
+$2.50–13
+per lb N, traded and auctioned
+US clean water cost saved
+$4B+
+annual potential
+Sources: 
+Central Iowa Water Works, Iowa Nutrient Reduction Strategy, PENNVEST and Virginia nutrient trading, EPA
+0
+3
+Water quantity
+Rain captured, water pumped and what it costs, and how well the soil carries a crop through a dry spell.
+Ag share of freshwater use
+70
+% globally
+Soil water holding gain, silt loam
++3,400
+gal/acre per foot per 1% OM
+Pivot irrigation, York NE
+9.3
+inches pumped per year (modeled)
+Water trading market (2033)
+$23B
+projected
+Sources: 
+Soil Health Exchange 2026 (after Minasny & McBratney 2018), FAO, TerraValue field model, Zion Market Research
+0
+4
+Biodiversity
+Habitat, pollinators, soil life and species, from how the field is tilled, covered, rotated, sprayed and edged.
+Pollination service value
+$235–577B
+global/yr
+Species richness, organic farms
++30
+% vs conventional
+CRP habitat payment
+$145
+per habitat acre/yr, average
+Natural pest control, US
+$4.5B
+per year, by insects
+Sources: 
+IPBES 2016, Tuck et al. 2014, USDA FSA CRP, Losey & Vaughan 2006
+0
+5
+Yield resilience
+Attainable yield for the climate, what water and nitrogen cost it, and how much is kept in a dry year.
+Drought-year corn yield
++31
+% organic vs conventional, Rodale trial
+Dry-year yield kept, York NE
+46→58
+% with reduced till + cover (modeled)
+Soil health ROI timeline
+3–5
+years to break even
+Cover-crop insurance discount
+$5
+per acre (Iowa, Illinois)
+Sources: 
+Rodale Institute Farming Systems Trial, TerraValue field model, Iowa Dept. of Agriculture
+0
+6
+Farm economics
+Private savings, program and market money, and costs, each kept apart, per acre and per field.
+Nature finance needed by 2030
+$571B
+per year
+Private share of 2023 flows
+10
+% of $220B
+Land-sector credit market (2030)
+$26.4B
+projected
+Net benefit vs conventional, York NE
+$86–163
+per acre/yr (modeled)*
+Sources: 
+UNEP, The Business Research Company; *TerraValue field model, reduced till to regenerative
+Atlas
+Where the pressure is, county by county.
+Before any field is measured, public data already shows where soil has lost its carbon, where the nitrogen and the water go on, what a dry year takes from the crop, and where a farm’s money goes. The Atlas draws it for every county, with the source and the date on each layer.
+Open the Atlas
+See the sources
+Soil organic carbon lost to land use, top 30 cm
+t C/ha
+, modeled
+Land use of
+—
+Gained
+Lost
+Source: 
+Sanderman, Hengl & Fiske (2017), PNAS 114(36)
+Proof starts in the field
+Records and invoices prove the practice. Soil samples and wells check the outcome.
+How it works
+Same field, two ways. The difference is what your practices are worth.
+Every result is a comparison: the field as you farm it against the same soil, slope and climate under conventional tillage, no cover crop and synthetic nitrogen at the yield-goal rate.
+01
+Resolve the field
+A pin or a drawn boundary is looked up in the USDA soil survey and thirty years of climate: texture, organic matter, drainage, slope, rain, heat.
+Output 
+Soil and climate, with their source
+02
+Add how it is farmed
+Ten answers from the farmer: crop, tillage, cover crop, nitrogen rate, rotation, irrigation, tiles, years in practice.
+Output 
+A management record
+03
+Run it two ways
+A monthly water balance, a nitrogen budget and six outcome models run on the field as farmed, and again on the same field farmed conventionally.
+Output 
+Outcomes against a conventional twin
+04
+Price it and keep the books
+Each difference is priced at what a named buyer already pays. Private savings, program money and costs are never mixed.
+Output 
+Dollars per acre, by who pays
+Three kinds of money
+Your money, other people’s money, and what it costs.
+Private savings land on the operating budget whether or not anyone pays. Program and market money is contingent on a buyer. A lender treats them differently, so the model never mixes them.
+Three kinds of money on one field
+York, Nebraska
+ · USD per acre per year, against conventional management on the same field
+Field
+York
+Sandhills
+Private, on-farm
+Programs and markets (contingent)
+Costs
+Net
+Reduced till + cover: net
+$86/ac
+$13,727 a year on 160 acres
+of which private, underwritable today
+$8/ac
+fuel, fertilizer, chemicals and the soil that stays
+programs that need a counterparty
+$90/ac
+biodiversity shown but not counted: $64/ac
+Model output for named fields. The conventional program nets to a few dollars by construction, because every line is a difference from it.
+View data table
+Working Paper 01
+The ecosystem 
+dividend
+.
+A recurring payment to the steward of an acre for the clean water, carbon and habitat it produces, funded by the people who benefit. The working paper sets out the mechanism, the prices, the evidence tiers, and what one Nebraska field actually produces.
+Read the working paper
+See the market map
+Core bundle: cover crops, no-till and right-sized nitrogen. Base prices. Sampled evidence tier, where
+80
+% of a modeled outcome is paid.
+$
+0
+an acre a year that buyers would pay for the core bundle, at prices already paid somewhere in the US
+$
+0
+reaches the steward after the evidence discount, a risk reserve and verification
+0
+%
+of that value is water. The anchor buyer is whoever owns the nitrate problem, not the carbon market
+$
+0
+more an acre reaches the steward when the outcome is measured in the field instead of modeled. Evidence is what a buyer pays for
+Who it is for
+Useful on the farm. Legible to the people who pay.
+The same field record serves everyone in the picture, and each party pays for its own use of it.
+Farmers and landowners
+See what a change is worth on your own field before you commit.
+Your field, from the USDA soil survey and thirty years of its weather
+Private savings shown apart from program money that may never arrive
+The three next changes ranked by what they do on this field
+Open the workspace
+ →
+Towns, utilities and NRDs
+Pay for pounds of nitrate kept out, not acres enrolled.
+Nitrate leaving the root zone, field by field, against conventional practice
+Priced against the treatment plant you hope to avoid
+Checkable against your own wells, flowmeters and soil samples
+Read the working paper
+ →
+Lenders and insurers
+See the cash behind a stewardship loan.
+Yield in normal and dry years, inputs, and the payments a practice qualifies for
+Every line auditable back to its source and its assumption
+Outcomes tied to contracted payments, so the timing gap can be financed
+See the platform
+ →
+Food, grain and fuel companies
+Supply-shed outcomes with no tonne claimed twice.
+Soil carbon and avoided nitrous oxide against a conventional twin
+The same practice records the USDA carbon-intensity calculator asks for
+A ledger that gives each outcome one owner
+See the 45Z tool
+ →
+Why now
+The value is counted in trillions. The payments are not.
+Three published figures frame the gap: what nature’s work is worth, what it costs when a field loses nitrogen, and how little private money pays for either. Each is an estimate with a wide range, and each links to its source.
+$125T/yr
+estimated value of the world’s ecosystem services in 2011
+In 2007 dollars, across every biome, against a world economy of about $75 trillion that year. The same study put the yearly loss from land-use change at $4.3 to $20.2 trillion.
+Costanza et al. 2014, Global Environmental Change
+$210B/yr
+health and environmental damage from nitrogen released in the United States, early 2000s
+The range is $81 to $441 billion a year, in 2008 dollars. This is the bill a pound of nitrate kept in the field is priced against.
+Sobota et al. 2015, Environmental Research Letters
+$571B/yr
+nature-based solutions investment needed by 2030
+UNEP says private finance contributed only $23 billion. The money and the buyers exist. What is missing is a way to measure an outcome, price it and pay the person who produced it.
+UNEP State of Finance for Nature 2026
+Farm economy
+Carbon markets
+Compute & resources
+Nature finance
+Agriculture is a $4.5 trillion system before nature is priced.
+Global agriculture, forestry, and fishing value added has grown roughly fourfold since 2000, reaching $4.55T in 2024.
+The economic base is already enormous. What is missing is a measurement layer for the ecosystem value produced alongside it.
+World Bank, NV.AGR.TOTL.CD (World)
+View data table
+US$ trillions
+Build this with us
+Tell us what your side of the market needs.
+Farmers, nutrient and water-quality traders, crop insurers, lenders, food and fuel companies, and sustainability teams each pay for a different piece of what a field produces. Tell us what you would need to see before you could pay for an outcome, price a risk on it, or be paid for one.
+01
+Name the gap
+Tell us where today's programs, markets and tools fall short for you.
+02
+Define what useful means
+Share the decision, evidence, or value you need a better tool to unlock.
+03
+Help shape TerraValue
+Your perspective will inform product priorities, and you'll join the early-access list.
+What TerraValue is building toward
+One transparent evidence system that connects field decisions to soil, water, biodiversity, resilience, and financial value—shaped by the gaps you share.
+1 · Your perspective
+Name
+Work email
+Organization 
+(optional)
+I work closest to
+Select your perspective
+Production or farm management
+Agronomy or farm advising
+Research or science
+Water quality, utilities, or nutrient trading
+Crop insurance or reinsurance
+Farm lending or farmland investment
+Food, grain, or fuel supply chains
+Corporate sustainability or ESG reporting
+Ecosystem markets, registries, or standards
+Technology or data
+Another part of the system
+2 · Where today's approach falls short
+Choose any that reflect your experience.
+✓
+Outcomes are hard to verify well enough to pay for
+✓
+Environmental outcomes are not tied to dollars
+✓
+The same outcome can be claimed or sold twice
+✓
+Field data is expensive or difficult to get
+✓
+Too many disconnected tools and programs
+✓
+Payments reward practices, not results
+✓
+Stewardship does not change my premium, rate or price
+✓
+Too little of the money reaches the farmer
+What is the current system missing?
+A specific example, frustrating workflow, or missing piece of evidence is especially useful.
+If TerraValue solved one thing for you, what should it help you decide, prove, or value?
+(optional)
+3 · Stay involved
+How would you like to engage?
+Join the early-access waitlist
+Explore a pilot or partnership
+Contribute research or validation
+Discuss investment or market partnership
+Follow product updates
+We use your response to shape TerraValue and contact you about relevant access.
+Share & join the waitlist
+A farm produces more than yield.
+TerraValue measures what a field produces beyond the crop, prices it at what someone already pays, and records who paid, so the money can reach the people who manage the land.
+Built on USDA SSURGO soil survey data and ERA5 climate normals. Outputs are modeled estimates against a conventional twin, not measurements, and not verified credits.
+Product
+Platform
+Pricing
+Field workspace
+45Z clean fuel calculator
+Feedstock CI record
+Scope 3 inventory
+Water and nitrogen inventory
+Request a pilot
+Reading
+Perspectives
+Atlas of working land
+The Ecosystem Dividend
+Who pays for better land?
+The money is already moving
+Questions and answers
+Company
+About TerraValue
+Our ecosystem
+Investment & support
+The market we are building
+Photo credits
+Privacy
+Terms
+© 
+2026
+ TerraValue. All rights reserved.
+Modeled estimates. Verify program eligibility and tax positions with qualified advisors.

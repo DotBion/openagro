@@ -1,0 +1,17 @@
+{
+  "provider": "crossref",
+  "doi": "10.1002/agj2.21347",
+  "title": "Mechanisms of weed suppression by cereal rye cover crop: A review",
+  "abstract": "Cereal rye ( Secale cereale L.) is an important cover crop species in the United States. It has the potential to minimize soil erosion, reduce nutrient leaching, decrease fertilizer inputs, improve soil water after termination, and enhance soil organic matter. Cereal rye is also an efficient tool for weed suppression (up to 100% under ideal conditions), which is achieved through several mechanisms. Reported biomass production estimates ranged from 0.9 to 20 ton ha −1 in different environments; weed suppression benefits were observed in all these scenarios, though the extent of suppression significantly differed across the studies, indicating the presence of multiple weed suppression mechanisms with cereal rye cover crops. These can be competitive (competition for space [i.e., mulching effect], water, nutrients, and light) or non‐competitive (allelopathy, reduction in soil temperature, and reduction in light quality). Such a variety of mechanisms make it an excellent tool for integrated weed management in both conventional and organic systems. In this review, we summarize and analyze published information on the mechanisms of weed suppression by cereal rye. First, we outline the physiological characteristics that make cereal rye an excellent cover crop species and the many benefits it can provide. Second, we review four competitive mechanisms of weed suppression, which are generally considered the leading ones. Third, we summarize three non‐competitive mechanisms, the applications of which are not yet fully understood in agricultural systems. Finally, we analyze the management implications of this information and identify knowledge gaps for directing future research on this topic.",
+  "authors": [
+    "Gustavo Camargo Silva",
+    "Muthukumar Bagavathiannan"
+  ],
+  "year": 2023,
+  "container": "Agronomy Journal",
+  "licenses": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "url": "https://doi.org/10.1002/agj2.21347"
+}

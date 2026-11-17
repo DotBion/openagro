@@ -1,0 +1,22 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1016/j.fcr.2024.109361",
+  "title": "Diversified grain rotations can be highly and reliably productive in unstable climates",
+  "abstract": "The crop rotation is a farm-scale management choice that dictates agronomic output, ecological impacts, and farm viability. Rotations have become less diverse recently. Re-diversifying may help agricultural systems meet the growing, dynamic demands from society and challenges from climate change. Using a long-term experiment, we tested whether diversified rotations could a) match the productivity (grain yield) of simplified rotations while b) stabilizing productivity against variable weather in the western U.S. Corn Belt. We identified rotation design choices that drive these productivity-stability dynamics. Although more productive rotations were more susceptible to weather (r = 0.63; p < 0.001), this tradeoff was surmountable (p < 0.001): the corn-oat-winter wheat-soybean (Zea mays L., Avena sativa L., Triticum aestivum L., Glycine max (L.) Merr.) rotation was a) no less productive than the highly unstable, corn-soybean rotation (p = 0.11); and b) only marginally less stable than the most stable rotation (p = 0.06). Crop selection and sequencing were critical to this outcome. High productivity was due to a) overyielding of individual crops in diversified rotations that increased with time; b) sequencing to allow higher-yielding winter crops; and c) beneficial crop legacy effects. Stability was highest in rotations that included crops belonging to more weather-niches (r2 = 0.67; p < 0.001). Surprisingly, these weather-niches groups did not correspond to traditional categories like cool- vs warm-season crops. These results suggest four principles for the design, study, and implementation of diversified grain rotations that are stable under erratic weather and are as productive as current standard practices.",
+  "authors": [
+    "Patrick M. Ewing",
+    "Bee K. Chim",
+    "R. Michael Lehman",
+    "Shannon L. Osborne"
+  ],
+  "year": 2024,
+  "container": "Field Crops Research",
+  "licenses": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "http://creativecommons.org/licenses/by/4.0/",
+    "cc-by",
+    "oa_status:hybrid"
+  ],
+  "url": "https://doi.org/10.1016/j.fcr.2024.109361"
+}

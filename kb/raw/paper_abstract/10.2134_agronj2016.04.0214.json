@@ -1,0 +1,21 @@
+{
+  "provider": "crossref",
+  "doi": "10.2134/agronj2016.04.0214",
+  "title": "Soybean Response to Inoculation with\n                    <i>Bradyrhizobium japonicum</i>\n                    in the United States and Argentina",
+  "abstract": "Soybean seed inoculation with Bradyrhizobium japonicum enhances grain production. Greater inoculation response happens in Argentinean sites than in the United States. Several soil properties and crop management practices are related with the responses to inoculation. Although the relevance of biological N nutrition of soybean [ Glycine max (L.) Merr.] is recognized worldwide, inoculation with Bradyrhizobium japonicum shows variable results and the benefit needs to be validated under current crop production practices. We conducted statistical analysis of soybean field trial data to provide insight into factors affecting the efficacy of soybean inoculation under contrasting crop production conditions. Most experimental sites, 187 trials in the United States and 152 trials in Argentina, were in soils with soybean history and naturalized B. japonicum strains. Yield increases were greater in Argentina (190 kg ha −1 equivalent to 6.39%) than in the United States (60 kg ha −1 equivalent to 1.67%). Tillage methods did not affect inoculant performance. In the United States, inoculation was more effective in soils with higher pH (&gt;6.8) while in Argentina the greatest inoculation effect on crop production occurred in soils with a lower pH (&lt;5.5). In the United States, where most of the trials were in rotation with corn ( Zea mays L), the greatest positive effect of inoculation was observed in late planted soybean crops and independent of soil organic matter (SOM). In Argentina, the inoculant had its greatest effect in soils with no soybean history, a relatively high SOM, higher levels of soil extractable P and S, and in areas with greater precipitation during early reproductive growing stages. In both regions, the yield increases due to B. japonicum inoculation support the regular use of this practice to help provide adequate conditions for soybean production.",
+  "authors": [
+    "Mary Leggett",
+    "Martin Diaz‐Zorita",
+    "Marja Koivunen",
+    "Roger Bowman",
+    "Robert Pesek",
+    "Craig Stevenson",
+    "Todd Leister"
+  ],
+  "year": 2017,
+  "container": "Agronomy Journal",
+  "licenses": [
+    "http://creativecommons.org/licenses/by/4.0/"
+  ],
+  "url": "https://doi.org/10.2134/agronj2016.04.0214"
+}

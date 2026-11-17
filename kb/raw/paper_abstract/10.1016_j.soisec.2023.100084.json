@@ -1,0 +1,24 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1016/j.soisec.2023.100084",
+  "title": "A minimum suite of soil health indicators for North American agriculture",
+  "abstract": "The concept of soil health is appropriately receiving increased attention from governments, producers, corporations, and other stakeholders because of the many functions of soil that support ecosystem services and farm profitability. With this interest, there is growing need to verify and monitor changes in soil health that result from how agricultural soil is managed. There are many indicators of soil health and, although this benefits the scientific community, it complicates interpretation across studies. The North American Project to Evaluate Soil Health Measurements (NAPESHM) assessed over 30 available measurements on 124 long-term agricultural research sites with replicated soil health treatments and created new pedotransfer functions. This analysis draws on findings from NAPESHM to identify a minimum suite of effective indicators of soil health for the North American Continent. The criteria for a minimum suite of effective indicators are that they (1) primarily reflect soil health rather than inherent soil properties or fertility, (2) are responsive to agricultural management practices that exemplify soil health principles, (3) are conducive to measuring soil health at scale in terms of cost and availability, and (4) are not redundant with regard to linking different soil functions to ecosystem services. Many indicators were determined effective for use in soil health studies and based on this analysis, soil organic C concentration, aggregate stability, and 24 h C mineralization potential were selected for the minimum suite of indicators. Using this minimum suite, as few as three laboratory measurements can be made to assess and track improvement in soil functioning as a result of soil management changes. These indicators may be supplemented with new pedotransfer functions to also estimate changes in available water holding capacity. This minimal suite of soil health measurements is recommended for scaling up soil health assessments across North America, and possibly beyond.",
+  "authors": [
+    "Dianna K. Bagnall",
+    "Elizabeth L. Rieke",
+    "Cristine L.S. Morgan",
+    "Daniel L. Liptzin",
+    "Shannon B. Cappellazzi",
+    "C. Wayne Honeycutt"
+  ],
+  "year": 2023,
+  "container": "Soil Security",
+  "licenses": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "cc-by-nc-nd",
+    "oa_status:gold"
+  ],
+  "url": "https://doi.org/10.1016/j.soisec.2023.100084"
+}

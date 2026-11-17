@@ -1,0 +1,16 @@
+{
+  "provider": "crossref",
+  "doi": "10.2134/agronj1990.00021962008200010030x",
+  "title": "Comparison of Models for Describing; Corn Yield Response to Nitrogen Fertilizer",
+  "abstract": "Decisions concerning optimum rates of fertilization directly or indirectly involve fitting some type of model to yield data collected when several rates of fertilizer are applied. Although several different models are commonly used to describe crop yield response to fertilizers, it is seldom explained why one model is selected over others. The objective of the work reported here was to compare and evaluate several models (linear‐plus‐plateau, quadratic‐plus‐plateau, quadratic, exponential, and square root) commonly used for describing the response of corn ( Zea mays L.) to N fertilizer. The evaluation involved 12 site‐years of data, each having 10 rates of N appied preplanting. All models fit the data equally well when evaluated by using the R 2 statistic. All models indicated similar maximum yields, but there were marked discrepancies among models when predicting economic optimum rates of fertilization. Mean (across all site‐years) economic optimum rates of fertilization as indicated by the various models ranged from 128 to 379 kg N ha −1 at a common fertilizer‐to‐corn price ratio. Statistical analyses indicated that the most commonly used model, the quadratic model, did not give a valid description of the yield responses and tended to indicate optimal rates of fertilization that were too high. The quadratic‐plus‐plateau model best described the yield responses observed in this study. The results clearly show that, especially amid increasing concerns about the economic and environmental effects of overfertilization, the renson for selecting one model over others deserves more attention than it has received in the past.",
+  "authors": [
+    "M. E. Cerrato",
+    "A. M. Blackmer"
+  ],
+  "year": 1990,
+  "container": "Agronomy Journal",
+  "licenses": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "url": "https://doi.org/10.2134/agronj1990.00021962008200010030x"
+}

@@ -1,0 +1,17 @@
+{
+  "provider": "crossref",
+  "doi": "10.1073/pnas.2515473122",
+  "title": "The invisible subsoil compaction risk under no-till farming",
+  "abstract": "No-till (NT) is a key component of conservation agriculture aiming at producing crops with minimal soil disturbance. This land management practice offers numerous economic and ecological advantages over conventional tillage as evidenced by its rapid expansion since the 1960s, now practiced on 15% of the global arable land. Nevertheless, various crops exhibit persistent yield losses even decades after transition to NT. Here, we demonstrate that the promise of beneficial and sustainable soil management may be undermined by a gradual and invisible threat of subsoil compaction. We report on a risk of subsoil compaction stemming from the episodic passage of heavy machinery (e.g., harvesters). The threat is of dynamic and asymmetric nature whenever compaction events occur more frequently than the natural rates of soil structure recovery, resulting in a gradual increase in soil degradation. Our analyses show that nearly 40% of global NT lands (0.8 million km 2 ) are under high subsoil compaction risk (primarily in heavily mechanized Canada, United States of America, and Brazil). Awareness and mitigation of subsoil compaction by scaling field operations to soil mechanical limits and adoption of smaller robotic vehicles will contribute to a sustainable and holistic conservation agriculture.",
+  "authors": [
+    "Thomas Keller",
+    "Samuel Bickel",
+    "Dani Or"
+  ],
+  "year": 2025,
+  "container": "Proceedings of the National Academy of Sciences",
+  "licenses": [
+    "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "url": "https://doi.org/10.1073/pnas.2515473122"
+}

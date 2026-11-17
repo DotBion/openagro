@@ -1,0 +1,24 @@
+{
+  "provider": "crossref",
+  "doi": "10.1038/ismej.2014.252",
+  "title": "Relationships between protein-encoding gene abundance and corresponding process are commonly assumed yet rarely observed",
+  "abstract": "For any enzyme-catalyzed reaction to occur, the corresponding protein-encoding genes and transcripts are necessary prerequisites. Thus, a positive relationship between the abundance of gene or transcripts and corresponding process rates is often assumed. To test this assumption, we conducted a meta-analysis of the relationships between gene and/or transcript abundances and corresponding process rates. We identified 415 studies that quantified the abundance of genes or transcripts for enzymes involved in carbon or nitrogen cycling. However, in only 59 of these manuscripts did the authors report both gene or transcript abundance and rates of the appropriate process. We found that within studies there was a significant but weak positive relationship between gene abundance and the corresponding process. Correlations were not strengthened by accounting for habitat type, differences among genes or reaction products versus reactants, suggesting that other ecological and methodological factors may affect the strength of this relationship. Our findings highlight the need for fundamental research on the factors that control transcription, translation and enzyme function in natural systems to better link genomic and transcriptomic data to ecosystem processes.",
+  "authors": [
+    "Jennifer D Rocca",
+    "Edward K Hall",
+    "Jay T Lennon",
+    "Sarah E Evans",
+    "Mark P Waldrop",
+    "James B Cotner",
+    "Diana R Nemergut",
+    "Emily B Graham",
+    "Matthew D Wallenstein"
+  ],
+  "year": 2015,
+  "container": "The ISME Journal",
+  "licenses": [
+    "https://academic.oup.com/pages/standard-publication-reuse-rights",
+    "http://www.springer.com/tdm"
+  ],
+  "url": "https://doi.org/10.1038/ismej.2014.252"
+}

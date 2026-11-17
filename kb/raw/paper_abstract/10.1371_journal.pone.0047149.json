@@ -1,0 +1,21 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1371/journal.pone.0047149",
+  "title": "Increasing Cropping System Diversity Balances Productivity, Profitability and Environmental Health",
+  "abstract": "Balancing productivity, profitability, and environmental health is a key challenge for agricultural sustainability. Most crop production systems in the United States are characterized by low species and management diversity, high use of fossil energy and agrichemicals, and large negative impacts on the environment. We hypothesized that cropping system diversification would promote ecosystem services that would supplement, and eventually displace, synthetic external inputs used to maintain crop productivity. To test this, we conducted a field study from 2003-2011 in Iowa that included three contrasting systems varying in length of crop sequence and inputs. We compared a conventionally managed 2-yr rotation (maize-soybean) that received fertilizers and herbicides at rates comparable to those used on nearby farms with two more diverse cropping systems: a 3-yr rotation (maize-soybean-small grain + red clover) and a 4-yr rotation (maize-soybean-small grain + alfalfa-alfalfa) managed with lower synthetic N fertilizer and herbicide inputs and periodic applications of cattle manure. Grain yields, mass of harvested products, and profit in the more diverse systems were similar to, or greater than, those in the conventional system, despite reductions of agrichemical inputs. Weeds were suppressed effectively in all systems, but freshwater toxicity of the more diverse systems was two orders of magnitude lower than in the conventional system. Results of our study indicate that more diverse cropping systems can use small amounts of synthetic agrichemical inputs as powerful tools with which to tune, rather than drive, agroecosystem performance, while meeting or exceeding the performance of less diverse systems.",
+  "authors": [
+    "Adam S. Davis",
+    "Jason D. Hill",
+    "Craig A. Chase",
+    "Ann M. Johanns",
+    "Matt Liebman"
+  ],
+  "year": 2012,
+  "container": "PLoS ONE",
+  "licenses": [
+    "https://creativecommons.org/publicdomain/zero/1.0/",
+    "public-domain",
+    "oa_status:gold"
+  ],
+  "url": "https://doi.org/10.1371/journal.pone.0047149"
+}

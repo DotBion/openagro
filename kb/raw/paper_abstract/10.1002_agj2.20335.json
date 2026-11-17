@@ -1,0 +1,28 @@
+{
+  "provider": "crossref",
+  "doi": "10.1002/agj2.20335",
+  "title": "Soil‐nitrogen, potentially mineralizable‐nitrogen, and field condition information marginally improves corn nitrogen management",
+  "abstract": "Anaerobic potentially mineralizable nitrogen (PMN) combined with preplant nitrate test (PPNT) or pre‐sidedress nitrate test (PSNT) may improve corn ( Zea mays L.) N management. Forty‐nine corn N response studies were conducted across the U.S. Midwest to evaluate the capacity of PPNT and PSNT to predict grain yield, N uptake, and economic optimal N rate (EONR) when adjusted by soil sampling depth, soil texture, temperature, PMN, and initial NH 4 –N from PMN analysis. Pre‐plant soil samples were obtained for PPNT (0‐ to 30‐, 30‐ to 60‐, 60‐ to 90‐cm depths) and PMN (0‐ to 30‐cm depth) before corn planting and N fertilization. In‐season soil samples were obtained at the V5 corn development stage for PSNT (0‐ to 30‐, 30‐ to 60‐cm depths) at 0 kg N ha −1 at‐planting rate and for PMN when 0 and 180 kg N ha −1 was applied at planting. Grain yield, N uptake, and EONR were best predicted when separating soils by texture or sites by annual growing degree‐days and including PMN and initial NH 4 –N with either NO 3 –N test. Using PSNT (mean R 2 = .30)‐instead of PPNT (mean R 2 = .19)‐based models normally increased predictability of corn agronomic variables by a mean of 11%. Including PMN and initial NH 4 –N with PPNT or PSNT only marginally improved predictability of grain yield, N uptake, and EONR ( R 2 increase ≤ .33; mean R 2 = .35). Therefore, including PMN with PPNT or PSNT is not suggested as a tool to improve N fertilizer management in the U.S. Midwest.",
+  "authors": [
+    "Jason D. Clark",
+    "Fabián G. Fernández",
+    "Kristen S. Veum",
+    "James J. Camberato",
+    "Paul R. Carter",
+    "Richard B. Ferguson",
+    "David W. Franzen",
+    "Daniel E. Kaiser",
+    "Newell R. Kitchen",
+    "Carrie A. M. Laboski",
+    "Emerson D. Nafziger",
+    "Carl J. Rosen",
+    "John E. Sawyer",
+    "John F. Shanahan"
+  ],
+  "year": 2020,
+  "container": "Agronomy Journal",
+  "licenses": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "url": "https://doi.org/10.1002/agj2.20335"
+}

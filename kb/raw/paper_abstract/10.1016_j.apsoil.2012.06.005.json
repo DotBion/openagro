@@ -1,0 +1,19 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1016/j.apsoil.2012.06.005",
+  "title": "High throughput phospholipid fatty acid analysis of soils",
+  "abstract": "Phospholipid fatty acid (PLFA) analysis is widely used to measure microbial biomass and community composition in soil and other types of environmental samples. As typically performed, the analysis involves many steps and 1.5–3 days are required to prepare a small batch (i.e. 20–24 samples and blanks), depending on the exact equipment employed in each laboratory. Gas chromatography (GC) or gas chromatography–mass spectrometry (GC–MS) is then used to analyze the samples, requiring further time to obtain the data. We have developed a method for preparing 96 soil samples and blanks in 1.5 days, a 4- to 5-fold increase in throughput. All drying and centrifuging steps take place in a centrifugal evaporator. Soil samples in test tubes are dried overnight and then a Bligh–Dyer lipid extraction is performed. The extract is dried, dissolved in chloroform, and loaded onto a 96-well solid phase extraction plate. Phospholipids are eluted into glass vials in a 96-well format, dried, and transesterified. The resulting fatty acid methyl esters are analyzed by GC and quantified relative to an internal standard. The high throughput protocol uses much smaller solvent volumes than the traditional protocol, which combined with the use of the 96-well format leads to much faster sample preparation. Biomarker PLFA concentrations for 10 different soils were highly correlated, although not identical, between the two protocols. Multivariate analysis of the PLFA biomarkers indicated that the two protocols produced similar patterns for the different soils. The high throughput protocol may be useful to laboratories performing large numbers of PLFA analyses.",
+  "authors": [
+    "Jeffrey S. Buyer",
+    "Myron Sasser"
+  ],
+  "year": 2012,
+  "container": "Applied Soil Ecology",
+  "licenses": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "cc-by-nc-nd",
+    "oa_status:hybrid"
+  ],
+  "url": "https://doi.org/10.1016/j.apsoil.2012.06.005"
+}

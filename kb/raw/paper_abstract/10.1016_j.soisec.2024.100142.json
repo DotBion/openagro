@@ -1,0 +1,23 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1016/j.soisec.2024.100142",
+  "title": "Reference site selection based on state-and-transition models for soil health gap evaluation within cropland reference ecological units",
+  "abstract": "Comparative soil health studies are critical in soil conservation and gauging the success of different management practices in soil health improvement. A primary challenge in these studies is the selection of a consistent natural reference site. Current choices vary widely, from minimally disturbed areas to pristine prairies. This methodological paper underscores the need for deliberate and thoughtful reference site selection for benchmark soil properties. Utilizing the State &Transition models, the study introduces a framework for this selection, drawing upon the ecological site (ES) and reference plant communities detailed in an ecological site description (ESD) within a respective Major Land Resource Area (MLRA). This study advocates for a localized classification within the framework of the Cropland Reference Ecological Unit (CREU), emphasizing the significance of local precipitation and soil data to ensure unbiased comparisons. Soil samples from eastern (MLRA 106) and western (MLRA 67A) Nebraska were collected, representing distinct pedogenetic and climatic differences. Analysis of soil organic matter between MLRAs displayed substantial variations, suggesting potential biases and complexities in soil health gap calculations when using reference sites and croplands not in the same MLRA, soil types (texture class), or precipitation zones. However, refining the comparisons by delineating the MLRA, soil, and precipitation zones within the framework of CREU yielded more consistent and realistic comparative data. Integrating the MLRA and ES, complemented by granular soil and precipitation data, provides a robust method for establishing soil health benchmark data.",
+  "authors": [
+    "Saurav Das",
+    "Aaron Hird",
+    "Bijesh Maharjan",
+    "Mitchell Stephenson",
+    "Lithma Kariyawasam"
+  ],
+  "year": 2024,
+  "container": "Soil Security",
+  "licenses": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "cc-by-nc-nd",
+    "oa_status:gold"
+  ],
+  "url": "https://doi.org/10.1016/j.soisec.2024.100142"
+}

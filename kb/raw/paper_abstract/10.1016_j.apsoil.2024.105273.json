@@ -1,0 +1,21 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1016/j.apsoil.2024.105273",
+  "title": "SEMWISE: A national soil health scoring framework for agricultural systems",
+  "abstract": "Soil health is an essential part of agricultural productivity, food security, and ecological sustainability. In the U.S., national, state, and local programs invest millions of dollars each year to support soil health and climate-smart agricultural practices. While several methods for measuring soil health are available, the ability to interpret soil health metrics across regions and agricultural ecosystems remains challenging. There is not yet a nationally scaled framework that incorporates important soil health indicators, soil health principles, and influential variables like climate and soil texture in one model. Here, we introduce SEMWISE, a Structural Equation Model for Well-Informed Soil Evaluation, that was developed from 600 samples across 28 U.S. states representing 52 different crops and grazing lands. SEMWISE incorporates seven soil health indicators (aggregate stability, water capacity, soil organic matter, active carbon, autoclaved-citrate extractable protein, respiration, and quantitative-PCR) into individual and collective ratings that adjust for regional differences in soil clay content and climate, allowing for a widely applicable framework that can detect management responses at local and national scales. Furthermore, we developed the first soil health management index (SHMI) that evaluates the agricultural system using the soil health principles to minimize soil disturbance, increase plant diversity, and provide continuous soil cover and living roots. The SEMWISE and SHMI frameworks were robust, sensitive, and scalable for detection of soil health differences at national and local levels.",
+  "authors": [
+    "Heather L. Deel",
+    "Jennifer M. Moore",
+    "Daniel K. Manter"
+  ],
+  "year": 2024,
+  "container": "Applied Soil Ecology",
+  "licenses": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "http://creativecommons.org/licenses/by/4.0/",
+    "cc-by",
+    "oa_status:hybrid"
+  ],
+  "url": "https://doi.org/10.1016/j.apsoil.2024.105273"
+}

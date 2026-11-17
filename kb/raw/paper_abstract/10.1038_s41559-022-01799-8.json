@@ -1,0 +1,35 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1038/s41559-022-01799-8",
+  "title": "Agricultural management and pesticide use reduce the functioning of beneficial plant symbionts",
+  "abstract": "Abstract Phosphorus (P) acquisition is key for global food production. Arbuscular mycorrhizal fungi (AMF) help plants acquire P and are considered key for the design of sustainable agroecosystems. However, how the functioning of AMF varies across agricultural soils and responds to management practices is still unknown. Here, we collected soils from 150 cereal fields and 60 non-cropped grassland sites across Europe, and in a greenhouse experiment, we tested the ability of AMF in these soils to forage for radioisotope-labelled 33P from a hyphal compartment. Hyphal-mediated P uptake was 64% higher in non-cropped grassland compared to cropland soils. Soil pH and organic carbon best explained the hyphal-mediated P uptake in the grasslands, while the use of fungicide in croplands reduced P uptake in the croplands by 43%. Our results suggest that land-use intensity and fungicide use are major deterrents to the natural capacity of AMF to contribute to sustainable crop production.",
+  "authors": [
+    "Anna Edlinger",
+    "Gina Garland",
+    "Kyle Hartman",
+    "Samiran Banerjee",
+    "Florine Degrune",
+    "Pablo García-Palacios",
+    "Sara Hallin",
+    "Alain Valzano-Held",
+    "Chantal Herzog",
+    "Jan Jansa",
+    "Elena Kost",
+    "Fernando T. Maestre",
+    "David Sánchez Pescador",
+    "Laurent Philippot",
+    "Matthias C. Rillig",
+    "Sana Romdhane",
+    "Aurélien Saghaï",
+    "Ayme Spor",
+    "Emmanuel Frossard",
+    "Marcel G. A. van der Heijden"
+  ],
+  "year": 2022,
+  "container": "Nature Ecology &amp; Evolution",
+  "licenses": [
+    "https://www.springer.com/tdm",
+    "oa_status:bronze"
+  ],
+  "url": "https://doi.org/10.1038/s41559-022-01799-8"
+}

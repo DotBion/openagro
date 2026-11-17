@@ -1,0 +1,35 @@
+{
+  "provider": "crossref",
+  "doi": "10.2134/agronj2017.02.0112",
+  "title": "Strengths and Limitations of Nitrogen Rate Recommendations for Corn and Opportunities for Improvement",
+  "abstract": "Nitrogen recommendations for individual corn fields are less accurate than desired. Nitrogen recommendations need improvement for economic and environmental reasons. A review of fundamental concepts will improve understanding about N recommendations. Examination of N recommendation systems, tests, and models will improve recommendations. Nitrogen fixation by the Haber–Bosch process has more than doubled the amount of fixed N on Earth, significantly influencing the global N cycle. Much of this fixed N is made into N fertilizer that is used to produce nearly half of the world's food. Too much of the N fertilizer pollutes air and water when it is lost from agroecosystems through volatilization, denitrification, leaching, and runoff. Most of the N fertilizer used in the United States is applied to corn ( Zea mays L.), and the profitability and environmental footprint of corn production is directly tied to N fertilizer applications. Accurately predicting the amount of N needed by corn, however, has proven to be challenging because of the effects of rainfall, temperature, and interactions with soil properties on the N cycle. For this reason, improving N recommendations is critical for profitable corn production and for reducing N losses to the environment. The objectives of this paper were to review current methods for estimating N needs of corn by: (i) reviewing fundamental background information about how N recommendations are created; (ii) evaluating the performance, strengths, and limitations of systems and tools used for making N fertilizer recommendations; (iii) discussing how adaptive management principles and methods can improve recommendations; and (iv) providing a framework for improving N fertilizer rate recommendations.",
+  "authors": [
+    "Thomas F. Morris",
+    "T. Scott Murrell",
+    "Douglas B. Beegle",
+    "James J. Camberato",
+    "Richard B. Ferguson",
+    "John Grove",
+    "Quirine Ketterings",
+    "Peter M. Kyveryga",
+    "Carrie A.M. Laboski",
+    "Joshua M. McGrath",
+    "John J. Meisinger",
+    "Jeff Melkonian",
+    "Bianca N. Moebius‐Clune",
+    "Emerson D. Nafziger",
+    "Deanna Osmond",
+    "John E. Sawyer",
+    "Peter C. Scharf",
+    "Walter Smith",
+    "John T. Spargo",
+    "Harold M. van Es",
+    "Haishun Yang"
+  ],
+  "year": 2018,
+  "container": "Agronomy Journal",
+  "licenses": [
+    "http://creativecommons.org/licenses/by/4.0/"
+  ],
+  "url": "https://doi.org/10.2134/agronj2017.02.0112"
+}

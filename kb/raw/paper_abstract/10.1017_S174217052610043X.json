@@ -1,0 +1,18 @@
+{
+  "provider": "crossref",
+  "doi": "10.1017/s174217052610043x",
+  "title": "Effect of cover crop termination methods and fertilization rates on organic vegetable yields and soil mineral nitrogen in a cool-climate region",
+  "abstract": "Fall- and spring-seeded cover crops are commonly used by organic no-till practitioners, but spring-seeded mixtures have not been as widely studied, particularly regarding their management under short growing periods in cool-climate regions. This study evaluated the short-term effects of spring-seeded cover crop termination methods and organic fertilization rates on subsequent crop yields and soil mineral nitrogen (N) dynamics on a clay loam soil in Quebec, Canada. In both years (2022–2023), a spring-seeded cover crop mixture was terminated in mid-summer, and then a vegetable crop was transplanted and fertilized at three different rates. Cover crop termination methods consisted of roller-crimping (ROLL), flail mowing and tarping (TARP), flail mowing and disking (DISK), and a fallow control without cover crops (CTRL). The combination of pelletized composted poultry manure and blood meal was applied at three rates (0% N, 50% N, and 100% N) during the production of broccoli ( Brassica oleracea var. italica ) in 2022 and beetroot ( Beta vulgaris var. esculenta ) in 2023. In 2022, field peas ( Pisum sativum L.)-oats ( Avena sativa L.) produced an average of 2.9 Mg DM ha −1 , whereas the aboveground biomass of field peas-faba beans ( Vicia faba L.) in 2023 yielded about 2.3 Mg DM ha −1 . Flail mowing and tarping (TARP) increased total broccoli and beetroot yields by 38% and 44%, respectively, compared to roller-crimping, likely due to N availability rather than weed competition. Soil mineral N after tarp removal in 2023 was up to twice as great in the fully fertilized TARP treatment compared to other treatments. Vegetable N uptake, particularly in broccoli, was the lowest in the ROLL treatment, indicating a strong connection between plant N uptake and yields. Termination was performed at a phenological stage that was too early, resulting in low effectiveness of the roller-crimper. Interestingly, the TARP and DISK treatments produced comparable yields. Overall, cover crops could not compensate for reduced fertilizer inputs, which is further supported by the lack of termination method × fertilization rate interactions. Limited cover crop biomass production due to the short growing period resulted in minimal yield differences between treatments with cover crops and the CTRL treatment. Although this study was limited to a single field in Quebec, it shows that tarping may be a better option for organic vegetable growers, as it facilitates the termination of cover crops without tillage compared to roller-crimping.",
+  "authors": [
+    "Michaël Brière",
+    "Valérie Gravel",
+    "Émilie Maillard",
+    "Caroline Halde"
+  ],
+  "year": 2026,
+  "container": "Renewable Agriculture and Food Systems",
+  "licenses": [
+    "http://creativecommons.org/licenses/by/4.0"
+  ],
+  "url": "https://doi.org/10.1017/s174217052610043x"
+}

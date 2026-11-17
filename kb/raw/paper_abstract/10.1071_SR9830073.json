@@ -1,0 +1,16 @@
+{
+  "provider": "crossref",
+  "doi": "10.1071/sr9830073",
+  "title": "Factors affecting the estimation of numbers of infective propagules of vesicular arbuscular mycorrhizal fungi by the most probable number method",
+  "abstract": "Factors affecting the estimation of the number of infective propagules of vesicular arbuscular mycorrhizal fungi by the most probable number (MPN) method were investigated. The value obtained was shown to be dependent on the conditions of the experiment. Both temperature and time of harvest changed the result because of their effects on the growth of both roots and propagules, and hence on their interception. Other factors which must be taken into account in order to optimize the MPN estimate are discussed. The number of infective propagules in a dried root/soil inoculum was shown to be affected by both the amount of infection in the pot culture from which it was formed and by its age.",
+  "authors": [
+    "JM Wilson",
+    "MJ Trinick"
+  ],
+  "year": 1983,
+  "container": "Australian Journal of Soil Research",
+  "licenses": [
+    "https://doi.org/10.1071/journalslicense"
+  ],
+  "url": "https://doi.org/10.1071/sr9830073"
+}

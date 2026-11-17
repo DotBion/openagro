@@ -1,0 +1,21 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1093/jee/tox235",
+  "title": "Evidence for Soybean Aphid (Hemiptera: Aphididae) Resistance to Pyrethroid Insecticides in the Upper Midwestern United States",
+  "abstract": "Soybean aphid, Aphis glycines Matsumura (Hemiptera: Aphididae), is a damaging invasive pest of soybean in the upper Midwest. Threshold-based insecticide applications are the primary control method for soybean aphid, but few insecticide groups are available (i.e., pyrethroids, organophosphates, and neonicotinoids). To quantify current levels of soybean aphid susceptibility to pyrethroids in the upper Midwest and monitor for insecticide resistance, leaf-dip bioassays were performed with λ-cyhalothrin in 2013-2015, and glass-vial bioassays were performed with λ-cyhalothrin and bifenthrin in 2015 and 2016. Soybean aphids were collected from 27 population-years in Minnesota and northern Iowa, and were compared with a susceptible laboratory colony with no known insecticide exposure since discovery of soybean aphid in North America in 2000. Field-collected aphids from some locations in leaf-dip and glass-vial bioassays had significantly lower rates of insecticide-induced mortality compared with the laboratory population, although field population susceptibility varied by year. In response to sublethal concentrations of λ-cyhalothrin, adult aphids from some locations required higher concentrations of insecticide to reduce nymph production compared with the laboratory population. The most resistant field population demonstrated 39-fold decreased mortality compared with the laboratory population. The resistance documented in this study, although relatively low for most field populations, indicates that there has been repeated selection pressure for pyrethroid resistance in some soybean aphid populations. Integrated pest management and insecticide resistance management should be practiced to slow further development of soybean aphid resistance to pyrethroids.",
+  "authors": [
+    "Anthony A Hanson",
+    "James Menger-Anderson",
+    "Celia Silverstein",
+    "Bruce D Potter",
+    "Ian V MacRae",
+    "Erin W Hodgson",
+    "Robert L Koch"
+  ],
+  "year": 2017,
+  "container": "Journal of Economic Entomology",
+  "licenses": [
+    "oa_status:closed"
+  ],
+  "url": "https://doi.org/10.1093/jee/tox235"
+}

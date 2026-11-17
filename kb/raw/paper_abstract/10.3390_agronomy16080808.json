@@ -1,0 +1,21 @@
+{
+  "provider": "crossref",
+  "doi": "10.3390/agronomy16080808",
+  "title": "Australian Dryland Wheat Growth and Yield Are Positively Impacted by a Methylobacterium symbioticum Biostimulant Under Reduced Nitrogen Supply",
+  "abstract": "Enhancing nitrogen use efficiency (NUE) in cereal crops is a major challenge for dryland systems that rely heavily on synthetic nitrogen (N) inputs. Microbial biostimulants have recently emerged as promising alternatives for cost-effective N inputs in wheat through foliar colonization and endophytic biological N fixation. Methylobacterium symbioticum strain SB23 (also known as BlueN or Utrisha N) is a pink-pigmented, obligately aerobic, Gram-negative, facultative methylotrophic bacterium demonstrated to potentially reduce N chemical fertilization and improve yields in various crops. A field trial consisting of large replicated 2.3 ha plots of Australian Prime Hard (APH) wheat cv. Rockstar was established in south central New South Wales, Australia, to evaluate the foliar application of M. symbioticum strain SB23 under both standard and reduced N regimes for winter wheat maturing in late spring. Application of the SB23 biostimulant significantly increased wheat leaf chlorophyll concentration at 30 and 60 days after application (DAA) and promoted biomass accumulation at 60, 90 and 120 DAA in contrast to the untreated control, with the strongest positive response under reduced N input. Specifically, the 75% N + biostimulant treatment improved biomass by up to 23% and grain yield by 14% relative to the reduced-N control, demonstrating potential supplemental fertility without yield loss. Correlation analyses revealed that mid-season chlorophyll was strongly associated with biomass and carbon assimilation (r = 0.87 and 0.84, respectively), while biomass at 60 DAA was highly correlated with grain spike weight (r = 0.81), suggesting a strong association of improved crop vigor and yield with inoculation. At harvest, SB23 enhanced biomass nitrogen accumulation and nitrogen use efficiency, with the 75%N + biostimulant treatment achieving the highest plant N uptake (25% above the reduced-N control) and the greatest partial factor productivity of nitrogen (51.8 kg grain kg−1 N applied), while both 100%N treatments showed the lowest efficiency. Collectively, these findings suggest that Methylobacterium symbioticum SB23 improves NUE through enhanced crop performance thereby providing a supplementary N source and delivering a cost–benefit advantage of approximately A$170 ha−1 under reduced N application.",
+  "authors": [
+    "Oli A. Fakir",
+    "K. M. Shamsul Haque",
+    "Andrew Wilson",
+    "Russell A. Barrow",
+    "Joanne R. Ashnest",
+    "Leigh M. Schmidtke",
+    "Leslie A. Weston"
+  ],
+  "year": 2026,
+  "container": "Agronomy",
+  "licenses": [
+    "https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "url": "https://doi.org/10.3390/agronomy16080808"
+}

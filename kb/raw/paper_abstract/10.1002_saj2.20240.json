@@ -1,0 +1,26 @@
+{
+  "provider": "crossref",
+  "doi": "10.1002/saj2.20240",
+  "title": "Soil structure recovery following compaction: Short‐term evolution of soil physical properties in a loamy soil",
+  "abstract": "Soil compaction by farm machinery may persist for decades, hampering soil productivity and functioning. Assessing compaction costs and guiding recovery strategies are hindered by paucity of data on soil structure recovery rates. A long‐term Soil Structure Observatory was established on a loamy soil in Switzerland to monitor soil structure recovery after prescribed compaction, and to better assess the roles of natural processes (vegetation, macrofauna, and shrink–swell cycles) on recovery patterns. The aim of this study was to quantify short‐term soil structure recovery under natural conditions in the presence and absence of plant cover (ley and bare soil). We measured soil porosity and gas and water transport capabilities at 0.1 and 0.3 m depth. Two years after the compaction event, soil physical properties have not recovered to precompaction levels, even within the topsoil. Surprisingly, no differences were observed in the recovery patterns of ley and bare soil treatments. Measurements show that recovery rates differ among soil properties with the most severely affected properties by compaction (permeability) exhibiting highest recovery rates. Total soil porosity shows no recovery trend, suggesting lack of soil decompaction. Improved soil functions and decompaction are distinct aspects of soil structure recovery, with the latter requiring net upward transport of soil mass. We suggest that soil structure recovery proceeds at two fronts: from the soil surface downward, and expanding around local biologically‐active pockets (marked by biopores) into the compacted soil volumes. This concept could be tested with additional data of longer time series at our site as well as in other soils and climates.",
+  "authors": [
+    "Thomas Keller",
+    "Tino Colombi",
+    "Siul Ruiz",
+    "Stanislaus J. Schymanski",
+    "Peter Weisskopf",
+    "John Koestel",
+    "Marlies Sommer",
+    "Viktor Stadelmann",
+    "Daniel Breitenstein",
+    "Norbert Kirchgessner",
+    "Achim Walter",
+    "Dani Or"
+  ],
+  "year": 2021,
+  "container": "Soil Science Society of America Journal",
+  "licenses": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "url": "https://doi.org/10.1002/saj2.20240"
+}

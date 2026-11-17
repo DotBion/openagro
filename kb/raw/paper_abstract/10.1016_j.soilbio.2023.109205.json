@@ -1,0 +1,29 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1016/j.soilbio.2023.109205",
+  "title": "Beyond PLFA: Concurrent extraction of neutral and glycolipid fatty acids provides new insights into soil microbial communities",
+  "abstract": "The analysis of phospholipid fatty acids (PLFAs) is one of the most common methods used to quantify the abundance, and analyse the community structure, of soil microbes. The PLFA extraction method can yield two additional lipid fractions—neutral lipids and glycolipids—which potentially hold additional, valuable information on soil microbial communities. Yet its quantitative sensitivity on complete neutral lipid (NLFA) and glycolipid fatty acid (GLFA) profiles has never been validated. In this study we tested (i) if the high-throughput PLFA method can be expanded to concurrently extract complete NLFA and GLFA profiles, as well as sterols, (ii) whether taxonomic specificities of signature fatty acids are retained across the three lipid fractions in pure culture strains, and (iii) whether NLFAs and GLFAs allow soil-specific fingerprinting to the same extent as PLFA analysis. By adjusting the polarity of chloroform with 2% ethanol for solid phase extraction, pure lipid standards were fully fractionated into neutral lipids, glycolipids, and phospholipids. Sterols eluted in the neutral lipid fraction, and a betaine lipid co-eluted with phospholipids. We found consistent taxonomic specificities of fatty acid markers across the three lipid fractions by analysing pure culture extracts representative of soil microbes. Fatty acid profiles from soil extracts, however, showed stronger differences between PLFAs, NLFAs, and GLFAs than between soil types. This indicates that PLFAs and NLFAs signify different community properties (biomass vs. carbon storage, putatively), and that GLFAs are sensitive markers for community traits which behave differently than PLFAs. Although we consistently found high abundances of characteristic sterols in fungal extracts, the PLFA extraction method only yielded miniscule amounts of ergosterol from soil extracts. We argue that concomitant measurement of fatty acid profiles from all three lipid fractions is a low-effort and potentially information-rich addition to the PLFA method, and discuss its applicability for soil microbial community analyses.",
+  "authors": [
+    "Stefan Gorka",
+    "Sean Darcy",
+    "Julia Horak",
+    "Bruna Imai",
+    "Moritz Mohrlok",
+    "Erika Salas",
+    "Andreas Richter",
+    "Hannes Schmidt",
+    "Wolfgang Wanek",
+    "Christina Kaiser",
+    "Alberto Canarini"
+  ],
+  "year": 2023,
+  "container": "Soil Biology and Biochemistry",
+  "licenses": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "http://creativecommons.org/licenses/by/4.0/",
+    "cc-by",
+    "oa_status:hybrid"
+  ],
+  "url": "https://doi.org/10.1016/j.soilbio.2023.109205"
+}

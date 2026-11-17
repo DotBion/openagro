@@ -1,0 +1,20 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.2136/sssaj2015.08.0308",
+  "title": "Evaluating Measures to Assess Soil Health in Long‐Term Agroecosystem Trials",
+  "abstract": "Core Ideas Soil C and N measures are an integral component to soil health assessment. Active C and N were not sensitive to tillage and cropping intensity. We propose 7 criteria that will aid in selecting future soil health metrics. Permanganate oxidizable C scored the highest based on the 7 criteria. Monitoring soil health is an important component of any land management system that sustains soil resources. As metrics of soil health, we evaluated surface soil organic matter (SOM) properties from five field experiments ranging from 2 to 30 yr old and representing diverse agroecosystems across the inland Pacific Northwest (iPNW). The SOM properties measured included soil organic C (SOC), total N, acid nonhydrolyzable C (NHC), acid nonhydrolyzable N (NHN), acid-hydrolyzable C (HC), acid-hydrolyzable N (HN), microbial biomass C (MBC), microbial biomass N (MBN), carbon mineralization (Cmin), permanganate oxidizable C (POXC), ion exchange membrane N (IEM N), and potential N mineralization (PNM). We further evaluated these SOM metrics and the Haney soil health index (SHindex) relative to the following seven criteria as a framework to judge the effectiveness of soil health tools: (i) evidence based, (ii) sensitive to change, (iii) logistically sensitive, (iv) cost effective, (v) accurate and precise, (vi) performed in situ, and (vii) valued for management decisions. Measures of active SOM were highly variable, particularly 1-d Cmin (CV, 3–53%), IEM N (CV, 9–55%), and SHindex (CV, 4–37%) and subsequently not highly sensitive to management. Permanganate oxidizable C displayed sensitivity to more stabilized SOM, indicated by strong correlations to NHC (r = 0.84) and NHN (r = 0.80), and coupled with IEM N provided complimentary information important to soil health. Using these seven criteria to gauge soil health metrics, POXC scored the highest and should be considered as a component for soil health assessment within the iPNW.",
+  "authors": [
+    "Jason G. Morrow",
+    "David R. Huggins",
+    "Lynne A. Carpenter-Boggs",
+    "John P. Reganold"
+  ],
+  "year": 2016,
+  "container": "Soil Science Society of America Journal",
+  "licenses": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "oa_status:closed"
+  ],
+  "url": "https://doi.org/10.2136/sssaj2015.08.0308"
+}

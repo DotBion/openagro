@@ -1,0 +1,21 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.2136/sssaj2016.12.0400",
+  "title": "Soil Health Indicators Do Not Differentiate among Agronomic Management Systems in North Carolina Soils",
+  "abstract": "Core Ideas Soil health metrics were not differentiated in long-term agronomic trials. Soil health tests produced different results and were not consistent with management. Soil health indicators should be tested in different agroecological regions. Recent soil tests evaluating “soil health” on a broad scale may not properly consider the intrinsic limitations of soil properties, and have not been assessed in regionally unique soil conditions. To evaluate three soil tests in North Carolina, we used long-term agronomic management trials from three distinct physiographic regions: mountain (22 yr), piedmont (32 yr), and coastal plain (17 yr). Mountain and coastal plain trials included combinations of organic or chemical management with or without tillage; the piedmont trial included nine different tillage treatments. Soil samples were collected and submitted for analysis as recommended by the North Carolina Department of Agriculture and Consumer Services, Haney soil health test (HSHT), and Cornell comprehensive assessment of soil health (CASH). Plant nutrient concentrations varied but were still sufficient for crops. The CASH physical soil indicators, such as surface hardness and aggregate stability, were not statistically different, regardless of tillage intensity or management. Biological soil indicators (e.g., CO2 respiration) responded differently to management, but this differentiation was inconsistent among locations and tests. Despite many years of conservation management, the CASH results described mountain soils as “low” or “very low” soil health for all but no-till organic management, which received a “medium” score. The HSHT results considered soil from all but moldboard plowing (piedmont) to be in good health. Finally, there was no correlation between soil health tests and crop yields from North Carolina soils. Soil health tests should be calibrated to better differentiate among soil management effects that vary depending on intrinsic soil limitations.",
+  "authors": [
+    "Wayne R. Roper",
+    "Deanna L. Osmond",
+    "Joshua L. Heitman",
+    "Michael G. Wagger",
+    "S. Chris Reberg-Horton"
+  ],
+  "year": 2017,
+  "container": "Soil Science Society of America Journal",
+  "licenses": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "cc-by",
+    "oa_status:hybrid"
+  ],
+  "url": "https://doi.org/10.2136/sssaj2016.12.0400"
+}

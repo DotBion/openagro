@@ -1,0 +1,17 @@
+{
+  "provider": "crossref",
+  "doi": "10.1073/pnas.1922375118",
+  "title": "The extent of soil loss across the US Corn Belt",
+  "abstract": "Conventional agricultural practices erode carbon-rich soils that are the foundation of agriculture. However, the magnitude of A-horizon soil loss across agricultural regions is poorly constrained, hindering the ability to assess soil degradation. Using a remote-sensing method for quantifying the absence of A-horizon soils and the relationship between soil loss and topography, we find that A-horizon soil has been eroded from roughly one-third of the midwestern US Corn Belt, whereas prior estimates indicated none of the Corn Belt region has lost A-horizon soils. The loss of A-horizon soil has removed 1.4 ± 0.5 Pg of carbon from hillslopes, reducing crop yields in the study area by ∼6% and resulting in $2.8 ± $0.9 billion in annual economic losses.",
+  "authors": [
+    "Evan A. Thaler",
+    "Isaac J. Larsen",
+    "Qian Yu"
+  ],
+  "year": 2021,
+  "container": "Proceedings of the National Academy of Sciences",
+  "licenses": [
+    "https://www.pnas.org/site/aboutpnas/licenses.xhtml"
+  ],
+  "url": "https://doi.org/10.1073/pnas.1922375118"
+}

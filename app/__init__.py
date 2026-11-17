@@ -1,0 +1,1 @@
+"""Local OpenAgronomy chat app."""

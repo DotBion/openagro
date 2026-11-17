@@ -1,0 +1,440 @@
+Rodale Institute - Research Hub & Impact | OpenAgData
+OpenAgData
+Map
+Studies
+Hubs
+Funding
+Search research, hubs…
+For researchers
+Sign in
+Add research
+Work with us 
+Menu
+ All research hubs
+Nonprofit
+Rodale Institute
+Rodale Institute advances regenerative organic agriculture through long-term field research, farmer training and education.
+Explore farming systems, soil health and crop production. Follow the sources to inspect reported results, methods and limitations.
+Kutztown, Pennsylvania
+ · organization
+Official website 
+Established 
+1947
+Published works by year
+1988
+20
+ in all
+2026
+Explore the findings 
+ Follow this hub
+An independent OpenAgData research collection. Inclusion of a source does not imply endorsement by 
+Rodale Institute
+.
+Source papers in this public sample
+5
+Works indexed across the collection
+20
+Data freshness · dates by source
+Latest paper added to hub
+Jul 20, 2026
+Measured evidence records updated
+Nov 6, 2026
+Evidence updates describe record changes, not a new human verification or complete coverage.
+Overview
+01
+What it works on
+, 
+Partly answered
+02
+What it has found
+, 
+Partly answered
+03
+Where the work happens
+, 
+Partly answered
+04
+What is still open
+, 
+Partly answered
+Search 
+Rodale Institute
+Research behind the mission
+Start with a research question.
+These questions lead into the 5 public source papers selected from 20 indexed works.
+ A source can address more than one question; topic matches do not establish a measured effect.
+001
+Model comparison
+Abstract summary · featured source
+How do farming systems compare?
+Baseline models estimated lower area-based greenhouse-gas emissions in the organic systems than in the conventional system.
+Read with this limit:
+Adding composting emissions raised the manure-based estimate. Modeled footprints from one trial do not establish reductions on other farms.
+article
+ · 2025
+Carbon footprint of organic and conventional arable crop production systems in a long-term trial
+Original source 
+Explore 
+3
+sample 
+sources
+002
+Field trial · 2021–2024
+Abstract summary · featured source
+What changes with tillage and cover crops?
+Cover crops supported yields under conventional tillage. No-till with cover-crop residue caused severe hemp stand loss despite some improved soil indicators.
+Read with this limit:
+A Pennsylvania hemp–barley trial with a management trade-off; applicability depends on the crop, conditions and practices.
+research
+ · 2026
+Tillage and cover cropping enhanced yield, nitrogen use efficiency, and soil health in organic industrial hemp–barley rotations
+Original source 
+Explore 
+2
+sample 
+sources
+003
+Research review
+Abstract summary · featured source
+How do nutrients and soil biology relate to crops?
+The review connects manure’s nutrient and soil benefits with risks to air, water and health, and compares management options.
+Read with this limit:
+A synthesis of existing research, rather than a new field comparison or a newly measured effect.
+review
+ · 2026
+Beyond waste: Transforming manure into a resource through integrated systems
+Original source 
+Explore 
+3
+sample 
+sources
+Publication summaries and reviews provide context. Measured findings below keep reported comparisons separate; source papers may share experiments.
+Browse all 
+public 
+sources 
+What the measurements showed
+40
+ findings · 
+6
+ source 
+paper
+s
+ · 
+each quoted from its source; not yet checked by a reviewer
+Reported measurements in this hub’s indexed research.
+ Each row shows the direction its source 
+paper
+s reported; open one for the context behind it. A direction is not an effect size, and colour marks benefit or harm only where the outcome itself defines it.
+This inventory spans the indexed collection. The public source sample above may not include every paper behind these comparisons.
+Organic legume-based system
+ vs 
+Conventional system
+yield-scaled GHG emissions (maize)
+ · 
+1
+ source 
+paper
+ · 
+1
+finding
+Decrease
+maize
+Reported directions across source 
+paper
+s
+1 ▼
+0
+ increase · 
+0
+ reported no change ·
+1
+ decrease · 
+0
+ mixed · 
+0
+unknown
+Each identified 
+paper
+ counts once in this comparison. Mixed means its measurements differ in direction; unknown means some direction is missing. Counts do not measure effect size or establish which practice is best.
+Nitrogen rate
+ vs 
+Among N rates
+nitrogen use efficiency indices
+ · 
+1
+ source 
+paper
+ · 
+1
+finding
+No change
+hemp
+Reported directions across source 
+paper
+s
+1 —
+0
+ increase · 
+1
+ reported no change ·
+0
+ decrease · 
+0
+ mixed · 
+0
+unknown
+Each identified 
+paper
+ counts once in this comparison. Mixed means its measurements differ in direction; unknown means some direction is missing. Counts do not measure effect size or establish which practice is best.
+Reduced tillage
+ vs 
+Tilled manure-based organic farms
+annual costs
+ · 
+1
+ source 
+paper
+ · 
+1
+finding
+Decrease
+field crops
+Reported directions across source 
+paper
+s
+1 ▼
+0
+ increase · 
+0
+ reported no change ·
+1
+ decrease · 
+0
+ mixed · 
+0
+unknown
+Each identified 
+paper
+ counts once in this comparison. Mixed means its measurements differ in direction; unknown means some direction is missing. Counts do not measure effect size or establish which practice is best.
+Crimson clover living mulch
+ vs 
+Plastic mulch control
+soil organic matter (SOM)
+ · 
+1
+ source 
+paper
+ · 
+1
+finding
+Increase
+globe artichoke
+Reported directions across source 
+paper
+s
+1 ▲
+1
+ increase · 
+0
+ reported no change ·
+0
+ decrease · 
+0
+ mixed · 
+0
+unknown
+Each identified 
+paper
+ counts once in this comparison. Mixed means its measurements differ in direction; unknown means some direction is missing. Counts do not measure effect size or establish which practice is best.
+Manure-based organic system
+ vs 
+Conventional system
+net returns
+ · 
+1
+ source 
+paper
+ · 
+1
+finding
+Increase
+field crops
+Reported directions across source 
+paper
+s
+1 ▲
+1
+ increase · 
+0
+ reported no change ·
+0
+ decrease · 
+0
+ mixed · 
+0
+unknown
+Each identified 
+paper
+ counts once in this comparison. Mixed means its measurements differ in direction; unknown means some direction is missing. Counts do not measure effect size or establish which practice is best.
+Plastic mulch
+ vs 
+Other mulching systems
+spring soil temperature
+ · 
+1
+ source 
+paper
+ · 
+1
+finding
+Increase
+globe artichoke
+Reported directions across source 
+paper
+s
+1 ▲
+1
+ increase · 
+0
+ reported no change ·
+0
+ decrease · 
+0
+ mixed · 
+0
+unknown
+Each identified 
+paper
+ counts once in this comparison. Mixed means its measurements differ in direction; unknown means some direction is missing. Counts do not measure effect size or establish which practice is best.
+Showing 
+6
+ of 
+40
+ comparisons. Source 
+paper
+s may share experiments; these are not counts of independent trials. Each finding receives equal weight in a finding median.
+Explore available source papers 
+Five questions a supporter asks
+What it works to change, and what the evidence shows so far.
+On this page
+The five answers
+What the research found
+What the measurements showed
+01
+What it works to change
+24
+topic tags in the public sample
+From the record
+02
+Who does the work
+27
+byline names in the public sample
+Partly answered
+03
+Where the work happens
+5 of 5
+public sample papers with placed study sites
+Partly answered
+04
+What it has found
+40
+measured findings
+Partly answered
+05
+What is still open
+To investigate
+questions for a research conversation
+Partly answered
+Sources and limits for these answers
+Each answer says what it is built from. 
+Public records answer part of each question; the organization's own project and member lists complete it.
+What it works to change
+24 themes across the 5 records in this view, 2025–2026; the 8 most frequent are charted by year
+ Organic Agriculture appears most often (3 records).
+Who does the work
+Counted from the author lists of the 5 records in this view; authors include outside collaborators
+Completes it:
+The organization's own staff and partner list, so collaborators and staff read apart.
+Where the work happens
+1 county · 1 state; sites read from methods sections. This selected sample covers 5 of 20 indexed works and prioritizes papers with locations; its coverage does not describe the full collection.
+Completes it:
+Trial and farm sites from the organization's own records.
+What it has found
+From 6 sources among 20 outputs, each quoted from its source; not yet checked by a reviewer
+Completes it:
+Trial reports, so results that were never published are counted too.
+What is still open
+Topic frequency in an indexed collection cannot establish which questions Rodale has left unanswered. Its current programs, ongoing trials and full evidence record are needed.
+Completes it:
+The organization's current program list, so a thin theme reads as open work rather than unpublished work.
+Nonprofit
+ · Managed hubs
+Show how supported research advances your mission.
+Connect the work you support to source-linked results and the questions your trustees, donors and stakeholders need to explore.
+Organize supported research
+Explain outcomes and limitations
+Build a shared mission view
+Works indexed for 
+Rodale Institute
+20
+Shown in this public view
+5
+Partner view
+15 more works, 
+complete portfolio, maintained evidence, reporting
+Explore a complete hub example: 
+American Malting Barley Association
+131 indexed works, 198 measured findings, study sites in 12 states
+What happens next.
+1
+A 30-minute conversation
+Your goals, who needs the evidence, and how you report today.
+2
+A preview of your own portfolio
+Built from public records under a private link, free, before any decision.
+3
+Scope agreed before work begins
+You decide what is worth maintaining. Fees follow the agreed scope.
+Request a discovery meeting 
+Download sample report
+Explore plans & pricing
+Prefer email? Write to 
+hello@open-ag-data.com
+. You hear back from Saurav Das, the founder, within two business days.
+Ongoing curation, reporting and custom capabilities are part of a paid hub partnership, with scope and fees agreed before work begins.
+Next · 
+01
+What it works on
+Sources & coverage 
+About the indexed collection
+About this indexed collection
+20
+Publications indexed
+5
+Publications in this view
+This public sample shows part of the indexed collection. Indexed record counts are not counts of independent experiments or measured findings. Coverage reflects the records linked here, not all of the organization’s research.
+OpenAgData
+Source papers, places, and measured outcomes for researchers and the organizations that support them.
+hello@open-ag-data.com
+Discover
+Map
+Studies
+Hubs
+Funding
+Researcher workspace
+Research tools
+For organizations
+Discuss your needs
+Partnerships & pricing
+Evidence data services
+About
+About
+Our ecosystem
+Investment & support
+Feedback
+Privacy
+Terms
+© 
+2026
+ OpenAgData. What works, where.
+Researchers · Funders · Hub partners

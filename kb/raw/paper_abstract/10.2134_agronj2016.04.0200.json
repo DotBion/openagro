@@ -1,0 +1,18 @@
+{
+  "provider": "crossref",
+  "doi": "10.2134/agronj2016.04.0200",
+  "title": "Urease Inhibitor NBPT on Ammonia Volatilization and Crop Productivity: A Meta‐Analysis",
+  "abstract": "The volatilization losses averaged 31.0% of applied N for urea and 14.8% for NBPT‐treated urea. NBPT‐treated urea showed a potential yield increase of 5.3% for major crops. The effect of NBPT in reducing volatilization losses were reduced under high N rates. NBPT had a limited effect on increasing yield in coarse‐textured soils and for NBPT rates &gt;1060 mg kg −1 . The urease inhibitor N ‐( n ‐butyl) thiophosphoric triamide (NBPT) slows urea hydrolysis, reduces NH 3 volatilization loss, and enhances N availability to plants. Even though most studies have proved the potential of NBPT‐treated urea to reduce NH 3 loss, the benefits to increase crop yield have been less consistent, mainly because N is not always the limiting factor. A meta‐analysis was carried out to evaluate the effect of soil properties (e.g., soil pH, soil texture, soil organic C [SOC]), N rate, and NBPT concentration on NH 3 volatilization loss and crop yield when comparing urea with NBPT‐treated urea. Regression analysis indicated cumulative NH 3 loss of 31.0 and 14.8% of applied N for urea and NBPT‐treated urea, respectively, a 52% reduction in NH 3 loss by using the urease inhibitor. The use of NBPT delayed NH 3 loss. It took 4.8 and 8.3 d for 50% of the total NH 3 loss to occur for urea and NBPT‐treated urea, respectively. The meta‐analyses indicated that when compared with urea, NBPT‐treated urea reduced NH 3 volatilization loss across all soil pH classes, soil texture classes, SOC contents, N rates, and NBPT concentrations. The meta‐analysis indicated an average crop yield increase of 5.3% for NBPT‐treated urea compared with urea. This trend was observed for all classes of soil pH, SOC content, and N rate, but yield increases were limited in coarse‐textured soils and NBPT rates &gt;1060 mg kg −1 .",
+  "authors": [
+    "Aijânio G. B. Silva",
+    "Cleiton H. Sequeira",
+    "Renata A. Sermarini",
+    "Rafael Otto"
+  ],
+  "year": 2017,
+  "container": "Agronomy Journal",
+  "licenses": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "url": "https://doi.org/10.2134/agronj2016.04.0200"
+}

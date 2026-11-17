@@ -1,0 +1,19 @@
+{
+  "provider": "crossref",
+  "doi": "10.1002/cft2.20187",
+  "title": "Corn yield response to starter nitrogen rates following a cereal rye cover crop",
+  "abstract": "Cereal rye ( Secale cereale L.; CR) is promoted as a cover crop as a practice for reducing nitrate leaching losses in the U.S. Midwest. However, early‐season nitrogen immobilization during CR decomposition may contribute to yield reductions in corn ( Zea mays L.). Field trials were conducted at three sites to determine if N as a starter fertilizer could increase the plant N uptake and grain yield of corn following CR. Treatments were a two‐way factorial with two cover crop treatments (CR and no CR) and four fertilizer treatments: subsurface banded (2 by 2 inches) at planting as urea ammonium nitrate (UAN) at 0, 25, 50, and 75 lb acre –1 . Treatments received the same total N within sites, with the remainder injected between rows at side‐dressing as UAN. Nitrogen uptake and yield were unaffected by the starter N × CR interaction in all sites. At one of the sites, CR significantly reduced N uptake and corn yield at the R6 stage by 16 and 4.5% relative to no CR, respectively. Corn yield was unaffected by starter N at two sites, whereas applying 50 or 75 N lb acre –1 increased yields compared with 0 and 25 N lb acre –1 at the third site. These findings suggest that starter N could increase early‐season N uptake but had an inconsistent impact on corn yields. Therefore, further investigations under different soil N conditions are needed to provide insights into how starter N rates can be adjusted to optimize corn yields within a CR system.",
+  "authors": [
+    "Giovani Preza‐Fontes",
+    "Houston Miller",
+    "James Camberato",
+    "Richard Roth",
+    "Shalamar Armstrong"
+  ],
+  "year": 2022,
+  "container": "Crop, Forage &amp; Turfgrass Management",
+  "licenses": [
+    "http://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "url": "https://doi.org/10.1002/cft2.20187"
+}

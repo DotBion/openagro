@@ -1,0 +1,21 @@
+{
+  "provider": "crossref",
+  "doi": "10.1126/sciadv.aba1715",
+  "title": "Agricultural diversification promotes multiple ecosystem services without compromising yield",
+  "abstract": "Diversification practices benefit biodiversity, pollination, pest control, nutrient cycling, soil fertility, and water regulation.",
+  "authors": [
+    "Giovanni Tamburini",
+    "Riccardo Bommarco",
+    "Thomas Cherico Wanger",
+    "Claire Kremen",
+    "Marcel G. A. van der Heijden",
+    "Matt Liebman",
+    "Sara Hallin"
+  ],
+  "year": 2020,
+  "container": "Science Advances",
+  "licenses": [
+    "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "url": "https://doi.org/10.1126/sciadv.aba1715"
+}

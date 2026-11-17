@@ -1,0 +1,20 @@
+{
+  "provider": "crossref",
+  "doi": "10.2134/ael2018.02.0006",
+  "title": "Soil Protein as a Rapid Soil Health Indicator of Potentially Available Organic Nitrogen",
+  "abstract": "The extraction protocol for “glomalin” extracts protein from a wide variety of sources. The term glomalin or glomalin‐related soil protein is inaccurate and limits the utility of the method. The extracted protein pool should be viewed more broadly as a soil health indicator of potentially available organic N. Increased interest in practical, routine evaluation of soil health has created a need for rapid and inexpensive indicators that reflect soil nitrogen (N) status. Here we propose a soil protein measurement as an indicator of a functionally relevant and sensitive pool of organic N that can be rapidly quantified in soil testing laboratories. The procedure is based on a method that was historically used to measure “glomalin,” a pool putatively of arbuscular mycorrhizal fungal origin. Laboratory validation experiments demonstrate that the procedure extracts proteins from a wide range of sources, not just glomalin, and that continued use of the term glomalin is inaccurate and limits the application of the method. Therefore, we propose that the pool of proteins extracted by this method can be viewed more broadly as a soil health indicator that reflects the primary pool of organically bound N in soil and thus as potentially available organic N. We provide a laboratory protocol that details autoclaving soil in a neutral sodium citrate buffer solution followed by clarification and protein quantification steps.",
+  "authors": [
+    "Tunsisa T. Hurisso",
+    "Dan J. Moebius‐Clune",
+    "Steve W. Culman",
+    "Bianca N. Moebius‐Clune",
+    "Janice E. Thies",
+    "Harold M. van Es"
+  ],
+  "year": 2018,
+  "container": "Agricultural &amp; Environmental Letters",
+  "licenses": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "url": "https://doi.org/10.2134/ael2018.02.0006"
+}

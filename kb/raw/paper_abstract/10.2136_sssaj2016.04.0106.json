@@ -1,0 +1,26 @@
+{
+  "provider": "crossref",
+  "doi": "10.2136/sssaj2016.04.0106",
+  "title": "Comparison of Permanganate‐Oxidizable Carbon and Mineralizable Carbon for Assessment of Organic Matter Stabilization and Mineralization",
+  "abstract": "POXC and mineralizable C were evaluated across diverse agroecosystems. The two are related but differentially influenced by management practices. POXC better reflected SOM stabilizing practices. Mineralizable C reflected SOM mineralizing practices. Both predicted agronomic performance better than other soil C fractions. Permanganate‐oxidizable C (POXC) and mineralizable C (as determined by short‐term aerobic incubation of rewetted soil) are measures of active organic matter that may provide early indication of soil C stabilization and mineralization processes. To date, the relationship between these two promising active organic matter tests has not been comprehensively evaluated, and little is known about their functional role in the soil ecosystem. Here, we examined the relationship between POXC and mineralizable C across a wide range of soil types, management histories, and geographic locations across the United States (13 studies, 76 total sites; n = 1071) and the ability of POXC and mineralizable C to predict crop yield and total aboveground biomass. Results from this comparative analysis showed that POXC and mineralizable C are related (r 2 = 0.15–0.80) but that the relationship was differentially influenced by management practices. Overall, POXC better reflected practices that promote organic matter accumulation or stabilization and therefore can be a useful indicator of long‐term soil C sequestration. Conversely, mineralizable C better reflected practices that promote organic matter mineralization and therefore can be a useful indicator of short‐term soil nutrient availability. Our results also show that both mineralizable C and POXC were better predictors of corn (Zea mays L.) grain yield, aboveground biomass, and tomato (Solanum lycopersicum L.) fruit yield than other soil C fractions evaluated here. Thus, the integrated use of POXC and mineralizable C can provide a complementary framework to assess the relative dynamics of soil C stabilization and nutrient mineralization functions in agroecosystems.",
+  "authors": [
+    "Tunsisa T. Hurisso",
+    "Steve W. Culman",
+    "William R. Horwath",
+    "Jordon Wade",
+    "Deandra Cass",
+    "Joshua W. Beniston",
+    "Timothy M. Bowles",
+    "A. Stuart Grandy",
+    "Alan J. Franzluebbers",
+    "Meagan E. Schipanski",
+    "Shawn T. Lucas",
+    "Carmen M. Ugarte"
+  ],
+  "year": 2016,
+  "container": "Soil Science Society of America Journal",
+  "licenses": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "url": "https://doi.org/10.2136/sssaj2016.04.0106"
+}

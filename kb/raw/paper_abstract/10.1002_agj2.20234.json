@@ -1,0 +1,24 @@
+{
+  "provider": "crossref",
+  "doi": "10.1002/agj2.20234",
+  "title": "Introducing the North American project to evaluate soil health measurements",
+  "abstract": "The North American Project to Evaluate Soil Health Measurements was initiated with the objective to identify widely applicable soil health measurements for evaluation of agricultural management practices intended to improve soil health. More than 20 indicators were chosen for assessment across 120 long‐term agricultural research sites spanning from north‐central Canada to southern Mexico. The indicators being evaluated include common standard measures of soil, but also newer techniques of visible and near‐infrared reflectance spectroscopy, a smart phone app, and metagenomics. The aim of using consistent sampling and analytical protocols across selected sites was to provide a database of soil health indicator results that can be used to better understand how land use and management has affected the condition of soil ecosystem provisioning for agricultural biomass production and water resources, as well as nutrient and C cycling. The objective of this paper is to provide documentation of the overall design, and methods being employed to identify soil health indicators sensitive across agricultural management practices, pedologies, and geographies.",
+  "authors": [
+    "Charlotte E. Norris",
+    "G. Mac Bean",
+    "Shannon B. Cappellazzi",
+    "Michael Cope",
+    "Kelsey L.H. Greub",
+    "Daniel Liptzin",
+    "Elizabeth L. Rieke",
+    "Paul W. Tracy",
+    "Cristine L.S. Morgan",
+    "C. Wayne Honeycutt"
+  ],
+  "year": 2020,
+  "container": "Agronomy Journal",
+  "licenses": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "url": "https://doi.org/10.1002/agj2.20234"
+}

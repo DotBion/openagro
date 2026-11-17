@@ -1,0 +1,22 @@
+{
+  "provider": "crossref",
+  "doi": "10.1002/cft2.20217",
+  "title": "Development of a soil moisture sensor‐based irrigation scheduling program for the midsouthern United States",
+  "abstract": "There is limited adoption of irrigation scheduling tools that could improve application timing and water use efficiency in row‐crop production systems common to the mid‐southern United States. The objectives of this manuscript are to describe a sensor‐based irrigation scheduling method and review its effects on water applied and crop productivity. The effects of scheduling irrigation based on the recommended construction, deployment, and utilization of the WATERMARK 200SS granular matrix (WATERMARK) sensor on water applied, crop productivity, and crop water use efficiency were reviewed for corn ( Zea mays L.), soybean [ Glycine max L. (Merr.)], peanut ( Arachis hypogaea L.), and cotton ( Gossypium hirsutum L.) produced in the Prairie region of Arkansas and the Delta regions of Arkansas and Mississippi. For corn and soybean, on‐farm research indicates the recommended irrigation threshold of −85 to −100 cbar reduces total water applied up to 40% while maintaining or improving yield up to 3%, net returns up to $39 acre −1 , and irrigation water use efficiency up to 51% for soil textures ranging from very fine sandy loam to clay. Similarly, for peanut and cotton, results indicate the irrigation threshold that minimizes water use while maximizing yield and net returns is −50 cbar and −100 cbar, respectively. The recommended method for scheduling irrigations with a WATERMARK 200SS soil moisture sensor promotes the efficient use of water in row‐crop production systems common to the mid‐southern USA.",
+  "authors": [
+    "Corey J. Bryant",
+    "G. Dave Spencer",
+    "Drew M. Gholson",
+    "Michael T. Plumblee",
+    "Darrin M. Dodds",
+    "Graham R. Oakley",
+    "D. Zach Reynolds",
+    "L. Jason Krutz"
+  ],
+  "year": 2023,
+  "container": "Crop, Forage &amp; Turfgrass Management",
+  "licenses": [
+    "http://creativecommons.org/licenses/by/4.0/"
+  ],
+  "url": "https://doi.org/10.1002/cft2.20217"
+}

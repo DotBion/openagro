@@ -1,0 +1,34 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1371/journal.pone.0217510",
+  "title": "Meta-analysis of yield response of foliar fungicide-treated hybrid corn in the United States and Ontario, Canada",
+  "abstract": "BACKGROUND: Foliar fungicide applications to corn (Zea mays L.) occur at one or more application timings ranging from early vegetative growth stages to mid-reproductive stages. Previous studies indicated that fungicide applications are profitable under high disease pressure when applied during the tasseling to silking growth stages. Few comprehensive studies in corn have examined the impact of fungicide applications at an early vegetative growth stage (V6) compared to late application timings (VT) for yield response and return on fungicide investment (ROI) across multiple locations. OBJECTIVE: Compare yield response of fungicide application timing across multiple fungicide classes and calculate the probability of positive ROI. METHODS: Data were collected specifically for this analysis using a uniform protocol conducted in 13 states in the United States and one province in Canada from 2014-2015. Data were subjected to a primary mixed-model analysis of variance. Subsequent univariate meta-analyses, with and without moderator variables, were performed using standard meta-analytic procedures. Follow-up power and prediction analyses were performed to aid interpretation and development of management recommendations. RESULTS: Fungicide application resulted in a range of yield responses from -2,683.0 to 3,230.9 kg/ha relative to the non-treated control, with 68.2% of these responses being positive. Evidence suggests that all three moderator variables tested (application timing, fungicide class, and disease base level), had some effect (α = 0.05) on the absolute difference in yield between fungicide treated and non-treated plots ([Formula: see text]). Application timing influenced [Formula: see text], with V6 + VT and the VT application timings resulting in greater yield responses than the V6 application timing alone. Fungicide formulations that combined demethylation inhibitor and quinone outside inhibitor fungicides significantly increased yield response. CONCLUSION: Foliar fungicide applications can increase corn grain yield. To ensure the likelihood of a positive ROI, farmers should focus on applications at VT and use fungicides that include a mix of demethylation inhibitor and quinone outside inhibitor active ingredients.",
+  "authors": [
+    "Kiersten A. Wise",
+    "Damon Smith",
+    "Anna Freije",
+    "Daren S. Mueller",
+    "Yuba Kandel",
+    "Tom Allen",
+    "Carl A. Bradley",
+    "Emmanuel Byamukama",
+    "Martin Chilvers",
+    "Travis Faske",
+    "Andrew Friskop",
+    "Clayton Hollier",
+    "Tamra A. Jackson-Ziems",
+    "Heather Kelly",
+    "Bob Kemerait",
+    "Paul Price",
+    "Alison Robertson",
+    "Albert Tenuta"
+  ],
+  "year": 2019,
+  "container": "PLOS ONE",
+  "licenses": [
+    "http://creativecommons.org/licenses/by/4.0/",
+    "cc-by",
+    "oa_status:gold"
+  ],
+  "url": "https://doi.org/10.1371/journal.pone.0217510"
+}

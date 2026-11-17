@@ -1,0 +1,10 @@
+{
+  "partial": true,
+  "n": 200,
+  "status_counts": {
+    "ok": 127,
+    "answer_with_caveat": 43,
+    "hedged": 1,
+    "refused": 29
+  }
+}

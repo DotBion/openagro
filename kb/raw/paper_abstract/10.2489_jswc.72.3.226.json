@@ -1,0 +1,16 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.2489/jswc.72.3.226",
+  "title": "Corn yield response to winter cover crops: An updated meta-analysis",
+  "abstract": "Winter cover crops (WCCs) provide agronomic and environmental benefits, although their impacts on subsequent crop yields have been reported to vary across regions, soils, or under different farm practices. To address the variability in response, previous qualitative and quantitative reviews have summarized the overall yield effects of WCCs. However, the results from such reviews need constant revision as new research is published and interest in the conservation benefits of WCCs increases. Here, we update a previous meta-analysis of WCC effects on corn (Zea mays) yields, which summarized peer-reviewed research from the United Sates and Canada that was published between 1965 and 2004. Our updated data set (1965 to 2015) comprises 268 observations from 65 studies conducted in different regions of the United States and Canada, and includes information about the management practices utilized (i.e., WCC species, nitrogen [N] fertilization, termination date, tillage, etc.). The effect-size was the response ratio (RR), defined as corn yield following WCCs relative to yield after no cover crop (NC). As in the previous meta-analysis, our results showed a neutral to positive contribution of WCCs to corn yields. On average, grass WCCs neither increased nor decreased corn yields, although corn grown for grain yielded relatively higher than silage corn after grass WCCs. Legume WCCs resulted in subsequent higher corn yields by 30% to 33% when N fertilizer rates were low or the tillage system shifted from conventional tillage (CT) to no-tillage (NT). Mixture WCCs increased corn yields by 30% when the cover crop was late terminated (zero to six days before subsequent corn). Evidence of 65 years of research showed that uncertainty around the RR has decreased and corn yield response to WCCs has stabilized over time. Our results suggest that benefits of WCCs do not result in reduced corn productivity if properly managed.",
+  "authors": [
+    "G.S. Marcillo",
+    "F.E. Miguez"
+  ],
+  "year": 2017,
+  "container": "Journal of Soil and Water Conservation",
+  "licenses": [
+    "oa_status:bronze"
+  ],
+  "url": "https://doi.org/10.2489/jswc.72.3.226"
+}

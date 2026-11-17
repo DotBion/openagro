@@ -1,0 +1,24 @@
+{
+  "provider": "crossref",
+  "doi": "10.3389/fpls.2025.1524884",
+  "title": "Agronomic impacts of chemically and microbiologically characterized compost tea in Mediterranean volcanic soils",
+  "abstract": "Compost tea is widely recognized for its beneficial effects on crop growth and soil health. However, its efficacy varies depending on the composition of the feedstock and brewing conditions. This study investigates the chemical composition and agronomic impact of compost tea prepared from a commercial mixture of plant residues and animal manure. Standard chemical analyses, combined with solid-state 13 C CPMAS NMR spectroscopy, were employed to characterize the organic chemistry of the feedstock. High-throughput sequencing of bacterial and eukaryotic rRNA gene markers was used to profile the microbiota. Compost tea was applied to three crops, Allium cepa , Beta vulgaris , and Lactuca sativa , grown in protected Mediterranean environments on volcanic soils. The 13 C CPMAS NMR analysis revealed that the feedstock is predominantly composed of plant-derived tissues, including grass straw, nitrogen-fixing hay, and animal manure, with a significant presence of O-alkyl-C and di-O-alkyl-C regions typical of sugars and polysaccharides. Additionally, the chemical profile indicated the presence of an aliphatic fraction (alkyl-C), characteristic of lipids such as waxes and cutins. The compost tea microbiome was dominated by Pseudomonadota , with Pseudomonas , Massilia , and Sphingomonas being the most prevalent genera. Compost tea application resulted in significant yield increases, ranging from +21% for lettuce to +58% for onion and +110% for chard. Furthermore, compost tea application reduced slug damage and enhanced the shelf life of lettuce. These findings highlight the bio-stimulant potential of this standardized compost tea mixture across different vegetable crops.",
+  "authors": [
+    "Giuliano Bonanomi",
+    "Ayoub Idbella",
+    "Giandomenico Amoroso",
+    "Giuseppina Iacomino",
+    "Mara Gherardelli",
+    "Andrea De Sio",
+    "Franco Saccocci",
+    "Ahmed M. Abd-ElGawad",
+    "Mauro Moreno",
+    "Mohamed Idbella"
+  ],
+  "year": 2025,
+  "container": "Frontiers in Plant Science",
+  "licenses": [
+    "https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "url": "https://doi.org/10.3389/fpls.2025.1524884"
+}

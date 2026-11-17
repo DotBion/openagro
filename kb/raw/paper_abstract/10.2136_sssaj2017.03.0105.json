@@ -1,0 +1,20 @@
+{
+  "provider": "crossref",
+  "doi": "10.2136/sssaj2017.03.0105",
+  "title": "Sources of Variability that Compromise Mineralizable Carbon as a Soil Health Indicator",
+  "abstract": "Inter‐laboratory variability for mineralizable C is greater than for other commercial soil tests. Water content and direction of rewetting both affect values of mineralizable C. As a soil health indicator, mineralizable C should have a standardized protocol. Analytical variability of mineralizable C is highly affected by soil type. Mineralizable C, or C that is respired upon the rewetting of dried soil, is a common metric of soil health, but the metric still lacks a widely accepted and standardized protocol. A standardized protocol is an essential first step in quality control needed for a robust soil test. Here we examined numerous sources of laboratory variability associated with mineralizable C, with the overall goal of understanding the influence of each source on final values. Mineralizable C had twofold to 20‐fold greater inter‐laboratory variability than other commonly used soil tests, leading to a high degree of uncertainty associated with the interpretation of results. Procedural differences—such as sieve size and the method of rewetting—significantly influenced measurements of mineralizable C and underscore the need for the development of a standardized and universally adopted protocol. Capillary rewetting consistently suppressed mineralizable C relative to rewetting with a specific amount of water and is therefore not a recommended approach. However, the sensitivity of mineralizable C to changes in management did not differ among incubation intervals of 6, 24, and 72 h. While these procedural effects may influence inter‐laboratory variability, there was also a considerable amount of analytical variability associated with mineralizable C measurements within a laboratory that is highly dependent on soil type.",
+  "authors": [
+    "Jordon Wade",
+    "Steven W. Culman",
+    "Tunsisa T. Hurisso",
+    "Robert O. Miller",
+    "Lucas Baker",
+    "William R. Horwath"
+  ],
+  "year": 2018,
+  "container": "Soil Science Society of America Journal",
+  "licenses": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "url": "https://doi.org/10.2136/sssaj2017.03.0105"
+}

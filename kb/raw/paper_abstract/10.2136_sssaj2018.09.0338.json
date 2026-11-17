@@ -1,0 +1,16 @@
+{
+  "provider": "crossref",
+  "doi": "10.2136/sssaj2018.09.0338",
+  "title": "Reanalysis Validates Soil Health Indicator Sensitivity and Correlation with Long‐term Crop Yields",
+  "abstract": "Soil health metrics were sensitive in North Carolina soils. Tillage intensity and fertility practices were especially differentiated by biological soil health metrics. Soil health metrics associated with labile organic matter correlated well with crop yields. Soil health (SH) refers to the ability of a soil to function and provide ecosystem services. This study reanalyzes data from long‐term agronomic management experiments in North Carolina and addresses previous conclusions regarding the utility of SH test metrics. Data for 15 SH indicators in the Comprehensive Assessment of Soil Health (CASH) framework from three long‐term trials in North Carolina were analyzed to assess effects of tillage intensity and organic vs. conventional management. This included four soil biological indicators—organic matter (OM), active carbon (ActC), respiration (Resp), and protein (Prot); four soil physical indicators—available water capacity (AWC), water‐stable aggregation (Agstab), surface and subsurface penetration resistance (SurfHard, SubHard); and seven soil chemical (fertility) indicators (P, K, Mg, Fe, Mn, Zn, pH). Corn ( Zea mays L.) and soybean ( Glycine max L. Merr.) yield data and SH indicator values were correlated using site‐specific and multi‐site datasets. Long‐term management practices most commonly showed significant impacts with AgStab (up to 2.2′), ActC (2.1′), Prot (2.3′), and most chemical indicators. Tillage intensity had a greater impact than organic vs. conventional management and linear regression of multi‐year mean corn and soybean yield response to tillage showed significant correlations with eight SH indicators, highest among them ActC, Protein, Resp, and Mn ( R 2 = 0.85–0.93). Contrary to previous conclusions, CASH indicators, especially those related to labile C and N, responded well to management practices and showed utility for SH assessment in agronomic trials.",
+  "authors": [
+    "Harold M. van Es",
+    "Douglas L. Karlen"
+  ],
+  "year": 2019,
+  "container": "Soil Science Society of America Journal",
+  "licenses": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "url": "https://doi.org/10.2136/sssaj2018.09.0338"
+}

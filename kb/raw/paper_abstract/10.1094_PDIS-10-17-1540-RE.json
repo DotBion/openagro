@@ -1,0 +1,27 @@
+{
+  "provider": "crossref",
+  "doi": "10.1094/pdis-10-17-1540-re",
+  "title": "Benefits and Profitability of Fluopyram-Amended Seed Treatments for Suppressing Sudden Death Syndrome and Protecting Soybean Yield: A Meta-Analysis",
+  "abstract": "A meta-analytic approach was used to summarize data on the effects of fluopyram-amended seed treatment on sudden death syndrome (SDS) and yield of soybean (Glycine max L.) in over 200 field trials conducted in 12 U.S. states and Ontario, Canada from 2013 to 2015. In those trials, two treatments—the commercial base (CB), and CB plus fluopyram (CBF)—were tested, and all disease and yield data were combined to conduct a random-effects and mixed-effects meta-analysis (test of moderators) to estimate percent control and yield response relative to CB. Overall, a 35% reduction in foliar disease and 295 kg/ha (7.6%) increase in yield were estimated for CBF relative to CB. Sowing date and geographic region affected both estimates. The variation in yield response was explained partially by disease severity (19%), geographic region (8%), and sowing date (10%) but not by the resistance level of the cultivar. The probability of not offsetting the cost of fluopyram was estimated on a range of grain prices and treatment cost combinations. There was a high probability (&gt;80%) of yield gains when disease level was high in any cost–price combinations tested but very low when the foliar symptoms of the disease were absent.",
+  "authors": [
+    "Yuba R. Kandel",
+    "Michael T. McCarville",
+    "Eric A. Adee",
+    "Jason P. Bond",
+    "Martin I. Chilvers",
+    "Shawn P. Conley",
+    "Loren J. Giesler",
+    "Heather M. Kelly",
+    "Dean K. Malvick",
+    "Febina M. Mathew",
+    "John C. Rupe",
+    "Laura E. Sweets",
+    "Albert U. Tenuta",
+    "Kiersten A. Wise",
+    "Daren S. Mueller"
+  ],
+  "year": 2018,
+  "container": "Plant Disease",
+  "licenses": [],
+  "url": "https://doi.org/10.1094/pdis-10-17-1540-re"
+}

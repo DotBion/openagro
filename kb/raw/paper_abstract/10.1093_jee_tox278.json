@@ -1,0 +1,24 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1093/jee/tox278",
+  "title": "Value of Neonicotinoid Insecticide Seed Treatments in Mid-South Corn (Zea mays) Production Systems",
+  "abstract": "Neonicotinoid seed treatments are one of several effective control options used in corn, Zea mays L., production in the Mid-South for early season insect pests. An analysis was performed on 91 insecticide seed treatment trials from Arkansas, Louisiana, Mississippi, and Tennessee to determine the value of neonicotinoids in corn production systems. The analysis compared neonicotinoid insecticide treated seed plus a fungicide to seed only with the same fungicide. When analyzed by state, corn yields were significantly higher when neonicotinoid seed treatments were used compared to fungicide only treated seed in Louisiana and Mississippi. Corn seed treated with neonicotinoid seed treatments yielded 111, 1,093, 416, and 140 kg/ha, higher than fungicide only treatments for Arkansas, Louisiana, Mississippi, and Tennessee, respectively. Across all states, neonicotinoid seed treatments resulted in a 700 kg/ha advantage compared to fungicide only treated corn seed. Net returns for corn treated with neonicotinoid seed treatment were $1,446/ha compared with $1,390/ha for fungicide only treated corn seed across the Mid-South. Economic returns for neonicotinoid seed treated corn were significantly greater than fungicide-only-treated corn seed in 8 out of 14 yr. When analyzed by state, economic returns for neonicotinoid seed treatments were significantly greater than fungicide-only-treated seed in Louisiana. In some areas, dependent on year, neonicotinoid seed treatments provide significant yield and economic benefits in Mid-South corn.",
+  "authors": [
+    "J H North",
+    "J Gore",
+    "A L Catchot",
+    "S D Stewart",
+    "G M Lorenz",
+    "F R Musser",
+    "D R Cook",
+    "D L Kerns",
+    "B R Leonard",
+    "D M Dodds"
+  ],
+  "year": 2018,
+  "container": "Journal of Economic Entomology",
+  "licenses": [
+    "oa_status:closed"
+  ],
+  "url": "https://doi.org/10.1093/jee/tox278"
+}

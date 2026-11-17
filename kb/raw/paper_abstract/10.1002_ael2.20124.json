@@ -1,0 +1,18 @@
+{
+  "provider": "crossref",
+  "doi": "10.1002/ael2.20124",
+  "title": "The misuse of permanganate as a quantitative measure of soil organic carbon",
+  "abstract": "In the last two decades, permanganate has been used to define what is assumed to be a labile or “active” soil carbon (C) pool, commonly referred to as “permanganate‐oxidizable carbon” (POXC). However, uncertainties in the reduction reaction (Mn 7+ → Mn 4+ /Mn 2+ ) and even greater uncertainties in the oxidation reaction (C ? → C ? ) as well as the reaction of non‐C reductants in the soil sample preclude the calculation of milligram C per kilogram of soil oxidized. Combined variation in the reduction–oxidation reactions can entail up to fivefold variation in how much soil organic C is oxidized per unit permanganate reduced. Without determining final reduction state of Mn and the initial and final oxidation states of C, the amount of C oxidized cannot be calculated. Unless a concrete understanding of the reduction and oxidation half‐reactions is achieved, an alternative expression of permanganate reactivity of a soil sample (i.e., not mg C kg −1 soil) is needed.",
+  "authors": [
+    "Andrew J. Margenot",
+    "Jordon Wade",
+    "Finnleigh S. Woodings"
+  ],
+  "year": 2024,
+  "container": "Agricultural &amp; Environmental Letters",
+  "licenses": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "url": "https://doi.org/10.1002/ael2.20124"
+}

@@ -1,0 +1,17 @@
+{
+  "provider": "crossref",
+  "doi": "10.1890/13-0616.1",
+  "title": "Does agricultural crop diversity enhance soil microbial biomass and organic matter dynamics? A meta‐analysis",
+  "abstract": "Our increasing dependence on a small number of agricultural crops, such as corn, is leading to reductions in agricultural biodiversity. Reductions in the number of crops in rotation or the replacement of rotations by monocultures are responsible for this loss of biodiversity. The belowground implications of simplifying agricultural plant communities remain unresolved; however, agroecosystem sustainability will be severely compromised if reductions in biodiversity reduce soil C and N concentrations, alter microbial communities, and degrade soil ecosystem functions as reported in natural communities. We conducted a meta‐analysis of 122 studies to examine crop rotation effects on total soil C and N concentrations, and the faster cycling microbial biomass C and N pools that play key roles in soil nutrient cycling and physical processes such as aggregate formation. We specifically examined how rotation crop type and management practices influence C and N dynamics in different climates and soil types. We found that adding one or more crops in rotation to a monoculture increased total soil C by 3.6% and total N by 5.3%, but when rotations included a cover crop (i.e., crops that are not harvested but produced to enrich the soil and capture inorganic N), total C increased by 8.5% and total N 12.8%. Rotations substantially increased the soil microbial biomass C (20.7%) and N (26.1%) pools, and these overwhelming effects on microbial biomass were not moderated by crop type or management practices. Crop rotations, especially those that include cover crops, sustain soil quality and productivity by enhancing soil C, N, and microbial biomass, making them a cornerstone for sustainable agroecosystems.",
+  "authors": [
+    "M. D. McDaniel",
+    "L. K. Tiemann",
+    "A. S. Grandy"
+  ],
+  "year": 2014,
+  "container": "Ecological Applications",
+  "licenses": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "url": "https://doi.org/10.1890/13-0616.1"
+}

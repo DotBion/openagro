@@ -1,0 +1,22 @@
+{
+  "provider": "crossref",
+  "doi": "10.1111/gcb.16489",
+  "title": "Recent cover crop adoption is associated with small maize and soybean yield losses in the United States",
+  "abstract": "Cover crops are gaining traction in many agricultural regions, partly driven by increased public subsidies and by private markets for ecosystem services. These payments are motivated by environmental benefits, including improved soil health, reduced erosion, and increased soil organic carbon. However, previous work based on experimental plots or crop modeling indicates cover crops may reduce crop yields. It remains unclear, though, how recent cover crop adoption has affected productivity in commercial agricultural systems. Here we perform the first large‐scale, field‐level analysis of observed yield impacts from cover cropping as implemented across the US Corn Belt. We use validated satellite data products at sub‐field scales to analyze maize and soybean yield outcomes for over 90,000 fields in 2019–2020. Because we lack data on cover crop species or timing, we seek to quantify the yield impacts of cover cropping as currently practiced in aggregate. Using causal forests analysis, we estimate an average maize yield loss of 5.5% on fields where cover crops were used for 3 or more years, compared with fields that did not adopt cover cropping. Maize yield losses were larger on fields with better soil ratings, cooler mid‐season temperatures, and lower spring rainfall. For soybeans, average yield losses were 3.5%, with larger impacts on fields with warmer June temperatures, lower spring and late‐season rainfall, and, to a lesser extent, better soils. Estimated impacts are consistent with multiple mechanisms indicated by experimental and simulation‐based studies, including the effects of cover crops on nitrogen dynamics, water consumption, and soil oxygen depletion. Our results suggest a need to improve cover crop management to reduce yield penalties, and a potential need to target subsidies based on likely yield impacts. Ultimately, avoiding substantial yield penalties is important for realizing widespread adoption and associated benefits for water quality, erosion, soil carbon, and greenhouse gas emissions.",
+  "authors": [
+    "Jillian M. Deines",
+    "Kaiyu Guan",
+    "Bruno Lopez",
+    "Qu Zhou",
+    "Cambria S. White",
+    "Sheng Wang",
+    "David B. Lobell"
+  ],
+  "year": 2023,
+  "container": "Global Change Biology",
+  "licenses": [
+    "http://creativecommons.org/licenses/by-nc/4.0/",
+    "http://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "url": "https://doi.org/10.1111/gcb.16489"
+}

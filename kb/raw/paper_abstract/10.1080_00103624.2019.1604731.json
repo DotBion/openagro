@@ -1,0 +1,21 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1080/00103624.2019.1604731",
+  "title": "Soil Health and Soil Fertility Assessment by the Haney Soil Health Test in an Agricultural Soil in West Tennessee",
+  "abstract": "The Haney Soil Health Test (HSHT) is a recent approach to quantify soil health by focusing mostly on soil biology. It uses a new extractant (H3A) for the extraction of plant available nutrients, a new method of soil respiration measurement (24-hr CO2 burst) using Solvita® gel system, and a new approach in determining bioavailable carbon (C) and nitrogen (N) namely water extractable organic C (WEOC) and water extractable organic N (WEON). A soil health score is calculated by combining Solvita® respiration, WEOC, and WEON data. The objective of this study was to test the feasibility of HSHT to detect the management-induced changes in soil nutrient levels and soil health in the production systems of west Tennessee. We tested soils collected from a cover crop field trial established in 2013 on a no-till corn (Zea mays L.) – soybean [Glycine max (L.) Merr.] rotation. Compared to Mehlich-1 and Mehlich-3, H3A extracted the lowest amount of soil extractable phosphorus, potassium, calcium and magnesium. Neither the soil health score nor its component parameters showed significant differences between cover crop treatments and the control. In addition, the Solvita® CO2 data did not provide a reliable estimation of potentially mineralizable N. Overall, the HSHT did not detect differences in soil health due to cover cropping in west Tennessee. We conclude that HSHT, though a promising concept due to its focus on linking soil biology with soil fertility and soil health, may need extensive field evaluation and refinement in contrasting soils and climates across the US.",
+  "authors": [
+    "Mingwei Chu",
+    "Surendra Singh",
+    "Forbes R. Walker",
+    "Neal S. Eash",
+    "Michael J. Buschermohle",
+    "Lori A. Duncan",
+    "Sindhu Jagadamma"
+  ],
+  "year": 2019,
+  "container": "Communications in Soil Science and Plant Analysis",
+  "licenses": [
+    "oa_status:closed"
+  ],
+  "url": "https://doi.org/10.1080/00103624.2019.1604731"
+}

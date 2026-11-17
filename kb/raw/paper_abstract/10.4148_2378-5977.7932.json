@@ -1,0 +1,16 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.4148/2378-5977.7932",
+  "title": "Effect of Saltro Soybean Seed Treatment on Sudden Death Syndrome in Kansas in 2019",
+  "abstract": "Sudden death syndrome (SDS) is a disease caused by the soilborne fungus Fusarium virguliforme. This fungus prefers wet conditions and thus is usually most severe in irrigated fields. SDS tends to be most severe on well-managed soybeans with a high yield potential. It also tends to be more prevalent on fields that are infested with soybean cyst nematode (SCN) or planted early when soils are wet and cool. Histor­ical yield losses from this disease are generally in the range of 1–25%. While there are differences in susceptibility between varieties, there are no varieties that are resistant to SDS. Fortunately, for the past several years, ILeVO (Bayer CropScience) seed treatment has shown to be effective at reducing the severity and yield loss to SDS, especially when used in combination with more tolerant varieties. A new seed treat­ment for SDS, Saltro (Syngenta Crop Protection), will be available to farmers for the first time in 2020.",
+  "authors": [
+    "E. A. Adee"
+  ],
+  "year": 2020,
+  "container": "Kansas Agricultural Experiment Station Research Reports",
+  "licenses": [
+    "cc-by",
+    "oa_status:hybrid"
+  ],
+  "url": "https://doi.org/10.4148/2378-5977.7932"
+}

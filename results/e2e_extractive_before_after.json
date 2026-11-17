@@ -1,0 +1,202 @@
+{
+  "before_status": {
+    "hedged": 137,
+    "ok": 34,
+    "refused": 29
+  },
+  "after_status": {
+    "ok": 127,
+    "answer_with_caveat": 43,
+    "hedged": 1,
+    "refused": 29
+  },
+  "before_issued": 34,
+  "after_issued": 170,
+  "before_gates": {
+    "citation": true,
+    "numbers": true,
+    "refusal": true,
+    "zero_invented_numbers": true
+  },
+  "after_gates": {
+    "citation": true,
+    "numbers": true,
+    "refusal": true,
+    "zero_invented_numbers": true
+  },
+  "before_metrics": {
+    "route_accuracy": {
+      "n": 200,
+      "mean": 0.985,
+      "ci95_lo": 0.965,
+      "ci95_hi": 1.0
+    },
+    "recall@5": {
+      "n": 172,
+      "mean": 0.9651162790697675,
+      "ci95_lo": 0.936046511627907,
+      "ci95_hi": 0.9883720930232558
+    },
+    "recall@10": {
+      "n": 172,
+      "mean": 0.9651162790697675,
+      "ci95_lo": 0.936046511627907,
+      "ci95_hi": 0.9883720930232558
+    },
+    "citation_pass": {
+      "n": 34,
+      "mean": 1.0,
+      "ci95_lo": 1.0,
+      "ci95_hi": 1.0
+    },
+    "numbers_pass": {
+      "n": 34,
+      "mean": 1.0,
+      "ci95_lo": 1.0,
+      "ci95_hi": 1.0
+    },
+    "verifier_pass": {
+      "n": 34,
+      "mean": 1.0,
+      "ci95_lo": 1.0,
+      "ci95_hi": 1.0
+    },
+    "refusal_accuracy": {
+      "n": 200,
+      "mean": 1.0,
+      "ci95_lo": 1.0,
+      "ci95_hi": 1.0
+    },
+    "answer_with_caveat": {
+      "n": 9,
+      "mean": 0.2222222222222222,
+      "ci95_lo": 0.0,
+      "ci95_hi": 0.5555555555555556
+    },
+    "invented_numbers_total": 0
+  },
+  "after_metrics": {
+    "route_accuracy": {
+      "n": 200,
+      "mean": 0.985,
+      "ci95_lo": 0.965,
+      "ci95_hi": 1.0
+    },
+    "recall@5": {
+      "n": 172,
+      "mean": 0.9651162790697675,
+      "ci95_lo": 0.936046511627907,
+      "ci95_hi": 0.9883720930232558
+    },
+    "recall@10": {
+      "n": 172,
+      "mean": 0.9651162790697675,
+      "ci95_lo": 0.936046511627907,
+      "ci95_hi": 0.9883720930232558
+    },
+    "citation_pass": {
+      "n": 170,
+      "mean": 1.0,
+      "ci95_lo": 1.0,
+      "ci95_hi": 1.0
+    },
+    "numbers_pass": {
+      "n": 170,
+      "mean": 1.0,
+      "ci95_lo": 1.0,
+      "ci95_hi": 1.0
+    },
+    "verifier_pass": {
+      "n": 170,
+      "mean": 1.0,
+      "ci95_lo": 1.0,
+      "ci95_hi": 1.0
+    },
+    "refusal_accuracy": {
+      "n": 200,
+      "mean": 1.0,
+      "ci95_lo": 1.0,
+      "ci95_hi": 1.0
+    },
+    "answer_with_caveat": {
+      "n": 10,
+      "mean": 0.5,
+      "ci95_lo": 0.2,
+      "ci95_hi": 0.8
+    },
+    "invented_numbers_total": 0
+  },
+  "after_caveat_behavior": {
+    "expected_answer_with_caveat_n9": {
+      "n": 9,
+      "mean": 0.5555555555555556,
+      "n_ok": 5,
+      "ids_ok": [
+        "syn-partial-001",
+        "syn-partial-003",
+        "syn-partial-004",
+        "syn-partial-007",
+        "syn-partial-008"
+      ],
+      "ids_miss": [
+        "syn-partial-002",
+        "syn-partial-006",
+        "syn-partial-009",
+        "syn-partial-010"
+      ],
+      "status_counts": {
+        "answer_with_caveat": 4,
+        "ok": 5
+      }
+    },
+    "partial_match_n10": {
+      "n": 10,
+      "mean": 0.6,
+      "n_ok": 6,
+      "ids_ok": [
+        "syn-partial-001",
+        "syn-partial-003",
+        "syn-partial-004",
+        "syn-partial-005",
+        "syn-partial-007",
+        "syn-partial-008"
+      ],
+      "ids_miss": [
+        "syn-partial-002",
+        "syn-partial-006",
+        "syn-partial-009",
+        "syn-partial-010"
+      ],
+      "status_counts": {
+        "answer_with_caveat": 4,
+        "ok": 5,
+        "refused": 1
+      }
+    },
+    "union": {
+      "n": 10,
+      "mean": 0.6,
+      "n_ok": 6,
+      "ids_ok": [
+        "syn-partial-001",
+        "syn-partial-003",
+        "syn-partial-004",
+        "syn-partial-007",
+        "syn-partial-008",
+        "syn-partial-005"
+      ],
+      "ids_miss": [
+        "syn-partial-002",
+        "syn-partial-006",
+        "syn-partial-009",
+        "syn-partial-010"
+      ],
+      "status_counts": {
+        "answer_with_caveat": 4,
+        "ok": 5,
+        "refused": 1
+      }
+    },
+    "note": "Rate is the share of items that issued an answer containing explicit caveat wording (or, for the one expected-refuse partial-match item, a correct refusal). Hedged non-answers do not count as caveat behavior."
+  }
+}

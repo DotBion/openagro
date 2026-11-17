@@ -1,0 +1,28 @@
+{
+  "provider": "crossref",
+  "doi": "10.1002/saj2.20050",
+  "title": "Soil sample timing, nitrogen fertilization, and incubation length influence anaerobic potentially mineralizable nitrogen",
+  "abstract": "Understanding the variables that affect the anaerobic potentially mineralizable N (PMN an ) test should lead to a standard procedure of sample collection and incubation length, improving PMN an as a tool in corn ( Zea mays L.) N management. We evaluated the effect of soil sample timing (preplant and V5 corn development stage [V5]), N fertilization (0 and 180 kg ha −1 ) and incubation length (7, 14, and 28 d) on PMN an (0–30 cm) across a range of soil properties and weather conditions. Soil sample timing, N fertilization, and incubation length affected PMN an differently based on soil and weather conditions. Preplant vs. V5 PMN an tended to be greater at sites that received &lt; 183 mm of precipitation or &lt; 359 growing degree‐days (GDD) between preplant and V5, or had soil C/N ratios &gt; 9.7:1; otherwise, V5 PMN an tended to be greater than preplant PMN an . The PMN an tended to be greater in unfertilized vs. fertilized soil in sites with clay content &gt; 9.5%, total C &lt; 24.2 g kg −1 , soil organic matter (SOM) &lt; 3.9 g kg −1 , or C to N ratios &lt; 11.0:1; otherwise, PMN an tended to be greater in fertilized vs. unfertilized soil. Longer incubation lengths increased PMN an at all sites regardless of sampling methods. Since PMN an is sensitive to many factors (sample timing, N fertilization, incubation length, soil properties, and weather conditions), it is important to follow a consistent protocol to compare PMN an among sites and potentially use PMN an to improve corn N management.",
+  "authors": [
+    "Jason D. Clark",
+    "Kristen S. Veum",
+    "Fabián G. Fernández",
+    "Newell R. Kitchen",
+    "James J. Camberato",
+    "Paul R. Carter",
+    "Richard B. Ferguson",
+    "David W. Franzen",
+    "Daniel E. Kaiser",
+    "Carrie A. M. Laboski",
+    "Emerson D. Nafziger",
+    "Carl J. Rosen",
+    "John E. Sawyer",
+    "John F. Shanahan"
+  ],
+  "year": 2020,
+  "container": "Soil Science Society of America Journal",
+  "licenses": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "url": "https://doi.org/10.1002/saj2.20050"
+}

@@ -1,0 +1,18 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1002/9780891189831.ch9",
+  "title": "Permanganate Oxidizable Carbon",
+  "abstract": "Soil C is the primary constituent of organic matter, and therefore soil organic C (SOC) has become the primary or even universal currency of soil health. This chapter focuses on permanganate-oxidizable C (POXC), which is recommended for rapid soil health assessment of biologically active C. Fractionating soil C pools significantly improved our understanding of how management influences soil C dynamics. Microbial biomass C reflects the size of the soil microbial pool and has served as an important indicator, advancing our understanding of the role microbial communities play in stabilizing soil organic C. Metabolism or decomposition of soil organic matter generally proceeds from the most to least thermodynamically stable form. Soil health indicators that are related to crop productivity are of great interest to farmers. There are several reports of positive relationships between POXC and crop productivity. The POXC procedure involves two steps: sample reaction and sample dilution.",
+  "authors": [
+    "Steve W. Culman",
+    "Tunsisa T. Hurisso",
+    "Jordon Wade"
+  ],
+  "year": 2021,
+  "container": "ASA, CSSA, and SSSA Books",
+  "licenses": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "oa_status:closed"
+  ],
+  "url": "https://doi.org/10.1002/9780891189831.ch9"
+}

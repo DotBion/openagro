@@ -1,0 +1,16 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1080/00380768.2000.10408760",
+  "title": "Effect of previous crops on arbuscular mycorrhizal formation and growth of succeeding maize",
+  "abstract": "The effects of fallow and cultivation of sunflower, maize, soybean, potato, wheat, sugar beet, rape on arbuscular mycorrhizal (AM) colonization and growth of succeeding maize were examined under field conditions from 1990 to 1992. All the crops except for sugar beet and rape were mycorrhizal. Shoot weight and grain yield of maize were much higher in the plots following sunflower, maize, soybean, potato than in those succeeding rape, fallow, and sugar beet. It was thus concluded that maize growth after cultivation of mycorrhizal crops was more enhanced than after the cultivation of non-mycorrhizal crops. Phosphorus uptake and AM colonization in succeeding maize were closely correlated with shoot weight and grain yield. The results showed that the cultivation of mycorrhizal crops in the previous season promoted AM formation on roots of succeeding maize, which in turn enhanced the P uptake and growth, finally increased the grain yield.",
+  "authors": [
+    "Joji Arihara",
+    "Toshihiko Karasawa"
+  ],
+  "year": 2000,
+  "container": "Soil Science and Plant Nutrition",
+  "licenses": [
+    "oa_status:bronze"
+  ],
+  "url": "https://doi.org/10.1080/00380768.2000.10408760"
+}

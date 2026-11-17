@@ -1,0 +1,18 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1371/journal.pone.0215702",
+  "title": "Comparing infiltration rates in soils managed with conventional and alternative farming methods: A meta-analysis",
+  "abstract": "Identifying agricultural practices that enhance water cycling is critical, particularly with increased rainfall variability and greater risks of droughts and floods. Soil infiltration rates offer useful insights to water cycling in farming systems because they affect both yields (through soil water availability) and other ecosystem outcomes (such as pollution and flooding from runoff). For example, conventional agricultural practices that leave soils bare and vulnerable to degradation are believed to limit the capacity of soils to quickly absorb and retain water needed for crop growth. Further, it is widely assumed that farming methods such as no-till and cover crops can improve infiltration rates. Despite interest in the impacts of agricultural practices on infiltration rates, this effect has not been systematically quantified across a range of practices. To evaluate how conventional practices affect infiltration rates relative to select alternative practices (no-till, cover crops, crop rotation, introducing perennials, crop and livestock systems), we performed a meta-analysis that included 89 studies with field trials comparing at least one such alternative practice to conventional management. We found that introducing perennials (grasses, agroforestry, managed forestry) or cover crops led to the largest increases in infiltration rates (mean responses of 59.2 ± 20.9% and 34.8 ± 7.7%, respectively). Also, although the overall effect of no-till was non-significant (5.7 ± 9.7%), the practice led to increases in wetter climates and when combined with residue retention. The effect of crop rotation on infiltration rate was non-significant (18.5 ± 13.2%), and studies evaluating impacts of grazing on croplands indicated that this practice reduced infiltration rates (-21.3 ± 14.9%). Findings suggest that practices promoting ground cover and continuous roots, both of which improve soil structure, were most effective at increasing infiltration rates.",
+  "authors": [
+    "Andrea D. Basche",
+    "Marcia S. DeLonge"
+  ],
+  "year": 2019,
+  "container": "PLOS ONE",
+  "licenses": [
+    "http://creativecommons.org/licenses/by/4.0/",
+    "cc-by",
+    "oa_status:gold"
+  ],
+  "url": "https://doi.org/10.1371/journal.pone.0215702"
+}

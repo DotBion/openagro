@@ -1,0 +1,17 @@
+{
+  "provider": "crossref",
+  "doi": "10.2136/sssaj2019.06.0198",
+  "title": "A Response to “Reanalysis Validates Soil Health Indicator Sensitivity and Correlation with Long‐term Crop Yields”",
+  "abstract": "We published data showing that current soil health indicator (SHI) assessments do not consistently detect differences in a range of soil management practices implemented in North Carolina soils. Van Es and Karlen reanalyzed our data and asserted that it validates SHI correlation to crop yields and sensitivity to management as measured by the Comprehensive Assessment of Soil Health (CASH). We respond to van Es and Karlen with a more representative analysis of our data showing that individual SHI measurements are not predictive of crop yield from the 30‐yr North Carolina agronomic trial. Regressions for aggregate stability ( r 2 = 0.07) and P ( r 2 = 0.18) show that neither SHI sufficiently predicts corn yield for this dataset and show no obvious pattern based on tillage intensity. Relationships between corn ( Zea mays L.) yield and most biological SHI had r 2 ≤ 0.18, with only soil protein being moderately predictive of corn yield ( r 2 = 0.45). The CASH index to assess overall soil health by integrating physical, chemical, and biological SHI measurements into a single value of soil health is also not predictive of corn yield in the trial ( r 2 = 0.12). It is possible that current sampling and analytical procedures for assessing soil health do not consistently detect differences in productivity from soils with regional differences in land and ecological resources. We believe that calibrating SHI assessments to quantifiable agroecological outcomes instead of statistical rankings will reduce bias across regions and create a more inclusive framework for quantifying soil health.",
+  "authors": [
+    "Wayne R. Roper",
+    "Deanna L. Osmond",
+    "Joshua L. Heitman"
+  ],
+  "year": 2019,
+  "container": "Soil Science Society of America Journal",
+  "licenses": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "url": "https://doi.org/10.2136/sssaj2019.06.0198"
+}

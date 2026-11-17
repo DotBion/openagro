@@ -1,0 +1,17 @@
+{
+  "provider": "crossref",
+  "doi": "10.3389/fmicb.2025.1664417",
+  "title": "Microbial communities and their association with soil health indicators under row cash crop and cover crop diversification: a case study",
+  "abstract": "Crop diversification is an emerging approach for increasing soil health and agroecosystem sustainability. By diversifying residue inputs to soils, plant diversity can increase microbial community diversity and function, foster arbuscular mycorrhizal fungal (AMF) relationships, and limit plant vulnerability to pathogens. However, crop diversification approaches are usually limited in plant species diversity, for example adding one or two species as a cover crop or cash crops in rotation. We implemented a four-year field experiment combining two crop diversification strategies (cover cropping and crop rotation) on a silt loam soil in western Tennessee, USA, to determine influences on soil microbial community diversity and composition, and their association with soil health indicators. Treatments ranged from simplified continuous corn ( Zea mays L.) or soybean ( Glycine max L.) with winter fallow to a three-species [corn-cotton ( Gossypium hirsutum L.)-soybean] annual crop rotation with a five-species winter cover crop mix. We characterized bacterial and fungal communities at three timepoints per year (spring, fall, summer) and quantified a suite of soil health indicators at each timepoint. Microbial diversity did not increase with crop diversity. However, bacterial community composition responded to crop rotation treatments differently across timepoints, and fungal community composition responded to cover crop and crop rotation treatments differently across timepoints. For example, the five-species cover crop mix increased relative abundance of AMF (Glomeromycota) in the first year, and crop rotations reduced the relative abundances of fungal plant pathogens found in continuous soybean ( Plectosphaerella , Paraphoma , and Fusariella ) and continuous corn (Didymellaceae) in multiple years. Microbial community composition was strongly linked to all soil health indicators, especially moisture content, phosphatase activity, β-glucosidase activity, water-extractable organic carbon, and nitrate-nitrogen, despite minimal effects of crop diversification on soil health indicators. We conclude that 4 years of crop rotation and diverse cover crops have strong but separate and season-dependent potentials to decrease fungal pathogens and increase AMF abundance, respectively. However, linkages between microbial communities and soil health are largely independent of crop diversification.",
+  "authors": [
+    "Rachel Wooliver",
+    "Stephanie N. Kivlin",
+    "Sindhu Jagadamma"
+  ],
+  "year": 2025,
+  "container": "Frontiers in Microbiology",
+  "licenses": [
+    "https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "url": "https://doi.org/10.3389/fmicb.2025.1664417"
+}

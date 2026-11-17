@@ -1,0 +1,23 @@
+{
+  "provider": "crossref",
+  "doi": "10.1002/ecs2.70397",
+  "title": "Synergies and trade‐offs between ecosystem services and economics in dryland cover crop systems",
+  "abstract": "Replacing bare fallow periods with cover crops in dryland agroecosystems can help reverse soil degradation and control erosion but may also result in cash crop yield penalties due to water limitations. Two field trials were conducted on the Colorado Plateau to quantify the impact of cover cropping on crop production, multiple ecosystem services, and economic trade‐offs in this semiarid region. No‐till and different cover crop planting windows (fall and spring) were explored as strategies to optimize ecosystem service provision and productivity trade‐offs. After three full cover crop cycles (6 years), fall‐planted cover crops improved soil structure and erosion control, offering critical soil health benefits for dryland producers. However, these benefits were associated with a decrease in available soil moisture at planting, causing lower and more variable wheat yields (average 48% yield penalty) and a US$176 ha −1 cycle −1 average decrease in net returns. Including the hypothetical sale of forage (based on 50% cover crop biomass removal) more than offset these costs in fall‐planted treatments; with both forage and wheat revenue, cover cropping increased net returns as compared to the fallow control by US$92 ha −1 cycle −1 . Spring‐planted cover crops presented a lower productivity trade‐off (24% average wheat yield penalty) but did not provide clear ecosystem service benefits and did not produce enough biomass to offset costs of cover cropping. Our findings indicate that fall‐planted cover crops have the potential to reverse soil degradation and control erosion in dryland systems globally, but productivity trade‐offs and decreased economic returns must be compensated for by alternative revenue sources, conservation payments, or other incentives to ensure their feasibility.",
+  "authors": [
+    "Lisa Eash",
+    "Kathleen Russell",
+    "Abdel F. Berrada",
+    "Meagan E. Schipanski",
+    "Pankaj Trivedi",
+    "Daniel Mooney",
+    "Jenny Beiermann",
+    "Joe Brummer",
+    "Steven J. Fonte"
+  ],
+  "year": 2025,
+  "container": "Ecosphere",
+  "licenses": [
+    "http://creativecommons.org/licenses/by/4.0/"
+  ],
+  "url": "https://doi.org/10.1002/ecs2.70397"
+}

@@ -1,0 +1,19 @@
+{
+  "provider": "crossref",
+  "doi": "10.1002/agj2.21306",
+  "title": "Cereal rye cover crop seeding method, seeding rate, and termination timing effects corn development and seedling disease",
+  "abstract": "Cover crops decrease nutrient leaching from high‐input cropping systems and improve soil quality. In Iowa, cereal rye (CR, Secale cereale L.) is the most adopted species due to its winter hardiness, high biomass productivity, and low cost. Field management of CR is still not completely understood, and as its adoption brings more complexity to farmers, especially with the uncertain effects on corn ( Zea mays L.) yields, adoption is slow. Additionally, cover crops immobilize N and increase the inoculum of pathogens such as Pythium spp. A 2‐year field experiment was conducted at three locations in Iowa investigating the effect of two seeding methods, three seeding rates, and two termination timings (one location only) of CR on CR biomass and corn growth, root disease, and yield. Cereal rye biomass and consequently corn growth and development were not affected by seeding rate but by seeding method and termination timing. Broadcast CR produced an average of 3.5 times more biomass but 7.2% less corn yield than the drilled CR. Cereal rye when terminated late (3 days before planting [DBP]) produced 2.1 times greater biomass but 4.1% less corn yield compared to early termination (14 DBP). In general, greater root rot incidence and more Pythium clade B were detected in corn seedlings sampled from broadcast CR than drilled CR. Radicle rot incidence of corn was also greater in the late‐terminated plots in 1 year. Farmers should be careful using broadcast seeding and later termination of CR cover crop when planted before corn.",
+  "authors": [
+    "Fernando M. Marcos",
+    "Jyotsna Acharya",
+    "Md. Rasel Parvej",
+    "Alison E. Robertson",
+    "Mark A. Licht"
+  ],
+  "year": 2023,
+  "container": "Agronomy Journal",
+  "licenses": [
+    "http://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "url": "https://doi.org/10.1002/agj2.21306"
+}

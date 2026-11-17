@@ -1,0 +1,29 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1016/j.apsoil.2022.104793",
+  "title": "Use of phospholipid fatty acid analysis as phenotypic biomarkers for soil health and the influence of management practices",
+  "abstract": "Phospholipid fatty acid analysis (PLFA) provides an easy to use and robust measure of changing soil microbial condition. The method provides data on both the quantity and composition of the soil microbial community- critical knowledge because the community is an important component of soil health. However, it is challenging for new researchers to know how to process data, how to interpret the results, and to know its effectiveness in evaluating soil health management. We set out to address these challenges using the North American Project to Evaluate Soil Health Measurements PLFA dataset. The dataset is comprised of results of over 1800 agricultural soil samples from a range of environmental regions and management practices. Using this dataset, we identified that quantifying soil PLFA biomass through summing the biomarkers from C14:0 to C20:0 yielded greater biomass results than summing specific biomarkers and was almost identical to summing C9:0 to C20:0. We utilized microbial biomass with common and novel biomarker ratios to evaluate the response of the soil microbial community to changes in the environment or changes in management practice. These ratios were based on commonly used genotypic categorization (e.g., Gram-positive to Gram-negative) or based on chemical structure with chemical ratios of either universal characteristics (e.g., unsaturated to saturated) or targeted phenotypic biomarkers known to shift with changing growth conditions (e.g., a15:0 and a17:0 to i15:0 and i17:0). One novel phenotypic ratio, the adaptation response ratio (ARR), significantly correlated with mean annual temperature and soil pH across grassland reference plots, a wheat climate transect, an intensive vegetable agricultural dataset, and a wheat-corn dataset from Mexico. Neither the common genotypic ratio nor ratios based on chemical structure demonstrated clear and consistent trends with environmental conditions. Targeted phenotypic biomarker ratios and microbial biomass also detected significant differences with soil health management practices of decreased tillage, cover crops, organic nutrients, residue retention, and rotation diversity. Therefore, with standardized microbial biomass and biomarker calculations that significantly vary with environmental conditions and management practices, these results support a wider understanding and adoption of the PLFA method in soil health management.",
+  "authors": [
+    "Charlotte E. Norris",
+    "Mathew J.B. Swallow",
+    "Daniel Liptzin",
+    "Michael Cope",
+    "G. Mac Bean",
+    "Shannon B. Cappellazzi",
+    "Kelsey L.H. Greub",
+    "Elizabeth L. Rieke",
+    "Paul W. Tracy",
+    "Cristine L.S. Morgan",
+    "C. Wayne Honeycutt"
+  ],
+  "year": 2023,
+  "container": "Applied Soil Ecology",
+  "licenses": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "cc-by-nc-nd",
+    "oa_status:hybrid"
+  ],
+  "url": "https://doi.org/10.1016/j.apsoil.2022.104793"
+}

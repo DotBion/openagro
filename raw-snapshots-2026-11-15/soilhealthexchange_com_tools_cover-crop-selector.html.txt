@@ -1,0 +1,105 @@
+Cover Crop Lab | Soil Health Exchange
+Open knowledge. Shared progress.
+Help the exchange grow 
+↗
+Soil Health
+Exchange
+.
+Learn
+Tools
+Community
+Funding
+Products & Services
+Search
+⌘
+K
+My Farm
+Ask a question
+☰
+CC
+Cover Crop Lab
+Field-specific cover crop decision support · 
+v4.1.0
+Step 
+1
+/
+5
+01
+Location
+Where
+02
+Cropping system
+System
+03
+Goals
+Goals
+04
+Build mix
+Mix
+05
+Field plan
+Plan
+Step 01 · Location
+Where is the field?
+Type a ZIP code or a city. We'll pull your USDA hardiness zone and use it to tune species fit, planting windows, frost-kill timing, and the nitrogen plan.
+ZIP code or City, ST
+📍
+Pick a location to unlock the rest of the field plan.
+The ZIP or city sets hardiness, frost, and water context for every later recommendation.
+Next: cropping system 
+→
+Built on USDA PHZM 2023 for winter hardiness, 15-year Open-Meteo ERA5 frost and water-balance normals, GeoNames postal data (CC-BY 4.0), SARE's Managing Cover Crops Profitably, Penn State and OSU N-credit calculators, Rodale Institute termination guidance, NRCS cover crop charts, and land-grant establishment/grazing/dryland water guidance. All recommendations are planning estimates — verify with your local extension service or NRCS before acting. Questions? 
+Ask a soil-health expert
+.
+💬
+Soil Health
+Exchange
+A public exchange for healthier soil.
+Built around the questions that matter.
+Help the exchange grow ↗
+Explore
+Field Answers
+The Journal
+Tools for the field
+Funding opportunities
+Learn CEMA 216
+Field guides
+Policy explained
+Connect
+Community updates
+Farmer Mentors
+Contributors
+Expert network
+Find a Qualified Individual
+Submit a funding opportunity
+Partner Directory
+Become a partner
+Take part
+Get in touch
+The Exchange
+Our story
+Our ecosystem
+Investment & support
+Founding Circle
+MY FARM
+Products & Services
+Public Resources
+The weekly field memo
+Our impact
+Frequently asked questions
+Follow the exchange
+LinkedIn
+↗
+Instagram
+↗
+Facebook
+↗
+X
+↗
+© 
+2026
+ Soil Health Exchange
+RSS feeds
+Privacy
+Terms
+Where science meets the soil.

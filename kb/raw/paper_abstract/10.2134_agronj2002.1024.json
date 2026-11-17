@@ -1,0 +1,16 @@
+{
+  "provider": "crossref",
+  "doi": "10.2134/agronj2002.1024",
+  "title": "Yield and Early Growth Responses to Starter Fertilizer in No‐Till Corn Assessed with Precision Agriculture Technologies",
+  "abstract": "Starter fertilization often is recommended to complement broadcast fertilization. This study evaluated no‐till corn ( Zea mays L.) yield and early growth responses to starter fertilization using precision agriculture tools. Strip trials, yield monitors, intensive soil sampling, global positioning systems (GPS), and geographical information systems (GIS) were used to conduct 11 trials. Liquid N–P–K starter and no‐starter treatments were applied to the seed furrow in nine fields and beside and below the seeds in two fields. Grain yield and early plant growth data were analyzed with analyses of variance (ANOVA) with or without accounting for spatial correlation with nearest‐neighbor analysis (NNA). Use of NNA reduced standard errors of treatment means. Starter fertilization increased yield in seven fields, reduced yield in one field (−231 kg ha −1 ), and often increased early growth. Yield increases were large (200–671 kg ha −1 ) in field areas with low soil‐test P (STP) (&lt;16 mg P kg −1 , Bray‐P 1 ). Responses in areas with high STP were small (80–194 kg ha −1 ) when the starter was applied in the furrow and larger (165–465 kg ha −1 ) when it was applied beside and below the seeds at higher N rates (16.3–27.2 kg N ha −1 ). Across fields, early growth response (32%) was linearly but poorly correlated ( r = 0.44) with yield response (2.4%). The within‐field variation in yield and growth responses was not consistently related with starter treatments, soils, or soil tests other than STP. Large yield responses of no‐till corn to starter are likely when STP is below optimum or when preplant or sidedress N rates are deficient.",
+  "authors": [
+    "Manuel Bermudez",
+    "Antonio P. Mallarino"
+  ],
+  "year": 2002,
+  "container": "Agronomy Journal",
+  "licenses": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "url": "https://doi.org/10.2134/agronj2002.1024"
+}

@@ -1,0 +1,19 @@
+{
+  "provider": "crossref",
+  "doi": "10.3390/su15021357",
+  "title": "Meta-Analysis of Yields of Crops Fertilized with Compost Tea and Anaerobic Digestate",
+  "abstract": "Organic inputs constitute an alternative way to replace or reduce the use of agrochemicals in order to increase sustainability and reduce negative impacts of agriculture on the environment. A consistent determination of average yields obtained with organic fertilizers in comparison to synthetic fertilizers is necessary to assess their potential in both commercial and organic agriculture. To achieve this goal, a meta-analysis of existing scientific data of yields obtained with digestate or compost tea fertilization was performed. After a systematic bibliographic search of scientific publications, 35 final papers remained from &gt;1000 initial results. Data of crop yield with digestate or compost tea fertilization, as well as control and synthetic fertilizer treatments, were extracted from the selected articles and used to calculate response ratios (ratios of means), obtaining 106 observations. The meta-analysis showed that digestate fertilization produced yields 80% higher than the control. Yields were statistically similar to those obtained with conventional treatments with chemical fertilization (only 2% lower in average). The results for digestate are considered robust as the significance did not change after conducting publication bias analyses. However, the high heterogeneity observed suggests the existence of explanatory variables accounting for part of the observed dispersion. Subgroup analyses were conducted to determine the variation of the results of digestate across crop species and field or greenhouse experiments, while compost teas did not present adequate data quantity to obtain reliable results. According to this meta-analysis, anaerobic digestate had an acceptable performance as fertilizer for several crops at a reported application rate ranging from 100 to 480 kg N ha−1. Regarding compost tea, yields were 92% higher than the control and 10% lower than synthetic fertilization treatments, although more information is required to draw a conclusive result due to the low number of observations of this fertilizer. Further investigation is necessary to understand yield variations under different scenarios to study the influence of secondary variables and to propose management measures for producers.",
+  "authors": [
+    "Franco Curadelli",
+    "Marcelo Alberto",
+    "Ernesto Martín Uliarte",
+    "Mariana Combina",
+    "Iván Funes-Pinter"
+  ],
+  "year": 2023,
+  "container": "Sustainability",
+  "licenses": [
+    "https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "url": "https://doi.org/10.3390/su15021357"
+}

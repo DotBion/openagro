@@ -1,0 +1,24 @@
+{
+  "provider": "crossref",
+  "doi": "10.1094/phyto-03-11-0091",
+  "title": "Meta-Analysis of Yield Response of Hybrid Field Corn to Foliar Fungicides in the U.S. Corn Belt",
+  "abstract": "The use of foliar fungicides on field corn has increased greatly over the past 5 years in the United States in an attempt to increase yields, despite limited evidence that use of the fungicides is consistently profitable. To assess the value of using fungicides in grain corn production, random-effects meta-analyses were performed on results from foliar fungicide experiments conducted during 2002 to 2009 in 14 states across the United States to determine the mean yield response to the fungicides azoxystrobin, pyraclostrobin, propiconazole + trifloxystrobin, and propiconazole + azoxystrobin. For all fungicides, the yield difference between treated and nontreated plots was highly variable among studies. All four fungicides resulted in a significant mean yield increase relative to the nontreated plots (P &lt; 0.05). Mean yield difference was highest for propiconazole + trifloxystrobin (390 kg/ha), followed by propiconazole + azoxystrobin (331 kg/ha) and pyraclostrobin (256 kg/ha), and lowest for azoxystrobin (230 kg/ha). Baseline yield (mean yield in the nontreated plots) had a significant effect on yield for propiconazole + azoxystrobin (P &lt; 0.05), whereas baseline foliar disease severity (mean severity in the nontreated plots) significantly affected the yield response to pyraclostrobin, propiconazole + trifloxystrobin, and propiconazole + azoxystrobin but not to azoxystrobin. Mean yield difference was generally higher in the lowest yield and higher disease severity categories than in the highest yield and lower disease categories. The probability of failing to recover the fungicide application cost (p loss ) also was estimated for a range of grain corn prices and application costs. At the 10-year average corn grain price of $0.12/kg ($2.97/bushel) and application costs of $40 to 95/ha, p loss for disease severity &lt;5% was 0.55 to 0.98 for pyraclostrobin, 0.62 to 0.93 for propiconazole + trifloxystrobin, 0.58 to 0.89 for propiconazole + azoxystrobin, and 0.91 to 0.99 for azoxystrobin. When disease severity was &gt;5%, the corresponding probabilities were 0.36 to 95, 0.25 to 0.69, 0.25 to 0.64, and 0.37 to 0.98 for the four fungicides. In conclusion, the high p loss values found in most scenarios suggest that the use of these foliar fungicides is unlikely to be profitable when foliar disease severity is low and yield expectation is high.",
+  "authors": [
+    "P. A. Paul",
+    "L. V. Madden",
+    "C. A. Bradley",
+    "A. E. Robertson",
+    "G. P. Munkvold",
+    "G. Shaner",
+    "K. A. Wise",
+    "D. K. Malvick",
+    "T. W. Allen",
+    "A. Grybauskas",
+    "P. Vincelli",
+    "P. Esker"
+  ],
+  "year": 2011,
+  "container": "Phytopathology®",
+  "licenses": [],
+  "url": "https://doi.org/10.1094/phyto-03-11-0091"
+}

@@ -1,0 +1,25 @@
+{
+  "provider": "crossref",
+  "doi": "10.1038/s41598-020-60987-3",
+  "title": "Improved soil biological health increases corn grain yield in N fertilized systems across the Corn Belt",
+  "abstract": "Nitrogenous fertilizers have nearly doubled global grain yields, but have also increased losses of reactive N to the environment. Current public investments to improve soil health seek to balance productivity and environmental considerations. However, data integrating soil biological health and crop N response to date is insufficient to reliably drive conservation policy and inform management. Here we used multilevel structural equation modeling and N fertilizer rate trials to show that biologically healthier soils produce greater corn yields per unit of fertilizer. We found the effect of soil biological health on corn yield was 18% the magnitude of N fertilization, Moreover, we found this effect was consistent for edaphic and climatic conditions representative of 52% of the rainfed acreage in the Corn Belt (as determined using technological extrapolation domains). While N fertilization also plays a role in building or maintaining soil biological health, soil biological health metrics offer limited a priori information on a site’s responsiveness to N fertilizer applications. Thus, increases in soil biological health can increase corn yields for a given unit of N fertilizer, but cannot completely replace mineral N fertilization in these systems. Our results illustrate the potential for gains in productivity through investment in soil biological health, independent of increases in mineral N fertilizer use.",
+  "authors": [
+    "Jordon Wade",
+    "Steve W. Culman",
+    "Jessica A. R. Logan",
+    "Hanna Poffenbarger",
+    "M. Scott Demyan",
+    "John H. Grove",
+    "Antonio P. Mallarino",
+    "Joshua M. McGrath",
+    "Matthew Ruark",
+    "Jaimie R. West"
+  ],
+  "year": 2020,
+  "container": "Scientific Reports",
+  "licenses": [
+    "https://creativecommons.org/licenses/by/4.0",
+    "https://creativecommons.org/licenses/by/4.0"
+  ],
+  "url": "https://doi.org/10.1038/s41598-020-60987-3"
+}

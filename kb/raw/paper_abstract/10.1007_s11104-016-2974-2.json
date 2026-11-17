@@ -1,0 +1,22 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1007/s11104-016-2974-2",
+  "title": "Influence of root and leaf traits on the uptake of nutrients in cover crops",
+  "abstract": "Aims Cover crops play an important role in soil fertility as they can accumulate large amounts of nutrients. This study aimed at understanding the nutrient uptake capacity of a wide range of cover crops and at assessing the relevance of acquisition strategies. Methods A field experiment was conducted to characterize 20 species in terms of leaf and root traits. Plant traits were related to nutrient concentration and shoot biomass production with a redundancy analysis. Acquisition strategies were identified using a cluster analysis. Results Root systems varied greatly among cover crop species. Five nutrient acquisition strategies were delineated. Significant amounts of nutrients (about 120 kg ha−1 of nitrogen, 30 kg ha−1 of phosphorus and 190 kg ha−1 of potassium) were accumulated by the species in a short period. Nutrient acquisition strategies related to high accumulations of nutrients consisted in either high shoot biomass and root mass and dense tissues, or high nutrient concentrations and root length densities. Species with high root length densities showed lower C/N ratios. Conclusions The same amounts of nutrients were accumulated by groups with different acquisition strategies. However, their nutrient concentrations offer different perspectives in terms of nutrient release for the subsequent crop and nutrient cycling improvement.",
+  "authors": [
+    "Marina Wendling",
+    "Lucie Büchi",
+    "Camille Amossé",
+    "Sokrat Sinaj",
+    "Achim Walter",
+    "Raphaël Charles"
+  ],
+  "year": 2016,
+  "container": "Plant and Soil",
+  "licenses": [
+    "http://creativecommons.org/licenses/by/4.0",
+    "cc-by",
+    "oa_status:hybrid"
+  ],
+  "url": "https://doi.org/10.1007/s11104-016-2974-2"
+}

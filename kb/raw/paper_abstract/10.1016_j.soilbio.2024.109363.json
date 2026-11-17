@@ -1,0 +1,21 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1016/j.soilbio.2024.109363",
+  "title": "Root-associated Helotiales fungi: Overlooked players in plant nutrition",
+  "abstract": "Fungi contribute to plant mineral nutrition through diverse symbiotic mycorrhizal associations. Although historically most attention has been put on Glomeromycotina fungi establishing the ancestral arbuscular mycorrhizal symbiosis, other fungal lineages have developed similar but evolutionarily younger associations with plants. The Helotiales, a largely understudied fungal order, is emerging as a key lineage in fungus-mediated nutrient acquisition by plants. Indeed, these fungi can form ericoid mycorrhizae or ectomycorrhizae while some isolates behave as so-called “mycorrhizal-like” fungi capable of transferring nutrients to their hosts in a non-symbiotic way, i.e. without forming differentiated cellular structures inside plant roots, and without proven nutritional reciprocity from the plant. Here, we explore current knowledge about the phylogeny of these plant-beneficial Helotiales and cover recent advances on the roles they play in plant nutrition, highlighting the potential of these associations as alternatives to the AM symbiosis for plant nutrient uptake.",
+  "authors": [
+    "Pauline Bruyant",
+    "Yvan Moënne-Loccoz",
+    "Juliana Almario"
+  ],
+  "year": 2024,
+  "container": "Soil Biology and Biochemistry",
+  "licenses": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "http://creativecommons.org/licenses/by/4.0/",
+    "cc-by",
+    "oa_status:hybrid"
+  ],
+  "url": "https://doi.org/10.1016/j.soilbio.2024.109363"
+}

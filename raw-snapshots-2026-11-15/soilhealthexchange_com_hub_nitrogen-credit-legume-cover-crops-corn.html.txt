@@ -1,0 +1,198 @@
+How do I estimate the nitrogen credit from a legume cover…
+Open knowledge. Shared progress.
+Help the exchange grow 
+↗
+Soil Health
+Exchange
+.
+Learn
+Tools
+Community
+Funding
+Products & Services
+Search
+⌘
+K
+My Farm
+Ask a question
+☰
+Share
+Field Answers
+›
+Cover Crops
+›
+How do I estimate the nitrogen credit from a legume cover crop before corn?
+←
+ Field Answers
+Cover Crops
+Corn
+WI
+How do I estimate the nitrogen credit from a legume cover crop before corn?
+252 readers
+Field answer
+WI
+Published 
+May 15, 2026
+Updated 
+Nov 15, 2026
+4
+ min read
+Checking…
+Key finding
+Weigh the legume's dry aboveground biomass at termination, multiply by its nitrogen concentration, and count about half of that nitrogen as the credit to subtract from your corn N rate. A lab test of the dried biomass gives a better nitrogen figure than species averages, especially when the stand is dense, mature or mixed with grasses.
+In this answer
+4
+ min
+The credit comes from biomass and its nitrogen content
+Estimate the credit step by step
+What moves the delivered credit up or down
+Check the estimate in season and on the yield map
+←
+ Back to Field Answers
+Location
+WI
+Crop
+Corn
+Acres
+1,000
+The challenge
+“
+How can we reasonably/accurately assess nitrogen credit from legume CC prior to corn?
+”
+Farmer/Producer
+WI
+1,000
+ acres
+Corn
+A red clover stand illustrates the biomass behind a potential legume nitrogen contribution. The usable corn credit still depends on biomass, tissue nitrogen, termination, and mineralization timing. Photo: Michael Flythe, USDA-ARS.
+Musfiq Salehin, Ph.D.
+Assistant Professor of Soil Science · Texas A&M AgriLife Research · Stephenville, TX
+Verified expert
+The credit comes from biomass and its nitrogen content
+A reasonable estimate needs two numbers: how much dry aboveground biomass the legume has at termination, and how much nitrogen that biomass contains. Legumes fix nitrogen from the air, so their tissue is nitrogen-rich, and the more biomass a stand produces, the larger its potential contribution to the following corn. Tissue concentration varies with species, growth stage and field conditions; species averages work for planning when a lab analysis is not available. For comparison, University of Nebraska researchers measured 3.7% N in legume cover biomass at Mead, Nebraska, against 1.9% in cereal rye.
+Estimate the credit step by step
+Just before termination, clip the legume from 5 to 10 representative spots in the field using a 1 m × 1 m quadrat.
+Dry the samples, either air-drying for 4 to 5 days or oven-drying until the weight stops changing.
+Convert the average quadrat dry weight to dry biomass per acre.
+Estimate the biomass N concentration from species averages, or send a dried subsample to a commercial lab for total N.
+Total N in biomass = dry biomass × N concentration.
+Estimated N credit = total biomass N × 0.50.
+Reduce the planned corn fertilizer N rate by the estimated credit.
+Account for termination method and timing: N is released faster when residue is incorporated and more slowly when it stays on the surface in no-till.
+Worked example.
+ A hairy vetch stand producing 3 tons per acre of dry biomass is 6,000 lb of dry matter. At an average tissue concentration of 3.5% N, it holds 6,000 × 0.035 = 210 lb N per acre, and the credit is 210 × 0.50 = 105 lb N per acre. If the planned corn rate was 200 lb N per acre, the adjusted fertilizer rate is 200 − 105 = 95 lb N per acre.
+The 50% factor matches other estimates. Oregon State's cover crop nitrogen guide reports that about half of the nitrogen in legume covers is released as plant-available N. In University of Wisconsin trials, frost-seeded red clover held 80 to 110 lb N per acre in its aboveground biomass, and a corn N-rate trial at Janesville in 2010 measured a 46 lb N per acre credit.
+What moves the delivered credit up or down
+Grass in the mix.
+ Legume residue typically has a carbon-to-nitrogen ratio well below 20:1, where rapid release begins. Cereal rye and other grasses raise the ratio, and Nebraska researchers recommend terminating before it passes about 24:1. In a grass-legume stand, apply the legume concentration only to the legume share, or rely on a lab test.
+Growth stage.
+ Oregon State finds legume plant-available N peaks around bud stage; later growth adds biomass but tougher tissue.
+Residue placement and weather.
+ Surface residue in no-till decomposes more slowly than incorporated residue, so some legume N may not be available early in the season. Warm, moist soil speeds release; a cold, wet spring slows it.
+Check the estimate in season and on the yield map
+Soil Health Exchange editors suggest confirming the credit with Wisconsin's pre-sidedress soil nitrate test. Take 15 to 20 cores to 12 inches between rows when corn is 6 to 12 inches tall, about two weeks before a planned sidedress. University of Wisconsin Extension lists cover crop and forage legume fields among those where the test is most useful, and a result over 21 ppm nitrate-N means no additional N is needed. Where you can, run strips at the adjusted rate and the full rate and compare yields at harvest. Record species, biomass, lab N, termination date, weather, the nitrate test and yield for two or three seasons, and your own credit figure will become more reliable than any published table.
+References
+6
+sources
+Cite this
+Reference this work
+SHE-FA-2026-0008
+Musfiq Salehin, Ph.D. (2026). How do I estimate the nitrogen credit from a legume cover crop before corn?. Soil Health Exchange. SHE-FA-2026-0008. https://soilhealthexchange.com/cite/SHE-FA-2026-0008
+Copy citation
+Copy BibTeX
+Stable link →
+Soil Health Exchange assigns a stable identifier to every published answer and article. Citations keep working even if the URL changes later.
+Field management
+Putting this advice into practice?
+Keep activities, observations, photos, and costs together in FieldLog as you try the next step.
+Start free 
+↗
+Open FieldLog 
+↗
+View plans 
+↗
+FieldLog has its own free and paid plans. Paid FieldLog access is billed separately from My Farm membership.
+Discussion
+Add Comment
+No comments yet. Be the first to share your thoughts!
+Keep exploring
+Similar questions
+What is cover crop diversity, and how is it measured?
+WI
+How much nitrogen credit do I get from cereal rye before corn?
+IA
+Can feedlot manure replace all the commercial fertilizer on irrigated corn?
+Clay County, Nebraska
+Reducing Cover-Crop Herbicide Use in Nebraska: Three Lanes, Measured Before Scaling
+Nebraska
+Field context
+Location
+WI
+Crop
+Corn
+Acreage
+1,000
+ ac
+Submitted by
+Farmer/Producer
+Was this useful?
+Helpful
+Your reaction helps other producers find answers that worked.
+Feedback loop
+Share Field Outcome
+Tried this recommendation? Share what happened so we can improve future guidance.
+Share Feedback
+Have a similar challenge on your farm?
+Get a personalized answer from the expert network — free, matched to your soil, crop, and location.
+Ask your question
+Soil Health
+Exchange
+A public exchange for healthier soil.
+Built around the questions that matter.
+Help the exchange grow ↗
+Explore
+Field Answers
+The Journal
+Tools for the field
+Funding opportunities
+Learn CEMA 216
+Field guides
+Policy explained
+Connect
+Community updates
+Farmer Mentors
+Contributors
+Expert network
+Find a Qualified Individual
+Submit a funding opportunity
+Partner Directory
+Become a partner
+Take part
+Get in touch
+The Exchange
+Our story
+Our ecosystem
+Investment & support
+Founding Circle
+MY FARM
+Products & Services
+Public Resources
+The weekly field memo
+Our impact
+Frequently asked questions
+Follow the exchange
+LinkedIn
+↗
+Instagram
+↗
+Facebook
+↗
+X
+↗
+© 
+2026
+ Soil Health Exchange
+RSS feeds
+Privacy
+Terms
+Where science meets the soil.

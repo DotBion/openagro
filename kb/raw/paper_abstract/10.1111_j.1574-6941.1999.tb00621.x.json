@@ -1,0 +1,15 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1111/j.1574-6941.1999.tb00621.x",
+  "title": "Signature fatty acids provide tools for determination of the distribution and interactions of mycorrhizal fungi in soil",
+  "abstract": "Mycorrhizal fungi form extensive mycelia in soil and play significant roles in most soil ecosystems. The estimation of their biomasses is thus of importance in order to understand their possible role in soil nutrient processes. For arbuscular mycorrhizal (AM) fungi the signature fatty acid 16:1ω5 provides a new and promising tool for the estimation of AM fungal biomass in soil and roots. For ectomycorrhizal fungi 18:2ω6,9 dominates among the fatty acids and can be used as an indicator of mycelial biomass of these fungi in soil in experimental systems. In biomass estimation primarily the phospholipid fatty acids (PLFAs) are suitable. Through the use of specific PLFAs it is possible to study interactions between mycorrhizal mycelia and bacteria in soil as well as between AM fungal mycelia and mycelia of saprophytic and parasitic fungi in soil and in roots. AM fungi, in particular, store a large proportion of their energy as lipids and by using the signature fatty acids it is possible to determine the relation between membrane and storage lipids, which could be an indication of energy storage levels. Various aspects of how the fatty acid signatures can be used for studies related to questions of biomass distribution and nutritional status of mycorrhizal fungi are discussed.",
+  "authors": [
+    "PÃ¥l Axel Olsson"
+  ],
+  "year": 1999,
+  "container": "FEMS Microbiology Ecology",
+  "licenses": [
+    "oa_status:bronze"
+  ],
+  "url": "https://doi.org/10.1111/j.1574-6941.1999.tb00621.x"
+}

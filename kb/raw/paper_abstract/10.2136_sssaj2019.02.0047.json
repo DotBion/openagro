@@ -1,0 +1,28 @@
+{
+  "provider": "crossref",
+  "doi": "10.2136/sssaj2019.02.0047",
+  "title": "United States Midwest Soil and Weather Conditions Influence Anaerobic Potentially Mineralizable Nitrogen",
+  "abstract": "Nitrogen provided to crops through mineralization is an important factor in N management guidelines. Understanding of the interactive effects of soil and weather conditions on N mineralization needs to be improved. Relationships between anaerobic potentially mineralizable N (PMN an ) and soil and weather conditions were evaluated under the contrasting climates of eight US Midwestern states. Soil was sampled (0–30 cm) for PMN an analysis before pre‐plant N application (PP 0N ) and at the V5 development stage from the pre‐plant 0 (V5 0N ) and 180 kg N ha −1 (V5 180N ) rates and incubated for 7, 14, and 28 d. Even distribution of precipitation and warmer temperatures before soil sampling and greater soil organic matter (SOM) increased PMN an . Soil properties, including total C, SOM, and total N, had the strongest relationships with PMN an ( R 2 ≤ 0.40), followed by temperature ( R 2 ≤ 0.20) and precipitation ( R 2 ≤ 0.18) variables. The strength of the relationships between soil properties and PMN an from PP 0N , V5 0N , and V5 180N varied by ≤10%. Including soil and weather in the model greatly increased PMN an predictability ( R 2 ≤ 0.69), demonstrating the interactive effect of soil and weather on N mineralization at different times during the growing season regardless of N fertilization. Delayed soil sampling (V5 0N ) and sampling after fertilization (V5 180N ) reduced PMN an predictability. However, longer PMN an incubations improved PMN an predictability from both V5 soil samplings closer to the PMN an predictability from PP 0N , indicating the potential of PMN an from longer incubations to provide improved estimates of N mineralization when N fertilizer is applied. Relationships between mineralization estimates taken with the PMN an test and soil and weather conditions need to be improved. Soil sample timing and N fertilization minimally affected PMN an predictability by soil and weather parameters. Soil properties predict PMN an better than weather conditions. Soil and weather conditions combined explain up to 69% of the variability of PMN an . Longer PMN an incubations improve the relationship between soil and weather parameters and PMN an after N fertilization.",
+  "authors": [
+    "Jason D. Clark",
+    "Kristen S. Veum",
+    "Fabián G. Fernández",
+    "James J. Camberato",
+    "Paul R. Carter",
+    "Richard B. Ferguson",
+    "David W. Franzen",
+    "Daniel E. Kaiser",
+    "Newell R. Kitchen",
+    "Carrie A. M. Laboski",
+    "Emerson D. Nafziger",
+    "Carl J. Rosen",
+    "John E. Sawyer",
+    "John F. Shanahan"
+  ],
+  "year": 2019,
+  "container": "Soil Science Society of America Journal",
+  "licenses": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "url": "https://doi.org/10.2136/sssaj2019.02.0047"
+}

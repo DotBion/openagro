@@ -1,0 +1,21 @@
+{
+  "provider": "crossref",
+  "doi": "10.3390/agronomy15030643",
+  "title": "Comparing the Soil Management Assessment Framework to the Haney Soil Health Test Across Managed Agroecosystems",
+  "abstract": "Soil health assessments within managed agroecosystems help to further understand conservation practice efficacy when management practices are altered. In this study, soil health was quantified via the Soil Management Assessment Framework (SMAF) and the Haney Soil Health Test (HSHT) within eight fields (a dryland pasture and seven dryland fields under no-till conditions for various time lengths, cropping system diversity differences, and (in)organic fertilizer use) in Northeastern Colorado. The results across cropping systems were variable when comparing the two frameworks, yet the pasture site received the greatest soil health score (SHS) from both frameworks. Management differences were present for soil physical, chemical, and biological indicators in SMAF, yet the HSHT outcomes show high variability between each field, and the SHS did not align with the understanding of management practices. The HSHT SHSs greatly relied on the single indicator Solvita CO2-C burst (r = 0.82). The HSHT mineralizable N overestimated N availability and was not correlated to the SMAF 28-day N mineralization (R2 &lt; 0.01), and via a pathway analysis, only two SMAF biological indicators (β-glucosidase (BG) and microbial biomass carbon (MBC)) along with bulk density (Bd) correlated to the HSHT. The overall soil health scores between the two frameworks were only moderately correlated (r = 0.48), which was ascribed to the lack of HSHT soil physical and chemical indicators. While the HSHT can still be useful for tracking general trends in soil biological health over time, the SMAF remains the more comprehensive and robust tool for assessing soil health in the studied agroecosystems.",
+  "authors": [
+    "Xucheng Hu",
+    "Megan B. Machmuller",
+    "Steve W. Blecker",
+    "Cassidy M. Buchanan",
+    "Ian B. Aksland",
+    "Alexandra G. Firth",
+    "James A. Ippolito"
+  ],
+  "year": 2025,
+  "container": "Agronomy",
+  "licenses": [
+    "https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "url": "https://doi.org/10.3390/agronomy15030643"
+}

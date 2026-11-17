@@ -1,0 +1,18 @@
+{
+  "provider": "crossref",
+  "doi": "10.3390/plants10081638",
+  "title": "Fresh Compost Tea Application Does Not Change Rhizosphere Soil Bacterial Community Structure, and Has No Effects on Soybean Growth or Yield",
+  "abstract": "Soil bacteria drive key ecosystem functions, including nutrient mobilization, soil aggregation and crop bioprotection against pathogens. Bacterial diversity is thus considered a key component of soil health. Conventional agriculture reduces bacterial diversity in many ways. Compost tea has been suggested as a bioinoculant that may restore bacterial community diversity and promote crop performance under conventional agriculture. Here, we conducted a field experiment to test this hypothesis in a soybean-maize rotation. Compost tea application had no influence on bacterial diversity or community structure. Plant growth and yield were also unresponsive to compost tea application. Combined, our results suggest that our compost tea bacteria did not thrive in the soil, and that the positive impacts of compost tea applications reported elsewhere may be caused by different microbial groups (e.g., fungi, protists and nematodes) or by abiotic effects on soil (e.g., contribution of nutrients and dissolved organic matter). Further investigations are needed to elucidate the mechanisms through which compost tea influences crop performance.",
+  "authors": [
+    "Rana Bali",
+    "Jonathan Pineault",
+    "Pierre-Luc Chagnon",
+    "Mohamed Hijri"
+  ],
+  "year": 2021,
+  "container": "Plants",
+  "licenses": [
+    "https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "url": "https://doi.org/10.3390/plants10081638"
+}

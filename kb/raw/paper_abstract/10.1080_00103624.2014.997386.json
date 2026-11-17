@@ -1,0 +1,18 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1080/00103624.2014.997386",
+  "title": "Establishment of Chlorophyll Meter Measurements to Manage Crop Nitrogen Status in Potato Crop",
+  "abstract": "Management of nitrogen (N) use is necessary to promote maximum development and production of tubers. For this reason, chlorophyll meters have been used to make N-fertilizer recommendations in potato. An assay was carried out with increasing doses of N. To define the thresholds IV for potato crops, correlations among IV, ISN, RR, and N content had been established. IV is the green index of the leaf measured by the chlorophyll meter. This index estimates the chlorophyll content in the leaf and through this the N concentration in vegetal tissue, based on the assumption that N and chlorophyll content have a strong correlation. ISN is the sufficiency nitrogen index. It was determined as the relation between the green index reading of each experimental unit and the highest average green index reading of the assay. RR is the relative yield. It was calculated as the ratio between the yield of each treatment and the highest average yield of the assay. The results had shown that varieties did not present N deficiencies during the vegetative growth phase, with IV and ISN values respectively equal to 41 SPAD units and 93 percent. During the tuber bulking phase, the necessary IV and ISN thresholds to reach maximum yields, for N content equal to 3 percent, were, respectively, between 38.5 and 40.5 SPAD units and between 84 and 94.8 at 70 and 89 days after planting. We concluded that the chlorophyll meter is an appropriate tool to determine the nutritional status in potato crops.",
+  "authors": [
+    "Amel Marouani",
+    "Omar Behi",
+    "Halim Ben Haj Salah",
+    "Octavio Arquero Quilez"
+  ],
+  "year": 2015,
+  "container": "Communications in Soil Science and Plant Analysis",
+  "licenses": [
+    "oa_status:closed"
+  ],
+  "url": "https://doi.org/10.1080/00103624.2014.997386"
+}

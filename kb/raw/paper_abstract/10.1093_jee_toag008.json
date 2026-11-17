@@ -1,0 +1,16 @@
+{
+  "provider": "crossref",
+  "doi": "10.1093/jee/toag008",
+  "title": "The role of sweet alyssum flowers and selective insecticide use on biological control of the diamondback moth (Lepidoptera: Plutellidae)",
+  "abstract": "Diamondback moth (DBM), Plutella xylostella (L.), is a ubiquitous pest of Brassicaceae crops, causing a global economic burden of $4 to 5 billion annually. Although natural enemies can suppress DBM populations through high parasitism rates (&amp;gt;80%), growers’ reliance on insecticides reduces beneficial insects and drives DBM insecticide resistance. Therefore, a sustainable DBM management approach is needed. We conducted a 2-yr field study to investigate the potential of sweet alyssum flowers in enhancing DBM biocontrol. Experiments included 4 treatments: (i) nontreated collards, (ii) collards with interspersed alyssum, (iii) collards with interspersed alyssum and Bacillus thuringiensis (Bt) sprays, and (iv) collards with bifenthrin sprays. Weekly sampling of DBM larvae, pupae, and parasitoid pupae was done to evaluate DBM pressure and parasitism rates. Additionally, collards were harvested to assess marketable yield. The alyssum + Bt treatment maintained the lowest DBM pressure and had significantly higher marketable yield. The bifenthrin-treated plots had significantly higher DBM pressure. Parasitism rate averaged up to 86%, but there were no differences among treatments. Predation may explain DBM pressure differences among treatments, although pitfall trapping did not detect significant differences in predator abundance, possibly due to small-plot size and interplot insect movement. In 2023, cross-striped cabbageworm (CSCW) Evergestis rimosalis (Guenée) also became a significant pest but was effectively managed by both insecticides. However, differences in severely damaged plants and marketable yield suggested a drawback of alyssum for CSCW management. Overall, planting alyssum, maintaining nontreated refuge, and using selective insecticides can conserve natural enemies and reduce pest pressure, supporting agricultural and environmental sustainability.",
+  "authors": [
+    "Amna Ghani",
+    "Tom Bilbo"
+  ],
+  "year": 2026,
+  "container": "Journal of Economic Entomology",
+  "licenses": [
+    "https://academic.oup.com/pages/standard-publication-reuse-rights"
+  ],
+  "url": "https://doi.org/10.1093/jee/toag008"
+}

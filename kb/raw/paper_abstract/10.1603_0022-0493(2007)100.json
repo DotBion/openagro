@@ -1,0 +1,18 @@
+{
+  "provider": "openalex",
+  "doi": "10.1603/0022-0493(2007)100",
+  "title": "Role of Myzus persicae (Hemiptera: Aphididae) and its secondary hosts in plum pox virus propagation",
+  "abstract": "Plum pox virus (family Potyviridae, genus Potyvirus, PPV) is one of the most important viral pathogens of plants in the genus Prunus, particularly Prunus persica L. The role of the Myzus persicae (Sulzer) (Hemiptera: Aphididae) as a vector of PPV-M, and its role in spreading PPV-M, was investigated. PPV-M-infected peach trees were used as inoculum sources, and transmission to 15 herbaceous species commonly present in and around peach orchards was evaluated. The presence of PPV-M in secondary hosts after aphid transmission was verified by reverse transcription-polymerase chain reaction tests. The results indicate that Saponaria ocymoides L., Pisum sativum L., Trifolium repens L., Trifolium pratense L., Lepidium sativum L., Matricaria chamomilla L., Centaurea cyanus L., Bellis perennis L., Papaver rhoeas L., and Zinnia elegans L. became infected. Although Lupinus polyphyllus Lindley, Taraxacum officinale L., Achillea millefolium L., Amaranthus retroflexus L., and Linum rubrum L. did not become infected, they are hosts of M. persicae. Among the 10 positive species that were infected, the species most common in peach orchards, T. pratense, T. repens, B. perennis, and M. chamomilla, were used as source plants for the transmission studies to the peach tree. Our study reveals the ability of M. persicae to transmit PPV-M from herbaceous hosts to peach trees, describes PPV-M symptoms in herbaceous species, and discusses the role of M. persicae and its hosts as a source of PPV-M in peach orchards",
+  "authors": [
+    "Barbara Rosy Ines Manachini",
+    "CASATI P",
+    "L. Cinanni",
+    "BIANCO P."
+  ],
+  "year": 2007,
+  "container": "Nova Science Publishers (Nova Science Publishers, Inc.)",
+  "licenses": [
+    "oa_status:closed"
+  ],
+  "url": "https://doi.org/10.1603/0022-0493(2007)100"
+}

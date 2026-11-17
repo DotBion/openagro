@@ -1,0 +1,19 @@
+{
+  "provider": "crossref",
+  "doi": "10.1017/wsc.2017.59",
+  "title": "Weed Suppression in Cover Crop Monocultures and Mixtures",
+  "abstract": "Interest in planting mixtures of cover crop species has grown in recent years as farmers seek to increase the breadth of ecosystem services cover crops provide. As part of a multidisciplinary project, we quantified the degree to which monocultures and mixtures of cover crops suppress weeds during the fall-to-spring cover crop growing period. Weed-suppressive cover crop stands can limit weed seed rain from summer- and winter-annual species, reducing weed population growth and ultimately weed pressure in future cash crop stands. We established monocultures and mixtures of two legumes (medium red clover and Austrian winter pea), two grasses (cereal rye and oats), and two brassicas (forage radish and canola) in a long fall growing window following winter wheat harvest and in a shorter window following silage corn harvest. In fall of the long window, grass cover crops and mixtures were the most weed suppressive, whereas legume cover crops were the least weed suppressive. All mixtures also effectively suppressed weeds. This was likely primarily due to the presence of fast-growing grass species, which were effective even when they were seeded at only 20% of their monoculture rate. In spring, weed biomass was low in all treatments due to winter kill of summer-annual weeds and low germination of winter annuals. In the short window following silage corn, biomass accumulation by cover crops and weeds in the fall was more than an order of magnitude lower than in the longer window. However, there was substantial weed seed production in the spring in all treatments not containing cereal rye (monoculture or mixture). Our results suggest that cover crop mixtures require only low seeding rates of aggressive grass species to provide weed suppression. This creates an opportunity for other species to deliver additional ecosystem services, though careful species selection may be required to maintain mixture diversity and avoid dominance of winter-hardy cover crop grasses in the spring.",
+  "authors": [
+    "Barbara Baraibar",
+    "Mitchell C. Hunter",
+    "Meagan E. Schipanski",
+    "Abbe Hamilton",
+    "David A. Mortensen"
+  ],
+  "year": 2018,
+  "container": "Weed Science",
+  "licenses": [
+    "https://www.cambridge.org/core/terms"
+  ],
+  "url": "https://doi.org/10.1017/wsc.2017.59"
+}

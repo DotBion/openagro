@@ -1,0 +1,17 @@
+{
+  "provider": "crossref",
+  "doi": "10.2134/agronj2017.08.0475",
+  "title": "Water Use Efficiency in Living Mulch and Annual Cover Crop Corn Production Systems",
+  "abstract": "Living mulch cover crops help stabilize erosive soils when used with row crops. White clover living mulch systems use water in the surface 15 cm of soil. Supplemental irrigation is necessary to support a living mulch corn production system. Canopy closure induces soil moisture equilibration due to shading of the clover. Water use efficiency is less in the living mulch system, especially during drought. Corn ( Zea mays L.) comprises 95% of the feed grain production in the United States. The area dedicated to corn production in the southeastern United States has increased over the past decade, raising concerns about environmental degradation, and creating a need for more sustainable productions systems. One production system that addresses these concerns is the white clover ( Trifolium repens L.) living mulch (LM). Previous research defined a sustainable LM system for corn production, but questions regarding water use efficiency (WUE) of the system remain. In this experiment, soil moisture was monitored in the top 30 cm of the soil, from 0 to 15 and 15 to 30 cm, during the corn growing season in a LM, crimson clover (CC) ( Trifolium incarnatum L.), and cereal rye (CR) ( Secale cereale L.) cover crops. We found that soil volumetric water content (VWC) was greater in the CR treatment than in the LM throughout the growing season, whereas CC and LM were similar 60 days after planting (DAP). The VWC between corn rows was greater in the CR and CC treatments than the LM in both years of the study. The CC and CR treatments had greater WUE than the LM treatment in both years of the study. The WUE was reduced in cover crop treatments in 2016 compared with 2015, likely due to drought conditions in 2016. These results suggest the LM system may be best suited to regions with high rainfall, soils with high water holding capacity, and/or supplemental irrigation.",
+  "authors": [
+    "Zachary P. Sanders",
+    "Joshua S. Andrews",
+    "Nicholas S. Hill"
+  ],
+  "year": 2018,
+  "container": "Agronomy Journal",
+  "licenses": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "url": "https://doi.org/10.2134/agronj2017.08.0475"
+}

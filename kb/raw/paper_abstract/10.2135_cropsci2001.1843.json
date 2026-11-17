@@ -1,0 +1,18 @@
+{
+  "provider": "crossref",
+  "doi": "10.2135/cropsci2001.1843",
+  "title": "Crop Sequence Effects on Soybean Cyst Nematode and Soybean and Corn Yields",
+  "abstract": "The soybean cyst nematode (SCN), Heterodera glycines Ichinohe, is a destructive pest of soybean, Glycine max (L.) Merr. Field research was conducted at Waseca and Lamberton, MN, from 1996 through 1999 to evaluate the effect of crop sequence on SCN population density and on crop yields. Cropping sequence treatments were (i) monocultures of corn ( Zea mays L.), SCN‐resistant soybean, and SCN‐susceptible soybean; (ii) susceptible soybean rotated with 1, 2, or 3 yr of corn; (iii) resistant soybean rotated annually with corn; and (iv) rotation of corn–resistant soybean–corn–susceptible soybean. Egg density was determined at sowing and harvest, and crop yields were determined each year. In general, yields of resistant soybean were higher than susceptible soybean. Resistant soybean in annual rotation with corn produced the highest yield, and susceptible soybean in monoculture produced the lowest yield among all treatments. A longer period of corn in rotation resulted in higher yield of subsequent susceptible soybean in most instances. Yields of corn following corn were lower than following soybean. Egg density at the start of the study was 6994 and 14 000 eggs 100 cm −3 soil at Waseca and Lamberton, respectively. Average Pf/Pi (egg density at harvest/egg density at sowing) was 0.59 (0.23–0.86) for corn, 0.49 (0.21–0.73) for resistant soybean, and 3.3 (0.74–9.91) for susceptible soybean for all treatments at the two sites across the 4‐yr period. After 3 yr of corn, egg density decreased to 889 and 3695 eggs 100 cm −3 soil at Waseca and Lamberton, respectively. Annual rotation of resistant soybean and corn resulted in the lowest SCN population density and produced the highest yield of both crops.",
+  "authors": [
+    "Senyu Chen",
+    "Paul M. Porter",
+    "Curtis D. Reese",
+    "Ward C. Stienstra"
+  ],
+  "year": 2001,
+  "container": "Crop Science",
+  "licenses": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "url": "https://doi.org/10.2135/cropsci2001.1843"
+}

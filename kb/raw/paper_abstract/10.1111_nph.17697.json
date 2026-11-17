@@ -1,0 +1,23 @@
+{
+  "provider": "crossref",
+  "doi": "10.1111/nph.17697",
+  "title": "Deep learning‐based quantification of arbuscular mycorrhizal fungi in plant roots",
+  "abstract": "Soil fungi establish mutualistic interactions with the roots of most vascular land plants. Arbuscular mycorrhizal (AM) fungi are among the most extensively characterised mycobionts to date. Current approaches to quantifying the extent of root colonisation and the abundance of hyphal structures in mutant roots rely on staining and human scoring involving simple yet repetitive tasks which are prone to variation between experimenters. We developed Automatic Mycorrhiza Finder (AMFinder) which allows for automatic computer vision‐based identification and quantification of AM fungal colonisation and intraradical hyphal structures on ink‐stained root images using convolutional neural networks. AMFinder delivered high‐confidence predictions on image datasets of roots of multiple plant hosts ( Nicotiana benthamiana , Medicago truncatula , Lotus japonicus , Oryza sativa ) and captured the altered colonisation in ram1‐1 , str , and smax1 mutants. A streamlined protocol for sample preparation and imaging allowed us to quantify mycobionts from the genera Rhizophagus , Claroideoglomus , Rhizoglomus and Funneliformis via flatbed scanning or digital microscopy, including dynamic increases in colonisation in whole root systems over time. AMFinder adapts to a wide array of experimental conditions. It enables accurate, reproducible analyses of plant root systems and will support better documentation of AM fungal colonisation analyses. AMFinder can be accessed at https://github.com/SchornacklabSLCU/amfinder .",
+  "authors": [
+    "Edouard Evangelisti",
+    "Carl Turner",
+    "Alice McDowell",
+    "Liron Shenhav",
+    "Temur Yunusov",
+    "Aleksandr Gavrin",
+    "Emily K. Servante",
+    "Clément Quan",
+    "Sebastian Schornack"
+  ],
+  "year": 2021,
+  "container": "New Phytologist",
+  "licenses": [
+    "http://creativecommons.org/licenses/by/4.0/"
+  ],
+  "url": "https://doi.org/10.1111/nph.17697"
+}

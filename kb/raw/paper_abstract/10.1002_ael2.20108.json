@@ -1,0 +1,16 @@
+{
+  "provider": "crossref",
+  "doi": "10.1002/ael2.20108",
+  "title": "Revisiting the permanganate oxidizable carbon (POXC) assay assumptions: POXC is lignin sensitive",
+  "abstract": "Permanganate oxidizable carbon (POXC) is a popular soil health test developed to measure “labile” C via the reduction of permanganate, dependent on several stoichiometric reduction oxidation assumptions. As a proof‐of‐concept experiment to evaluate the interpretation of POXC as “labile” C, we tested 17 compounds ranging in biological lability under standard POXC assay conditions at a fixed C mass (25 mg) in a quartz (2–0.053 mm diameter) matrix. POXC was high for lignin, whereas carbohydrates did not differ from the quartz control. Functional group‐based reactivity partly explained permanganate reduction. These findings indicate that (i) POXC is not a labile C fraction and (ii) corroborate previous concerns that the stoichiometric oxidation–reduction assumptions in the calculation of C oxidation from permanganate reduced are not sound. POXC interpretation should regard POXC as a chemically defined fraction, report in units of moles permanganate reduced per kg soil, and avoid terms such as “labile” and “active.”",
+  "authors": [
+    "Finnleigh S. Woodings",
+    "Andrew J. Margenot"
+  ],
+  "year": 2023,
+  "container": "Agricultural &amp; Environmental Letters",
+  "licenses": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "url": "https://doi.org/10.1002/ael2.20108"
+}

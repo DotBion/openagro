@@ -1,0 +1,27 @@
+{
+  "provider": "crossref",
+  "doi": "10.1002/saj2.70105",
+  "title": "Is an economically optimal corn nitrogen rate also environmentally optimal?",
+  "abstract": "The economically optimal nitrogen rate (EONR), while an accepted standard as the “right rate” for corn ( Zea mays L.) fertilization, does not directly account for environmental impacts. This study evaluated the effects of nitrogen (N) fertilizer application rate and timing on crop N use and N loss potential, using residual soil nitrate‐N (RSN; 0‐ to 0.9‐m depth) relative to EONR. The evaluation was conducted using 49 N response trials from eight US Midwest states from 2014 to 2016. Nitrogen rates were applied as ammonium nitrate, either all at planting or split between at planting (45 kg N ha −1 ) and the remainder at the ∼V9 growth stage. At EONR, RSN was 42 kg N ha −1 for at‐plant applications and 62 kg N ha −1 for split applications. However, unaccounted for N at the end of the growing season was greater for at‐plant (46 kg N ha −1 ) than for split applications (21 kg N ha −1 ). This suggests a higher susceptibility of N loss during the early season for at‐planting applications and after the season for split applications. Differences in RSN at the EONR between N timings were not explained by differences in total aboveground N uptake at R6. Residual soil nitrate did not substantially increase until N application rates exceeded the EONR by 30 kg N ha −1 . These findings support using EONR, at an N:corn price ratio of 5.6, as an N application sustainability standard that balances profitability and environmental concerns.",
+  "authors": [
+    "Christopher J. Bandura",
+    "Carrie A. M. Laboski",
+    "James J. Camberato",
+    "Paul R. Carter",
+    "Jason D. Clark",
+    "Richard B. Ferguson",
+    "Fabián G. Fernández",
+    "David W. Franzen",
+    "Newell R. Kitchen",
+    "Emerson D. Nafziger",
+    "Curtis J. Ransom",
+    "John E. Sawyer",
+    "John F. Shanahan"
+  ],
+  "year": 2025,
+  "container": "Soil Science Society of America Journal",
+  "licenses": [
+    "http://creativecommons.org/licenses/by/4.0/"
+  ],
+  "url": "https://doi.org/10.1002/saj2.70105"
+}

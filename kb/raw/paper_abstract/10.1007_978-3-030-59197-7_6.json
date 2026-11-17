@@ -1,0 +1,18 @@
+{
+  "provider": "crossref",
+  "doi": "10.1007/978-3-030-59197-7_6",
+  "title": "Considerations for Unharvested Plant Potassium",
+  "abstract": "Potassium (K) is found in plants as a free ion or in weak complexes. It is easily released from living or decomposing tissues, and it should be considered in fertilization programs. Several factors affect K cycling in agroecosystems, including soil and fertilizer K contributions, plant K content and exports, mineralization rates from residues, soil chemical reactions, rainfall, and time. Soil K + ions can be leached, remain as exchangeable K, or migrate to non-exchangeable forms. Crop rotations that include vigorous, deep-rooted cover crops capable of exploring non-exchangeable K in soil are an effective strategy for recycling K and can prevent leaching below the rooting zone in light-textured soils. The amount of K released by cover crops depends on biomass production. Potassium recycled with non-harvested components of crops also varies greatly. Research with maize, soybean, and wheat has shown that 50–60% of K accumulated in vegetative tissues is released within 40–45 days. A better understanding of K cycling would greatly improve the efficacy of K management for crop production. When studying K cycling in agricultural systems, it is important to consider: (1) K addition from fertilizers and organic amendments; (2) K left in residues; (3) K partitioning differences among species; (4) soil texture; (5) soil pools that act as temporary sources or sinks for K. In this chapter, the role of cash and cover crops and organic residues on K cycling are explored to better understand how these factors could be integrated into making K fertilizer recommendations.",
+  "authors": [
+    "Ciro A. Rosolem",
+    "Antonio P. Mallarino",
+    "Thiago A. R. Nogueira"
+  ],
+  "year": 2021,
+  "container": "Improving Potassium Recommendations for Agricultural Crops",
+  "licenses": [
+    "https://creativecommons.org/licenses/by/4.0",
+    "https://creativecommons.org/licenses/by/4.0"
+  ],
+  "url": "https://doi.org/10.1007/978-3-030-59197-7_6"
+}

@@ -1,0 +1,20 @@
+{
+  "provider": "crossref",
+  "doi": "10.3389/fagro.2021.636179",
+  "title": "Long-Term Soil Nutrient Management Affects Taxonomic and Functional Weed Community Composition and Structure",
+  "abstract": "Weed communities can be influenced by nutrient availability, nutrient form (e. g., ammonium vs. nitrate), amendment timing, amendment type (e.g., organic vs. inorganic), and by immigration of seeds during amendment applications. The objective of this research was to compare the long-term effect of different fertility treatments in a corn ( Zea mays L.)-alfalfa ( Medicago sativa L.) rotation on taxonomic and functional structure and composition of weed communities by analyzing the soil weed seedbank. After 14 years of a long-term experiment in Aurora, NY, United States, soils were sampled in five fertility treatments for corn years in the rotation: liquid dairy manure, semi-composted separated dairy solids; or inorganic nitrogen (N) as starter fertilizer with either no sidedress N, a low rate or a high rate of inorganic N as sidedress fertilizer. Soil was collected in early spring 2015 and a greenhouse weed seed germination bioassay was used to quantify the germinable soil weed seedbank. Total weed seedbank density, species richness, and evenness did not vary by treatment. However, fertility treatments modified the ecological niche represented by 20 environmental descriptors, which filtered the weed community creating distinct functional group assemblages. A trait-based analysis revealed that nitrophilic dicotyledons preferring alkaline soil were associated with high concentrations of inorganic N fertilizer, whereas highly specialist monocotyledons preferring high amounts of light were associated with low concentrations of inorganic N fertilizer. Because fertility treatments affected weed community composition but not seed bank density and richness, results encourage the development of holistic management strategies that adopt coherent weed management and crop fertilization.",
+  "authors": [
+    "Stéphane Cordeau",
+    "Sandra Wayman",
+    "Quirine M. Ketterings",
+    "Chris J. Pelzer",
+    "Amir Sadeghpour",
+    "Matthew R. Ryan"
+  ],
+  "year": 2021,
+  "container": "Frontiers in Agronomy",
+  "licenses": [
+    "https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "url": "https://doi.org/10.3389/fagro.2021.636179"
+}

@@ -1,0 +1,24 @@
+{
+  "provider": "crossref",
+  "doi": "10.1088/2976-601x/ae8f4e",
+  "title": "Regenerative agriculture: connecting soil carbon storage, biodiversity, and profit",
+  "abstract": "Amidst alternative carbon capture and storage strategies (Küng 2023 Energy Environ. Sci. 16 4280; Dupla et al 2024 Sci. Total Environ. 954 176297), regenerative agriculture seeks to attain climate mitigation goals while simultaneously reducing ecosystem-damaging land management practices that contribute to planetary-scale problems (LaCanne and Lundgren 2018 PeerJ. 6 e4428). Additional proposed outcomes of regenerative agriculture include restoring biodiversity to managed landscapes, improved water cycling, reduced pollution, enhanced food quality, and increased resilience and social equity to farms (Newton et al 2020 Front. Sustain. Food Syst. 4 577723), but these claims have seldom been empirically tested at scale. We show in this empirical study of North American field-cropping systems ( n = 210 farms, ranging from conventional to regenerative) that a philosophical shift in regenerative field-crop farmers towards human, social, and environmental health had a cascading, positive, and circular effect on biodiversity, soil carbon storage, and farm resilience. Biodiversity was greater on regenerative farms, including soil microbes, invertebrates, plants, and birds, and this biodiversity was strongly correlated with total carbon (TC) storage within fields. Compared to the most conventional farms, the most regenerative farms had 39% greater soil TC pools (0–6000 Mg soil/ha layer). Croplands had equivalent gross and net profits across management styles. Yields on regenerative farms were equivalent to national averages, but conventional farms had higher mean yields than regenerative farms. Regenerative farmers were more motivated by human and environmental wellness than conventional farmers, who were disproportionately motivated by perceived economic currencies. This study elevates the importance of promoting agricultural biodiversity as a tool for land-based carbon capture strategies, and underscores at scale the value that regenerative food systems have in greenhouse gas mitigation. For example, regenerative field-crop farms could store the equivalent of at least 1.5 yrs of the annual emissions of the U.S. if the same average outcomes observed here could be replicated on all U.S. field-crop farms. Maximum benefits are only achievable by understanding the sociological underpinnings of the regenerative movement.",
+  "authors": [
+    "Jonathan G Lundgren",
+    "Kelton D Welch",
+    "Michael M Bredeson",
+    "Katya Busenitz",
+    "Robin Buterbaugh",
+    "Thomas L D Fenster",
+    "Kent C Jensen",
+    "Daniel Pecenka",
+    "Ryan B Schmid"
+  ],
+  "year": 2026,
+  "container": "Environmental Research: Food Systems",
+  "licenses": [
+    "https://creativecommons.org/licenses/by/4.0/",
+    "https://iopscience.iop.org/info/page/text-and-data-mining"
+  ],
+  "url": "https://doi.org/10.1088/2976-601x/ae8f4e"
+}

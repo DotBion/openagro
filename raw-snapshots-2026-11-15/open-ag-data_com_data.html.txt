@@ -1,0 +1,159 @@
+Ground-truth data layers for models and decisions | OpenAgData
+OpenAgData
+Map
+Studies
+Hubs
+Funding
+Search research, hubs…
+For researchers
+Sign in
+Add research
+Work with us 
+Menu
+Ground-truth data layers
+Field evidence, tied to the ground it came from.
+Agricultural research is scattered across thousands of studies, and almost none of it is tied to the place it happened. So nobody can say with confidence what works, where. We read the methods sections, resolve the site to a real county, and
+ keep the sentence that proves it
+.
+ Inspect 25 source-backed rows
+See where the evidence comes from
+Limited public sample, no form. Commissioned curation, validation, and delivery are paid.
+What one row gives you
+One row is one observation — a place, a season, and something that was actually measured there. Not a paper, not an abstract.
+Where
+State, county, county FIPS, and a field coordinate when the study reported one
+What practice
+Tillage class, cover crop, crop, irrigation — normalized, not free text
+What was measured
+Soil carbon, yield, emissions and similar, with units and sampling depth
+How we know
+The verbatim sentence, the method used to place it, and a confidence level
+Where it came from
+The study title and DOI, so you can go read it yourself
+Who uses it
+Model teams
+Calibrating remote-sensing, crop, or biogeochemical models against something measured in a field rather than inferred from orbit.
+Carbon programs & MRV
+Backing practice claims with field evidence that survives an audit, including who reported it and when.
+Commodity boards & funders
+Showing what the research you funded actually found, and the counties it happened in.
+Agencies & policy teams
+Practice and outcome evidence at county grain, between the five-year census releases.
+Every row quotes its source
+Each observation carries the verbatim sentence it was read from, and the study it sits in. If we cannot show you the sentence, we do not sell you the row.
+Counties resolve against real geometry
+Every county matches the same polygons our maps render, so a FIPS code joins cleanly to yours. A location we cannot place is left unplaced rather than guessed.
+Thin evidence stays quiet
+Agreement rates are suppressed below five comparable observations, and a practice measured under a different definition is flagged, not silently compared.
+Ways to work with us
+Choose the level of stewardship the decision requires. We price the work, not the row, because more rows are not the same as better evidence.
+Answer one question
+Focused evidence set
+From $10,000
+one-time
+Bring us one decision, claim, or model question. We define the geography, practice, and years together, then curate the smallest evidence set that can answer it honestly.
+One agreed question and a decision-ready CSV
+Every observation linked to its source sentence and study
+A fixed deliverable your team can keep, test, and audit
+Scope one evidence question
+Keep it current
+Living evidence license
+From $25,000
+per year
+Build decisions on an evidence layer that grows with the research. Your team gets county-year observations with the provenance, confidence, and definitions needed to use them responsibly.
+County- and crop-year-resolved observations
+Normalized practices, measured outcomes, and source context
+Bulk delivery without per-call metering
+Build a living evidence layer
+Know what to trust
+Source reconciliation
+From $45,000
+per year
+When providers disagree about the same county, we show where the numbers diverge and whether the cause is measurement, coverage, or two definitions being treated as one.
+Per-provider agreement by county, year, and practice
+Definition matching so like is compared with like
+A field-checking priority list for the disagreements that matter
+Resolve conflicting estimates
+Where this stands today
+We would rather tell you than have you find out. The corpus is real and growing; the county-year panel is being built out of it now, and the first tranches are curated to order.
+1,937
+published records indexed in this corpus, each linked to its source of record
+41
+records with a source-reviewed county or field site in the structured layer
+Growing
+crop-year and practice extraction underway across the rest
+Paid project intake
+Start with the question, not a package.
+Choose the path closest to the work. We'll use your real portfolio, model, or decision to define a small first version before proposing a larger build.
+All organization-specific curation, validation, analysis, delivery, and maintenance is paid. Custom work begins only after a written scope and fee are agreed.
+Build a ground-truth layer
+Develop a source-backed evidence layer for a model, claim, report, or decision that needs defensible field context.
+Specify the decision and required grain
+Keep every value tied to its source
+Validate the layer before full delivery
+Organization
+Organization type
+Lab or research program
+Experiment station or extension
+Institute or university
+Network or consortium
+Funder, foundation, or commodity board
+Agency or public program
+Model or analytics team
+Company or cooperative
+Other
+Your name
+Role
+Email
+Timeline
+This month
+This quarter
+This year
+Just exploring
+Geography or portfolio scope
+Model, system, claim, or decision
+Required geographic grain
+Field or site
+County by year
+Multi-county or state
+Regional or national
+Not sure yet
+Evidence scope
+What should the first delivery look like?
+Focused evidence set
+Model-validation dataset
+Living evidence layer
+Source-reconciliation analysis
+API or scheduled data delivery
+Not sure yet
+What question should this project answer?
+What data or source material already exists?
+Anything else we should know? 
+(optional)
+Request a proposal
+ Inspect the source-backed sample first
+OpenAgData
+Source papers, places, and measured outcomes for researchers and the organizations that support them.
+hello@open-ag-data.com
+Discover
+Map
+Studies
+Hubs
+Funding
+Researcher workspace
+Research tools
+For organizations
+Discuss your needs
+Partnerships & pricing
+Evidence data services
+About
+About
+Our ecosystem
+Investment & support
+Feedback
+Privacy
+Terms
+© 
+2026
+ OpenAgData. What works, where.
+Researchers · Funders · Hub partners

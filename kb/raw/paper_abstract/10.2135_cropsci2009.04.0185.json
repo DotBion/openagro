@@ -1,0 +1,23 @@
+{
+  "provider": "crossref",
+  "doi": "10.2135/cropsci2009.04.0185",
+  "title": "Probability of Yield Response to Inoculants in Fields with a History of Soybean",
+  "abstract": "Inoculants containing Bradyrhizobium japonicum are available for soybean [ Glycine max (L.) Merr.] production but may not be necessary in fields where soybean previously has been produced. The objective of this study was to determine yield response and probability of an economic return from inoculants in fields with a recent history of soybean production. Fifty‐one inoculant products were evaluated in experiments ( n = 73) conducted in Indiana, Iowa, Minnesota, Nebraska, and Wisconsin between 2000 and 2008. Inoculant products were similar and did not produce a yield response relative to an untreated control different from zero ( P &gt; 0.05) at 63 environments. Probability for a break‐even economic return at a soybean sale price of $0.33 kg −1 was 59% for Nebraska, 36% for Wisconsin, 25% for Minnesota, 25% for Indiana, and 4% for Iowa. Attaining a return on investment of 67 kg ha −1 (a 2:1 return) reduced success to 11, 2, 1, 7, and 0.2%, for the five states, respectively. Data from this range of environments and products indicate that application of an inoculant offers limited success for either a yield increase or improved economic return on soils where soybean has previously been grown in the upper Midwest.",
+  "authors": [
+    "J. L. De Bruin",
+    "P. Pedersen",
+    "S. P. Conley",
+    "J. M. Gaska",
+    "S. L. Naeve",
+    "J. E. Kurle",
+    "R. W. Elmore",
+    "L. J. Giesler",
+    "L. J. Abendroth"
+  ],
+  "year": 2010,
+  "container": "Crop Science",
+  "licenses": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "url": "https://doi.org/10.2135/cropsci2009.04.0185"
+}

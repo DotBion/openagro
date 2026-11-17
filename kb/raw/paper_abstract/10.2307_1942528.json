@@ -1,0 +1,18 @@
+{
+  "provider": "crossref",
+  "doi": "10.2307/1942528",
+  "title": "Interactions of Bacteria, Fungi, and their Nematode Grazers: Effects on Nutrient Cycling and Plant Growth",
+  "abstract": "The most common system responses attributed to microfloral grazers (protozoa, nematodes, microarthropods) in the literature are increased plant growth, increased N uptake by plants, decreased or increased bacterial populations, increased CO 2 evolution, increased N and P mineralization, and increased substrate utilization. Based on this evidence in the literature, a conceptual model was proposed in which microfloral grazers were considered as separate state variables. To help evaluate the model, the effects of microbivorous nematodes on microbial growth, nutrient cycling, plant growth, and nutrient uptake were examined with reference to activities within and outside of the rhizosphere. Blue grama grass (Bouteloua gracilis) was grown in gnotobiotic microcosms containing sandy loam soil low in inorganic N, with or without chitin amendments as a source of organic N. The soil was inoculated with bacteria (Pseudomonas paucimobilis or P. stutzeri) or fungus (Fusarium oxysporum), with half the bacterial microcosms inoculated with bacterial—feeding nematodes (Pelodera sp. or Acrobeloides sp.) and half the fungal microcosms inoculated with fungal—feeding nematodes (Aphelenchus avenae). Similar results were obtained from both the unamended and the chitin—amended experiments. Bacteria, fungi, and both trophic groups of nematodes were more abundant in the rhizosphere than in nonrhizosphere soil. All treatments containing nematodes and bacteria had higher bacterial densities than similar treatments without nematodes. Plants growing in soil with bacteria and bacterial—feeding nematodes grew faster and initially took up more N than plants in soil with only bacteria, because of increased N mineralization by bacteria, NH 4 + —N excretion by nematodes, and greater initial exploitation of soil by plant roots. Addition of fungal—feeding nematodes did not increase plant growth or N uptake because these nematodes excreted less NH 4 + —N than did bacterial—feeding nematode populations and because the N mineralized by the fungus alone was sufficient for plant growth. Total shoot P was significantly greater in treatments with fungus or Pelodera sp. than in the sterile plant control or treatments with plants plus Pseudomonas stutzeri until the end of the experiment. The additional mineralization that occurs due to the activities of microbial grazers may be significant for increasing plant growth only when mineralization by microflora alone is insufficient to meet the plants' requirements. However, while the advantage of increased N mineralization by microbial grazers may be short—term, it may occur in many ecosystems in those short periods of ideal conditions when plant growth can occur. Thus, these results support other claims in the literature that microbial grazers may perform important regulatory functions at critical times in the growth of plants.",
+  "authors": [
+    "Russell E. Ingham",
+    "J. A. Trofymow",
+    "Elaine R. Ingham",
+    "David C. Coleman"
+  ],
+  "year": 1985,
+  "container": "Ecological Monographs",
+  "licenses": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "url": "https://doi.org/10.2307/1942528"
+}

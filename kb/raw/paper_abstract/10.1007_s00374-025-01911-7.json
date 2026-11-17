@@ -1,0 +1,18 @@
+{
+  "provider": "crossref",
+  "doi": "10.1007/s00374-025-01911-7",
+  "title": "Comparison of methods for assessing fungi-to-bacteria ratio of soil",
+  "abstract": "Measuring bacterial and fungal biomass may offer insights into agroecosystem health. Nevertheless, few studies have directly compared the ability of different methods to assess the abundance of these two microbial groups and their ratio (F/B ratio). This study compared the ability, precision, and repeatability of three commonly used laboratory methods - phospholipid fatty acid (PLFA) analysis, quantitative PCR (qPCR), and droplet-digital PCR (ddPCR) - alongside a commercially available microbial carbon testing tool (microBIOMETER ® ), to assess the F/B ratio and microbial abundance in agroecosystem soils. We also reviewed recent literature on common measurement and reporting practices. PLFA and ddPCR provided the most reliable outcomes, with PLFA being the most precise, repeatable, and widely used (81% of reviewed studies). However, significant variability in analytical procedures exists between laboratories, and key details, such as storage conditions, are often underreported. MicroBIOMETER ® can offer a low-cost option for assessing total microbial biomass, but did not match PLFA results in determining the F/B ratio. ddPCR offered better precision than qPCR but had a narrower dynamic range. Therefore, optimal approach is to use the two methods in parallel. In conclusion, we recommend future studies adopt PLFA analysis as the primary method for assessing microbial abundance and F/B ratio of soils, as PCR-based measurements are influenced by several unavoidable biases. Furthermore, we suggest improvements to the PLFA method to ensure more reliable comparisons across laboratories. Altogether, our study gives guidelines for improving the monitoring of F/B ratio and microbial abundance in agroecosystems.",
+  "authors": [
+    "Miikka B. Laine",
+    "Sami J. Taipale",
+    "Marja Tiirola"
+  ],
+  "year": 2025,
+  "container": "Biology and Fertility of Soils",
+  "licenses": [
+    "https://creativecommons.org/licenses/by/4.0",
+    "https://creativecommons.org/licenses/by/4.0"
+  ],
+  "url": "https://doi.org/10.1007/s00374-025-01911-7"
+}

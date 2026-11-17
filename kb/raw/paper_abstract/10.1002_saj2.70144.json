@@ -1,0 +1,23 @@
+{
+  "provider": "crossref",
+  "doi": "10.1002/saj2.70144",
+  "title": "The missing link: A purpose‐led framework for assessing soil health",
+  "abstract": "Human food supply depends on healthy soils, yet lack of metrics to estimate returns from soil‐health‐improving practices (SHIPs) limits their adoption at ecologically significant scale. To address this limitation, we evaluate a purpose‐led framework that quantifies tradeoffs between food production and other ecosystem services. “Proof‐of‐concept” evaluations of corn‐based systems in the central United States estimated returns from adoption of no‐till in Kentucky and subsurface drainage in Iowa. No‐till returned $172 ha −1 year −1 from improved soil N and water supply, which was associated with greater soil organic carbon (SOC), increased N fertilizer efficiency, and yield. Drainage returned $75 ha −1 year −1 from greater soil N and water supply in an enlarged aerated root zone, which increased N fertilizer efficiency and yields while decreasing greenhouse gas emissions despite a reduction in SOC. SHIPs that impact soil N and water supply had a large influence on profitability and resource use efficiency, which makes them useful soil health indicators, and this finding should be broadly applicable to rainfed, upland cereal systems worldwide.",
+  "authors": [
+    "Kenneth G. Cassman",
+    "Hanna Poffenbarger",
+    "Mitchell Baum",
+    "Lucas P. Canisares",
+    "Laila A. Puntel",
+    "Fernando Aramburu Merlos",
+    "John H. Grove",
+    "Michael Castellano"
+  ],
+  "year": 2025,
+  "container": "Soil Science Society of America Journal",
+  "licenses": [
+    "http://creativecommons.org/licenses/by-nc/4.0/",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  ],
+  "url": "https://doi.org/10.1002/saj2.70144"
+}

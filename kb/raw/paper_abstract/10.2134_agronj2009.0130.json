@@ -1,0 +1,19 @@
+{
+  "provider": "crossref",
+  "doi": "10.2134/agronj2009.0130",
+  "title": "Control of Cereal Rye with a Roller/Crimper as Influenced by Cover Crop Phenology",
+  "abstract": "Adoption of reduced tillage practices have been driven by the need to enhance soil quality, minimize field labor time, and scale up farm size. However, concerns about increased reliance on herbicides and demand for organically grown foods call for adoption of production practices that can reduce both tillage and herbicide use. This research study assessed the influence of planting and termination dates on mechanical cover crop control efficacy to limit tillage and herbicide use using a roller/crimper. A thermal‐based phenological model using growing degree days (GDD; base 4.4°C) was developed to predict cereal rye ( Secale cereale L.) growth stage. Mechanical control of cereal rye increased as rye matured. Variations in cereal rye cultivar growth rates were observed; however, they responded similarly to rolling when terminated at the same growth stage. Consistent control was achieved at a Zadoks growth stage 61 (rye anthesis). A thermal‐based phenological model separating the effects of heat units accumulated in the fall (Fall GDD ) from those accumulated in the spring (Spring GDD ) best predicted the phenological development of cereal rye. Predicting when cereal rye can be successfully controlled using a roller/crimper along with the use of the thermal‐based phenological model should aid growers in decision‐making regarding cereal rye planting and termination dates.",
+  "authors": [
+    "Steven B. Mirsky",
+    "William S. Curran",
+    "David A. Mortensen",
+    "Matthew R. Ryan",
+    "Durland L. Shumway"
+  ],
+  "year": 2009,
+  "container": "Agronomy Journal",
+  "licenses": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "url": "https://doi.org/10.2134/agronj2009.0130"
+}

@@ -1,0 +1,16 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1080/00103624.2021.1872607",
+  "title": "Pre-incubation Soil Handling Can Influence Comparability of Potentially Mineralizable Nitrogen Results",
+  "abstract": "Potentially mineralizable nitrogen (PMN) is a widely used indicator of a soil’s organic nitrogen (N) availability, and is often measured by incubation. While it is known that the handling of soil prior to incubation (i.e., pretreatment) may affect N mineralization during the incubation, the effect of pretreatments on the relationships in PMN between samples has not been fully evaluated. The objectives of this study were to determine the effects of refrigeration, freezing, air-drying, and soil grinding on PMN derived from a 7-day anaerobic incubation across soils of contrasting textures (silt loam and sand) and cropping histories (mixed rotation, continuous corn at varying N rates, and rotationally grazed pasture), and to assess the comparability of results across pretreatments. Analysis of variance was used to compare the individual and interaction effects of pretreatment and soil, and linear regression was performed to compare the effects of different pretreatments relative to one another. All pretreatments had distinct effects on mineralized N. While the relationships between soils remained consistent across pretreatments, a soil-by-pretreatment interaction effect was detected, driven by differences in field-moist versus air-dried pretreatments. These findings suggest that while relationships between soils may reasonably be compared across studies utilizing differing PMN soil pretreatments, standardization or calibration of soil handling methods is needed for applications such as routine soil testing, in which consistent and comparable values are required.",
+  "authors": [
+    "Sarah M. Collier",
+    "Matthew D. Ruark"
+  ],
+  "year": 2021,
+  "container": "Communications in Soil Science and Plant Analysis",
+  "licenses": [
+    "oa_status:closed"
+  ],
+  "url": "https://doi.org/10.1080/00103624.2021.1872607"
+}

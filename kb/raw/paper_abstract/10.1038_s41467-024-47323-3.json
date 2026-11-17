@@ -1,0 +1,25 @@
+{
+  "provider": "crossref",
+  "doi": "10.1038/s41467-024-47323-3",
+  "title": "Nutrient-induced acidification modulates soil biodiversity-function relationships",
+  "abstract": "Nutrient enrichment is a major global change component that often disrupts the relationship between aboveground biodiversity and ecosystem functions by promoting species dominance, altering trophic interactions, and reducing ecosystem stability. Emerging evidence indicates that nutrient enrichment also reduces soil biodiversity and weakens the relationship between belowground biodiversity and ecosystem functions, but the underlying mechanisms remain largely unclear. Here, we explore the effects of nutrient enrichment on soil properties, soil biodiversity, and multiple ecosystem functions through a 13-year field experiment. We show that soil acidification induced by nutrient enrichment, rather than changes in mineral nutrient and carbon (C) availability, is the primary factor negatively affecting the relationship between soil diversity and ecosystem multifunctionality. Nitrogen and phosphorus additions significantly reduce soil pH, diversity of bacteria, fungi and nematodes, as well as an array of ecosystem functions related to C and nutrient cycling. Effects of nutrient enrichment on microbial diversity also have negative consequences at higher trophic levels on the diversity of microbivorous nematodes. These results indicate that nutrient-induced acidification can cascade up its impacts along the soil food webs and influence ecosystem functioning, providing novel insight into the mechanisms through which nutrient enrichment influences soil community and ecosystem properties.",
+  "authors": [
+    "Zhengkun Hu",
+    "Manuel Delgado-Baquerizo",
+    "Nicolas Fanin",
+    "Xiaoyun Chen",
+    "Yan Zhou",
+    "Guozhen Du",
+    "Feng Hu",
+    "Lin Jiang",
+    "Shuijin Hu",
+    "Manqiang Liu"
+  ],
+  "year": 2024,
+  "container": "Nature Communications",
+  "licenses": [
+    "https://creativecommons.org/licenses/by/4.0",
+    "https://creativecommons.org/licenses/by/4.0"
+  ],
+  "url": "https://doi.org/10.1038/s41467-024-47323-3"
+}

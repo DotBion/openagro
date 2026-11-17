@@ -1,0 +1,20 @@
+{
+  "provider": "crossref",
+  "doi": "10.1017/s1742170523000509",
+  "title": "Tarping and mulching effects on crop yields, profitability, and soil nutrients in a continuous no-till organic vegetable production system",
+  "abstract": "Small-scale organic vegetable farms need strategies to overcome yield, labor, and economic challenges in transitioning to reduced and no-till practices. However, the production tradeoffs associated with different scale-appropriate management practices are not well documented for these operations. We evaluated crop yields, labor, profitability, and soil nutrients over four continuous years of management in Freeville, NY. Cabbage (Y1 and Y3) and winter squash (Y2 and Y4) were managed in permanent beds under four contrasting tillage systems: conventional rototilling to 20 cm depth (CT), shallow rototilling to 10 cm (ST), no-till (NT), and no-till with tarping (NTT), in which an impermeable, black polyethylene tarp was applied to the soil surface between crops. Within each tillage treatment, we compared three mulching systems: rye mulch (RM), compost mulch (CM), and no mulch (NM), where mulches were applied annually to each crop. Crop yields did not vary by tillage, except in RM, where yields were highest in CT and reduced in ST and NT over four years. Mulch treatments were a significant driver of crop yields. When compared to NM, RM reduced crop yields in the first two years and CM increased yields after the first year. Overall, RM systems had the lowest net returns and CM returns were equivalent to NM despite greater yields. No-till consistently required the greatest pre-harvest labor investment, up to two times greater than tilled systems with NM, and the lowest net returns. Labor requirements for NTT were greater than CT but up to 41% lower than NT, and profitability was equivalent to CT. Shallow tillage performed similar to CT across yield, labor, and profitability measures, except when combined with the use of RM. Compost mulching led to dramatic changes in soil properties after four years, including a 49% increase in total soil carbon, a 31% increase in total soil nitrogen, and a 497% increase in extractable phosphorus. Small farms adopting NT practices should: 1) consider the potential tradeoffs associated with annually applied organic mulches, and 2) integrate tarping to increase the profitability of NT over consecutive production years.",
+  "authors": [
+    "Ryan M. Maher",
+    "Anusuya Rangarajan",
+    "Brian A. Caldwell",
+    "Shuay-Tsyr Ho",
+    "Mark G. Hutton",
+    "Peyton Ginakes"
+  ],
+  "year": 2024,
+  "container": "Renewable Agriculture and Food Systems",
+  "licenses": [
+    "http://creativecommons.org/licenses/by/4.0/"
+  ],
+  "url": "https://doi.org/10.1017/s1742170523000509"
+}

@@ -1,0 +1,21 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1016/j.geoderma.2023.116338",
+  "title": "Long-term manure application improves soil health and stabilizes carbon in continuous maize production system",
+  "abstract": "Soil health lies at the core of a sustainable food production system. A comprehensive evaluation of different agronomic practices and their effect on soil health is essential to determine the best practices that support soil ecosystem services. However, it may take years or decades to observe measurable changes in soil health under varying management practices. The objective of this experiment was to evaluate the effects of long-term (>77 years) manure and inorganic nitrogen (N) fertilizer on soil health and determine the interrelationship among the measured soil bio-physicochemical indicators. The study also aims to understand the sustainability of the monocropping maize production system under long-term manure and inorganic N fertilizer management. The experiment site is the historic Knorr–Holden Plot, established in 1910 and continued till today. Over the years, the treatments were constant, with manure as the main factor and N rates as the sub-plot factor. Aligning with advancements in agronomic management, the rates of fertilizer and manure have been revised from time to time. Analysis of soil health indicators showed a significant effect of manure on different labile carbon (C) & N fractions, soil enzymes, and soil organic matter (SOM). Manure treatment improved C stabilization and reached a C equilibrium for management. Water holding capacity was significantly improved at wilting point and field capacity for manure treatment. Nitrogen treatments only affected soil pH, cationic exchange capacity (CEC), and phosphorus. Analysis of the interrelationship among soil health indicators showed SOM was determinative for C & N fractions and CEC. Soil organic carbon can be used as a proxy for soil total N (R2 = 0.98). Water extractable fractions of C and N were interrelated and can be used as determinative factors for each other. The results inform that a sustainable monocropping system can be maintained using long-term manure application, where soil health and organic carbon improve over time. The results also indicate that soil health measurement can be minimized to a few key indicators based on the functional interrelationship, which can broaden the adoption of soil health monitoring and measurement.",
+  "authors": [
+    "Saurav Das",
+    "Daniel Liptzin",
+    "Bijesh Maharjan"
+  ],
+  "year": 2023,
+  "container": "Geoderma",
+  "licenses": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "cc-by-nc-nd",
+    "oa_status:gold"
+  ],
+  "url": "https://doi.org/10.1016/j.geoderma.2023.116338"
+}

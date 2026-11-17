@@ -1,0 +1,19 @@
+{
+  "provider": "crossref",
+  "doi": "10.1002/ael2.20098",
+  "title": "Haney Soil Health Test changes with season, not subsurface drainage",
+  "abstract": "The Haney Soil Health Test (HSHT) is used to quantify soil health using soil biological activity and water‐extractable C and N. However, suitability of the HSHT to measure soil health in subsurface drained fields remains unknown. Our goals were to use the HSHT in Minnesota cropand to (a) test the effect of recent tile drainage installation, (b) evaluate seasonal variability, and (c) calculate a potential N fertilizer credit. Three soil biological indices used in the HSHT were measured seasonally across 2 yr and used to calculate a soil health score and N credit. All metrics were unaffected by subsurface drainage, but all varied seasonally (greatest in spring) and annually (greater in 2020 than in 2021). Soil biological indicators did not change abruptly following subsurface drainage but may change gradually, and this needs to be tested further. Significant seasonal variability may pose challenges in tracking soil health over time.",
+  "authors": [
+    "Kyle Sherbine",
+    "Aaron Frankl",
+    "Fabian Fernandez",
+    "Lindsay Pease",
+    "Anna M. Cates"
+  ],
+  "year": 2023,
+  "container": "Agricultural &amp; Environmental Letters",
+  "licenses": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "url": "https://doi.org/10.1002/ael2.20098"
+}

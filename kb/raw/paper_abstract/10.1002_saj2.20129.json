@@ -1,0 +1,16 @@
+{
+  "provider": "crossref",
+  "doi": "10.1002/saj2.20129",
+  "title": "Cover crop impacts on soil physical properties: A review",
+  "abstract": "Cover crop (CC) impacts on soil ecosystem services including erosion control, C sequestration, soil productivity, and others have been reviewed. However, CC impacts on soil physical properties, which affect the soil's ability to perform a variety of soil ecosystem services, have not been synthesized. We reviewed 98 peer‐reviewed publications up to 10 June 2020 on CCs and soil physical properties. Our review indicates that, in most studies, CCs reduce soil penetration resistance or compaction by 0–29% (average, 5%). They improve wet aggregate stability by 0–95% (average, 16%) and cumulative infiltration by 0–190% (average, 43%) but have negligible impacts on bulk density, dry aggregate stability, saturated hydraulic conductivity ( K sat ), unsaturated hydraulic conductivity ( K unsat ), volumetric water content at −10 to −33 kPa matric potential (field capacity), and plant available water. Soils under CCs can be cooler in daytime and warmer at nighttime, and warmer in winter and cooler in the rest of year. Volumetric heat capacity increases and thermal diffusivity decreases, indicating that CCs could moderate heat transport rate. Soil texture, tillage system, CC‐derived soil C concentration, and CC duration affect CC impacts on physical properties. For example, the positive impacts from CCs can increase as CC management duration increases and combining CCs with no‐till can improve water infiltration more than with tilled soils. Long‐term data on hydraulic properties, thermal properties, dry aggregate stability, and pore‐size distribution are scant. In general, CCs improve most soil physical properties, but the magnitude of improvement is highly site‐ and management specific.",
+  "authors": [
+    "Humberto Blanco‐Canqui",
+    "Sabrina J. Ruis"
+  ],
+  "year": 2020,
+  "container": "Soil Science Society of America Journal",
+  "licenses": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "url": "https://doi.org/10.1002/saj2.20129"
+}

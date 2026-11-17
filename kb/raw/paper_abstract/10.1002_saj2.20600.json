@@ -1,0 +1,20 @@
+{
+  "provider": "crossref",
+  "doi": "10.1002/saj2.20600",
+  "title": "Soil protein: A key indicator of soil health and nitrogen management",
+  "abstract": "Monitoring soil nitrogen (N) dynamics in agroecosystems is foundational to soil health management and is critical for maximizing crop productivity in contrasting management systems. The newly established soil health indicator, autoclaved‐citrate extractable (ACE) protein, measures an organically bound pool of N. However, the relationship between ACE protein and other N‐related soil health indicators is poorly understood. In this study, ACE protein is investigated in relation to other soil N measures at four timepoints across a single growing season along a 33‐year‐old replicated eight‐system management intensity gradient located in southwest Michigan, USA. On average, polyculture perennial systems that promote soil health had two to four times higher (2–12 g kg −1 higher) ACE protein concentrations compared to annual cropping and monoculture perennial systems. In addition, ACE protein fluctuated less than total soil N, NH 4 + ‐N, and NO 3 − ‐N across the growing season, which shows the potential for ACE protein to serve as a reliable indicator of soil health and soil organic N status. Furthermore, ACE protein was positively correlated with total soil N and NH 4 + ‐N and negatively correlated with NO 3 − ‐N at individual sampling timepoints across the management intensity gradient. In addition, ACE protein, measured toward the end of the growing season, showed a consistent and positive trend with yield across different systems. This study highlights the potential for ACE protein as an indicator of sustainable management practices, SOM cycling, and soil health and calls for more studies investigating its relationship with crop productivity.",
+  "authors": [
+    "Katherine Naasko",
+    "Tvisha Martin",
+    "Christian Mammana",
+    "Jacob Murray",
+    "Meredith Mann",
+    "Christine Sprunger"
+  ],
+  "year": 2024,
+  "container": "Soil Science Society of America Journal",
+  "licenses": [
+    "http://creativecommons.org/licenses/by/4.0/"
+  ],
+  "url": "https://doi.org/10.1002/saj2.20600"
+}

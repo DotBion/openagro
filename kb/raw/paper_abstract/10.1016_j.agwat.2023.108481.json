@@ -1,0 +1,27 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1016/j.agwat.2023.108481",
+  "title": "Long-term conservation practices reduce nitrate leaching while maintaining yields in tile-drained Midwestern soils",
+  "abstract": "Nitrate-N losses from artificially drained agricultural fields lead to an acceleration of eutrophication and hypoxia in aquatic ecosystems. Adoption of conservation practices, such as cover crops and woodchip bioreactors, can significantly reduce nitrate losses and improve water quality. However, the long-term performance of these conservation practices and their effect on water quality has not been sufficiently quantified. A replicated plot experiment was initiated to quantify the long-term effectiveness of such conservation practices on nitrate-N removal rates from subsurface tile drains. Maize (Zea mays L.) and soybean (Glycine max L. Merr.) were grown with three different treatments: 1) Control: no-till crop production, 2) no-till with a winter rye (Secale cereale L.) cover crop (RC), and 3) no-till with an in-situ woodchip denitrification wall (DW) where trenches were excavated parallel to the tile on both sides and filled with woodchips to serve as additional carbon sources to increase denitrification. During a period of 19 years (2002–2020), all three treatments received the same annual N fertilization in maize years with rates ranging from 168 to 247 kg N/ha, depending on the production year. Averaged across the 19 years, the RC and DW treatments reduced N leaching by 59% and 58%, respectively, compared with the Control. Both conservation practices were effective for the duration of the study, and both were affected by annual rainfall. Effectiveness of RC increased in dry years, while effectiveness of DW increased in wet years. Overall, treatment and annual precipitation had the greatest effects on annual N loss in drainage. This suggests that the unpredictability of rainfall may make it difficult to consistently reduce nitrate losses in drainage, but it does not diminish the effectiveness of conservation practices. Minimal or no yield penalty was observed following adoption of cover crop or in-situ woodchip bioreactor conservation practices, which is important for their wider acceptance by the agriculture community.",
+  "authors": [
+    "Natalia Rogovska",
+    "Peter L. O’Brien",
+    "Rob Malone",
+    "Bryan Emmett",
+    "John L. Kovar",
+    "Dan Jaynes",
+    "Thomas Kaspar",
+    "Thomas B. Moorman",
+    "Peter Kyveryga"
+  ],
+  "year": 2023,
+  "container": "Agricultural Water Management",
+  "licenses": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "cc-by-nc-nd",
+    "oa_status:gold"
+  ],
+  "url": "https://doi.org/10.1016/j.agwat.2023.108481"
+}

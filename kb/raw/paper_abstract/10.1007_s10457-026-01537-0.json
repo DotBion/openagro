@@ -1,0 +1,23 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1007/s10457-026-01537-0",
+  "title": "Riparian forest buffers in the United States: Results from the National Agroforestry Producer Survey",
+  "abstract": "Riparian forest buffers are used in the United States for multiple conservation, cultural, and socio-economic benefits. To date, no comprehensive national survey has been conducted on producers with riparian forest buffers, limiting understanding of how they establish, manage, and value these systems. The National Agroforestry Producer Survey was conducted to address this knowledge gap. The survey was completed by 5,682 producers with agroforestry (52% response rate). This study provides results from the 2,433 producers who reported using riparian forest buffers, one of the five agroforestry practices covered in the survey. The average acreage in riparian forest buffers per farm operation was 20.9 acres (8.5 hectares), representing 7.7% of the land area per farm. Most producers (93%) reported that some or all their buffers were established by letting trees and vegetation grow naturally, while 48% reported that they planted some or all their buffer vegetation. Most producers (84%) used personal funds to establish their buffers, with 38% using Federal government program funding. Removing trees and debris from waterways (55%) was the most frequent management activity, followed by pruning tree branches (52%). The most cited benefits experienced were wildlife habitat (96%), erosion control (93%), and bank stabilization (91%), while key challenges were added labor and management complexity (46%), trees falling into waterways (42%), and expense of maintenance (36%). Seventy-two percent of producers reported using crops and products from their buffers for on-farm use, while 26% reported selling products. Most producers (91%) plan to maintain or expand their acreage in riparian forest buffers.",
+  "authors": [
+    "Matthew M. Smith",
+    "Kristin Floress",
+    "Gary Bentrup",
+    "Mark Batcheler",
+    "Katherine MacFarland",
+    "Todd Kellerman",
+    "Lord Ameyaw"
+  ],
+  "year": 2026,
+  "container": "Agroforestry Systems",
+  "licenses": [
+    "https://creativecommons.org/licenses/by/4.0",
+    "cc-by",
+    "oa_status:hybrid"
+  ],
+  "url": "https://doi.org/10.1007/s10457-026-01537-0"
+}

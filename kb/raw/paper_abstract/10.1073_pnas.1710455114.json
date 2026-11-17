@@ -1,0 +1,21 @@
+{
+  "provider": "crossref",
+  "doi": "10.1073/pnas.1710455114",
+  "title": "Root-associated fungal microbiota of nonmycorrhizal\n                    <i>Arabis alpina</i>\n                    and its contribution to plant phosphorus nutrition",
+  "abstract": "Most terrestrial plants live in symbiosis with arbuscular mycorrhizal (AM) fungi and rely on this association to scavenge the macronutrient phosphorus (P) from soil. Arabis alpina thrives in P-limited alpine habitats, although, like all Brassicaceae species, it lacks the ability to establish an AM symbiosis. By studying the fungal microbiota associated with A. alpina roots we uncovered its association with a beneficial Helotiales fungus capable of promoting plant growth and P uptake, thereby facilitating plant adaptation to low-P environments.",
+  "authors": [
+    "Juliana Almario",
+    "Ganga Jeena",
+    "Jörg Wunder",
+    "Gregor Langen",
+    "Alga Zuccaro",
+    "George Coupland",
+    "Marcel Bucher"
+  ],
+  "year": 2017,
+  "container": "Proceedings of the National Academy of Sciences",
+  "licenses": [
+    "http://www.pnas.org/site/aboutpnas/licenses.xhtml"
+  ],
+  "url": "https://doi.org/10.1073/pnas.1710455114"
+}

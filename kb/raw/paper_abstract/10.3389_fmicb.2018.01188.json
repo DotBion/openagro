@@ -1,0 +1,24 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.3389/fmicb.2018.01188",
+  "title": "Canola Root–Associated Microbiomes in the Canadian Prairies",
+  "abstract": "Canola is one of the most economically important crops in Canada, and the root and rhizosphere microbiomes of a canola plant likely impact its growth and nutrient uptake. The aim of this study was to determine whether canola has a core root microbiome (i.e. set of microbes that are consistently selected in the root environment), and whether this is distinct from the core microbiomes of other crops that are commonly grown in the Canadian Prairies, pea and wheat. We also assessed whether selected agronomic treatments can modify the canola microbiome, and whether this was associated to enhanced yield. We used a field experiment with a randomized complete block design, which was repeated at three locations across the canola-growing zone of Canada. Roots and rhizosphere soil were harvested at the flowering stage of canola. We separately isolated total extractable DNA from plant roots and from adjacent rhizosphere soil, and constructed MiSeq amplicon libraries for each of 60 samples, targeting bacterial and archaeal 16S rRNA genes and the fungal ITS region. We determined that the microbiome of the roots and rhizosphere of canola was consistently different from those of wheat and pea. These microbiomes comprise several putative plant-growth-promoting rhizobacteria, including Amycolatopsis sp., Serratia proteamaculans, Pedobacter sp., Arthrobacter sp., Stenotrophomonas sp., Fusarium merismoides, and Fusicolla sp., which correlated positively with canola yield. Crop species had a significant influence on bacterial and fungal assemblages, especially within the roots, while higher nutrient input or seeding density did not significantly alter the global composition of bacterial, fungal, or archaeal assemblages associated with canola roots. However, the relative abundance of Olpidium brassicae, a known pathogen of members of the Brassicaceae, was significantly reduced in the roots of canola planted at higher seeding density. Our results suggest that seeding density and plant nutrition management modified the abundance of other bacterial and fungal taxa forming the core microbiomes of canola that are expected to impact crop growth. This work helps us to understand the microbial assemblages associated with canola grown under common agronomic practices and indicates microorganisms that can potentially benefit or reduce the yield of canola.",
+  "authors": [
+    "Chih-Ying Lay",
+    "Terrence H. Bell",
+    "Chantal Hamel",
+    "K. Neil Harker",
+    "Ramona Mohr",
+    "Charles W. Greer",
+    "Étienne Yergeau",
+    "Marc St-Arnaud"
+  ],
+  "year": 2018,
+  "container": "Frontiers in Microbiology",
+  "licenses": [
+    "https://creativecommons.org/licenses/by/4.0/",
+    "cc-by",
+    "oa_status:gold"
+  ],
+  "url": "https://doi.org/10.3389/fmicb.2018.01188"
+}

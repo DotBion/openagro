@@ -1,0 +1,273 @@
+Atlas — TerraValue
+Platform
+Pricing
+Atlas
+Perspectives
+Company
+45Z tool
+Workspace
+Open the workspace
+Atlas
+The pressure on working land, county by county.
+Soil carbon, tillage and cover crops, nitrogen, water, drought, habitat, yield, and the money that moves through a farm, drawn for every county in the country from public data. Each layer names its source, its date and what it cannot tell you.
+17
+ layers across 
+7
+ themes, one of them live from its publisher each week. 
+3
+ more are sourced and listed
+below
+.
+Loading the map…
+How to read it
+Three rules every layer follows.
+0
+1
+Published data only
+Every layer is a dataset someone else published and stands behind. TerraValue reduces it to one number per county and changes nothing else. No layer is a TerraValue estimate.
+0
+2
+The date is part of the number
+Each layer says what year it describes and how often its publisher updates it. Where the newest figure is years old, the map says so before it shows it.
+0
+3
+A county is not a field
+A county average hides the fields inside it, and two neighbours on different soil can sit at opposite ends of the same class. Closing that gap is what the field models are for.
+Layers and sources
+What is on the map, and what comes next.
+Every layer on the map was checked against its publisher’s own totals before it was drawn. The rows marked as sourced have a named public source and no map yet.
+Atlas layers, live and planned, with the source, resolution and update cadence of each
+Theme
+Layer
+Source
+Detail and period
+Publisher updates
+Status
+Soil carbon
+Carbon lost
+Soil organic carbon lost to land use, top 30 cm
+Sanderman, Hengl & Fiske (2017), PNAS 114(36)
+10 km grid, averaged to county
+Land use of 1800, 1910, 1960, 1990 and 2010
+A single study; not updated
+On the map
+Built 
+Nov 10, 2026
+Soil carbon
+Carbon held
+Soil organic carbon stock, top 30 cm
+Sanderman, Hengl & Fiske (2017), PNAS 114(36)
+10 km grid, averaged to county
+Land use of 2010
+A single study; not updated
+On the map
+Built 
+Nov 10, 2026
+Water quantity
+Irrigation pumped
+Water withdrawn for irrigation, as a depth over the whole county
+USGS, Estimated use of water in the United States, county-level data for 2015
+County
+2015
+Compiled every five years through 2015
+On the map
+Built 
+Nov 10, 2026
+Water quality
+Nitrogen applied
+Nitrogen applied as farm fertilizer, per acre of county
+USGS, County-level estimates of nitrogen and phosphorus from commercial fertilizer, 1987–2012
+County
+1987 to 2012, yearly
+Occasional; this release ends in 2012
+On the map
+Built 
+Nov 9, 2026
+Water quantity
+Drought by year
+Drought Severity and Coverage Index, average of the year’s weekly maps
+U.S. Drought Monitor, Drought Severity and Coverage Index
+County
+2000 to 2025, yearly average of weekly maps
+Weekly
+On the map
+Built 
+Nov 10, 2026
+Yield
+Corn
+Corn for grain, yield per harvested acre
+USDA NASS, county estimates (Quick Stats)
+County
+2000 to 2025, yearly
+Yearly
+On the map
+Built 
+Nov 9, 2026
+Yield
+Soybeans
+Soybeans, yield per harvested acre
+USDA NASS, county estimates (Quick Stats)
+County
+2000 to 2025, yearly
+Yearly
+On the map
+Built 
+Nov 9, 2026
+Water quantity
+Drought this week
+Drought Severity and Coverage Index, latest weekly map
+U.S. Drought Monitor, Drought Severity and Coverage Index
+County
+The latest weekly map
+Weekly, on Thursdays
+On the map
+Built 
+Nov 10, 2026
+Soil degradation
+Cover crops
+Cropland planted to a cover crop
+USDA NASS, Census of Agriculture, land use practices
+County
+2017 and 2022
+Every five years; 2022 is the latest
+On the map
+Built 
+Nov 10, 2026
+Soil degradation
+Conventional tillage
+Cropland under conventional tillage
+USDA NASS, Census of Agriculture, land use practices
+County
+2017 and 2022
+Every five years; 2022 is the latest
+On the map
+Built 
+Nov 10, 2026
+Biodiversity
+Cropland
+All cropland
+USDA NASS, 2022 Census of Agriculture, Ag Census Web Maps
+County
+2022
+Every five years; 2022 is the latest
+On the map
+Built 
+Nov 10, 2026
+Biodiversity
+Conservation land
+Land in the Conservation Reserve and related programs
+USDA NASS, 2022 Census of Agriculture, Ag Census Web Maps
+County
+2022
+Every five years; 2022 is the latest
+On the map
+Built 
+Nov 10, 2026
+Biodiversity
+Insecticide
+Acres treated to control insects
+USDA NASS, 2022 Census of Agriculture, Ag Census Web Maps
+County
+2022
+Every five years; 2022 is the latest
+On the map
+Built 
+Nov 10, 2026
+Farm economy
+Farm expenses
+Production expenses
+U.S. Bureau of Economic Analysis, farm income and expenses (CAINC45)
+County
+2000 to 2022, yearly
+Yearly; this table was last released in November 2023
+On the map
+Built 
+Nov 10, 2026
+Farm economy
+Fertilizer and chemicals
+Fertilizer, lime and agricultural chemicals bought, over all land in the county
+U.S. Bureau of Economic Analysis, farm income and expenses (CAINC45)
+County
+2000 to 2022, yearly
+Yearly; this table was last released in November 2023
+On the map
+Built 
+Nov 10, 2026
+Farm economy
+Government payments
+Direct government payments
+U.S. Bureau of Economic Analysis, farm income and expenses (CAINC45)
+County
+2000 to 2022, yearly
+Yearly; this table was last released in November 2023
+On the map
+Built 
+Nov 10, 2026
+Farm economy
+Food processing jobs
+Food manufacturing jobs
+U.S. Census Bureau, County Business Patterns 2022
+County
+2022
+Yearly
+On the map
+Built 
+Nov 10, 2026
+Water quality
+Nitrogen surplus
+Nitrogen from fertilizer and manure, less what the crop removes: what is left to reach water.
+EPA National Nutrient Inventory
+County, yearly from 1987 to 2017
+Periodic
+Sourced, not yet mapped
+Biodiversity
+Conservation Reserve by year
+Acres enrolled in the Conservation Reserve Program each year, to show land going in and coming out.
+USDA Farm Service Agency
+County, yearly from 1986
+Yearly
+Sourced, not yet mapped
+Yield
+Weather losses
+Crop insurance paid out for drought, heat and excess moisture.
+USDA Risk Management Agency, cause of loss
+County, yearly from 1989
+Yearly
+Sourced, not yet mapped
+County boundaries: US Census Bureau cartographic boundary files, 2017 edition, through the us-atlas project. Alaska and Hawaii are drawn inset and not to the scale of the lower 48 states.
+From the county to the field
+The map shows where the problem is. A field shows what fixing it is worth.
+TerraValue runs one field on its own surveyed soil and thirty years of its weather, as it is farmed and as it would be farmed conventionally, and prices the difference at what someone already pays.
+Open the field workspace
+See the six models
+A farm produces more than yield.
+TerraValue measures what a field produces beyond the crop, prices it at what someone already pays, and records who paid, so the money can reach the people who manage the land.
+Built on USDA SSURGO soil survey data and ERA5 climate normals. Outputs are modeled estimates against a conventional twin, not measurements, and not verified credits.
+Product
+Platform
+Pricing
+Field workspace
+45Z clean fuel calculator
+Feedstock CI record
+Scope 3 inventory
+Water and nitrogen inventory
+Request a pilot
+Reading
+Perspectives
+Atlas of working land
+The Ecosystem Dividend
+Who pays for better land?
+The money is already moving
+Questions and answers
+Company
+About TerraValue
+Our ecosystem
+Investment & support
+The market we are building
+Photo credits
+Privacy
+Terms
+© 
+2026
+ TerraValue. All rights reserved.
+Modeled estimates. Verify program eligibility and tax positions with qualified advisors.

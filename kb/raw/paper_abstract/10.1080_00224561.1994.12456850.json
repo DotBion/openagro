@@ -1,0 +1,15 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1080/00224561.1994.12456850",
+  "title": "Soil organic matter and available water capacity",
+  "abstract": "For the last 50 years, the consensus view among researchers has been that organic matter (OM) has little or no effect on the available water capacity (AWC) of soil. The historical development of this viewpoint is traced. It is argued that the the literature on this subject has been misconstrued and that the consensus view is wrong. In addition to a critical review of the literature, published data were evaluated to assess the effect of OM content on the AWC of surface soil within three textural groups. Within each group, as OM content increased, the volume of water held at field capacity increased at a much greater rate (average slope = 3.6) than that held at the permanent wilting point (average slope = 0.72). As a result, highly significant positive correlations were found between OM content and AWC for sand (r2 = 0.79***), silt loam (r2 = 0.58***) and silty clay loam (r2 = 0.7G***) texture groups. In all texture groups, as OM content increased from 0.5 to 3%, AWC of the soil more than doubled. Soil OM is an important determinant of AWC because, on a volume basis, it is a significant soil component. In this study, one to 6% OM by weight was equivalent to approximately 5 to 25% by volume.",
+  "authors": [
+    "Berman D. Hudson"
+  ],
+  "year": 1994,
+  "container": "Journal of Soil and Water Conservation",
+  "licenses": [
+    "oa_status:closed"
+  ],
+  "url": "https://doi.org/10.1080/00224561.1994.12456850"
+}

@@ -1,0 +1,24 @@
+{
+  "provider": "crossref",
+  "doi": "10.1111/gcb.14658",
+  "title": "Responses of soil carbon sequestration to climate‐smart agriculture practices: A meta‐analysis",
+  "abstract": "Climate‐smart agriculture (CSA) management practices (e.g., conservation tillage, cover crops, and biochar applications) have been widely adopted to enhance soil organic carbon (SOC) sequestration and to reduce greenhouse gas emissions while ensuring crop productivity. However, current measurements regarding the influences of CSA management practices on SOC sequestration diverge widely, making it difficult to derive conclusions about individual and combined CSA management effects and bringing large uncertainties in quantifying the potential of the agricultural sector to mitigate climate change. We conducted a meta‐analysis of 3,049 paired measurements from 417 peer‐reviewed articles to examine the effects of three common CSA management practices on SOC sequestration as well as the environmental controlling factors. We found that, on average, biochar applications represented the most effective approach for increasing SOC content (39%), followed by cover crops (6%) and conservation tillage (5%). Further analysis suggested that the effects of CSA management practices were more pronounced in areas with relatively warmer climates or lower nitrogen fertilizer inputs. Our meta‐analysis demonstrated that, through adopting CSA practices, cropland could be an improved carbon sink. We also highlight the importance of considering local environmental factors (e.g., climate and soil conditions and their combination with other management practices) in identifying appropriate CSA practices for mitigating greenhouse gas emissions while ensuring crop productivity.",
+  "authors": [
+    "Xiongxiong Bai",
+    "Yawen Huang",
+    "Wei Ren",
+    "Mark Coyne",
+    "Pierre‐Andre Jacinthe",
+    "Bo Tao",
+    "Dafeng Hui",
+    "Jian Yang",
+    "Chris Matocha"
+  ],
+  "year": 2019,
+  "container": "Global Change Biology",
+  "licenses": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#am",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "url": "https://doi.org/10.1111/gcb.14658"
+}

@@ -1,0 +1,19 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1080/03650340.2026.2653379",
+  "title": "Agrochemical impacts on arbuscular mycorrhizal diversity and activity in smallholder farming: a systematic review",
+  "abstract": "Arbuscular mycorrhizal fungi improve nutrient uptake, soil structure and resilience in smallholder systems. Review of 106 studies shows moderate fertilizer inputs (40–60% NPK or 50–80 kg P2O5 ha−1) with AMF increase yields 20–104% and colonization 30–100% across cereals, legumes, vegetables, etc. Excessive mineral inputs, particularly high phosphorus, reduce the AMF colonization by up to 60% and suppress diversity. In soybean systems, moderate phosphorus with AMF enhanced nodulation and nitrogen fixation by 30–50%, while cotton-maintained colonization above 80–90% and achieved yields equivalent to 100% NPK at 50% the fertilizer input. Vegetable crops such as tomato and onion reached complete colonization frequency (100%) and substantial yield gains under 50% NPK. Pesticide analyses indicate that fungicides exert the strongest negative effects on AMF colonization and function compared to other agrochemicals. Collectively, these findings demonstrate that integrating AMF inoculation with moderate mineral fertilization and organic amendments can reduce chemical input dependency by up to 50% while maintaining or enhancing yields. This integrated nutrient management strategy not only sustains crop productivity but also improves soil microbial diversity, nutrient cycling efficiency and long-term ecosystem functioning, providing a scalable and ecologically sound pathway for resilient and sustainable smallholder agriculture.",
+  "authors": [
+    "Akale Assamere Habtemariam",
+    "Asmamaw Menelih",
+    "Demsew Beletew"
+  ],
+  "year": 2026,
+  "container": "Archives of Agronomy and Soil Science",
+  "licenses": [
+    "http://creativecommons.org/licenses/by-nc/4.0/",
+    "cc-by-nc",
+    "oa_status:diamond"
+  ],
+  "url": "https://doi.org/10.1080/03650340.2026.2653379"
+}

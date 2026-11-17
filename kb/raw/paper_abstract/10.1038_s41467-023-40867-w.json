@@ -1,0 +1,32 @@
+{
+  "provider": "crossref",
+  "doi": "10.1038/s41467-023-40867-w",
+  "title": "A fungal sesquiterpene biosynthesis gene cluster critical for mutualist-pathogen transition in Colletotrichum tofieldiae",
+  "abstract": "Plant-associated fungi show diverse lifestyles from pathogenic to mutualistic to the host; however, the principles and mechanisms through which they shift the lifestyles require elucidation. The root fungus Colletotrichum tofieldiae (Ct) promotes Arabidopsis thaliana growth under phosphate limiting conditions. Here we describe a Ct strain, designated Ct3, that severely inhibits plant growth. Ct3 pathogenesis occurs through activation of host abscisic acid pathways via a fungal secondary metabolism gene cluster related to the biosynthesis of sesquiterpene metabolites, including botrydial. Cluster activation during root infection suppresses host nutrient uptake-related genes and changes mineral contents, suggesting a role in manipulating host nutrition state. Conversely, disruption or environmental suppression of the cluster renders Ct3 beneficial for plant growth, in a manner dependent on host phosphate starvation response regulators. Our findings indicate that a fungal metabolism cluster provides a means by which infectious fungi modulate lifestyles along the parasitic–mutualistic continuum in fluctuating environments.",
+  "authors": [
+    "Kei Hiruma",
+    "Seishiro Aoki",
+    "Junya Takino",
+    "Takeshi Higa",
+    "Yuniar Devi Utami",
+    "Akito Shiina",
+    "Masanori Okamoto",
+    "Masami Nakamura",
+    "Nanami Kawamura",
+    "Yoshihiro Ohmori",
+    "Ryohei Sugita",
+    "Keitaro Tanoi",
+    "Toyozo Sato",
+    "Hideaki Oikawa",
+    "Atsushi Minami",
+    "Wataru Iwasaki",
+    "Yusuke Saijo"
+  ],
+  "year": 2023,
+  "container": "Nature Communications",
+  "licenses": [
+    "https://creativecommons.org/licenses/by/4.0",
+    "https://creativecommons.org/licenses/by/4.0"
+  ],
+  "url": "https://doi.org/10.1038/s41467-023-40867-w"
+}

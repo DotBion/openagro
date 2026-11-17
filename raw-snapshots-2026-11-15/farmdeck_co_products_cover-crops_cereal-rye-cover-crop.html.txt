@@ -1,0 +1,217 @@
+Cereal rye cover crop seed — independent research and trial data · FarmDeck
+Skip to main content
+Find a service
+Products
+Equipment
+Tools
+For providers
+Sign in
+Get quotes
+Home
+Find
+Products
+Tools
+Requests
+Loading 
+product evidence
+…
+Find a service
+Products
+Equipment
+Tools
+For providers
+Sign in
+Get quotes
+Home
+Find
+Products
+Tools
+Requests
+Home
+›
+Products
+›
+Cover crops
+›
+Cereal rye cover crop seed
+Cereal rye cover crop seed
+Various seed suppliers (VNS or named varieties) · Before corn or soybean
+Cover crops
+Grass
+Forage use ↗
+Conventional + organic
+Winter-hardy
+Nitrate scavenger
+Organic seed available
+What the research measured
+The cited long-term Iowa study measured roughly half as much nitrate loss through tile drains with rye. Following-crop yield responses differed by crop and management; the linked studies report corn yield reductions under some establishment and termination practices.
+Two peer-reviewed meta-analyses, a 90,000-field satellite study, a four-site three-year Iowa N-rate trial, 19-year USDA-ARS drainage plots and a 70 site-year Iowa on-farm dataset.
+5
+ independent 
+sources
+.
+What it is.
+Winter rye drilled or broadcast after harvest to hold soil, take up leftover nitrate and suppress weeds until it is terminated ahead of the next crop. More than 85% of Iowa cover-crop acres.
+Study conditions and limitations
+In the Iowa State 2018–22 project, rye killed 3 days before planting made twice the biomass but cut corn yield 4.1% versus a 14-day kill.
+Broadcast rye made 3.5 times the biomass of drilled rye in the same project but 7.2% less corn yield.
+Planting green is low-risk for soybean, not corn: Iowa on-farm strips gained 3–11 bu/ac of soybean in 10 of 31 site-years, while corn lost an average 19 bu/ac in the 4 site-years that responded.
+Rye residue releases under 10 lb N/ac in the four weeks after corn planting; Nebraska and Iowa State recommend 30–50 lb/ac of starter N, and those sources do not advise a reduction in the corn N rate.
+The corn drag is worst on better soils, in cooler mid-seasons and dry springs; the nitrate benefit depends on spring growth and was absent where biomass stayed low.
+Economics: Iowa State CARD estimates net returns of −$30 to −$69 per acre for rye before corn without grazing or cost-share.
+Read the sources · 
+5
+Corn yield response to winter cover crops: an updated meta-analysis
+ ↗
+Meta-analysis
+Marcillo & Miguez · 
+Journal of Soil and Water Conservation 72(3), Iowa State University
+ · 
+2017
+doi:
+10.2489/jswc.72.3.226
+Across 268 observations from 65 studies (1965–2015), grass covers such as rye neither raised nor lowered corn yield on average. Legume covers raised corn yield 30–33% only where fertilizer N was low or the system was no-till.
+Recent cover crop adoption is associated with small maize and soybean yield losses in the United States
+ ↗
+Peer-reviewed
+Deines, Guan, López, Zhou, White, Wang & Lobell · 
+Global Change Biology
+ · 
+2023
+doi:
+10.1111/gcb.16489
+Satellite yield maps for more than 90,000 Corn Belt fields in 2019–20: an average corn yield loss of 5.5% on fields cover-cropped three or more years and a 3.5% soybean loss, versus non-adopting fields. Corn losses were larger on better soils, in cooler mid-seasons and with low spring rainfall.
+Corn Nitrogen Fertilization Requirement and Corn–Soybean Productivity with a Rye Cover Crop
+ ↗
+Peer-reviewed
+Pantoja, Woli, Sawyer & Barker · 
+Soil Science Society of America Journal 79(5), Iowa State University
+ · 
+2015
+doi:
+10.2136/sssaj2015.02.0084
+In no-till corn–soybean plots at four Iowa sites (2009–11), corn yield at the economic optimum N rate was 6% lower after rye even though rye biomass peaked at only 1,280 kg/ha; the optimum N rate itself did not change. Soybean yield was unaffected.
+Long-term conservation practices reduce nitrate leaching while maintaining yields in tile-drained Midwestern soils
+ ↗
+Peer-reviewed
+Rogovska et al. (USDA-ARS) · 
+Agricultural Water Management 288
+ · 
+2023
+doi:
+10.1016/j.agwat.2023.108481
+Over 19 years (2002–20) of tile-drained corn–soybean plots in Iowa, an annual rye cover crop cut nitrate leaching 59% with minimal or no yield penalty.
+National Farmer Survey Documents a Wide Range of Cover Crop Benefits as Acreage Continues to Expand
+ ↗
+Government
+SARE / CTIC, 2019–20 National Cover Crop Survey · 
+SARE (USDA-NIFA)
+ · 
+2020
+Among 1,172 farmer respondents, self-reported 2019 yields after cover crops were 2% higher for corn and 5% higher for soybean. The most common seed-cost bracket was $11–15/ac.
+Before you buy, ask
+What seeding rate, date, and termination timing did the cited studies use?
+How does termination timing before my cash crop change the nitrogen and moisture picture?
+Which species or mixture fits my rotation window and equipment?
+Record
+Sources checked
+September 26, 2026
+. Every figure shown is printed on the linked page; unit conversions are noted on the chart.
+Company response
+None yet. 
+Makers and suppliers of this product
+ can send corrections, additional trials, or a statement; it is published here, labelled, and never edits the research summary. 
+Send a correction →
+Following-crop yield change after cover crops, by type of evidence
+%
+ · 
+7
+observations
+Table
+Farmer survey 2019, corn (self-reported)
++2%
+Farmer survey 2019, soybean (self-reported)
++5%
+Meta-analysis, grass covers before corn, 65 studies
+0%
+Satellite study, corn on fields cover-cropped 3+ years
+−5.5%
+Satellite study, soybean
+−3.5%
+Replicated no-till plots, rye before corn, 4 Iowa sites
+−6%
+Global meta-analysis, all cover crops, primary crop
+−4%
+−5%
+0%
+5%
+Surveys are farmers’ own comparisons (all species, rye dominant) and carry self-selection bias; the other rows are measured. They measure different things and are shown side by side, not averaged.
+Published cost reference.
+Iowa State cost sheet (2016): rye seed $0.20–0.40/lb, about $30/ac at 100 lb/ac; about $57–68/ac in total with seeding and termination, or $23–25/ac after that year’s EQIP payment.
+source ↗
+Next step
+Find cover crop seed suppliers
+ →
+Suppliers confirm species, pack size, delivery area, and seasonal availability.
+Not sure where to buy it? Ask FarmDeck →
+We answer by email and route the question to a supplier we can name. Ordering through FarmDeck is not open.
+Also in 
+cover crops
+Crimson clover cover crop seed
+Various seed suppliers
+Forage radish
+Species research · Raphanus sativus
+Hairy vetch + cereal rye mixture
+Species-mixture research · multiple seed suppliers
+Hairy vetch cover crop seed
+Various seed suppliers
+Oats cover crop seed
+Various seed suppliers (VNS or named varieties)
+Red clover frost-seeded into winter wheat
+Various seed suppliers
+All 
+cover crops
+ research →
+Put each result in context
+Results depend on the site, season, management, and products tested. FarmDeck does not assign grades or rank companies. Charts retain the comparisons used in each study, and manufacturer-authored work is labelled at the source.
+Explore further
+Browse the rest of 
+cover crops
+ or the 
+full research library
+. Have a study to share or a correction? 
+Get in touch →
+Meet the people behind the work. Farm services, provider pages, and useful connections — free for farmers.
+Service network live
+Equipment intake open
+Seed opens next
+For farmers
+Find a service
+Seed marketplace
+Product research
+Equipment access
+Decision tools
+My requests
+Get involved
+Add your business, free
+Requests & signups
+Founding membership
+Pricing
+Supplier waitlist
+Company
+Contact
+About
+Privacy
+Terms
+Photo credits
+© 2026 FarmDeck · farmdeck.co · 
+hello@farmdeck.co
+Free for farmers, always. No data resale.
+Part of the agricultural intelligence stack:
+Soil Health Exchange
+ · 
+OpenAgData
+ · 
+TerraValue
+ · 
+FarmDeck

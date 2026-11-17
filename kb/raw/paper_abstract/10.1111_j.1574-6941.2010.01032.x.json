@@ -1,0 +1,17 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1111/j.1574-6941.2010.01032.x",
+  "title": "Fungal and bacterial growth responses to N fertilization and pH in the 150-year ‘Park Grass’ UK grassland experiment",
+  "abstract": "The effects of nitrogen (N) fertilization (0-150 kg N ha⁻¹ year⁻¹ since 1865) and pH (3.3-7.4) on fungal and bacterial growth, biomass and phospholipid fatty acid (PLFA) composition were investigated in grassland soils from the 'Park Grass Experiment', Rothamsted Research, UK. Bacterial growth decreased and fungal growth increased with lower pH, resulting in a 50-fold increase in the relative importance of fungi between pH 7.4 and 3.3. The PLFA-based fungal:bacterial biomass ratio was unchanged between pH 4.5 and 7.4, and decreased only below pH 4.5. Respiration and substrate-induced respiration biomass both decreased three- to fourfold with lower pH, but biomass concentrations estimated using PLFAs were unaffected by pH. N fertilization did not affect bacterial growth and marginally affected fungal growth while PLFA biomass marker concentrations were all reduced by higher N additions. Respiration decreased with higher N application, suggesting a reduced quality of the soil organic carbon. The PLFA composition was strongly affected by both pH and N. A comparison with a pH gradient in arable soil allowed us to generalize the pH effect between systems. There are 30-50-fold increases in the relative importance of fungi between high (7.4-8.3) and low (3.3-4.5) pH with concomitant reductions of respiration by 30-70%.",
+  "authors": [
+    "Johannes Rousk",
+    "Philip C. Brookes",
+    "Erland Bååth"
+  ],
+  "year": 2011,
+  "container": "FEMS Microbiology Ecology",
+  "licenses": [
+    "oa_status:green"
+  ],
+  "url": "https://doi.org/10.1111/j.1574-6941.2010.01032.x"
+}

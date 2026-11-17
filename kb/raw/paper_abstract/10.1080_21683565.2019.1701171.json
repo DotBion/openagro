@@ -1,0 +1,16 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1080/21683565.2019.1701171",
+  "title": "Scale and the politics of the organic transition in Sikkim, India",
+  "abstract": "In 2016, Sikkim, an Indian Himalayan state announced that it had certified all agricultural production as organic. In this article, we explore how Sikkim’s organic policies are affecting agroecology transitions. Drawing upon 47 interviews with Sikkimese farmers, consumers, and government officials, we explore how questions of scale are central to the Sikkimese state’s organic vision. Our four-part analysis reveals how the state’s move to scale up organics reflects: 1) the state’s perception that areal scale and low yield are the major constraints to their organic vision. To address this perceived constraint, the state is attempting to: 2) re-scale farm production to increase yield in single commodity crops, and 3) re-scale social processes to collectivize production and marketing. 4) Education is a primary pathway through which the state seeks to reorient farmers to engage in scaled up production and a yield oriented vision of cooperation. Our results show how these different scalar processes intersect, shedding new light on debates about the role of the state in agroecology transitions.List of Acronyms: APEDA: Agricultural and Processed Food Products Export Development Authority; ATMA: Agricultural Technical Management Authority; CEO: Chief Executive Officer; FPO: Farmer Producer Organization; MOVCD: Mission Organic Value Chain Development",
+  "authors": [
+    "David Meek",
+    "Colin R. Anderson"
+  ],
+  "year": 2020,
+  "container": "Agroecology and Sustainable Food Systems",
+  "licenses": [
+    "oa_status:green"
+  ],
+  "url": "https://doi.org/10.1080/21683565.2019.1701171"
+}

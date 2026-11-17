@@ -1,0 +1,15 @@
+{
+  "provider": "crossref",
+  "doi": "10.1071/sr9790515",
+  "title": "The 'most probable number' method for enumerating infective propagules of vesicular arbuscular mycorrhizal fungi in soil",
+  "abstract": "Estimates of the number of infective propagules of vesicular-arbuscular (VA) endophytes in two soils were obtained using a most probable number (MPN) method. These estimates were compared with counts of the number of spores in the same soils obtained using a conventional wet sieving method. In one soil, there was good agreement between the number of coarse endophyte propagules, estimated by the MPN technique, and the number of germinable spores extracted using the wet sieving technique. However, a large population of fine endophyte propagules (more than 230 per 50 g soil) could only be enumerated using the MPN technique. In the second soil, fewer coarse endophyte propagules were found using the wet sieving technique than when using the MPN technique. The MPN technique appears to give a more realistic estimate of the number of infective propagules of VA endophytes in field soils than the conventional method.",
+  "authors": [
+    "WM Porter"
+  ],
+  "year": 1979,
+  "container": "Australian Journal of Soil Research",
+  "licenses": [
+    "https://doi.org/10.1071/journalslicense"
+  ],
+  "url": "https://doi.org/10.1071/sr9790515"
+}

@@ -1,0 +1,17 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1080/00103620802358862",
+  "title": "Estimating Soil Carbon, Nitrogen, and Phosphorus Mineralization from Short‐Term Carbon Dioxide Respiration",
+  "abstract": "The measurement of soil carbon dioxide (CO2) respiration is a means to gauge biological soil fertility. Test methods for respiration employed in the laboratory vary somewhat, and to date the equipment and labor required have limited more widespread adoption of such methodologies. A new method to measure soil respiration was tested along with the traditional alkali trap and titration method. The new method involves the Solvita gel system, which was originally designed for CO2 respiration from compost but has been applied in this research to soils with treatments of increasing dairy manure compost. The objectives of this research are to (1) examine the relationship between the CO2 release after 1 day of incubation from soils amended with dairy manure compost that have been dried and rewetted as determined using the titration method and the Solvita gel system, and (2) compare water‐soluble organic nitrogen (N), as well as carbon (C), N, and phosphorus (P) mineralization after 28 days of incubation with 1‐day CO2 release from the titration method and Solvita gel system. One‐day CO2 from both titration and the Solvita gel system were highly correlated with cumulative 28‐day CO2 as well as the basal rate from 7–28 days of incubation. Both methods were also highly correlated with 28‐day N and P mineralization as well as the initial water‐extractable organic N and C concentration. The data suggest that the Solvita gel system for soil CO2 analysis could be a simple and easily used method to quantify soil microbial activity and possibly provide an estimate of potential mineralizable N and P. Once standardized soil sampling and laboratory analysis protocols are established, the Solvita method could be easily adapted to commercial soil testing laboratories as an index of soil microbial activity.",
+  "authors": [
+    "R. L. Haney",
+    "W. H. Brinton",
+    "Eric Evans"
+  ],
+  "year": 2008,
+  "container": "Communications in Soil Science and Plant Analysis",
+  "licenses": [
+    "oa_status:closed"
+  ],
+  "url": "https://doi.org/10.1080/00103620802358862"
+}

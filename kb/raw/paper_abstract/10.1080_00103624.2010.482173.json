@@ -1,0 +1,18 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1080/00103624.2010.482173",
+  "title": "Modifications to the New Soil Extractant H3A-1: A Multinutrient Extractant",
+  "abstract": "A new soil extractant (H3A-1) with the ability to extract ammonium (NH4) nitrogen (N), nitrate (NO3) N, and phosphorus (P) from soil was originally developed and tested against 32 soils (CitationHaney et al. 2006). H3A-1 is composed of organic acid root exudates, which are naturally occurring, and lithium citrate. In this study, H3A-1 was modified to reduce the extractable iron and aluminum and improve the nutrient extracting relationships with other well-known soil extractants. Correlations show improved relationships with NO3, NH4, PO4, P, potassium, calcium, and zinc when compared to the original H3A-1 as well as standard soil-test methods [Olsen, potassium chloride (KCl), water, Mehlich 3, Bray 1, ammonium acetate (NH4 OAc), and diethylenetriaminepentaacetic acid (DTPA)]. The modifications were tested against the results from the North American Proficiency Testing (NAPT) database, which included 60 soils, varying in pH, organic carbon, and clay content.",
+  "authors": [
+    "R. L. Haney",
+    "E. B. Haney",
+    "L. R. Hossner",
+    "J. G. Arnold"
+  ],
+  "year": 2010,
+  "container": "Communications in Soil Science and Plant Analysis",
+  "licenses": [
+    "oa_status:closed"
+  ],
+  "url": "https://doi.org/10.1080/00103624.2010.482173"
+}

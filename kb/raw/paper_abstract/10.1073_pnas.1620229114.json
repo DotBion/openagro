@@ -1,0 +1,29 @@
+{
+  "provider": "crossref",
+  "doi": "10.1073/pnas.1620229114",
+  "title": "Prairie strips improve biodiversity and the delivery of multiple ecosystem services from corn–soybean croplands",
+  "abstract": "Prairie strips are a new conservation technology designed to alleviate biodiversity loss and environmental damage associated with row-crop agriculture. Results from a multiyear, catchment-scale experiment comparing corn and soybean fields with and without prairie vegetation indicated prairie strips raised pollinator and bird abundance, decreased water runoff, and increased soil and nutrient retention. These benefits accrued at levels disproportionately greater than the land area occupied by prairie strips. Social surveys revealed demand among both farm and nonfarm populations for the outcomes prairie strips produced. We estimated prairie strips could be used to improve biodiversity and ecosystem services across 3.9 million ha of cropland in Iowa and a large portion of the 69 million ha under similar management in the United States.",
+  "authors": [
+    "Lisa A. Schulte",
+    "Jarad Niemi",
+    "Matthew J. Helmers",
+    "Matt Liebman",
+    "J. Gordon Arbuckle",
+    "David E. James",
+    "Randall K. Kolka",
+    "Matthew E. O’Neal",
+    "Mark D. Tomer",
+    "John C. Tyndall",
+    "Heidi Asbjornsen",
+    "Pauline Drobney",
+    "Jeri Neal",
+    "Gary Van Ryswyk",
+    "Chris Witte"
+  ],
+  "year": 2017,
+  "container": "Proceedings of the National Academy of Sciences",
+  "licenses": [
+    "http://www.pnas.org/site/misc/userlicense.xhtml"
+  ],
+  "url": "https://doi.org/10.1073/pnas.1620229114"
+}

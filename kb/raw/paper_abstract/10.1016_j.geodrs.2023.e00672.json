@@ -1,0 +1,22 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1016/j.geodrs.2023.e00672",
+  "title": "Empirical approach for developing production environment soil health benchmarks",
+  "abstract": "Defining quantitative soil health benchmarks can support efforts to improve soil quality and meet broader ecosystem services goals, while simultaneously helping field-level benchmarking of soil health on farms. However, soil health metrics in agricultural systems require edaphic context, notably climate, soil texture and classification, as well as cropping system information for optimal interpretation. Soil samples (n = 1328) from New York State (USA) with Land Resource Regions (LRR), texture, and cropping system information were analyzed for eight physical and biological soil health indicators (i.e., soil organic matter, permanganate-oxidizable carbon, respiration, protein, available water capacity, wet aggregate stability from 0 to 15 cm depth, and penetration resistance from 0 to 15 and 15–45 cm), from which population distribution functions were determined. Production environment soil health (PESH) benchmarks were derived as potential management goals for four soil texture groups and six cropping systems by proposing the 75th and 90th percentile for each factorial class. Finer-textured (sand content <50%) soils and Pasture and Mixed Vegetable cropping systems generally had the highest values for soil health benchmarks, followed by Dairy Crop and Orchard systems, then Annual Grain, and lastly Processing Vegetable systems. Soil organic matter PESH benchmarks for silt loam soils, defined by the 75th percentile, ranged from 4.2% (Annual Grain and Processing Vegetable) to 5.9% (Pasture). Long Island (LRR-S) had soil organic matter PESH benchmarks that were, on average, 0.7% numerically lower than the rest of New York State (LRRs-L&R). This implies that regional PESH benchmarks within a state or region may be warranted if edaphic context is considerably different.",
+  "authors": [
+    "Joseph P. Amsili",
+    "Harold M. van Es",
+    "Deborah M. Aller",
+    "Robert R. Schindelbeck"
+  ],
+  "year": 2023,
+  "container": "Geoderma Regional",
+  "licenses": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "cc-by-nc-nd",
+    "oa_status:hybrid"
+  ],
+  "url": "https://doi.org/10.1016/j.geodrs.2023.e00672"
+}

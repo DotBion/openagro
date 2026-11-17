@@ -1,0 +1,21 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.2136/sssaj2016.12.0400er",
+  "title": "Erratum: Soil Health Indicators Do Not Differentiate among Agronomic Management Systems in North Carolina Soils",
+  "abstract": "Soil Sci. Soc. Am. J. 81:1697–1697 10.2136/sssaj2016.12.0400 On page 839, in Table 7 the units were reported as Mg ha–1 but should be reported as kg ha–1. The correction is seen below. The values remain accurate, the error only occurred in the unit label. On page 841, there was an error in representing North Carolina Soybean Producers Association. Below the error has been corrected. The authors thank the North Carolina Soybean Producers Association for their major funding of this project. Additional support was also provided by the Environmental Defense Fund, whom we would also like to thank. The conclusions are those of the authors and do not necessarily reflect the positions of the funders. We also very much appreciate the anonymous reviewers, who had many good suggestions.",
+  "authors": [
+    "Wayne R. Roper",
+    "Deanna L. Osmond",
+    "Joshua L. Heitman",
+    "Michael G. Wagger",
+    "S. Chris Reberg-Horton"
+  ],
+  "year": 2017,
+  "container": "Soil Science Society of America Journal",
+  "licenses": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "cc-by-nc-nd",
+    "oa_status:hybrid"
+  ],
+  "url": "https://doi.org/10.2136/sssaj2016.12.0400er"
+}

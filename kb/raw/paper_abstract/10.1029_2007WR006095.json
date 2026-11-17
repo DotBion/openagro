@@ -1,0 +1,17 @@
+{
+  "provider": "crossref",
+  "doi": "10.1029/2007wr006095",
+  "title": "Technical concepts related to conservation of irrigation and rainwater in agricultural systems",
+  "abstract": "Forty percent of freshwater withdrawals in the United States are for irrigated agriculture, which contribute more than $50 billion to the economy. Increasing diversions of water for urban, environmental, and other uses will likely decrease water available to agriculture. Water conservation in agriculture is touted as a good method for minimizing the impact of reduced agricultural diversions on production. Because “wasted” water is often reused until it reaches the ocean, there are limitations to the true water savings that result from programs that aim to increase irrigation efficiency. True water savings can come from four areas: reduction of unnecessary evaporation and transpiration, more effective use of rainfall, reduction of deep percolation water that becomes severely degraded in quality, and reduction of runoff from fields that is not reusable downstream. Any other reduction in net water consumption must come from reductions in evapotranspiration from the crops grown, which requires either reduction in acreage or reduction in crop yield brought on by intentional plant water stress. Other benefits of field or district‐level water conservation may include increased in‐stream flows (due to lower diversions) and energy conservation due to less pumping or more hydroelectric production, but not result in true water savings, since unconsumed water returns as a usable water resource. Understanding the hydrologic settings is critical to determining true water savings from conservation practices. On‐farm water conservation practices that provide true water savings at one location may be ineffective at another. In large irrigation projects, water delivery limitations often present obstacles to on‐farm water conservation efforts.",
+  "authors": [
+    "A. J. Clemmens",
+    "R. G. Allen",
+    "C. M. Burt"
+  ],
+  "year": 2008,
+  "container": "Water Resources Research",
+  "licenses": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "url": "https://doi.org/10.1029/2007wr006095"
+}

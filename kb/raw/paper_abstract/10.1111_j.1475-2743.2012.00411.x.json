@@ -1,0 +1,19 @@
+{
+  "provider": "crossref",
+  "doi": "10.1111/j.1475-2743.2012.00411.x",
+  "title": "Rules of thumb for minimizing subsoil compaction",
+  "abstract": "Subsoil compaction is persistent and can affect important soil functions including soil productivity. The aim of this study was to develop recommendations on how to avoid subsoil compaction for soils exposed to traffic by machinery at field capacity. We measured the vertical stress in the tyre–soil contact area for two traction tyres at ca. 30‐ and 60‐kN wheel loads on a loamy sand at field capacity. Data on resulting stress distributions were combined with those from the literature for five implement tyres tested at a range of inflation pressures and wheel loads. The vertical stress in the soil profile was then predicted using the Söhne model for all tests in the combined data set. The predicted stress at 20 cm depth correlated with the maximum stress in the contact area, tyre inflation pressure, tyre–soil contact area and mean ground pressure. At 100 cm depth, the predicted vertical stress was primarily determined by wheel load, but an effect of the other factors was also detected. Based on published recommendations for allowable stresses in the soil profile, we propose the ‘50‐50 rule’: At water contents around field capacity, traffic on agricultural soil should not exert vertical stresses in excess of 50 kPa at depths &gt;50 cm . Our combined data provide the basis for the ‘8‐8 rule’: The depth of the 50‐kPa stress isobar increases by 8 cm for each additional tonne increase in wheel load and by 8 cm for each doubling of the tyre inflation pressure . We suggest that farmers use this simple rule for evaluating the sustainability of any planned traffic over moist soil.",
+  "authors": [
+    "P. SCHJØNNING",
+    "M. LAMANDÉ",
+    "T. KELLER",
+    "J. PEDERSEN",
+    "M. STETTLER"
+  ],
+  "year": 2012,
+  "container": "Soil Use and Management",
+  "licenses": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "url": "https://doi.org/10.1111/j.1475-2743.2012.00411.x"
+}

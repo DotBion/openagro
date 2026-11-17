@@ -1,0 +1,23 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.2489/jswc.73.4.411",
+  "title": "Reevaluating the effects of soil organic matter and other properties on available water-holding capacity using the National Cooperative Soil Survey Characterization Database",
+  "abstract": "Soil organic matter (SOM) has been known to hold water and be an important factor in contributing to the available water-holding capacity (AWHC). Recently, however, there have been overestimates of this amount. The objective of this research was to reevaluate the relative contribution of SOM to AWHC as influenced by soil physical properties (particle size, texture, and bulk density) and mineralogy using the National Cooperative Soil Survey (NCSS) Soil Characterization Database and also to elucidate on the theoretical capacity of SOM to hold water. Silt content had the greatest correlation with AWHC (r = 0.56). AWHC increased with decreasing soil bulk density (r = −0.34), but the relationship was highly variable depending on SOM and soil texture. Soil organic matter was weakly correlated with AWHC for samples between 0% and 8% SOM (r = 0.27) but moderately correlated (r = 0.62) for all samples (0% to 100% SOM). The increase of AWHC was more pronounced for sandy soils than for silty clay loam and silt loam soils. For soils with clay contents greater than 40%, the correlation varied by minerology class: mixed (r = 0.24), smectitic (r = 0.08), and kaolinitic (r = 0.49). In general, a 1% increase in SOM content increased AWHC, on average, up to 1.5% times its weight, depending on soil texture and clay mineralogy. These values were consistent with the theoretical calculations that showed that the potential AWHC increase (on a volumetric basis) from a unit increase in SOM (% weight) is about 1.5% to 1.7% for the 0% to 8% SOM range. This equates to 10,800 L of water for each additional 1% increase in SOM (up to 8% SOM) for a layer thickness of 15 cm covering 0.4 ha area (an acre furrow slice).",
+  "authors": [
+    "Z. Libohova",
+    "C. Seybold",
+    "D. Wysocki",
+    "S. Wills",
+    "P. Schoeneberger",
+    "C. Williams",
+    "D. Lindbo",
+    "D. Stott",
+    "P.R. Owens"
+  ],
+  "year": 2018,
+  "container": "Journal of Soil and Water Conservation",
+  "licenses": [
+    "oa_status:bronze"
+  ],
+  "url": "https://doi.org/10.2489/jswc.73.4.411"
+}

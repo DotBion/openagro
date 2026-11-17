@@ -1,0 +1,21 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1371/journal.pone.0229136",
+  "title": "Impacts of neonicotinoid seed treatments on soil-dwelling pest populations and agronomic parameters in corn and soybean in Quebec (Canada)",
+  "abstract": "Agricultural soil pests, including wireworms (Coleoptera: Elateridae), are managed primarily with pesticides applied directly to seeds before sowing. Seeds coated with neonicotinoids have been used widely in Quebec (Canada) for several years. To assess the agronomic and economic value of neonicotinoid seed treatments in soybeans and corn in Quebec, trials were conducted from 2012 to 2016 in 84 fields across seven regions in Quebec. We evaluated the effect of neonicotinoid seed treatments on soil pest densities, crop damage and yield. The results showed that 92.6% of corn fields and 69.0% of soybean fields had less than 1 wireworm per bait trap. However, no significant differences in plant stand or yield were observed between treated and untreated corn or soybeans during the study. This study shows that neonicotinoid seed treatments in field crops in Quebec are useful in less than 5% of cases, given the very low level of pest-associated pressure and damage, and that they should not be used prophylactically. Integrated pest management (IPM) strategies need to be developed for soil insect pests to offer effective alternative solutions to producers.",
+  "authors": [
+    "Geneviève Labrie",
+    "Annie-Ève Gagnon",
+    "Anne Vanasse",
+    "Alexis Latraverse",
+    "Gilles Tremblay"
+  ],
+  "year": 2020,
+  "container": "PLOS ONE",
+  "licenses": [
+    "http://creativecommons.org/licenses/by/4.0/",
+    "cc-by",
+    "oa_status:gold"
+  ],
+  "url": "https://doi.org/10.1371/journal.pone.0229136"
+}

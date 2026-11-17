@@ -1,0 +1,21 @@
+{
+  "provider": "crossref",
+  "doi": "10.1007/s13593-025-01067-6",
+  "title": "Corn responses to nitrogen fertilization as influenced by cover cropping. a meta-analysis",
+  "abstract": "Adoption of cover crops in corn-producing regions of the United States (U.S.) has progressed at an uneven pace. Since corn is a nitrogen (N) demanding crop, a limited understanding of N fertilizer management for corn following cover crops is among the major barriers to widespread adoption of cover crops. To address this critical knowledge gap, we conducted the first meta-analysis to systematically examine the impacts of N fertilization on corn yield and N content following cover crops, considering various agronomic practices and soil conditions. Studies comparing corn production with and without cover crops were selected for analysis, with 392 and 228 individual observations included for corn yield and N content, respectively. Results depicted that the integration of cover crops tends to boost corn yield and N content by 11% and 22%, respectively. The type of cover crop species impacts corn performance, with legumes improving yield by more than 50% in the subsequent non-fertilized corn. Grass and brassica cover crops require nearly 200 kg N ha −1 to achieve yield comparable to fallow systems, due to N immobilization by cover crop residues. The timing of cover crop termination also plays a critical role in yield outcomes, with late termination (within 1 week of corn planting) producing higher corn yields than early termination. Additionally, manure and ammonium-based fertilizers perform better than urea-based fertilizers in systems involving cover crops. Key considerations include the selection of cover crop species and N fertilizer types to maximize the agronomic, environmental, and economic benefits. These findings suggest that a well-managed corn cropping system has the potential to effectively integrate cover crops while achieving yield goals.",
+  "authors": [
+    "Pulkit Juneja",
+    "Gurjinder S. Baath",
+    "Jaiveer S. Brar",
+    "K. Colton Flynn",
+    "Jenifer L. Yost",
+    "Nithya Rajan"
+  ],
+  "year": 2026,
+  "container": "Agronomy for Sustainable Development",
+  "licenses": [
+    "https://creativecommons.org/licenses/by/4.0",
+    "https://creativecommons.org/licenses/by/4.0"
+  ],
+  "url": "https://doi.org/10.1007/s13593-025-01067-6"
+}

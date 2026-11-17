@@ -1,0 +1,16 @@
+{
+  "provider": "crossref",
+  "doi": "10.1128/mmbr.61.4.429-441.1997",
+  "title": "Cyclopropane ring formation in membrane lipids of bacteria",
+  "abstract": "It has been known for several decades that cyclopropane fatty acids (CFAs) occur in the phospholipids of many species of bacteria. CFAs are formed by the addition of a methylene group, derived from the methyl group of S-adenosylmethionine, across the carbon-carbon double bond of unsaturated fatty acids (UFAs). The C1 transfer does not involve free fatty acids or intermediates of phospholipid biosynthesis but, rather, mature phospholipid molecules already incorporated into membrane bilayers. Furthermore, CFAs are typically produced at the onset of the stationary phase in bacterial cultures. CFA formation can thus be considered a conditional, postsynthetic modification of bacterial membrane lipid bilayers. This modification is noteworthy in several respects. It is catalyzed by a soluble enzyme, although one of the substrates, the UFA double bond, is normally sequestered deep within the hydrophobic interior of the phospholipid bilayer. The enzyme, CFA synthase, discriminates between phospholipid vesicles containing only saturated fatty acids and those containing UFAs; it exhibits no affinity for vesicles of the former composition. These and other properties imply that topologically novel protein-lipid interactions occur in the biosynthesis of CFAs. The timing and extent of the UFA-to-CFA conversion in batch cultures and the widespread distribution of CFA synthesis among bacteria would seem to suggest an important physiological role for this phenomenon, yet its rationale remains unclear despite experimental tests of a variety of hypotheses. Manipulation of the CFA synthase of Escherichia coli by genetic methods has nevertheless provided valuable insight into the physiology of CFA formation. It has identified the CFA synthase gene as one of several rpoS-regulated genes of E. coli and has provided for the construction of strains in which proposed cellular functions of CFAs can be properly evaluated. Cloning and manipulation of the CFA synthase structural gene have also enabled this novel but extremely unstable enzyme to be purified and analyzed in molecular terms and have led to the identification of mechanistically related enzymes in clinically important bacterial pathogens.",
+  "authors": [
+    "D W Grogan",
+    "J E Cronan"
+  ],
+  "year": 1997,
+  "container": "Microbiology and Molecular Biology Reviews",
+  "licenses": [
+    "https://journals.asm.org/non-commercial-tdm-license"
+  ],
+  "url": "https://doi.org/10.1128/mmbr.61.4.429-441.1997"
+}

@@ -1,0 +1,20 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.2489/jswc.2024.00048",
+  "title": "Can nitrogen in fall-planted legume cover crops be credited to maize?",
+  "abstract": "Conventional tillage after wheat (Triticum aestivum L.) results in poor winter soil coverage, negatively affecting long-term soil health. Cover crops and no-tillage provide soil coverage, reducing soil erosion, and nitrate (NO3-N) leaching potential. The objective of this study was to evaluate maize (Zea mays L.) grain yield response and grain quality due to cover crops preceding maize. The experiment was organized as a randomized complete block design (RCBD) with a split-plot arrangement. The experiments were conducted under transitional no-till at Prosper and Hickson, North Dakota, from 2017 to 2019. Forage pea (Pisum sativum L.), faba bean (Vicia faba Roth), and winter camelina (Camelina sativa [L.] Crantz) were established into spring wheat stubble in August of 2017 and 2018. A check treatment with no cover crop was included. Cover crop fall biomass production and nitrogen (N) accumulation in plant tissue averaged across locations were 1.59 Mg ha−1 and 67.7 kg ha−1, respectively. Winter camelina survived the winters and accumulated biomass in the spring, resulting in significantly higher biomass (3.3 Mg ha−1) than the previous fall biomass. Winter camelina decreased spring water content in Prosper and Hickson in 2018, affecting maize seedling growth because of early competition. Soil NO3-N was not different among treatments. Maize was planted into the residue of fall-planted cover crops. Nitrogen rates of 0, 40, 80, and 160 kg N ha−1 were applied immediately after planting as urea. Maize grain yield increased with higher N rates and was significantly higher when grown in plots that had faba bean (9.7 Mg ha−1), forage pea (10.1 Mg ha−1), and the no-cover crop check (9.8 Mg ha−1), than those that had winter camelina (8.6 Mg ha−1). Leguminous cover crops resulted in a slight increase in maize grain yield compared with plots without cover crops. However, this increase did not reach statistical significance. To understand this response and the potential benefits of cover crops in maize cultivation, further research is needed, with varying seasonal weather conditions.",
+  "authors": [
+    "S. Cabello-Leiva",
+    "M.T. Berti",
+    "D.W. Franzen",
+    "L. Cihacek",
+    "T. Peters",
+    "D. Samarappuli"
+  ],
+  "year": 2024,
+  "container": "Journal of Soil and Water Conservation",
+  "licenses": [
+    "oa_status:closed"
+  ],
+  "url": "https://doi.org/10.2489/jswc.2024.00048"
+}

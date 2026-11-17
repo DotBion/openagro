@@ -1,0 +1,24 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.2489/jswc.2023.00170",
+  "title": "Benefits, barriers, and use of cover crops in the western United States: Regional survey results",
+  "abstract": "Cover crops provide known benefits to water, air, and soil quality. The western United States is a large cropping region where data on cover crop use are lacking. In this study, we draw on data from a 2020 survey of western farmers from 13 states and territories to broaden the understanding of current cover crop use and the factors that influence cover crop adoption. We examine cover crop use through farmer and farm characteristics, social networks and information access, and psychological measures of attitudes toward cover crops. Based on the results of the 894 survey responses, we find most respondents use or have used cover crops and recognize their many benefits. The highest ranked benefits of cover crops, according to cover crop users, are soil health benefits and reducing soil erosion. The biggest perceived barriers to cover crops, according to cover crop users and nonusers, are costs and knowledge. The greatest predictor of cover crop use in the western United States is larger farm size; however, as income increases, the odds of cover crop use decreases. Farmers who access agriculture-related information on a regular basis and western farmers who perceive more benefits than barriers to cover crops are more likely to use cover crops. This study informs future research, outreach, and policy through insight into motivations and barriers to cover crop use and factors that influence adoption for farmers in the West.",
+  "authors": [
+    "L.A. Golden",
+    "M.L. Hubbard",
+    "S. Utych",
+    "S.M. Newman",
+    "S. Hines",
+    "J. Thomas",
+    "N. Andrews",
+    "R.L. Som Castellano",
+    "D.P. Collins",
+    "C. Sullivan"
+  ],
+  "year": 2023,
+  "container": "Journal of Soil and Water Conservation",
+  "licenses": [
+    "oa_status:closed"
+  ],
+  "url": "https://doi.org/10.2489/jswc.2023.00170"
+}

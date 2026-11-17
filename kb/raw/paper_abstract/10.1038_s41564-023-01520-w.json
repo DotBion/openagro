@@ -1,0 +1,23 @@
+{
+  "provider": "crossref",
+  "doi": "10.1038/s41564-023-01520-w",
+  "title": "Soil microbiome indicators can predict crop growth response to large-scale inoculation with arbuscular mycorrhizal fungi",
+  "abstract": "Alternative solutions to mineral fertilizers and pesticides that reduce the environmental impact of agriculture are urgently needed. Arbuscular mycorrhizal fungi (AMF) can enhance plant nutrient uptake and reduce plant stress; yet, large-scale field inoculation trials with AMF are missing, and so far, results remain unpredictable. We conducted on-farm experiments in 54 fields in Switzerland and quantified the effects on maize growth. Growth response to AMF inoculation was highly variable, ranging from −12% to +40%. With few soil parameters and mainly soil microbiome indicators, we could successfully predict 86% of the variation in plant growth response to inoculation. The abundance of pathogenic fungi, rather than nutrient availability, best predicted (33%) AMF inoculation success. Our results indicate that soil microbiome indicators offer a sustainable biotechnological perspective to predict inoculation success at the beginning of the growing season. This predictability increases the profitability of microbiome engineering as a tool for sustainable agricultural management.",
+  "authors": [
+    "Stefanie Lutz",
+    "Natacha Bodenhausen",
+    "Julia Hess",
+    "Alain Valzano-Held",
+    "Jan Waelchli",
+    "Gabriel Deslandes-Hérold",
+    "Klaus Schlaeppi",
+    "Marcel G. A. van der Heijden"
+  ],
+  "year": 2023,
+  "container": "Nature Microbiology",
+  "licenses": [
+    "https://creativecommons.org/licenses/by/4.0",
+    "https://creativecommons.org/licenses/by/4.0"
+  ],
+  "url": "https://doi.org/10.1038/s41564-023-01520-w"
+}

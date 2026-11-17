@@ -1,0 +1,139 @@
+About OpenAgData - Geographic Agricultural Research Intelligence | OpenAgData
+OpenAgData
+Map
+Studies
+Hubs
+Funding
+Search research, hubs…
+For researchers
+Sign in
+Add research
+Work with us 
+Menu
+About OpenAgData
+Agricultural research, mapped to the ground it was tested on.
+Every study has a location. OpenAgData organizes four decades of field research by
+ where it happened
+ — so you can search by yours and find what actually works nearby, who funded it, and what no one has tested yet.
+Explore the map 
+Browse research
+…
+studies indexed
+…
+states mapped
+100%
+DOI-linked
+●
+ What works, where — and for whom.
+Why we exist
+The evidence already exists. It's just not findable by the one thing that matters most — 
+where the work was done.
+A cover-crop trial in Nebraska shouldn't be buried next to one from a climate it has nothing in common with. We turn the agricultural research record into a map you can search by place and topic — so the next decision, the next RFA, the next field plan starts from evidence that actually applies.
+What OpenAgData provides
+Three reads on the evidence base.
+01
+ / 
+Mapped
+Every study, pinned to place.
+We geolocate field trials and meta-analyses to the soils, climates, and counties where they ran — so evidence from across the road counts more than evidence across the world.
+Open the map
+02
+ / 
+Measured
+Outcomes, not just abstracts.
+Yield, soil carbon, runoff, profit. Read what a practice actually moved, how confidently, and under which conditions — pulled into one comparable layer.
+Browse research
+03
+ / 
+Missing
+The gaps worth funding.
+Where the map goes dark is where the next dollar matters most. Surface untested practices, regions, and crops — and route funding to the questions still open.
+Browse open funding
+How the data flows
+From scattered papers to practical answers.
+Step 
+1
+Papers indexed
+Published studies, preprints, and reports are cataloged with a link back to the source of record — we index, we don't publish.
+Step 
+2
+Enriched with context
+Each study is pinned to its state and county, then tagged with funders, topics, and the outcomes it measured.
+Step 
+3
+Organized into hubs & topics
+Records are grouped into research hubs and topic collections, so evidence reads as a map instead of a list.
+Step 
+4
+Used for real decisions
+Funders, researchers, and institutions search by place and topic to find evidence they can actually use.
+Built for
+The people measuring what works on the land.
+/ RESEARCHERS
+Find local evidence in seconds.
+Stop re-reading the same meta-analysis. See what's been tested near your site, and where your next trial would add the most.
+Find evidence near you
+/ FUNDERS
+Fund the open questions.
+See what your portfolio has already proven, where evidence is thin, and which regions and crops are still uncovered.
+Preview portfolio intelligence
+/ INSTITUTIONS & HUBS
+Put your station on the map.
+Experiment stations, extension offices, and on-farm networks — turn scattered work into one living impact report.
+Become a partner hub
+SD
+Saurav Das
+Founder · OpenAgData
+From the founder
+“A trial in Nebraska shouldn't be buried next to one from a climate it has nothing in common with.”
+I'm a soil scientist. For years I watched the same thing happen: the evidence researchers and funders need already exists — it's just scattered across thousands of papers, none of them findable by the one thing that matters most: 
+where the work was done.
+So a decision-maker in the Mississippi Delta reads a meta-analysis built mostly on Midwestern soils, and a brilliant local trial sits uncited two counties over. The knowledge is there. The map isn't.
+OpenAgData is my attempt to build that map — to turn the agricultural research record into something you can search by place and topic, so the next field plan, the next grant, the next policy starts from evidence that actually applies. We're early, and building in the open. If that resonates, I'd genuinely love to hear from you.
+Share feedback with the founder 
+Add your research
+Who builds this
+A small founding team, across all five platforms.
+OpenAgData is one of five platforms the same team builds, runs, and explains, alongside Soil Health Exchange, FarmDeck, FieldLog, and TerraValue. That is how the connections between them stay consistent.
+Saurav Das
+Founder
+All five platforms
+Soil scientist building OpenAgData to connect agricultural research with the places, methods, and measured outcomes behind it, so researchers, funders, and advisers can find evidence relevant to their work.
+Mithun Nagesh
+Founding Engineer
+All five platforms
+Builds the software behind OpenAgData and its sister platforms, from the research map to the connections between them.
+Matt Adler
+Founding Communication Manager
+All five platforms
+U.S. Air Force veteran who runs Elm Spring Farm in central Missouri and leads 1840 Farm Foundation. He carries the platforms' story to farmers, researchers, advisers, and partners.
+Soil Health Exchange profile
+Start with your state.
+Pick a place, see what's been studied there, and find research you can actually use.
+Find evidence in your state 
+Browse research hubs
+OpenAgData
+Source papers, places, and measured outcomes for researchers and the organizations that support them.
+hello@open-ag-data.com
+Discover
+Map
+Studies
+Hubs
+Funding
+Researcher workspace
+Research tools
+For organizations
+Discuss your needs
+Partnerships & pricing
+Evidence data services
+About
+About
+Our ecosystem
+Investment & support
+Feedback
+Privacy
+Terms
+© 
+2026
+ OpenAgData. What works, where.
+Researchers · Funders · Hub partners

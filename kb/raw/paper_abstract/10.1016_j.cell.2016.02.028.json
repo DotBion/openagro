@@ -1,0 +1,29 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1016/j.cell.2016.02.028",
+  "title": "Root Endophyte Colletotrichum tofieldiae Confers Plant Fitness Benefits that Are Phosphate Status Dependent",
+  "abstract": "A staggering diversity of endophytic fungi associate with healthy plants in nature, but it is usually unclear whether these represent stochastic encounters or provide host fitness benefits. Although most characterized species of the fungal genus Colletotrichum are destructive pathogens, we show here that C. tofieldiae (Ct) is an endemic endophyte in natural Arabidopsis thaliana populations in central Spain. Colonization by Ct initiates in roots but can also spread systemically into shoots. Ct transfers the macronutrient phosphorus to shoots, promotes plant growth, and increases fertility only under phosphorus-deficient conditions, a nutrient status that might have facilitated the transition from pathogenic to beneficial lifestyles. The host's phosphate starvation response (PSR) system controls Ct root colonization and is needed for plant growth promotion (PGP). PGP also requires PEN2-dependent indole glucosinolate metabolism, a component of innate immune responses, indicating a functional link between innate immunity and the PSR system during beneficial interactions with Ct.",
+  "authors": [
+    "Kei Hiruma",
+    "Nina Gerlach",
+    "Soledad Sacristán",
+    "Ryohei Thomas Nakano",
+    "Stéphane Hacquard",
+    "Barbara Kracher",
+    "Ulla Neumann",
+    "Diana Ramírez",
+    "Marcel Bucher",
+    "Richard J. O’Connell",
+    "Paul Schulze-Lefert"
+  ],
+  "year": 2016,
+  "container": "Cell",
+  "licenses": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "cc-by-nc-nd",
+    "oa_status:hybrid"
+  ],
+  "url": "https://doi.org/10.1016/j.cell.2016.02.028"
+}

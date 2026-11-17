@@ -1,0 +1,17 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.4148/2378-5977.7979",
+  "title": "Relationships between the Haney H3A and Conventional Soil Tests for Phosphorus and Potassium in Kansas Soils",
+  "abstract": "The Haney H3A soil test procedure has gained popularity in recent years for soil health evaluation and has been used in some circles to adjust fertilizer management practices. However, data relating this test to current soil tests, relative crop yield, or total nutrient uptake are nonexistent in Kansas soils. The objective of this study is to evaluate the correlation between H3A soil test phosphorus (P) and potassium (K) with soil tests currently used in Kansas (e.g. Mehlich-3). Soils from a nitrogen response study were extracted using both Mehlich-3 and H3A (version 4) soil test procedures. Mehlich-3 and Haney extractable P and K were positively correlated (r = 0.90 and 0.91, respectively) in data combined from all sites. Linear regression models fit to the combined data indicate that Mehlich-3 extracts approximately 25% more P and 250% more K. The Root Mean Square Error (RMSE) of these models (15.4 ppm P and 83.4 ppm K) indicate that existing calibration based on Mehlich-3 values are likely not suitable for use with H3A-4.",
+  "authors": [
+    "E. B. Rutter",
+    "D. A. Ruiz Diaz"
+  ],
+  "year": 2020,
+  "container": "Kansas Agricultural Experiment Station Research Reports",
+  "licenses": [
+    "cc-by",
+    "oa_status:hybrid"
+  ],
+  "url": "https://doi.org/10.4148/2378-5977.7979"
+}

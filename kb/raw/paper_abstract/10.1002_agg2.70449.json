@@ -1,0 +1,21 @@
+{
+  "provider": "crossref",
+  "doi": "10.1002/agg2.70449",
+  "title": "A two‐tier, reference‐informed framework for soil health assessment: Minimum indicator sets and ecologically dynamic thresholds",
+  "abstract": "Soil health underpins crop productivity and sustainability, but current soil health assessment frameworks struggle to balance global standardization with regional dynamic ecological realism. Indicators vary widely across soils and climates, often leading to one‐size‐fits‐all thresholds that penalize producers in inherently low‐capacity soils. This study conceptualized and developed a two‐tier framework for soil health evaluation using 30 indicators measured at 16 native reference sites across two Nebraska major land resource areas (67A and 106). Principal component analysis, correlation, and hierarchical clustering identified independent functional domains of soil health. From these, a Tier 1 minimum data set was derived, consisting of four universal indicators: organic matter (OM), pH, nitrate‐N (NO 3 –N), and bulk density (BD). The fungal‐to‐bacterial ratio was retained as an optional Tier 1+ indicator, capturing microbial community balance. Together, these indicators explained &gt;85% of total variance while minimizing redundancy and maintaining ecological interpretability. To improve interpretability without expanding measurements, Tier 2 thresholds were defined using the Cropland Reference Ecological Unit (CREU) framework. CREU‐specific interquartile ranges captured ecological variability, with OM medians ranging from ∼2% to 3% in sandy semi‐arid soils to &gt;6% in humid clay loams, and BD tolerances were higher in sands than clays. By separating fixed measurement (Tier 1) from dynamic, CREU‐based interpretation (Tier 2), this framework addresses the central challenge of soil health monitoring: standardization versus fairness. It provides a cost‐effective, ecologically grounded, and scalable system that supports farmer adoption, enhances comparability across landscapes, and strengthens the credibility of soil health incentive and carbon market programs.",
+  "authors": [
+    "Saurav Das",
+    "Lithma Kariyawasam Hetti Gamage",
+    "Mitchell Stephenson",
+    "Umesh Acharya",
+    "Aaron Lee M. Daigh",
+    "Bijesh Maharjan"
+  ],
+  "year": 2026,
+  "container": "Agrosystems, Geosciences &amp; Environment",
+  "licenses": [
+    "http://creativecommons.org/licenses/by/4.0/",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  ],
+  "url": "https://doi.org/10.1002/agg2.70449"
+}

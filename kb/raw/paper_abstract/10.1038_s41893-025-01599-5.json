@@ -1,0 +1,21 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1038/s41893-025-01599-5",
+  "title": "The mixed effects of recent cover crop adoption on US cropland productivity",
+  "abstract": "Abstract Farmers in the United States have rapidly expanded the use of cover crops (CC), with national CC area nearly doubling since 2012. Despite many benefits that motivate public subsidies, questions remain about potential downsides. Using satellite observations from over 100,000 fields, half of which recently adopted CC, we demonstrate that CC led to: (i) declines in average yields for corn and soybean, by ~3% and ~2%, respectively; (ii) delays in sowing of corn (4 days) and soybean (3 days); (iii) reduced damages in the wet spring of 2019, with CC fields only half as likely to experience prevented planting as non-CC fields. CC appears to reduce important aspects of farmer risk in wet conditions but increase them in dry conditions. Timely planting of the cash crop deserves emphasis moving forward, as we show eliminating sowing delays would reduce yield penalties by roughly 50% for corn and 90% for soybean.",
+  "authors": [
+    "David B. Lobell",
+    "Stefania Di Tommaso",
+    "Qu Zhou",
+    "Yuchi Ma",
+    "James Specht",
+    "Kaiyu Guan"
+  ],
+  "year": 2025,
+  "container": "Nature Sustainability",
+  "licenses": [
+    "https://www.springernature.com/gp/researchers/text-and-data-mining",
+    "oa_status:green"
+  ],
+  "url": "https://doi.org/10.1038/s41893-025-01599-5"
+}

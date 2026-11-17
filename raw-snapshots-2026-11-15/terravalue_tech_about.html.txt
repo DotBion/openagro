@@ -1,0 +1,418 @@
+Company — TerraValue
+Platform
+Pricing
+Atlas
+Perspectives
+Company
+45Z tool
+Workspace
+Open the workspace
+Company
+The evidence layer for an ecosystem 
+dividend
+.
+Farms filter water, store carbon, hold water in the soil and buffer weather. Those outcomes are real, but nobody keeps the books. TerraValue measures them field by field, prices them at what someone already pays, and records who paid, so the people who manage the land can be paid for what it produces.
+Our mission
+Make stewardship visible, comparable and paid for.
+“The people managing the land should be able to understand, defend and benefit from the full value their decisions create.”
+A town paying to strip nitrate from its wells, a food company buying carbon in its supply shed, an insurer discounting cover-cropped acres, a bank lending against a stewardship plan: each already pays for something a farm produces. They pay separately, for practices rather than outcomes, and the farmer sees only a fraction.
+We are building the piece that is missing between them: a field-level estimate of what was produced, a price for each outcome at what the buyer avoids, and a ledger that lets several buyers pay for the same acre without paying for the same outcome twice. With those in one place, risk and revenue can be shared differently: the insurer prices the risk, the buyer pays for the outcome, the lender finances the gap, and the money reaches the farmer.
+People
+The people behind TerraValue.
+One founding team builds, runs and explains TerraValue and its four sister platforms. The advisors check what the models claim about soil, water and practice against fields they have worked.
+Founding team
+Saurav Das
+Founder · All five platforms
+Soil scientist building TerraValue’s approach to estimating how farm management affects soil, water, biodiversity, and farm economics, and making the value of stewardship visible to farmers and potential buyers.
+Mithun Nagesh
+Founding Engineer · All five platforms
+Builds the software behind TerraValue and its sister platforms, from the field workspace to the connections between them.
+Matt Adler
+Founding Communication Manager · All five platforms
+U.S. Air Force veteran who runs Elm Spring Farm in central Missouri and leads 1840 Farm Foundation. He carries the platforms’ story to farmers, districts, advisers and partners.
+Soil Health Exchange profile
+ ↗
+Founding advisors
+Dr Karamala Pushpa
+Founding Advisor · Soil health and agroecology
+Plant biologist and microbiologist with a PhD in plant biotechnology (JNTU Hyderabad, 2020) and eighteen years across research and teaching. Seven years at the Indian Institute of Millets Research on sorghum genomics and fodder quality, then research and learning lead for natural farming at IGGAARL, the Indo-German Global Academy for Agroecological Research and Learning of the Government of Andhra Pradesh, as Thematic Point Person for Rayalaseema Zone-I across four districts, including the University of Reading trial of 365-day green cover against conventional management. Now Senior Consultant for Agroecology and Natural Farming to The Garlic Farm (UK) and Earthlore Academy (Bangalore), a 2026 mentor in the FAO World Food Forum Agrifood Leadership Education Programme, and a member of the BioAgora expert panel advising the European Commission on native plant species for nature restoration. At TerraValue she advises on soil biology, practice evidence and what the models claim about the field.
+LinkedIn
+ ↗
+How TerraValue works
+One loop, and the dividend pays for it.
+Farmers come in, records prove what they did, the models estimate what it produced, public data checks the estimate, the ledger sells each outcome once, and the dividend brings the next farmer in.
+1
+Find the field
+A farmer arrives through Soil Health Exchange, a district program, a lender or a farm manager, and marks the field on a map.
+2
+Resolve it
+The boundary becomes a soil series, its layers, slope and drainage, and thirty years of climate, from USDA SSURGO and ERA5.
+3
+Prove the practice
+Planting dates, tillage, nitrogen and cover-crop seed are proven by records and invoices, or by the forms a district already requires.
+4
+Model the outcome
+A water balance, a nitrogen budget and six outcome models run on the field as farmed and on its conventional twin.
+5
+Raise the evidence
+Deep soil samples, well readings, flowmeters and satellite water use check the estimates and lift the share that is paid.
+6
+Price it
+Each outcome is valued at what a named buyer avoids or already pays: a treatment plant, a compliance cost, a credit.
+7
+Record and pay
+Each unit gets one owner. The fund pays the dividend, observations recalibrate the model, and the neighbours see it.
+What we sell
+A verified outcome, for whoever needs it.
+The same field record serves every seat in the market, and each pays for its own use. The farmer enters it once. Two products are live; the rest are proposals we are testing with buyers.
+See pricing →
+Product
+Buyer
+What they get
+Status
+Field report
+Farmers and landowners
+A score, six outcomes against a conventional twin, a dollar estimate by who pays, and the next three changes worth making.
+Live
+Source-water outcome contract
+Cities, water utilities, natural resources districts, companies with water pledges
+Pounds of nitrate kept out of a wellhead area each year, verified, owned by one buyer, checkable against the buyer’s own wells.
+Proposed
+Watershed ledger and program verification
+Natural resources districts, conservation districts, state programs
+Documentation a district already requires, with a field outcome attached, and a registry of who owns which outcome in its zones.
+Proposed
+Supply-shed scoring
+Grain processors, food brands, retailers, livestock integrators
+Soil carbon and avoided nitrous oxide against a conventional twin for every supplier field, with one owner per tonne.
+Proposed
+Clean-fuel feedstock records and 45Z tool
+Ethanol plants, feedstock suppliers, advisors
+Field records ready for the USDA carbon-intensity calculator, a plain-English guide to the credit, and a calculator for what a lower score is worth.
+Live
+Lender and insurer risk file
+Farm Credit associations, banks, crop insurers, reinsurers, Farmer Mac
+Field outcomes, dry-year yield retention and stewardship evidence on each borrower or policy, tied to contracted outcome payments.
+Proposed
+Water quantity and retention units
+Irrigation districts, flood control districts, data centers, bottlers
+Acre-feet not pumped, recharge below the roots, and runoff retained upstream, counted by a standard method inside the buyer’s own watershed.
+Concept
+Natural-capital appraisal and lease addendum
+Landowners, farm managers, farmland investors
+Outcomes on every field of a holding, and a stewardship clause that writes the owner’s share of the dividend into the lease.
+Concept
+Outcome fund operation
+Districts or funds that want the fund run for them
+TerraValue buys outcomes, pays stewards at planting, resells to buyers and carries the reserve.
+Concept
+The market we are building
+Every seat is already filled. The ledger between them is missing.
+An ecosystem dividend market needs parties who avoid a cost or carry a risk, parties who can change the land, and parties who carry money one way and proof the other. Select any seat to see what it pays for today, the product we can provide it, and its role once the market exists.
+Beneficiaries and payers
+avoid a cost, carry a risk, or need a claim
+Public water and land
+Cities and towns
+Water utilities and rural water districts
+Natural resources districts and conservation districts
+State agencies
+Federal programs
+Irrigation districts and canal companies
+Flood control, stormwater and levee districts
+Downstream basins and compacts
+Finance and risk
+Agricultural lenders
+Crop insurers and USDA Risk Management Agency
+Reinsurers and catastrophe modelers
+Farmer Mac and the secondary market
+Impact investors and outcome-bond buyers
+Foundations and philanthropy
+Farmland investors and REITs
+Supply chain and brands
+Consumer packaged goods and food brands
+Grain merchants and processors
+Ethanol and biofuel producers
+Food retailers and foodservice
+Livestock integrators and dairy cooperatives
+Input suppliers and ag retail
+Equipment and farm-data platforms
+Beverage companies and bottlers
+Corporate water and climate
+Data centers and technology companies
+Electric utilities and point-source dischargers
+Carbon buyers and registries
+Capital
+carries the gap between planting and verification
+State revolving funds
+Outcome funds and their lenders
+Banks and blended-finance vehicles
+TerraValue
+price and ledger
+Scores each field against a conventional twin
+Prices each outcome at what a named buyer avoids
+Grades the evidence, and pays more as it improves
+Records who paid for what, so nothing is sold twice
+Rules and standards
+set the baseline, the unit and who may claim it
+USDA carbon-intensity framework and Treasury
+State statutes and district rules
+Registries and methodologies
+Verifiers and auditors
+Research institutions and extension
+Carriers
+move money one way and proof the other
+Aggregators and program platforms
+Cooperatives, agronomists and crop consultants
+Commodity groups and checkoffs
+Conservation nonprofits
+Water-quality trading programs and clearinghouses
+Evidence and data
+prove the practice and check the outcome
+Soil Health Exchange
+FieldLog and FarmDeck
+OpenAgData
+District wells, flowmeters and soil sampling
+Satellite and remote sensing
+Public soil and climate data
+Stewards
+change how the land is farmed
+Operators
+Landowners and farm managers
+Ranchers and grazing operations
+Tribal nations and public landholders
+49
+ seats. Money moves down the map, from payers to stewards; evidence moves back up. Institutions are named as examples of a seat, from public sources read in October 2026. Naming is not a claim of partnership.
+Beneficiaries and payers
+ · Public water and land
+Cities and towns
+For example: 
+Hastings, Bayard, Lincoln, Grand Island
+Today
+Pay to remove nitrate after it reaches the well, or drill new wells when the old ones fail.
+Hastings, Nebraska spent about $15 million on a treat-and-blend system after full filtration was costed at $45 to $76 million.
+Flatwater Free Press
+What we can provide
+Source-water outcome contract
+Pounds of nitrate kept out of the wellhead area each year, priced below the treatment cost avoided, checkable against the city’s own wells.
+Role in the market
+The anchor buyer. A city with a bill to compare against is the first signature every other buyer waits for.
+How it all connects
+One record, six buyers.
+The dots connect at the field record. One season’s record of a nitrogen cut does six jobs, and each buyer pays for its own use. No single buyer would pay for the whole record. Together they pay for it several times over.
+1
+It proves the practice to the natural resources district for a state nitrogen payment.
+2
+It scores the bushels for the ethanol plant’s clean fuel credit.
+3
+It documents the pounds of nitrate kept out of the town’s water.
+4
+It sits in the lender’s file as the reason the loan will be repaid.
+5
+It prices the insurer’s discount on the acres it covers.
+6
+It shows the landowner what the lease is worth with the practice kept.
+The evidence loop
+Shared data raises the evidence tier, and the dividend on the same acre rises with it.
+The adoption loop
+A dividend paid on time is visible to neighbours. More enrolled fields in one source area make the change measurable in the town’s wells, which raises the tier for everyone there.
+The capital loop
+Buyer payments repay the lender. A repaid facility lets the lender fund the next cohort at lower risk.
+Where the dots do not connect yet
+No contracted anchor buyer yet. Until one town or district signs, every other buyer asks who it is.
+No ledger yet. Without it, buyers protect themselves with exclusivity.
+No district data feed yet. Without it, fields stay at the modeled tier.
+No grazing models yet. The largest acreage in the state is not priced.
+The big picture
+From one town’s contract to an ecosystem marketplace.
+The dividend is a payment. The marketplace is the institution that makes the payment routine: standard units, evidence grades, posted prices and a registry, with capital and rules as the rails. It is built one source-water area at a time, and each stage has to pay for itself.
+Supply side
+Who produces the outcome
+Stewards
+Operators, landowners, ranchers, tribal and public landholders. They change the land and sell the outcome.
+Evidence
+Records, invoices, district wells, soil samples, satellites. They prove the practice and grade the outcome.
+Carriers
+Co-ops, agronomists, aggregators, nonprofits. They bring fields in and are paid per field verified.
+The exchange
+The ecosystem marketplace
+Not a credit registry and not a cost-share program. A ledger where a field’s outcomes are standard units, graded by evidence, priced by who avoids what, and owned once.
+Standard units
+Pounds of nitrate kept out. Tonnes of CO₂e. Acre-feet not pumped. Runoff retained. Habitat acres. A resilience score.
+Grades
+Modeled, sampled, measured. The share paid rises with the grade, so better evidence is worth money.
+Prices
+Posted per unit, anchored to what a named buyer avoids. The same acre can carry several lines.
+Registry
+One owner per unit. Stacking without double counting, and no need for exclusivity.
+Capital rail
+Revolving funds, outcome funds, banks and investors carry the gap between planting and verification, and are repaid from unit sales.
+Rules rail
+State statutes, district rules, USDA’s carbon-intensity framework, registries and verifiers set the baseline, the unit and who may claim it.
+Demand side
+Who pays for the outcome
+Public water and land
+Cities, utilities, districts, state and federal programs, irrigation and flood districts, downstream basins.
+Finance and risk
+Lenders, crop insurers, reinsurers, Farmer Mac, impact investors, foundations, farmland investors.
+Supply chain and brands
+Processors, food brands, ethanol plants, retailers, livestock integrators, input suppliers, bottlers.
+Corporate water and climate
+Data centers, point-source dischargers, carbon buyers and registries.
+How it gets built, in order
+Each stage pays for itself before the next begins
+1
+One source-water area
+A town or district with a nitrate bill signs the first outcome contract. Farmers in its wellhead area get free field reports. The district’s wells and samples set the evidence tier.
+Who
+City, NRD, farmers, Soil Health Exchange
+Unit traded
+Pounds of nitrate kept out
+2
+Stack buyers on one ledger
+A grain or fuel buyer adds the carbon and carbon-intensity line, an insurer adds a discount, a lender finances the gap. The rule that makes it work: one owner per unit, no exclusivity.
+Who
+Processors, ethanol plants, insurers, Farm Credit
+Unit traded
+Tonnes of CO₂e, resilience, acre-feet
+3
+A district and state exchange
+Units are standardized, evidence tiers become the grade, prices are posted, and a clearinghouse matches buyers and sellers across districts. State revolving funds and the Corn Board lend and co-fund.
+Who
+State agencies, SRFs, checkoffs, clearinghouse
+Unit traded
+Standard units at posted prices
+4
+A basin-wide marketplace
+Downstream basins, reinsurers and the secondary loan market buy at scale. The dividend is paid every season from a pooled fund, and the ledger runs as public infrastructure.
+Who
+Basin compacts, reinsurers, Farmer Mac, foundations
+Unit traded
+A dividend per acre per season
+How we build
+Principles before features.
+0
+1
+Farmer utility first
+A model matters only if it improves an actual decision on an actual farm. The field report is free for that reason.
+0
+2
+Evidence with lineage
+Every output shows where the data came from, which method was used, and what remains uncertain.
+0
+3
+Economics in the same frame
+Environmental outcomes sit beside transition cost, operating risk and return, never in a separate report.
+0
+4
+Say what it cannot do
+Screening models, not verified credits. Root-zone estimates, not well readings. We say so before anyone relies on a number.
+The path forward
+Build credibility in the right order.
+Now
+0
+1
+Field workspace and working paper
+Six models on USDA soil and ERA5 climate for any US field, a published working paper on the ecosystem dividend, and the 45Z tool.
+Next
+0
+2
+One source-water pilot
+A town or natural resources district and the farmers in its wellhead area. Their wells, flowmeters and soil samples calibrate the models and raise the evidence tier.
+Then
+0
+3
+The ledger and the first contracts
+Each outcome owned by one buyer; outcome purchase agreements with a utility or district; supply-shed scoring for a grain or fuel buyer in the same area; a lender financing the gap.
+Long term
+0
+4
+A marketplace across districts
+Standard units at posted prices, a clearinghouse, basin-wide buyers, and a dividend that pays stewards every season from a pooled fund.
+Work with us
+If you sit in one of these seats, we would like to talk.
+A town with a nitrate problem, a district with well data, a bank with a stewardship fund, an insurer with a loss ratio, a buyer with a supply shed, or a farmer with a field. Each is a door into the same market.
+Request a pilot
+Read the working paper
+Photographs
+Every photograph on this site is a real photograph in the public domain or released under CC0, sourced through Wikimedia Commons. Most are the work of USDA Natural Resources Conservation Service photographers. Portraits on this page are supplied by the people shown.
+Aerial view of contour strip cropping curving around a farmstead in Iowa
+· 
+Erwin Cole, USDA Natural Resources Conservation Service
+, 
+Public domain
+A farmer plants corn into a standing cereal rye cover crop in Indiana
+· 
+USDA Natural Resources Conservation Service
+, 
+Public domain
+The braided Platte River and surrounding cropland from the air
+· 
+Wikimedia Commons contributor AllTheUsernames
+, 
+CC0
+A hand holds dark soil from a probe in a no-till soybean field
+· 
+USDA NRCS South Dakota
+, 
+Public domain
+A planter runs through a flowering cover crop on a no-till field
+· 
+Brandon O’Connor, USDA NRCS Indiana
+, 
+Public domain
+A wetland beside cropland in South Dakota
+· 
+Don Poggensee, USDA Natural Resources Conservation Service
+, 
+Public domain
+The grain elevator and rail line at Giltner, Nebraska
+· 
+Wikimedia Commons contributor Ammodramus
+, 
+CC0
+Young soybeans growing through corn residue, with grain bins behind
+· 
+USDA Natural Resources Conservation Service
+, 
+Public domain
+A windmill and barn at sunset in Seward County, Nebraska
+· 
+Charles O’Rear, US National Archives, Documerica
+, 
+Public domain
+Cover-cropped fields beside the Mississippi River from the air
+· 
+USDA Natural Resources Conservation Service
+, 
+Public domain
+A farm produces more than yield.
+TerraValue measures what a field produces beyond the crop, prices it at what someone already pays, and records who paid, so the money can reach the people who manage the land.
+Built on USDA SSURGO soil survey data and ERA5 climate normals. Outputs are modeled estimates against a conventional twin, not measurements, and not verified credits.
+Product
+Platform
+Pricing
+Field workspace
+45Z clean fuel calculator
+Feedstock CI record
+Scope 3 inventory
+Water and nitrogen inventory
+Request a pilot
+Reading
+Perspectives
+Atlas of working land
+The Ecosystem Dividend
+Who pays for better land?
+The money is already moving
+Questions and answers
+Company
+About TerraValue
+Our ecosystem
+Investment & support
+The market we are building
+Photo credits
+Privacy
+Terms
+© 
+2026
+ TerraValue. All rights reserved.
+Modeled estimates. Verify program eligibility and tax positions with qualified advisors.

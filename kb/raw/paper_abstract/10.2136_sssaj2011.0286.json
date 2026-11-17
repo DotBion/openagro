@@ -1,0 +1,31 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.2136/sssaj2011.0286",
+  "title": "Permanganate Oxidizable Carbon Reflects a Processed Soil Fraction that is Sensitive to Management",
+  "abstract": "Permanganate oxidizable C (POXC; i.e., active C) is a relatively new method that can quantify labile soil C rapidly and inexpensively. Despite limited reports of positive correlations with particulate organic C (POC), microbial biomass C (MBC), and other soil C fractions, little is known about what soil fractions POXC most closely reflects. We measured POXC across a wide range of soil types, ecosystems, and geographic areas (12 studies, 53 total sites, n = 1379) to: (i) determine the relationship between POXC and POC, MBC and soil organic C (SOC) fractions, and (ii) determine the relative sensitivity of POXC as a labile soil C metric across a range of environmental and management conditions. Permanganate oxidizable C was significantly related to POC, MBC, and SOC, and these relationships were strongest when data were analyzed by individual studies. Permanganate oxidizable C was more closely related to smaller-sized (53–250 μm) than larger POC fractions (250–2000 μm), and more closely related to heavier (>1.7 g cm−3) than lighter POC fractions, indicating that it reflects a relatively processed pool of labile soil C. Compared with POC, MBC, or SOC, POXC demonstrated greater sensitivity to changes in management or environmental variation in 42% of the significant experimental factors examined across the 12 studies. Our analysis demonstrates the usefulness of POXC in quickly and inexpensively assessing changes in the labile soil C pool.",
+  "authors": [
+    "Steven W. Culman",
+    "Sieglinde S. Snapp",
+    "Mark A. Freeman",
+    "Meagan E. Schipanski",
+    "Josh Beniston",
+    "Rattan Lal",
+    "Laurie E. Drinkwater",
+    "Alan J. Franzluebbers",
+    "Jerry D. Glover",
+    "A. Stuart Grandy",
+    "Juhwan Lee",
+    "Johan Six",
+    "Jude E. Maul",
+    "Steven B. Mirksy",
+    "John T. Spargo",
+    "Michelle M. Wander"
+  ],
+  "year": 2012,
+  "container": "Soil Science Society of America Journal",
+  "licenses": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "oa_status:green"
+  ],
+  "url": "https://doi.org/10.2136/sssaj2011.0286"
+}

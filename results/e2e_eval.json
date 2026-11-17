@@ -1,0 +1,253 @@
+{
+  "created_at": "2026-11-17T14:55:13-05:00",
+  "n": 200,
+  "variant": "hybrid_rerank",
+  "use_llm": true,
+  "llm": {
+    "keys_present": [
+      "OPENAI_API_KEY",
+      "GROQ_API_KEY",
+      "XAI_API_KEY",
+      "OPENROUTER_API_KEY",
+      "GEMINI_API_KEY"
+    ],
+    "keys_absent": [
+      "ANTHROPIC_API_KEY"
+    ],
+    "router": {
+      "role": "router",
+      "provider": "groq",
+      "family": "groq-llama",
+      "model": "qwen/qwen3.8-27b",
+      "available": true,
+      "reason": "ok"
+    },
+    "generator": {
+      "role": "generator",
+      "provider": "gemini",
+      "family": "google-gemini",
+      "model": "gemini-2.5-flash",
+      "available": true,
+      "reason": "ok"
+    },
+    "judge": {
+      "role": "judge",
+      "provider": "groq",
+      "family": "groq-llama",
+      "model": "qwen/qwen3.8-27b",
+      "available": true,
+      "reason": "cached"
+    },
+    "stub_only": false,
+    "notes": ""
+  },
+  "gates": {
+    "citation": 0.85,
+    "numbers": 0.9,
+    "refusal": 0.9,
+    "invented_numbers": 0
+  },
+  "metrics": {
+    "route_accuracy": {
+      "n": 200,
+      "mean": 0.99,
+      "ci95_lo": 0.975,
+      "ci95_hi": 1.0
+    },
+    "recall@5": {
+      "n": 172,
+      "mean": 0.9651162790697675,
+      "ci95_lo": 0.936046511627907,
+      "ci95_hi": 0.9883720930232558
+    },
+    "recall@10": {
+      "n": 172,
+      "mean": 0.9651162790697675,
+      "ci95_lo": 0.936046511627907,
+      "ci95_hi": 0.9883720930232558
+    },
+    "citation_pass": {
+      "n": 171,
+      "mean": 1.0,
+      "ci95_lo": 1.0,
+      "ci95_hi": 1.0
+    },
+    "numbers_pass": {
+      "n": 171,
+      "mean": 1.0,
+      "ci95_lo": 1.0,
+      "ci95_hi": 1.0
+    },
+    "verifier_pass": {
+      "n": 171,
+      "mean": 1.0,
+      "ci95_lo": 1.0,
+      "ci95_hi": 1.0
+    },
+    "refusal_accuracy": {
+      "n": 200,
+      "mean": 1.0,
+      "ci95_lo": 1.0,
+      "ci95_hi": 1.0
+    },
+    "answer_with_caveat": {
+      "n": 10,
+      "mean": 0.7,
+      "ci95_lo": 0.4,
+      "ci95_hi": 1.0
+    },
+    "invented_numbers_total": 0
+  },
+  "gates_met": {
+    "citation": true,
+    "numbers": true,
+    "refusal": true,
+    "zero_invented_numbers": true
+  },
+  "by_category": {
+    "expert_qa": {
+      "n": 33,
+      "route_accuracy": 1.0,
+      "refusal_accuracy": 1.0,
+      "verifier_pass": 1.0
+    },
+    "paraphrase": {
+      "n": 99,
+      "route_accuracy": 1.0,
+      "refusal_accuracy": 1.0,
+      "verifier_pass": 1.0
+    },
+    "funding": {
+      "n": 15,
+      "route_accuracy": 1.0,
+      "refusal_accuracy": 1.0,
+      "verifier_pass": 1.0
+    },
+    "evidence": {
+      "n": 15,
+      "route_accuracy": 0.9333333333333333,
+      "refusal_accuracy": 1.0,
+      "verifier_pass": 1.0
+    },
+    "farmx": {
+      "n": 10,
+      "route_accuracy": 1.0,
+      "refusal_accuracy": 1.0,
+      "verifier_pass": 0.0
+    },
+    "should_refuse": {
+      "n": 6,
+      "route_accuracy": 1.0,
+      "refusal_accuracy": 1.0,
+      "verifier_pass": 0.0
+    },
+    "out_of_scope": {
+      "n": 6,
+      "route_accuracy": 1.0,
+      "refusal_accuracy": 1.0,
+      "verifier_pass": 0.0
+    },
+    "partial_match": {
+      "n": 10,
+      "route_accuracy": 0.9,
+      "refusal_accuracy": 1.0,
+      "verifier_pass": 1.0
+    },
+    "safety_refusal": {
+      "n": 6,
+      "route_accuracy": 1.0,
+      "refusal_accuracy": 1.0,
+      "verifier_pass": 0.0
+    }
+  },
+  "judge": {
+    "used": true,
+    "uncalibrated": true,
+    "n": 195,
+    "grounded": 0.015384615384615385,
+    "refusal_ok": 0.015384615384615385,
+    "caveat_ok": 0.015384615384615385,
+    "note": "LLM-as-judge scores are uncalibrated until 30 human labels exist (see qna/human_spotcheck_30.csv). Do not treat these as a gate.",
+    "family": "groq-llama",
+    "generator_family": "google-gemini"
+  },
+  "status_counts": {
+    "ok": 138,
+    "hedged_extractive": 1,
+    "answer_with_caveat": 32,
+    "refused": 29
+  },
+  "caveat_behavior": {
+    "expected_answer_with_caveat_n9": {
+      "n": 9,
+      "mean": 0.7777777777777778,
+      "n_ok": 7,
+      "ids_ok": [
+        "syn-partial-001",
+        "syn-partial-002",
+        "syn-partial-003",
+        "syn-partial-004",
+        "syn-partial-007",
+        "syn-partial-008",
+        "syn-partial-009"
+      ],
+      "ids_miss": [
+        "syn-partial-006",
+        "syn-partial-010"
+      ],
+      "status_counts": {
+        "answer_with_caveat": 7,
+        "ok": 2
+      }
+    },
+    "partial_match_n10": {
+      "n": 10,
+      "mean": 0.8,
+      "n_ok": 8,
+      "ids_ok": [
+        "syn-partial-001",
+        "syn-partial-002",
+        "syn-partial-003",
+        "syn-partial-004",
+        "syn-partial-005",
+        "syn-partial-007",
+        "syn-partial-008",
+        "syn-partial-009"
+      ],
+      "ids_miss": [
+        "syn-partial-006",
+        "syn-partial-010"
+      ],
+      "status_counts": {
+        "answer_with_caveat": 7,
+        "refused": 1,
+        "ok": 2
+      }
+    },
+    "union": {
+      "n": 10,
+      "mean": 0.8,
+      "n_ok": 8,
+      "ids_ok": [
+        "syn-partial-001",
+        "syn-partial-002",
+        "syn-partial-003",
+        "syn-partial-004",
+        "syn-partial-007",
+        "syn-partial-008",
+        "syn-partial-009",
+        "syn-partial-005"
+      ],
+      "ids_miss": [
+        "syn-partial-006",
+        "syn-partial-010"
+      ],
+      "status_counts": {
+        "answer_with_caveat": 7,
+        "ok": 2,
+        "refused": 1
+      }
+    },
+    "note": "Rate is the share of items that issued an answer containing explicit caveat wording (or, for the one expected-refuse partial-match item, a correct refusal). Hedged non-answers do not count as caveat behavior."
+  }
+}

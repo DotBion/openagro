@@ -1,0 +1,20 @@
+{
+  "provider": "crossref",
+  "doi": "10.1038/ismej.2009.26",
+  "title": "Predators promote defence of rhizosphere bacterial populations by selective feeding on non-toxic cheaters",
+  "abstract": "Soil pseudomonads increase their competitiveness by producing toxic secondary metabolites, which inhibit competitors and repel predators. Toxin production is regulated by cell–cell signalling and efficiently protects the bacterial population. However, cell communication is unstable, and natural populations often contain signal blind mutants displaying an altered phenotype defective in exoproduct synthesis. Such mutants are weak competitors, and we hypothesized that their fitness depends on natural communities on the exoproducts of wild-type bacteria, especially defence toxins. We established mixed populations of wild-type and signal blind, non-toxic gacS-deficient mutants of Pseudomonas fluorescens CHA0 in batch and rhizosphere systems. Bacteria were grazed by representatives of the most important bacterial predators in soil, nematodes (Caenorhabditis elegans) and protozoa (Acanthamoeba castellanii). The gacS mutants showed a negative frequency-dependent fitness and could reach up to one-third of the population, suggesting that they rely on the exoproducts of the wild-type bacteria. Both predators preferentially consumed the mutant strain, but populations with a low mutant load were resistant to predation, allowing the mutant to remain competitive at low relative density. The results suggest that signal blind Pseudomonas increase their fitness by exploiting the toxins produced by wild-type bacteria, and that predation promotes the production of bacterial defence compounds by selectively eliminating non-toxic mutants. Therefore, predators not only regulate population dynamics of soil bacteria but also structure the genetic and phenotypic constitution of bacterial communities.",
+  "authors": [
+    "Alexandre Jousset",
+    "Laurène Rochat",
+    "Maria Péchy-Tarr",
+    "Christoph Keel",
+    "Stefan Scheu",
+    "Michael Bonkowski"
+  ],
+  "year": 2009,
+  "container": "The ISME Journal",
+  "licenses": [
+    "https://academic.oup.com/pages/standard-publication-reuse-rights"
+  ],
+  "url": "https://doi.org/10.1038/ismej.2009.26"
+}

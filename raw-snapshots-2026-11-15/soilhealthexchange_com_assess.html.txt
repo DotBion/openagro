@@ -1,0 +1,259 @@
+Soil Report Helper | Turn Your Lab Report Into an Action Plan | Soil Health Exchange
+Open knowledge. Shared progress.
+Help the exchange grow 
+↗
+Soil Health
+Exchange
+.
+Learn
+Tools
+Community
+Funding
+Products & Services
+Search
+⌘
+K
+My Farm
+Ask a question
+☰
+Soil test decision support
+Know what matters. Decide what comes next.
+Add a laboratory report or key soil values. Get the main constraint, the next actions, and the decisions that should wait for better evidence.
+You get 1 free soil assessment report. Additional reports cost $9 each or $29 for a pack of 5.
+Interpret a soil test
+Your result will lead with
+1
+The most important constraint
+2
+Up to three next actions
+3
+What to hold or verify first
+Sample collection date (optional)
+Use the date the soil was collected. Needed for comparisons over time.
+1
+Field
+2
+Soil results
+3
+Get priorities
+Step 1 · Give the result context
+Tell us which field and crop this is for
+Location, sample depth, land use, and crop make the interpretation more relevant. You can still continue if some are unknown.
+Keep it simple:
+ start with the four visible fields. Planning details are optional and can be added only when you need a calibrated rate.
+Location
+Use my current location
+Type a county, town, ZIP code, or address. We geocode it behind the scenes, estimate MLRA, and let you confirm the pin.
+Privacy note: field location is used during this run for MLRA, soil, and weather matching. It is stored only if you choose to save a copy below, attach the report to a field in your My Farm account, or use an active My Farm membership.
+Sample Depth (inches, optional)
+Used for method checks, regional calibration, and benchmarking. Use the depth represented by this lab sample.
+Land Use System
+Select land use
+Cropland
+Pasture / Grassland
+Rangeland
+Perennial System
+Specialty Crop
+Other
+Helps compare this field against the right peer group before scoring the benchmark gap.
+Primary Crop
+Select crop
+Corn
+Soybeans
+Wheat
+Cotton
+Alfalfa / Forage
+Industrial Hemp
+Cover Crop Mix
+Vegetables
+Pasture
+Other
+Need a rate or a more specific field plan?
+Add yield, credits, lime material, soil type, management, acreage, and data-saving choices.
+Add planning details
+Continue: add soil results →
+Fastest path
+Upload your laboratory report
+Upload CSV, TXT, or PDF, or paste the report text. We extract the measurements; you confirm them before interpretation.
+Upload file
+Paste report text
+Extract values from text
+Enter manually or confirm the import
+Common soil-test values
+Add only what appears on your report. Four comparable indicators usually support a stronger screen; one is enough to begin.
+Soil pH
+Organic Matter
+ (
+%
+)
+CEC
+ (
+meq/100g
+)
+Nitrate-N
+ (
+ppm
+)
+Phosphorus (P)
+ (
+ppm
+)
+Potassium (K)
+ (
+ppm
+)
+Other values from the report
+Show 12 supporting fields
+Hide supporting fields
+Acidity & Amendment Context
+Optional, but decisive when a lab reports a large lime need
+Buffer pH
+Lab Lime Requirement
+ (
+tons ECC/ac
+)
+Hydrogen Saturation
+ (
+%
+)
+Secondary & Micronutrients
+Supporting values interpreted with lab method and crop calibration
+Sulfate-S
+ (
+ppm
+)
+Zinc
+ (
+ppm
+)
+Boron
+ (
+ppm
+)
+Biological Health
+Method-sensitive indicators are context, not universal scores
+24-hour Soil Respiration
+ (
+ppm CO₂-C
+)
+Microbially Active Carbon
+ (
+% MAC
+)
+Water-Extractable Organic C:N
+ (
+ratio
+)
+Soil Structure
+Lab and field measures of rooting and water movement
+Water-Stable Aggregates
+ (
+%
+)
+Bulk Density
+ (
+g/cm3
+)
+Salinity Balance
+Electrical conductivity — critical for arid/irrigated fields
+Electrical Conductivity
+ (
+dS/m
+)
+← Back
+Review my inputs →
+Final check
+Confirm the values we should interpret
+Check the field context and measurements. Your result will prioritize decisions—not repeat the laboratory report.
+Field context
+No field context added. The tool can screen the values, but regional rates and crop-specific decisions may be withheld.
+Edit field context
+Measurements (
+0
+ filled)
+Edit metrics
+Add at least one metric to continue
+You get 1 free soil assessment report. Additional reports cost $9 each or $29 for a pack of 5.
+ All reports are included with paid or card-backed My Farm access.
+← Back
+Show what matters and what to do
+Assessment progress
+Add field context
+Common values found
+pH, OM, CEC, nitrate, P, and K
+0
+/6
+1. Field context
+Recommended for regional and crop-aware decisions.
+2. Soil measurements
+At least one value is required.
+3. Decision brief
+Main issue, next actions, holds, and verification.
+Go to soil results →
+Reset assessment
+Decision support only. Confirm major nutrient and amendment purchases with the laboratory and a locally calibrated adviser.
+Quick Stats
+Core metrics filled
+0
+/6
+Empty state
+Sample Report
+Complete the form to get a rules-based, method-aware screen, local context, and transparent next steps.
+Screening available
+Add at least one metric to get started.
+Review & generate →
+You get 1 free soil assessment report. Additional reports cost $9 each or $29 for a pack of 5.
+ All reports are included with paid or card-backed My Farm access.
+Reset form
+Decision-support only. Validate major nutrient and amendment decisions with your local agronomist. Let us know what you think of this tool.
+Soil Health
+Exchange
+A public exchange for healthier soil.
+Built around the questions that matter.
+Help the exchange grow ↗
+Explore
+Field Answers
+The Journal
+Tools for the field
+Funding opportunities
+Learn CEMA 216
+Field guides
+Policy explained
+Connect
+Community updates
+Farmer Mentors
+Contributors
+Expert network
+Find a Qualified Individual
+Submit a funding opportunity
+Partner Directory
+Become a partner
+Take part
+Get in touch
+The Exchange
+Our story
+Our ecosystem
+Investment & support
+Founding Circle
+MY FARM
+Products & Services
+Public Resources
+The weekly field memo
+Our impact
+Frequently asked questions
+Follow the exchange
+LinkedIn
+↗
+Instagram
+↗
+Facebook
+↗
+X
+↗
+© 
+2026
+ Soil Health Exchange
+RSS feeds
+Privacy
+Terms
+Where science meets the soil.

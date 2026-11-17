@@ -1,0 +1,17 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1093/femsec/fiy094",
+  "title": "What is the agronomic potential of biofertilizers for maize? A meta-analysis",
+  "abstract": "Biofertilizers are promoted as a strategy for sustainable intensification of agriculture, but their efficacy varies widely among published studies and it is unclear whether they deliver the promised benefits. Studies are commonly conducted under controlled conditions prior to deployment in the field, yet the predictive value of such studies for field-scale productivity has not been critically examined. A meta-analysis was conducted using a novel host crop-specific approach to evaluate the agronomic potential of bacterial biofertilizers for maize. Yield increases tended to be slightly higher and more variable in greenhouse studies using field soil than in the field, and greenhouse studies poorly predicted the influence of moderating climate, soil and taxonomic variables. We found greater efficacy of Azospirillum spp. and lower efficacy of Bacillus spp. and Enterobacter spp. under field conditions. Surprisingly, biofertilizer strains with confirmed plant-growth-promoting traits such as phosphorus solubilization, nitrogen fixation and phytohormone production in vitro were associated with lower yields in the field than strains not confirmed to possess these traits; only 1-aminocyclopropane-1-carboxylate deaminase synthesis increased yields. These results indicate the need for a novel biofertilizer development framework that integrates information from native soil microbial communities and prioritizes field validation of results.",
+  "authors": [
+    "Jennifer E Schmidt",
+    "Amélie C M Gaudin"
+  ],
+  "year": 2018,
+  "container": "FEMS Microbiology Ecology",
+  "licenses": [
+    "http://academic.oup.com/journals/pages/about_us/legal/notices",
+    "oa_status:bronze"
+  ],
+  "url": "https://doi.org/10.1093/femsec/fiy094"
+}

@@ -1,0 +1,21 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.5511/plantbiotechnology.25.0529a",
+  "title": "&lt;i&gt;Colletotrichum tofieldiae&lt;/i&gt; enhances phosphorus uptake and biomass production and alters the microbial interactions in the rhizosphere of komatsuna (&lt;i&gt;Brassica rapa&lt;/i&gt; var. &lt;i&gt;perviridis&lt;/i&gt;) grown in phosphorus-deficient farm soils",
+  "abstract": "Microbial bioinoculants should play important roles to achieve sustainable phosphorus (P) management in agriculture.Colletotrichum tofieldiae (Ct), a fungal endophyte, is a promising material that supports phosphorus acquisition in Arabidopsis under low phosphorus (P) conditions and promotes maize and tomato growth in a greenhouse.However, its effects on leafy vegetables such as komatsuna, particularly those with a range of P availability in the soil, remain largely unclear.This study evaluated the impact of Ct inoculation on komatsuna growth, P uptake, rhizosphere soil and plant microbiological properties in sterilized and non-sterilized natural soils in Japan.The Ct mycelium was incubated in a mixture of rice bran, wheat bran, and wood chips for two weeks, and then applied to the soils at 0%, 1%, and 5% mass ratios (Ct0, Ct1, Ct5).Ct0 was the sterilized medium applied at a 5% mass ratio.Non-sterilized and sterilized soils received 20 and 80 mg P kg⁻¹ as low and high P treatments, respectively.Ct significantly increased plant biomass in a manner dependent on the initial inoculation dose in Low P-and High P-amended soils, although Ct-mediated plant growth promotion was more prominent in the low Psupplemented soils.Furthermore, Ct inoculation was found to increase microbial activity such as P solubilization, in rhizosphere soil and/or roots under both P conditions.This study is the first to demonstrate the positive influence of Ct on Brassicaceae growth in not only P-deficient but also P-supplemented soils, confirming its potential to improve plant development under P-deficient and P-supplemented soil conditions.",
+  "authors": [
+    "Elsie Sarkodee-Addo",
+    "Yasuhiro Tsujimoto",
+    "Aung Zaw Oo",
+    "Tomohiro Nishigaki",
+    "Kei Hiruma",
+    "Papa Saliou Sarr"
+  ],
+  "year": 2025,
+  "container": "Plant Biotechnology",
+  "licenses": [
+    "cc-by",
+    "oa_status:diamond"
+  ],
+  "url": "https://doi.org/10.5511/plantbiotechnology.25.0529a"
+}

@@ -1,0 +1,17 @@
+{
+  "provider": "crossref",
+  "doi": "10.1038/ismej.2010.191",
+  "title": "Ammonia concentration determines differential growth of ammonia-oxidising archaea and bacteria in soil microcosms",
+  "abstract": "The first step of nitrification, oxidation of ammonia to nitrite, is performed by both ammonia-oxidising archaea (AOA) and ammonia-oxidising bacteria (AOB) in soil, but their relative contributions to ammonia oxidation and existence in distinct ecological niches remain to be determined. To determine whether available ammonia concentration has a differential effect on AOA and AOB growth, soil microcosms were incubated for 28 days with ammonium at three concentrations: native (control), intermediate (20 μg NH4+-N per gram of soil) and high (200 μg NH4+-N per gram of soil). Quantitative PCR demonstrated growth of AOA at all concentrations, whereas AOB growth was prominent only at the highest concentration. Similarly, denaturing gradient gel electrophoresis (DGGE) analysis revealed changes in AOA communities at all ammonium concentrations, whereas AOB communities changed significantly only at the highest ammonium concentration. These results provide evidence that ammonia concentration contributes to the definition of distinct ecological niches of AOA and AOB in soil.",
+  "authors": [
+    "Daniel T Verhamme",
+    "James I Prosser",
+    "Graeme W Nicol"
+  ],
+  "year": 2011,
+  "container": "The ISME Journal",
+  "licenses": [
+    "https://academic.oup.com/pages/standard-publication-reuse-rights"
+  ],
+  "url": "https://doi.org/10.1038/ismej.2010.191"
+}

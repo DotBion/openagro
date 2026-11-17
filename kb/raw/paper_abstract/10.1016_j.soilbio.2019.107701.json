@@ -1,0 +1,22 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1016/j.soilbio.2019.107701",
+  "title": "Do cover crops benefit soil microbiome? A meta-analysis of current research",
+  "abstract": "Cover cropping is a promising sustainable agricultural method with the potential to enhance soil health and mitigate consequences of soil degradation. Because cover cropping can form an agroecosystem distinct from that of bare fallow, the soil microbiome is hypothesized to respond to the altered environmental circumstances. Despite the growing number of primary literature sources investigating the relationship between cover cropping and the soil microbiome, there has not been a quantitative research synthesis that is sufficiently comprehensive and specific to this relationship. We conducted a meta-analysis by compiling the results of 60 relevant studies reporting cover cropping effects on soil microbial properties to estimate global effect sizes and explore the current landscape of this topic. Overall, cover cropping significantly increased parameters of soil microbial abundance, activity, and diversity by 27%, 22%, and 2.5% respectively, compared to those of bare fallow. Moreover, cover cropping effect sizes varied by agricultural covariates like cover crop termination or tillage methods. Notably, cover cropping effects were less pronounced under conditions like continental climate, chemical cover crop termination, and conservation tillage. This meta-analysis showed that the soil microbiome can become more robust under cover cropping when properly managed with other agricultural practices. However, more primary research is still needed to control between-study heterogeneity and to more elaborately assess the relationships between cover cropping and the soil microbiome.",
+  "authors": [
+    "Nakian Kim",
+    "María C. Zabaloy",
+    "Kaiyu Guan",
+    "María B. Villamil"
+  ],
+  "year": 2020,
+  "container": "Soil Biology and Biochemistry",
+  "licenses": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "cc-by-nc-nd",
+    "oa_status:hybrid"
+  ],
+  "url": "https://doi.org/10.1016/j.soilbio.2019.107701"
+}

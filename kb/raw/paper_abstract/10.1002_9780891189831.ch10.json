@@ -1,0 +1,17 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1002/9780891189831.ch10",
+  "title": "Is Autoclaved Citrate‐Extractable (ACE) Protein a Viable Indicator of Soil Nitrogen Availability?",
+  "abstract": "Soil nitrogen (N) is an important indicator of soil health, reflective of how well several ecosystem services are functioning. To fully assess biological soil health, an accurate assessment of soil N availability is an extremely important component of cost-effective, environmentally sound agricultural best management practices. Long-term aerobic incubations of soil under optimum laboratory temperature and moisture conditions are often used as a reference method to determine N mineralization potential. Total soil N via dry combustion is a very stable N pool but not very sensitive or effective for predicting seasonal N availability. The chapter suggests that autoclaved citrate-extractable soil protein shows promise for rapid, sensitive quantification of functionally relevant soil N pools. Consistent with all soil health indicator measurements, critical factors affecting the accuracy and reproducibility of bioavailable soil N measurements include both the time of sampling and the number of samples.",
+  "authors": [
+    "Tunsisa T. Hurisso",
+    "Steve W. Culman"
+  ],
+  "year": 2021,
+  "container": "ASA, CSSA, and SSSA Books",
+  "licenses": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "oa_status:closed"
+  ],
+  "url": "https://doi.org/10.1002/9780891189831.ch10"
+}

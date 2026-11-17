@@ -1,0 +1,20 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1016/j.atech.2022.100094",
+  "title": "Digital Twins in Agriculture: A State-of-the-art review",
+  "abstract": "The Digital Twin enables the distinctions between state sensing, entity understanding and physical automation to be eliminated, through high-fidelity modelling and bi-directional data streams. The concept of real-time virtual representation places the Digital Twin in a unique position to enable digitization in agriculture. The union of data, modelling and what-if simulation can provide an approach to overcome current limitations in decision-making support and automation, across a diverse range of agricultural enterprises. This paper conducts a Systematic Literature Review of Digital Twins in agriculture, identifying current trends and open questions with the goal of increasing awareness and understanding of the Digital Twin and its possibilities.",
+  "authors": [
+    "Warren Purcell",
+    "Thomas Neubauer"
+  ],
+  "year": 2023,
+  "container": "Smart Agricultural Technology",
+  "licenses": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "http://creativecommons.org/licenses/by/4.0/",
+    "cc-by",
+    "oa_status:gold"
+  ],
+  "url": "https://doi.org/10.1016/j.atech.2022.100094"
+}

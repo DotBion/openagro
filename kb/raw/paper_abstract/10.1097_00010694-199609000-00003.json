@@ -1,0 +1,16 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1097/00010694-199609000-00003",
+  "title": "EXTRACTION OF AN ABUNDANT AND UNUSUAL PROTEIN FROM SOIL AND COMPARISON WITH HYPHAL PROTEIN OF ARBUSCULAR MYCORRHIZAL FUNGI",
+  "abstract": "It has been speculated that arbuscular mycorrhizal fungi (AMF) produce extracellular compounds and that these are involved in soil stabilization. An unusual and abundant protein was found on hyphae of AMF, and it was hypothesized that the hyphal protein could be found in soil. The purpose of this work was to test extraction conditions for soil protein on a range of soils collected from undisturbed sites, to compare protein from hyphae with protein from soils, and to examine the relationship between soil protein and percent of total dry weight of soil made up of ca. 1 to 2-mm water stable aggregates. The A-horizons of 12 acidic soils collected from the midAtlantic area of the United States were used to develop a protocol for protein extraction. Protein was measured by the Bradford assay, with bovine serum albumin as the standard. Also, an indirect enzyme-linked immunosorbent assay (ELISA), using the monoclonal antibody that had been used to detect the protein on hyphae of AMF, was performed on 0.5 μg of protein from soil or hyphae. Sodium dodecyl sulfate polyacrylamide gel electrophoresis (SDS-PAGE) of denatured protein was used to compare soil protein with hyphal protein. The extraction conditions that gave the best results for total protein were 0.25 g soil in 2 mL of 50 mM citrate, pH 8.0, for 90 min at 121°C yielding a range of 4.4 to 14.4 mg protein/g of soil for these soils. Highest ELISA values were obtained by using 20 mM citrate, pH 7.0, for 30 min at 121°C, but less protein was extracted under these conditions. Crude extracts of protein from hyphae and soil showed the same banding patterns and density of bands on SDS-PAGE gels. ELISA values for soils were between 60 and 107% of hyphal ELISA values. Total protein concentration was correlated linearly with organic carbon in soil (r2 = 0.85, P ≤ 0.001). The percent dry weight of soil composed of water-stable aggregates was correlated positively (P ≤ 0.05) with silt and ELISA values and correlated negatively with sand. The possible contribution of this protein to soil stabilization is discussed.",
+  "authors": [
+    "Sara F. Wright",
+    "Abha Upadhyaya"
+  ],
+  "year": 1996,
+  "container": "Soil Science",
+  "licenses": [
+    "oa_status:closed"
+  ],
+  "url": "https://doi.org/10.1097/00010694-199609000-00003"
+}

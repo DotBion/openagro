@@ -1,0 +1,18 @@
+{
+  "provider": "crossref",
+  "doi": "10.1094/phyto-98-9-0999",
+  "title": "Efficacy of Triazole-Based Fungicides for Fusarium Head Blight and Deoxynivalenol Control in Wheat: A Multivariate Meta-Analysis",
+  "abstract": "The effects of propiconazole, prothioconazole, tebuconazole, metconazole, and prothioconazole+tebuconazole (as a tank mix or a formulated premix) on the control of Fusarium head blight index (IND; field or plot-level disease severity) and deoxynivalenol (DON) in wheat were determined. A multivariate random-effects meta-analytical model was fitted to the log-transformed treatment means from over 100 uniform fungicide studies across 11 years and 14 states, and the mean log ratio (relative to the untreated check or tebuconazole mean) was determined as the overall effect size for quantifying fungicide efficacy. Mean log ratios were then transformed to estimate mean percent reduction in IND and DON relative to the untreated check (percent control: [Formula: see text] IND and [Formula: see text] DON ) and relative to tebuconazole. All fungicides led to a significant reduction in IND and DON (P &lt; 0.001), although there was substantial between-study variability. Prothioconazole+tebuconazole was the most effective fungicide for IND, with a [Formula: see text] IND of 52%, followed by metconazole (50%), prothioconazole (48%), tebuconazole (40%), and propiconazole (32%). For DON, metconazole was the most effective treatment, with a [Formula: see text] DON of 45%; prothioconazole+tebuconazole and prothioconazole showed similar efficacy, with [Formula: see text] DON values of 42 and 43%, respectively; tebuconazole and propiconazole were the least effective, with [Formula: see text] DON values of 23 and 12%, respectively. All fungicides, with the exception of propiconazole, were significantly more effective than tebuconazole for control of both IND and DON (P &lt; 0.001). Relative to tebuconazole, prothioconazole, metconazole, and tebuconzole+prothioconzole reduced disease index a further 14 to 20% and DON a further 25 to 29%. In general, fungicide efficacy was significantly higher for spring wheat than for soft winter wheat studies; depending on the fungicide, the difference in percent control between spring and soft winter wheat was 5 to 20% for [Formula: see text] IND and 7 to 16% for [Formula: see text] DON . Based on the mean log ratios and between-study variances, the probability that IND or DON in a treated plot from a randomly selected study was lower than that in the check by a fixed margin was determined, which confirmed the superior efficacy of prothioconazole, metconazole, and tebuconzole+prothioconzole for Fusarium head blight disease and toxin control.",
+  "authors": [
+    "P. A. Paul",
+    "P. E. Lipps",
+    "D. E. Hershman",
+    "M. P. McMullen",
+    "M. A. Draper",
+    "L. V. Madden"
+  ],
+  "year": 2008,
+  "container": "Phytopathology®",
+  "licenses": [],
+  "url": "https://doi.org/10.1094/phyto-98-9-0999"
+}

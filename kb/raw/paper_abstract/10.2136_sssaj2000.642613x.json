@@ -1,0 +1,19 @@
+{
+  "provider": "crossref",
+  "doi": "10.2136/sssaj2000.642613x",
+  "title": "Flush of Carbon Dioxide Following Rewetting of Dried Soil Relates to Active Organic Pools",
+  "abstract": "Soil quality assessment could become more standardized with the development of a simple, rapid, and reliable method for quantifying potential soil biological activity. We evaluated the flush of CO 2 following rewetting of dried soil under standard laboratory conditions as a method to estimate an active organic matter fraction. The flush of CO 2 following rewetting of dried soil (3 d incubation at ≈50% water‐filled pore space and 25°C) was assessed for 20 soil series containing a wide range of organic C (20 ± 13 g kg −1 ) from Alberta–British Columbia, Maine, Texas, and Georgia. This flush of CO 2 explained 97% of the variability in cumulative C mineralization during , 86% of the variability in soil microbial biomass , and 67% of the variability in net N mineralization during Accounting for geographical differences in mean annual temperature and precipitation, which could affect soil organic matter quality, further improved relationships between the flush of CO 2 and active, passive, and total C and N pools. Measuring the flush of CO 2 following rewetting of dried soil may have value for routine soil testing of biological soil quality because it (i) is an incubation procedure patterned after natural occurrences in most soils, (ii) exhibits strong overall relationships with active organic pools, (iii) shows relatively minor changes in relationships with active organic pools that may be due to climatic variables, (iv) has a simple setup with minimal equipment requirements, and (v) has rapid analysis time.",
+  "authors": [
+    "A. J. Franzluebbers",
+    "R. L. Haney",
+    "C. W. Honeycutt",
+    "H. H. Schomberg",
+    "F. M. Hons"
+  ],
+  "year": 2000,
+  "container": "Soil Science Society of America Journal",
+  "licenses": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "url": "https://doi.org/10.2136/sssaj2000.642613x"
+}

@@ -1,0 +1,20 @@
+{
+  "provider": "crossref",
+  "doi": "10.1038/srep32862",
+  "title": "Nematodes enhance plant growth and nutrient uptake under C and N-rich conditions",
+  "abstract": "The role of soil fauna in crucial ecosystem services such as nutrient cycling remains poorly quantified, mainly because of the overly reductionistic approach adopted in most experimental studies. Given that increasing nitrogen inputs in various ecosystems influence the structure and functioning of soil microbes and the activity of fauna, we aimed to quantify the role of the entire soil nematode community in nutrient mineralization in an experimental set-up emulating nutrient-rich field conditions and accounting for crucial interactions amongst the soil microbial communities and plants. To this end, we reconstructed a complex soil foodweb in mesocosms that comprised largely undisturbed native microflora and the entire nematode community added into defaunated soil, planted with Lolium perenne as a model plant, and amended with fresh grass-clover residues. We determined N and P availability and plant uptake, plant biomass and abundance and structure of the microbial and nematode communities during a three-month incubation. The presence of nematodes significantly increased plant biomass production (+9%), net N (+25%) and net P (+23%) availability compared to their absence, demonstrating that nematodes link below- and above-ground processes, primarily through increasing nutrient availability. The experimental set-up presented allows to realistically quantify the crucial ecosystem services provided by the soil biota.",
+  "authors": [
+    "Mesfin T. Gebremikael",
+    "Hanne Steel",
+    "David Buchan",
+    "Wim Bert",
+    "Stefaan De Neve"
+  ],
+  "year": 2016,
+  "container": "Scientific Reports",
+  "licenses": [
+    "https://creativecommons.org/licenses/by/4.0",
+    "https://creativecommons.org/licenses/by/4.0"
+  ],
+  "url": "https://doi.org/10.1038/srep32862"
+}

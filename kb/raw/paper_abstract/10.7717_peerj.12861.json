@@ -1,0 +1,19 @@
+{
+  "provider": "crossref",
+  "doi": "10.7717/peerj.12861",
+  "title": "Arbuscular mycorrhizal fungi increase crop yields by improving biomass under rainfed condition: a meta-analysis",
+  "abstract": "Rainfed agriculture plays key role in ensuring food security and maintain ecological balance. Especially in developing areas, most grain food are produced rainfed agricultural ecosystem. Therefore, the increase of crop yields in rainfed agricultural ecosystem becomes vital as well as ensuring global food security. The potential roles of arbuscular mycorrhizal fungi (AMF) in improving crop yields under rainfed condition were explored based on 546 pairs of observations published from 1950 to 2021. AMF inoculation increased 23.0% crop yields based on 13 popular crops under rainfed condition. Not only was crop biomass of shoot and root increased 24.2% and 29.6% by AMF inocula, respectively but also seed number and pod/fruit number per plant were enhanced markedly. Further, the effect of AMF on crop yields depended on different crop groups. AMF improved more yield of N-fixing crops than non-N-fixing crops. The effect of AMF changed between grain and non-grain crops with the effect size of 0.216 and 0.352, respectively. AMF inoculation enhances stress resistance and photosynthesis of host crop in rainfed agriculture. AMF increased crop yields by enhancing shoot biomass due to the improvement of plant nutrition, photosynthesis, and stress resistance in rainfed field. Our findings provide a new view for understanding the sustainable productivity in rainfed agroecosystem, which enriched the theory of AMF functional diversity. This study provided a theoretical and technical way for sustainable production under rainfed agriculture.",
+  "authors": [
+    "Shanwei Wu",
+    "Zhaoyong Shi",
+    "Xianni Chen",
+    "Jiakai Gao",
+    "Xugang Wang"
+  ],
+  "year": 2022,
+  "container": "PeerJ",
+  "licenses": [
+    "https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "url": "https://doi.org/10.7717/peerj.12861"
+}

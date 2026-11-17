@@ -1,0 +1,19 @@
+{
+  "provider": "crossref",
+  "doi": "10.1002/saj2.20131",
+  "title": "Agroecosystem management responses to Haney soil health test in the southeastern United States",
+  "abstract": "Quantifying the impacts of agricultural management on soil health is critical for making informed sustainable management decisions as soil resources inevitably undergo alterations due to management. One recently popular and soil biology–based method of soil health assessment is the Haney Soil Health Test (HSHT), whose most recent version is known as the “soil health tool”, attempts to integrate soil health and fertility. Comprehensive evaluation of the HSHT and its underlying indicators in different agroecological regions is currently lacking. This study therefore evaluates the HSHT on three ongoing field experiments in southeastern United States: (a) 39 yr of continuous soybean [ Glycine max (L.) Merr.] with different tillage treatments, (b) 4 yr of corn ( Zea mays L.)–soybean rotation with different cover crop treatments, and (c) 37 yr of continuous cotton ( Gossypium hirsutum L.) with tillage, cover crops, and nitrogen (N) rates. Soil samples (0‐ to 15‐cm depth) were analyzed for HSHT indicators (i.e., Solvita CO 2 –C, water‐extractable organic C [WEOC], water‐extractable organic N [WEON], and WEOC/WEON), two versions of soil health score (SHS) calculations (SHS2015 and SHS2018), and potential N mineralization (Nmin) rates. Additionally, H3A‐ and Mehlich‐1–based extractable soil nutrients were determined to test the fertility component of HSHT. The individual HSHT indicators, SHS2015, SHS2018, and Nmin showed inconsistent responses to management, where most variation in SHS was driven by WEON (0.68 &lt; R 2 &gt; 0.86; p &lt; .001). Additionally, H3A solution extracted nutrients with higher variability (18.5 &lt;CV%&gt; 76) than Mehlich‐1. This lack of consistent to response to management in southeastern U.S. croplands implies that comprehensive evaluation and/or modification of HSHT is required for broader applicability.",
+  "authors": [
+    "Surendra Singh",
+    "Sindhu Jagadamma",
+    "Daniel Yoder",
+    "Xinhua Yin",
+    "Forbes Walker"
+  ],
+  "year": 2020,
+  "container": "Soil Science Society of America Journal",
+  "licenses": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "url": "https://doi.org/10.1002/saj2.20131"
+}

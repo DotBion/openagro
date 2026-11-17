@@ -1,0 +1,15 @@
+{
+  "provider": "crossref",
+  "doi": "10.1002/agj2.20094",
+  "title": "Soil‐test biological activity with the flush of CO<sub>2</sub>: V. Validation of nitrogen prediction for corn production",
+  "abstract": "Production of corn ( Zea mays L.) requires significant N availability to reach maximum yield potential. Nitrogen fertilizer recommendations generally have ignored site‐specific conditions and have focused more on total N demand for representative soils across a region. Recent evidence suggested that site‐specific conditions of the biologically active component (0–10‐cm depth) could inform the magnitude of yield response to applied N fertilizer. This approach was tested further on 111 fields in Coastal Plain, Piedmont, and Blue Ridge regions (states of North Carolina, South Carolina, and Virginia). Plant‐available N (sum of residual inorganic N and net N mineralization during a 24‐d aerobic incubation) was inversely proportional to economically optimum N rate scaled to grain production level ( r 2 = .47, p &lt; .001). Soil‐test biological activity as a simple, rapid, and reliable indicator of net N mineralization was also predictive of economically optimum N rate ( r 2 = .46, p &lt; .001) and validated an earlier assessment. Greater soil‐test biological activity was obtained from private farms than from research stations (259 vs. 172 mg C kg −1 3 d −1 , respectively; p &lt; .001), as well as from fields with minimum tillage, multi‐species cover cropping, and amendment with animal manures. Results imply that some farmers are making choices to improve soil health condition and these choices can lead to lower requirement for N fertilizer inputs. A shift towards site‐specific N management should focus on soil biological activity and its association with N mineralization as indicators of soil health to increase profit and reduce environmental impacts.",
+  "authors": [
+    "Alan J. Franzluebbers"
+  ],
+  "year": 2020,
+  "container": "Agronomy Journal",
+  "licenses": [
+    "http://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "url": "https://doi.org/10.1002/agj2.20094"
+}

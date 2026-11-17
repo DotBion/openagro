@@ -1,0 +1,17 @@
+{
+  "provider": "crossref",
+  "doi": "10.2134/agronj2013.0043",
+  "title": "Nitrapyrin Impacts on Maize Yield and Nitrogen Use Efficiency with Spring‐Applied Nitrogen: Field Studies vs. Meta‐Analysis Comparison",
+  "abstract": "In maize ( Zea mays L.), low N use efficiency (NUE) is observed when a high proportion of the fertilizer N is not recovered by the crop. Combining different management practices can improve maize NUE. The objectives were to assess the impacts of integrated N management practices on grain yield (GY), plant N uptake (PNU), and NUE (and its components, N recovery efficiency [NRE] and N internal efficiency [NIE]) from three maize site‐years (Indiana). The factors evaluated were: (i) N rate (0, 90, and 180 kg N ha −1 ), (ii) nitrapyrin (presence or absence), and (iii) N timing (at planting or V6 stage). Grain yields for the field research study ranged from 6.3 to 12.1 Mg ha −1 . The main results indicated: (i) PNU increased with N rates and with delayed N timing, (ii) the use of nitrapyrin increased NUE ( ∼ 17%), primarily via improving NRE ( ∼ 25%), and (iii) NUE increased by delaying the timing of N application. In addition to the field experiments, a meta‐analysis studying the effect of nitrapyrin on maize GY, PNU, and NUE was performed. Highlights from the meta‐analysis were: (i) positive impacts of nitrapyrin application on both GY and PNU, but (ii) those impacts were neither reflected in gains for NUE nor for NRE and NIE. The positive impacts of nitrapyrin on NUE (and components) found in the field research study were not consistent with the outcomes documented in the meta‐analysis. This emphasizes that the potential maize NUE benefits of nitrapyrin addition to spring N applications are not always realized.",
+  "authors": [
+    "Juan P. Burzaco",
+    "Ignacio A. Ciampitti",
+    "Tony J. Vyn"
+  ],
+  "year": 2014,
+  "container": "Agronomy Journal",
+  "licenses": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "url": "https://doi.org/10.2134/agronj2013.0043"
+}

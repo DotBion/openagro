@@ -1,0 +1,21 @@
+{
+  "provider": "crossref",
+  "doi": "10.1002/agj2.70169",
+  "title": "Corn response to sulfur fertilizer rate and source in Illinois",
+  "abstract": "Sulfur (S) is an essential nutrient for optimizing corn ( Zea mays L.) growth and yield. While S deficiency has increased in recent years, corn response to S fertilizer application remains challenging to predict owing to complex interactions among soil, crop, and weather conditions. Forty field trials were conducted between 2009 and 2011 over a range of soil types and environments to evaluate corn grain yield response to S fertilizer and assess the ability of soil and leaf S concentration to predict yield response to S fertilizer. Rate trials included two (0 and 34 kg S ha −1 ) or five rates (0 to 52 kg S ha −1 , in 13 kg ha −1 increments), whereas S sources were evaluated at 26 kg S ha −1 (ammonium sulfate [21‐0‐0‐24S], elemental S [0‐0‐0‐90S], gypsum [0‐0‐0‐21Ca‐17S], monoammonium phosphate [MAP] MAP‐10S [12‐40‐0‐10S], MAP‐10S+Zn [12‐40‐0‐10S‐1 Zn], and MAP‐15S [13‐33‐0‐15S]). Over the 3‐year study period, we found minimal yield response to S fertilizer application with an overall response rate of 5% (two of 40 trials). In addition, neither S fertilizer evaluated increased corn grain yield relative to no S at any site; however, elemental S significantly reduced yield in one of 18 sites. While S application generally increased soil and earleaf S concentration, this did not translate into yield increases; hence, the lack of relationship between relative yield and soil and earleaf S. Under the study's conditions, these results indicate that S fertilization is unlikely to increase corn yields, and standard diagnostic tests such as soil S and earleaf S concentration are unreliable in predicting yield response in the upper US Midwest. Future research should incorporate other organic and inorganic soil S fractions to improve understanding and prediction of crop response to S fertilization.",
+  "authors": [
+    "Giovani Preza Fontes",
+    "John Jones",
+    "Kristin D. Greer",
+    "Daniel Schaefer",
+    "Daniel Kaiser",
+    "Fabián G. Fernández"
+  ],
+  "year": 2025,
+  "container": "Agronomy Journal",
+  "licenses": [
+    "http://creativecommons.org/licenses/by/4.0/",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  ],
+  "url": "https://doi.org/10.1002/agj2.70169"
+}

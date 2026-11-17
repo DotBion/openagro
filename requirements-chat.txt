@@ -1,0 +1,15 @@
+# Chat / retrieval stack (install into .venv). Torch must be the CPU wheel.
+#   .venv/bin/pip install torch --index-url https://download.pytorch.org/whl/cpu
+#   .venv/bin/pip install -r requirements-chat.txt
+sentence-transformers>=3
+fastapi>=0.115
+uvicorn>=0.30
+rank-bm25>=0.2.2
+numpy>=2
+requests>=2
+python-dateutil>=2
+scikit-learn>=1.4
+scipy>=1.11
+pytest>=8
+transformers>=5
+tokenizers>=0.20

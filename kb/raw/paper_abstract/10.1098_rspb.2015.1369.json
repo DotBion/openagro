@@ -1,0 +1,18 @@
+{
+  "provider": "crossref",
+  "doi": "10.1098/rspb.2015.1369",
+  "title": "High effectiveness of tailored flower strips in reducing pests and crop plant damage",
+  "abstract": "Providing key resources to animals may enhance both their biodiversity and the ecosystem services they provide. We examined the performance of annual flower strips targeted at the promotion of natural pest control in winter wheat. Flower strips were experimentally sown along 10 winter wheat fields across a gradient of landscape complexity (i.e. proportion non-crop area within 750 m around focal fields) and compared with 15 fields with wheat control strips. We found strong reductions in cereal leaf beetle (CLB) density (larvae: 40%; adults of the second generation: 53%) and plant damage caused by CLB (61%) in fields with flower strips compared with control fields. Natural enemies of CLB were strongly increased in flower strips and in part also in adjacent wheat fields. Flower strip effects on natural enemies, pests and crop damage were largely independent of landscape complexity (8–75% non-crop area). Our study demonstrates a high effectiveness of annual flower strips in promoting pest control, reducing CLB pest levels below the economic threshold. Hence, the studied flower strip offers a viable alternative to insecticides. This highlights the high potential of tailored agri-environment schemes to contribute to ecological intensification and may encourage more farmers to adopt such schemes.",
+  "authors": [
+    "Matthias Tschumi",
+    "Matthias Albrecht",
+    "Martin H. Entling",
+    "Katja Jacot"
+  ],
+  "year": 2015,
+  "container": "Proceedings of the Royal Society B: Biological Sciences",
+  "licenses": [
+    "https://royalsociety.org/journals/ethics-policies/data-sharing-mining/"
+  ],
+  "url": "https://doi.org/10.1098/rspb.2015.1369"
+}

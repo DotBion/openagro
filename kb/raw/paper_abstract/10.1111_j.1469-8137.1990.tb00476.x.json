@@ -1,0 +1,19 @@
+{
+  "provider": "crossref",
+  "doi": "10.1111/j.1469-8137.1990.tb00476.x",
+  "title": "A new method which gives an objective measure of colonization of roots by vesicular—arbuscular mycorrhizal fungi",
+  "abstract": "Previously described methods to quantify the proportion of root length colonized by vesicular‐arbuscular (VA) mycorrhizal fungi are reviewed. It is argued that these methods give observer‐dependent measures of colonization which cannot be used to compare, quantitatively, roots examined by different researchers. A modified method is described here to estimate VA mycorrhizal colonization on an objective scale of measurement, involving inspection of intersections between the microscope eyepiece crosshair and roots at magnification × 200; it is referred to as the magnified intersections method. Whether the vertical eyepiece crosshair crosses one or more arbuscules is noted at each intersection. The estimate of colonization is the proportion of root length containing arbuscules, called the arbuscular colonization (AC). The magnified intersections method also determines the proportion of root length containing vesicles, the vesicular colonization (VC), and the proportion of root length containing hyphae, the hyphal colonization (HC). However, VC and HC should be interpreted with caution because vesicles and hyphae, unlike arbuscules, can be produced in roots by non‐mycorrhizal fungi.",
+  "authors": [
+    "T. P. McGONIGLE",
+    "M. H. MILLER",
+    "D. G. EVANS",
+    "G. L. FAIRCHILD",
+    "J. A. SWAN"
+  ],
+  "year": 1990,
+  "container": "New Phytologist",
+  "licenses": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "url": "https://doi.org/10.1111/j.1469-8137.1990.tb00476.x"
+}

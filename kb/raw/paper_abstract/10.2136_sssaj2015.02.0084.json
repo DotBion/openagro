@@ -1,0 +1,19 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.2136/sssaj2015.02.0084",
+  "title": "Corn Nitrogen Fertilization Requirement and Corn-Soybean Productivity with a Rye Cover Crop",
+  "abstract": "Winter rye (Secale cereale L.) cover crop (RCC) has potential to reduce NO3–N loss from corn (Zea mays L.) and soybean [Glycine max (L.) Merr.] fields. However, RCC effects on annual crop productivity and corn optimal N fertilization requirement are unclear. The objectives were to evaluate corn and soybean yield response to RCC and corn optimal N rate. Treatments were no-RCC and RCC with six fertilizer N rates (0–225 kg N ha-1) applied to corn in a no-till corn–soybean (CS) rotation at four Iowa sites in 2009 through 2011. The RCC biomass and N uptake was low, with a maximum of 1280 kg dry matter (DM) ha-1 and 26 kg N ha-1, respectively. In the no-N control, the RCC reduced soil profile NO3–N by 15 kg N ha-1 only at time of RCC control before corn planting. Corn canopy sensing, plant height, and plant population indicated more N stress, reduced plant stand, and slower growth with RCC. The RCC reduced corn grain yield by 6% at the economic optimum N rate (EONR). The EONR was the same with no-RCC and RCC, but plant N uptake efficiency (PUE) was reduced at low N rates with RCC, but not above the EONR. Soybean yield was not affected by RCC. Results indicate N fertilization rate should be the same with or without RCC. Improvement in RCC systems and management could make RCC a more viable practice within no-till corn and soybean production.",
+  "authors": [
+    "Jose L. Pantoja",
+    "Krishna P. Woli",
+    "John E. Sawyer",
+    "Daniel W. Barker"
+  ],
+  "year": 2015,
+  "container": "Soil Science Society of America Journal",
+  "licenses": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "oa_status:bronze"
+  ],
+  "url": "https://doi.org/10.2136/sssaj2015.02.0084"
+}

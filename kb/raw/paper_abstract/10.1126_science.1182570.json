@@ -1,0 +1,22 @@
+{
+  "provider": "crossref",
+  "doi": "10.1126/science.1182570",
+  "title": "Significant Acidification in Major Chinese Croplands",
+  "abstract": "China is experiencing increasing problems with acid rain, groundwater pollution, and nitrous oxide emissions. Rapid development of industry and transportation has accelerated nitrate (N) emissions to the atmosphere. Consequently, soil degradation, water shortage, and pollution, in addition to atmospheric quality decline are becoming major public concerns across China. Since the 1990s, China has become both the largest consumer of chemical N fertilizers and the highest cereal producer in the world, which has consequences for arable soil acidification. Guo et al. (p. 1008 , published online 11 February) present a meta-analysis of a regional acidification phenomenon in Chinese arable soils that is largely associated with higher N fertilization and higher crop production. Such large-scale soil acidification is likely to threaten the sustainability of agriculture and affect the biogeochemical cycles of nutrients and also toxic elements in soils.",
+  "authors": [
+    "J. H. Guo",
+    "X. J. Liu",
+    "Y. Zhang",
+    "J. L. Shen",
+    "W. X. Han",
+    "W. F. Zhang",
+    "P. Christie",
+    "K. W. T. Goulding",
+    "P. M. Vitousek",
+    "F. S. Zhang"
+  ],
+  "year": 2010,
+  "container": "Science",
+  "licenses": [],
+  "url": "https://doi.org/10.1126/science.1182570"
+}

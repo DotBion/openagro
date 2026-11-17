@@ -1,0 +1,30 @@
+{
+  "provider": "crossref",
+  "doi": "10.2134/agronj2017.04.0207",
+  "title": "A Public–Industry Partnership for Enhancing Corn Nitrogen Research and Datasets: Project Description, Methodology, and Outcomes",
+  "abstract": "The geographic scope, scale, and unique collaborative arrangement warrant documenting details of this work. The purpose of this article is to describe how the research was undertaken, reasons for the research methods, and the project's potential value. The project generated a valuable dataset across a wide array of weather and soils that allows evaluation of N decision tools. Due to economic and environmental consequences of N lost from fertilizer applications in corn ( Zea mays L.), considerable public and industry attention has been devoted to the development of N decision tools. Needed are research and databases and associated metadata, at numerous locations and years to represent a wide geographic range of soil and weather scenarios, for evaluating tool performance. The goals of this research were to conduct standardized corn N rate response field studies to evaluate the performance of multiple public‐domain N decision tools across diverse soils and environmental conditions, develop and publish new agronomic science for improved crop N management, and train new scientists. The geographic scope, scale, and unique collaborative arrangement warrant documenting details of this research. The objectives of this paper are to describe how the research was undertaken, reasons for the methods, and the project's anticipated value. The project was initiated in a partnership between eight U.S. Midwest land‐grant universities, USDA‐ARS, and DuPont Pioneer. Research using a standardized protocol was conducted over the 2014 through 2016 growing seasons, yielding a total of 49 sites. Preliminary observations of soil and crop variables measured from each site revealed a magnitude of differences in soil properties (e.g., texture and organic matter) as well as differences in agronomic and economic responses to applied N. The project has generated a valuable dataset across a wide array of weather and soils that allows investigators to perform robust evaluation of N use in corn and N decision tools.",
+  "authors": [
+    "Newell R. Kitchen",
+    "John F. Shanahan",
+    "Curtis J. Ransom",
+    "Christopher J. Bandura",
+    "Gregory M. Bean",
+    "James J. Camberato",
+    "Paul R. Carter",
+    "Jason D. Clark",
+    "Richard B. Ferguson",
+    "Fabián G. Fernández",
+    "David W. Franzen",
+    "Carrie A. M. Laboski",
+    "Emerson D. Nafziger",
+    "Zhisheng Qing",
+    "John E. Sawyer",
+    "Matt Shafer"
+  ],
+  "year": 2017,
+  "container": "Agronomy Journal",
+  "licenses": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "url": "https://doi.org/10.2134/agronj2017.04.0207"
+}

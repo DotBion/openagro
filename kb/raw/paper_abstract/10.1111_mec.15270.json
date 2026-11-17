@@ -1,0 +1,23 @@
+{
+  "provider": "crossref",
+  "doi": "10.1111/mec.15270",
+  "title": "Reduced tillage, but not organic matter input, increased nematode diversity and food web stability in European long‐term field experiments",
+  "abstract": "Soil nematode communities and food web indices can inform about the complexity, nutrient flows and decomposition pathways of soil food webs, reflecting soil quality. Relative abundance of nematode feeding and life‐history groups are used for calculating food web indices, i.e., maturity index (MI), enrichment index (EI), structure index (SI) and channel index (CI). Molecular methods to study nematode communities potentially offer advantages compared to traditional methods in terms of resolution, throughput, cost and time. In spite of such advantages, molecular data have not often been adopted so far to assess the effects of soil management on nematode communities and to calculate these food web indices. Here, we used high‐throughput amplicon sequencing to investigate the effects of tillage (conventional vs. reduced) and organic matter addition (low vs. high) on nematode communities and food web indices in 10 European long‐term field experiments and we assessed the relationship between nematode communities and soil parameters. We found that nematode communities were more strongly affected by tillage than by organic matter addition. Compared to conventional tillage, reduced tillage increased nematode diversity (23% higher Shannon diversity index), nematode community stability (12% higher MI), structure (24% higher SI), and the fungal decomposition channel (59% higher CI), and also the number of herbivorous nematodes (70% higher). Total and labile organic carbon, available K and microbial parameters explained nematode community structure. Our findings show that nematode communities are sensitive indicators of soil quality and that molecular profiling of nematode communities has the potential to reveal the effects of soil management on soil quality.",
+  "authors": [
+    "Giulia Bongiorno",
+    "Natacha Bodenhausen",
+    "Else K. Bünemann",
+    "Lijbert Brussaard",
+    "Stefan Geisen",
+    "Paul Mäder",
+    "Casper W. Quist",
+    "Jean‐Claude Walser",
+    "Ron G. M. de Goede"
+  ],
+  "year": 2019,
+  "container": "Molecular Ecology",
+  "licenses": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "url": "https://doi.org/10.1111/mec.15270"
+}

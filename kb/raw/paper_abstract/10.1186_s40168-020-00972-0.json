@@ -1,0 +1,29 @@
+{
+  "provider": "crossref",
+  "doi": "10.1186/s40168-020-00972-0",
+  "title": "Identification of microbial signatures linked to oilseed rape yield decline at the landscape scale",
+  "abstract": "The plant microbiome plays a vital role in determining host health and productivity. However, we lack real-world comparative understanding of the factors which shape assembly of its diverse biota, and crucially relationships between microbiota composition and plant health. Here we investigated landscape scale rhizosphere microbial assembly processes in oilseed rape (OSR), the UK’s third most cultivated crop by area and the world's third largest source of vegetable oil, which suffers from yield decline associated with the frequency it is grown in rotations. By including 37 conventional farmers’ fields with varying OSR rotation frequencies, we present an innovative approach to identify microbial signatures characteristic of microbiomes which are beneficial and harmful to the host. We show that OSR yield decline is linked to rotation frequency in real-world agricultural systems. We demonstrate fundamental differences in the environmental and agronomic drivers of protist, bacterial and fungal communities between root, rhizosphere soil and bulk soil compartments. We further discovered that the assembly of fungi, but neither bacteria nor protists, was influenced by OSR rotation frequency. However, there were individual abundant bacterial OTUs that correlated with either yield or rotation frequency. A variety of fungal and protist pathogens were detected in roots and rhizosphere soil of OSR, and several increased relative abundance in root or rhizosphere compartments as OSR rotation frequency increased. Importantly, the relative abundance of the fungal pathogen Olpidium brassicae both increased with short rotations and was significantly associated with low yield. In contrast, the root endophyte Tetracladium spp. showed the reverse associations with both rotation frequency and yield to O. brassicae , suggesting that they are signatures of a microbiome which benefits the host. We also identified a variety of novel protist and fungal clades which are highly connected within the microbiome and could play a role in determining microbiome composition. We show that at the landscape scale, OSR crop yield is governed by interplay between complex communities of both pathogens and beneficial biota which is modulated by rotation frequency. Our comprehensive study has identified signatures of dysbiosis within the OSR microbiome, grown in real-world agricultural systems, which could be used in strategies to promote crop yield.",
+  "authors": [
+    "Sally Hilton",
+    "Emma Picot",
+    "Susanne Schreiter",
+    "David Bass",
+    "Keith Norman",
+    "Anna E. Oliver",
+    "Jonathan D. Moore",
+    "Tim H. Mauchline",
+    "Peter R. Mills",
+    "Graham R. Teakle",
+    "Ian M. Clark",
+    "Penny R. Hirsch",
+    "Christopher J. van der Gast",
+    "Gary D. Bending"
+  ],
+  "year": 2021,
+  "container": "Microbiome",
+  "licenses": [
+    "https://creativecommons.org/licenses/by/4.0",
+    "https://creativecommons.org/licenses/by/4.0"
+  ],
+  "url": "https://doi.org/10.1186/s40168-020-00972-0"
+}

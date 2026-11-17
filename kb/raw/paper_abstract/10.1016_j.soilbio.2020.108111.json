@@ -1,0 +1,19 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1016/j.soilbio.2020.108111",
+  "title": "How microbes can, and cannot, be used to assess soil health",
+  "abstract": "Healthy soils are critical to the health of ecosystems, economies, and human populations. Thus, it is widely acknowledged that soil health is important to quantify, both for assessment and as a tool to help guide management strategies. What is less clear is how soil health should actually be measured, especially considering that soil health is not exclusively a product of soil physical and chemical characteristics. Given their well-established importance to many aspects of soil health, microbes and microbial processes are often used as metrics of soil health with a range of different microbe-based metrics routinely used across the globe. Unfortunately, it is our opinion that many of these pre-existing microbial measurements are not easy to interpret and may not necessarily provide credible inferences about soil health status. Here we review the microbial indices used to assess or monitor soil health and discuss some of the broader issues associated with their use. We provide recommendations to more effectively guide and improve how microbial information could be used to yield relevant and actionable assessments of soil health.",
+  "authors": [
+    "Noah Fierer",
+    "Stephen A. Wood",
+    "Clifton P. Bueno de Mesquita"
+  ],
+  "year": 2021,
+  "container": "Soil Biology and Biochemistry",
+  "licenses": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "oa_status:green"
+  ],
+  "url": "https://doi.org/10.1016/j.soilbio.2020.108111"
+}

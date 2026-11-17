@@ -1,0 +1,21 @@
+{
+  "provider": "crossref",
+  "doi": "10.1007/s00572-020-01014-1",
+  "title": "Relative qPCR to quantify colonization of plant roots by arbuscular mycorrhizal fungi",
+  "abstract": "Arbuscular mycorrhiza fungi (AMF) are beneficial soil fungi that can promote the growth of their host plants. Accurate quantification of AMF in plant roots is important because the level of colonization is often indicative of the activity of these fungi. Root colonization is traditionally measured with microscopy methods which visualize fungal structures inside roots. Microscopy methods are labor-intensive, and results depend on the observer. In this study, we present a relative qPCR method to quantify AMF in which we normalized the AMF qPCR signal relative to a plant gene. First, we validated the primer pair AMG1F and AM1 in silico, and we show that these primers cover most AMF species present in plant roots without amplifying host DNA. Next, we compared the relative qPCR method with traditional microscopy based on a greenhouse experiment with Petunia plants that ranged from very high to very low levels of AMF root colonization. Finally, by sequencing the qPCR amplicons with MiSeq, we experimentally confirmed that the primer pair excludes plant DNA while amplifying mostly AMF. Most importantly, our relative qPCR approach was capable of discriminating quantitative differences in AMF root colonization and it strongly correlated (Spearman Rho = 0.875) with quantifications by traditional microscopy. Finally, we provide a balanced discussion about the strengths and weaknesses of microscopy and qPCR methods. In conclusion, the tested approach of relative qPCR presents a reliable alternative method to quantify AMF root colonization that is less operator-dependent than traditional microscopy and offers scalability to high-throughput analyses.",
+  "authors": [
+    "Natacha Bodenhausen",
+    "Gabriel Deslandes-Hérold",
+    "Jan Waelchli",
+    "Alain Held",
+    "Marcel G. A. van der Heijden",
+    "Klaus Schlaeppi"
+  ],
+  "year": 2021,
+  "container": "Mycorrhiza",
+  "licenses": [
+    "https://creativecommons.org/licenses/by/4.0",
+    "https://creativecommons.org/licenses/by/4.0"
+  ],
+  "url": "https://doi.org/10.1007/s00572-020-01014-1"
+}

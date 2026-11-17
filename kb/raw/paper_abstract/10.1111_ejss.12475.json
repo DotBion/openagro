@@ -1,0 +1,16 @@
+{
+  "provider": "crossref",
+  "doi": "10.1111/ejss.12475",
+  "title": "Limited effect of organic matter on soil available water capacity",
+  "abstract": "Soil water‐holding capacity is an important component of the water and energy balances of the terrestrial biosphere. It controls the rate of evapotranspiration, and is a key to crop production. It is widely accepted that the available water capacity in soil can be improved by increasing organic matter content. However, the increase in amount of water that is available to plants with an increase in organic matter is still uncertain and may be overestimated. To clarify this issue, we carried out a meta‐analysis from 60 published studies and analysed large databases (more than 50 000 measurements globally) to seek relations between organic carbon (OC) and water content at saturation, field capacity, wilting point and available water capacity. We show that the increase in organic carbon in soil has a small effect on soil water content. A 1% mass increase in soil OC (or 10 g C kg −1 soil mineral), on average, increases water content at saturation, field capacity, wilting point and available water capacity by: 2.95, 1.61, 0.17 and 1.16 mm H 2 O 100 mm soil −1 , respectively. The increase is larger in sandy soils, followed by loams and is least in clays. Overall the increase in available water capacity is very small; 75% of the studies reported had values between 0.7 and 2 mm 100 mm −1 with an increase of 10 g C kg −1 soil. Compared with reported annual rates of carbon sequestration after the adoption of conservation agricultural systems, the effect on soil available water is negligible. Thus, arguments for sequestering carbon to increase water storage are questionable. Conversely, global warming may cause losses in soil carbon, but the effects on soil water storage and its consequent impact on hydrological cycling might be less than thought previously. We investigated how available water capacity can be increased with a 1% increase in soil organic carbon. We analysed data from 60 published studies and global databases with more than 50 000 measurements. The increase in organic carbon in soil has a small effect on soil water retention. A 1% mass increase in soil OC on average increased available water capacity by 1.16%, volumetrically.",
+  "authors": [
+    "B. Minasny",
+    "A. B. McBratney"
+  ],
+  "year": 2018,
+  "container": "European Journal of Soil Science",
+  "licenses": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "url": "https://doi.org/10.1111/ejss.12475"
+}

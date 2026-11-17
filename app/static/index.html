@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>OpenAgronomy — local chat</title>
+  <style>
+    :root { --bg:#f4f1ea; --ink:#1c2416; --card:#fffdf7; --acc:#3d5a2b; --muted:#5c6654; --bad:#8a2b2b; --ok:#2b5c39; }
+    * { box-sizing: border-box; }
+    body { margin:0; font:16px/1.45 "Source Serif 4", Georgia, serif; background:var(--bg); color:var(--ink); }
+    header { padding:1.25rem 1.5rem 0.5rem; }
+    h1 { font-size:1.4rem; margin:0; }
+    header p { margin:0.3rem 0 0; color:var(--muted); font-size:0.92rem; }
+    main { max-width:820px; margin:0 auto; padding:0 1rem 3rem; }
+    .composer { display:flex; gap:0.5rem; margin:1rem 0; }
+    textarea { flex:1; min-height:4.5rem; padding:0.7rem; border:1px solid #c9c2b2; border-radius:8px; font:inherit; background:#fff; }
+    button { background:var(--acc); color:#fff; border:0; border-radius:8px; padding:0.7rem 1rem; font:inherit; cursor:pointer; }
+    button:disabled { opacity:0.6; cursor:wait; }
+    .msg { background:var(--card); border:1px solid #e2dccf; border-radius:10px; padding:1rem 1.1rem; margin:0.8rem 0; }
+    .msg qst { display:block; font-weight:600; margin-bottom:0.4rem; }
+    .meta { display:flex; flex-wrap:wrap; gap:0.4rem; margin:0.6rem 0; font-size:0.82rem; }
+    .chip { background:#ece8dc; border-radius:999px; padding:0.15rem 0.55rem; }
+    .chip.ok { background:#dcecd9; color:var(--ok); }
+    .chip.bad { background:#f3dcdc; color:var(--bad); }
+    .answer { white-space:pre-wrap; }
+    .ids { font-size:0.8rem; color:var(--muted); word-break:break-all; }
+    .err { color:var(--bad); }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>OpenAgronomy</h1>
+    <p>Local RAG chat — nothing is sent to Slack, email, or other people. Answers must be grounded in the local library and pass a citation/number check.</p>
+    <p id="health" class="ids">starting…</p>
+  </header>
+  <main>
+    <div class="composer">
+      <textarea id="q" placeholder="Ask about soil health evidence, a public conservation program, or weather (Boone County, IA default)…"></textarea>
+      <button id="go" type="button">Ask</button>
+    </div>
+    <div id="log"></div>
+  </main>
+  <script>
+    const healthEl = document.getElementById('health');
+    const log = document.getElementById('log');
+    const q = document.getElementById('q');
+    const go = document.getElementById('go');
+
+    fetch('/health').then(r => r.json()).then(h => {
+      const gen = h.generator ? (h.generator.provider + '/' + h.generator.model) : 'extractive stub';
+      healthEl.textContent = (h.ok ? 'Ready' : 'Not ready: ' + (h.error||''))
+        + ' · retrieval ' + h.variant
+        + ' · generator ' + gen
+        + ' · keys present: ' + (h.keys_present||[]).join(', ') || 'none';
+    }).catch(e => { healthEl.textContent = 'health check failed'; });
+
+    function chip(text, ok) {
+      const s = document.createElement('span');
+      s.className = 'chip' + (ok === true ? ' ok' : ok === false ? ' bad' : '');
+      s.textContent = text;
+      return s;
+    }
+
+    async function ask() {
+      const question = q.value.trim();
+      if (!question) return;
+      go.disabled = true;
+      const wrap = document.createElement('div');
+      wrap.className = 'msg';
+      wrap.innerHTML = '<strong></strong>';
+      wrap.querySelector('strong').textContent = question;
+      const pending = document.createElement('p');
+      pending.textContent = 'Working…';
+      wrap.appendChild(pending);
+      log.prepend(wrap);
+      try {
+        const r = await fetch('/chat', {
+          method: 'POST',
+          headers: {'Content-Type': 'application/json'},
+          body: JSON.stringify({question})
+        });
+        const data = await r.json();
+        pending.remove();
+        if (!data.ok) {
+          const err = document.createElement('p');
+          err.className = 'err';
+          err.textContent = data.error || 'error';
+          wrap.appendChild(err);
+          return;
+        }
+        const meta = document.createElement('div');
+        meta.className = 'meta';
+        const route = (data.route && data.route.primary) || '?';
+        meta.appendChild(chip('route: ' + route + (data.route && data.route.extra ? ' + ' + data.route.extra : '')));
+        meta.appendChild(chip('status: ' + data.status));
+        meta.appendChild(chip('generator: ' + data.generator));
+        const passed = data.verifier && data.verifier.pass;
+        meta.appendChild(chip(passed ? 'verifier pass' : (data.verifier && data.verifier.skipped ? 'verifier skipped' : 'verifier fail'), !!passed));
+        wrap.appendChild(meta);
+        const ans = document.createElement('div');
+        ans.className = 'answer';
+        ans.textContent = data.answer || '';
+        wrap.appendChild(ans);
+        if (data.retrieved_ids && data.retrieved_ids.length) {
+          const ids = document.createElement('p');
+          ids.className = 'ids';
+          ids.textContent = 'retrieved: ' + data.retrieved_ids.join(', ');
+          wrap.appendChild(ids);
+        }
+      } catch (e) {
+        pending.textContent = 'Request failed: ' + e;
+        pending.className = 'err';
+      } finally {
+        go.disabled = false;
+      }
+    }
+    go.addEventListener('click', ask);
+    q.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' && (e.metaKey || e.ctrlKey)) ask();
+    });
+  </script>
+</body>
+</html>

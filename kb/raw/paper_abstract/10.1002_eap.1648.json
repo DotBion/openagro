@@ -1,0 +1,16 @@
+{
+  "provider": "crossref",
+  "doi": "10.1002/eap.1648",
+  "title": "Crop rotations for increased soil carbon: perenniality as a guiding principle",
+  "abstract": "More diverse crop rotations have been promoted for their potential to remediate the range of ecosystem services compromised by biologically simplified grain‐based agroecosystems, including increasing soil organic carbon ( SOC ). We hypothesized that functional diversity offers a more predictive means of characterizing the impact of crop rotations on SOC concentrations than species diversity per se. Furthermore, we hypothesized that functional diversity can either increase or decrease SOC depending on its associated carbon (C) input to soil. We compiled a database of 27 cropping system sites and 169 cropping systems, recorded the species and functional diversity of crop rotations, SOC concentrations (g C kg/soil), nitrogen (N) fertilizer applications (kg N·ha −1 ·yr −1 ), and estimated C input to soil (Mg C·ha −1 ·yr −1 ). We categorized crop rotations into three broad categories: grain‐only rotations, grain rotations with cover crops, and grain rotations with perennial crops. We divided the grain‐only rotations into two sub‐categories: cereal‐only rotations and those that included both cereals and a legume grain. We compared changes in SOC and C input using mean effect sizes and 95% bootstrapped confidence intervals. Cover cropped and perennial cropped rotations, relative to grain‐only rotations, increased C input by 42% and 23% and SOC concentrations by 6.3% and 12.5%, respectively. Within grain‐only rotations, cereal + legume grain rotations decreased total C input (−16%), root C input (−12%), and SOC (−5.3%) relative to cereal‐only rotations. We found no effect of species diversity on SOC within grain‐only rotations. N fertilizer rates mediated the effect of functional diversity on SOC within grain‐only crop rotations: at low N fertilizer rates (≤75 kg N·ha −1 ·yr −1 ), the decrease in SOC with cereal + legume grain rotations was less than at high N fertilizer rates. Our results show that increasing the functional diversity of crop rotations is more likely to increase SOC concentrations if it is accompanied by an increase in C input. Functionally diverse perennial and cover cropped rotations increased both C input and SOC concentrations, potentially by exploiting niches in time that would otherwise be unproductive, that is, increasing the “perenniality” of crop rotations.",
+  "authors": [
+    "Alison E. King",
+    "Jennifer Blesh"
+  ],
+  "year": 2018,
+  "container": "Ecological Applications",
+  "licenses": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "url": "https://doi.org/10.1002/eap.1648"
+}

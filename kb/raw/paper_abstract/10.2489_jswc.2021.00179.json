@@ -1,0 +1,18 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.2489/jswc.2021.00179",
+  "title": "Enhancing integration of Indigenous agricultural knowledge into USDA Natural Resources Conservation Service cost-share initiatives",
+  "abstract": "Agricultural management practices drawn from Indigenous agricultural knowledge (IAK) have supported people in the North American desert Southwest for thousands of years. Techniques developed and refined from generation to generation through careful observation and innovation have enhanced the sustainability and resilience of these delicate agroecosystems over millennia. USDA Natural Resources Conservation Service (NRCS) recognized the contributions of IAK practices to Environmental Quality Incentives (EQIP) and the Conservation Stewardship Programs (CSP) in the 2010 Indigenous Stewardship Methods and NRCS Conservation Practices (ISM) handbook. However, during fiscal year 2017 2% of EQIP and CSP contracts went to American Indian farms, which make up 2.9% of the total farms in the United States. NRCS would need to award nearly 400 more contracts to Indigenous farms to achieve proportional representation. This suggests significant potential exists for expanding American Indian participation in these conservation programs but barriers to their participation remain. For example, agriculturalists who wish to employ IAK management practices must go through an ad hoc process defined in the 2010 ISM handbook. This adds further complexity to the application process, in which applicants must navigate unique land tenure/ownership issues and tribal/federal interactions. Here we present examples of Indigenous conservation practices embedded in agricultural systems of Hopi dryland farmers, the La Courte Oreilles Band of Lake Superior Chippewa wild rice (Zizania palustris) harvesters, and Menominee tribal foresters to demonstrate the compatibility of IAK practices with NRCS conservation outcomes and to argue for full inclusion of Indigenous agricultural practices into something equivalent to the NRCS Field Office Technical Guides. Expansion of Indigenous agriculturalists and producers in NRCS programs can help preserve important ecosystems and help support Indigenous cultures and time-tested concepts of stewardship. Incorporation and support of IAK practices is beneficial to all stakeholders because expansion of partnerships between the NRCS and Indigenous agriculturalists and producers will help expand Indigenous conservation and agriculture practices and further the NRCS mission of “Helping People Help the Land.”",
+  "authors": [
+    "M.K. Johnson",
+    "M.J. Rowe",
+    "A. Lien",
+    "L. López-Hoffman"
+  ],
+  "year": 2021,
+  "container": "Journal of Soil and Water Conservation",
+  "licenses": [
+    "oa_status:closed"
+  ],
+  "url": "https://doi.org/10.2489/jswc.2021.00179"
+}

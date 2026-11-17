@@ -1,0 +1,20 @@
+{
+  "provider": "crossref",
+  "doi": "10.1111/pce.12102",
+  "title": "Arbuscular mycorrhizal fungi reduce growth and infect roots of the non‐host plant <i><scp>A</scp>rabidopsis thaliana</i>",
+  "abstract": "The arbuscular mycorrhizal ( AM ) symbiosis is widespread throughout the plant kingdom but most terrestrial ecosystems also contain a considerable number of non‐mycorrhizal plants. The interaction of such non‐host plants with AM fungi is still poorly understood. In this study, we investigated whether the non‐mycorrhizal plant A rabidopsis thaliana , the model organism for plant molecular biology and genetics , interacts with AM fungi. We demonstrate, for the first time, that the presence of fungal networks formed by the AM fungus R hizophagus irregularis reduces A . thaliana growth by 50% or more. In addition, by using bright field, confocal and electronic microscopy we show that this fungus can colonize roots of A . thaliana , although arbuscules were never observed. These results reveal high susceptibility of A . thaliana to R . irregularis , suggesting that A . thaliana is a suitable model plant to study non‐host/ AM fungi interactions and the biological basis of AM incompatibility. Commentary: Interactions between arbuscular mycorrhizal and non‐mycorrhizal plants: do non‐mycorrhizal species at both extremes of nutrient‐availability play the same game?",
+  "authors": [
+    "RITA S. L. VEIGA",
+    "ANTONELLA FACCIO",
+    "ANDREA GENRE",
+    "CORNÉ M. J. PIETERSE",
+    "PAOLA BONFANTE",
+    "MARCEL G. A. van der HEIJDEN"
+  ],
+  "year": 2013,
+  "container": "Plant, Cell &amp; Environment",
+  "licenses": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "url": "https://doi.org/10.1111/pce.12102"
+}

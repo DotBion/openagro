@@ -1,0 +1,26 @@
+{
+  "provider": "crossref",
+  "doi": "10.1002/agj2.20035",
+  "title": "Corn nitrogen rate recommendation tools’ performance across eight US midwest corn belt states",
+  "abstract": "Determining which corn ( Zea mays L.) N fertilizer rate recommendation tools best predict crop N need would be valuable for maximizing profits and minimizing environmental consequences. Simultaneous comparisons of multiple tools across various environmental conditions have been limited. The objectives of this research were to evaluate the performance of publicly‐available N fertilizer recommendation tools across diverse soil and weather conditions for: (i) prescribing N rates for planting and split‐fertilizer applications, and (ii) economic and environmental effects. Corn N‐response trials using standardized methods were conducted at 49 sites, spanning eight US Midwest states and three growing seasons. Nitrogen applications included eight rates in 45 kg N ha −1 increments all at‐planting and matching rates with 45 kg N ha −1 at‐planting plus at the V9 development stage. Tool performances were compared to the economically optimal N rate (EONR). Over this large geographic region, only 10 of 31 recommendation tools (mainly soil nitrate tests) produced N rate recommendations that weakly correlated to EONR ( P ≤ .10; r 2 ≤ .20). With other metrics of performance, the Maximum Return to N (MRTN) soil nitrate tests, and canopy reflectance sensing came close to matching EONR. Economically, all tools but the Maize‐N crop growth model had similar returns compared to EONR. Environmentally, yield goal based tools resulted in the highest environmental costs. Results show that no tool was universally reliable over this study's diverse growing environments, suggesting that additional tool development is needed to better represent N inputs and crop utilization at a larger regional level.",
+  "authors": [
+    "Curtis J. Ransom",
+    "Newell R. Kitchen",
+    "James J. Camberato",
+    "Paul R. Carter",
+    "Richard B. Ferguson",
+    "Fabián G. Fernández",
+    "David W. Franzen",
+    "Carrie A. M. Laboski",
+    "Emerson D. Nafziger",
+    "John E. Sawyer",
+    "Peter C. Scharf",
+    "John F. Shanahan"
+  ],
+  "year": 2020,
+  "container": "Agronomy Journal",
+  "licenses": [
+    "http://creativecommons.org/licenses/by/4.0/"
+  ],
+  "url": "https://doi.org/10.1002/agj2.20035"
+}

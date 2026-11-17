@@ -1,0 +1,24 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1016/j.soilbio.2021.108383",
+  "title": "Quantification of the global impact of agricultural practices on soil nematodes: A meta-analysis",
+  "abstract": "Agricultural practices significantly affect soil biodiversity and functions, altering biogeochemical cycles and potentially compromising food production. Increased employment of sustainable agricultural practices is of growing policy concern and requires a better understanding and quantification of how agriculture affects soil functioning. We conducted a worldwide meta-analysis by computing 4855 effect sizes from 103 publications to quantify the effect of agricultural practices on soil nematodes, known to be key biological indicators of soil health. Our meta-analysis summarized the effects of tillage, pesticides use, fertilization, manipulation of above-ground plant including cover crop, rotation and agricultural system shift (the conversion from the conventional to conservation or organic agriculture systems). We quantified how each agricultural practice alters nematode indices of ecological relevance including the absolute abundance of trophic groups, the taxonomic richness and diversity and the food web structure based on functional guilds. At the global level, organo-mineral fertilization, conservation system, cover crop and nematicides exhibited the greatest effect sizes (averaged all nematode indices) while herbicides, plant association, mineral fertilization and tillage had the lowest ones. At the level of trophic groups, the agricultural practices had varying impacts, e.g. crop rotation mainly reduced the abundance of the plant-feeding nematodes (−47%), cover crop mainly increased the abundance of omnivore-predators (+80%) while organic fertilization predominately promoted bacterial (+113%) and fungal feeders (+141%). Crop rotation reduced the absolute abundance of plant feeders by 47% when the rotation is longer than 2 years. At the community level, chemical inputs, monoculture and pesticide application reduced nematode abundance, the food web structure and favoured copiotrophic nematode communities. Biocides and nematicides reduced total abundance, Shannon diversity and the food web complexity of soil nematode (structure index). Using meta-regressions, our meta-analysis revealed that the effect of agricultural practices depends on the time since the last agricultural intervention (e.g. input of fertilizers, pesticide application) and on how long a practice has been adopted. This study will be a useful aid for decision maker to better manage soil nematode community and to identify gaps in current available literature. In providing the direction and magnitude of soil nematode responses to agricultural practices, the effect size produced by this study are critical in facilitating worldwide modelling of soil biodiversity under global change scenarios.",
+  "authors": [
+    "Jérémy Puissant",
+    "Cécile Villenave",
+    "Camille Chauvin",
+    "Claude Plassard",
+    "Eric Blanchart",
+    "Jean Trap"
+  ],
+  "year": 2021,
+  "container": "Soil Biology and Biochemistry",
+  "licenses": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "cc-by-nc-nd",
+    "oa_status:hybrid"
+  ],
+  "url": "https://doi.org/10.1016/j.soilbio.2021.108383"
+}

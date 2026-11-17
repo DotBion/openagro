@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+*.env
+kb/index/
+logs/
+results/*_run.log

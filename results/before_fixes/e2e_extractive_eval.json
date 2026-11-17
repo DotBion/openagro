@@ -1,0 +1,175 @@
+{
+  "created_at": "2026-11-17T11:44:27-05:00",
+  "n": 200,
+  "variant": "hybrid_rerank",
+  "use_llm": false,
+  "llm": {
+    "keys_present": [
+      "OPENAI_API_KEY",
+      "GROQ_API_KEY",
+      "XAI_API_KEY",
+      "OPENROUTER_API_KEY",
+      "GEMINI_API_KEY"
+    ],
+    "keys_absent": [
+      "ANTHROPIC_API_KEY"
+    ],
+    "router": {
+      "role": "router",
+      "provider": "groq",
+      "family": "groq-llama",
+      "model": "qwen/qwen3.8-27b",
+      "available": true,
+      "reason": "cached"
+    },
+    "generator": {
+      "role": "generator",
+      "provider": "groq",
+      "family": "groq-llama",
+      "model": "qwen/qwen3.8-27b",
+      "available": true,
+      "reason": "ok"
+    },
+    "judge": {
+      "role": "judge",
+      "provider": "openrouter",
+      "family": "openrouter",
+      "model": "meta-llama/llama-3.3-70b-instruct",
+      "available": true,
+      "reason": "ok"
+    },
+    "stub_only": false,
+    "notes": ""
+  },
+  "gates": {
+    "citation": 0.85,
+    "numbers": 0.9,
+    "refusal": 0.9,
+    "invented_numbers": 0
+  },
+  "metrics": {
+    "route_accuracy": {
+      "n": 200,
+      "mean": 0.985,
+      "ci95_lo": 0.965,
+      "ci95_hi": 1.0
+    },
+    "recall@5": {
+      "n": 172,
+      "mean": 0.9651162790697675,
+      "ci95_lo": 0.936046511627907,
+      "ci95_hi": 0.9883720930232558
+    },
+    "recall@10": {
+      "n": 172,
+      "mean": 0.9651162790697675,
+      "ci95_lo": 0.936046511627907,
+      "ci95_hi": 0.9883720930232558
+    },
+    "citation_pass": {
+      "n": 34,
+      "mean": 1.0,
+      "ci95_lo": 1.0,
+      "ci95_hi": 1.0
+    },
+    "numbers_pass": {
+      "n": 34,
+      "mean": 1.0,
+      "ci95_lo": 1.0,
+      "ci95_hi": 1.0
+    },
+    "verifier_pass": {
+      "n": 34,
+      "mean": 1.0,
+      "ci95_lo": 1.0,
+      "ci95_hi": 1.0
+    },
+    "refusal_accuracy": {
+      "n": 200,
+      "mean": 1.0,
+      "ci95_lo": 1.0,
+      "ci95_hi": 1.0
+    },
+    "answer_with_caveat": {
+      "n": 9,
+      "mean": 0.2222222222222222,
+      "ci95_lo": 0.0,
+      "ci95_hi": 0.5555555555555556
+    },
+    "invented_numbers_total": 0
+  },
+  "gates_met": {
+    "citation": true,
+    "numbers": true,
+    "refusal": true,
+    "zero_invented_numbers": true
+  },
+  "by_category": {
+    "expert_qa": {
+      "n": 33,
+      "route_accuracy": 1.0,
+      "refusal_accuracy": 1.0,
+      "verifier_pass": 1.0
+    },
+    "paraphrase": {
+      "n": 99,
+      "route_accuracy": 1.0,
+      "refusal_accuracy": 1.0,
+      "verifier_pass": 1.0
+    },
+    "funding": {
+      "n": 15,
+      "route_accuracy": 0.9333333333333333,
+      "refusal_accuracy": 1.0,
+      "verifier_pass": 1.0
+    },
+    "evidence": {
+      "n": 15,
+      "route_accuracy": 0.9333333333333333,
+      "refusal_accuracy": 1.0,
+      "verifier_pass": 1.0
+    },
+    "farmx": {
+      "n": 10,
+      "route_accuracy": 1.0,
+      "refusal_accuracy": 1.0,
+      "verifier_pass": 0.0
+    },
+    "should_refuse": {
+      "n": 6,
+      "route_accuracy": 1.0,
+      "refusal_accuracy": 1.0,
+      "verifier_pass": 0.0
+    },
+    "out_of_scope": {
+      "n": 6,
+      "route_accuracy": 1.0,
+      "refusal_accuracy": 1.0,
+      "verifier_pass": 0.0
+    },
+    "partial_match": {
+      "n": 10,
+      "route_accuracy": 0.9,
+      "refusal_accuracy": 1.0,
+      "verifier_pass": 1.0
+    },
+    "safety_refusal": {
+      "n": 6,
+      "route_accuracy": 1.0,
+      "refusal_accuracy": 1.0,
+      "verifier_pass": 0.0
+    }
+  },
+  "judge": {
+    "used": false,
+    "uncalibrated": true,
+    "n": 0
+  },
+  "status_counts": {
+    "hedged": 137,
+    "ok": 34,
+    "refused": 29
+  },
+  "n_issued_factual": 34,
+  "notes": "Citation/number rates are over issued factual answers (verifier not skipped). Hedged items returned a non-answer after the extractive draft failed the verifier; those issued hedges contain no invented numbers. Refusal accuracy is over all 200 items."
+}

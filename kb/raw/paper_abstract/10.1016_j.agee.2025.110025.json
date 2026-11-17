@@ -1,0 +1,24 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1016/j.agee.2025.110025",
+  "title": "Perennial flower strips increase pollinator and natural enemy abundance but have limited effects on pest control in adjacent crops",
+  "abstract": "Flower strips are a valuable agri-environmental measure to foster ecological intensification by providing floral and nesting resources to beneficial organisms. Nevertheless, few flower strip studies integrate assessments of multiple ecosystem services and their providers (simultaneous promotion of pollinators and natural enemies) or consider trade-offs (unintended promotion of pests in adjacent crops). This gap is further exacerbated if below-ground functions are considered. We sampled pollinators, natural enemies, and herbivores using visual observations, yellow sticky traps, pitfall traps, and tiller counts in ten pairs of perennial flower strips and control field margins, and their adjacent cereal fields in Scania, Sweden, in 2021. In addition, we estimated predation and below-ground decomposition rates with sentinel prey cards and bait lamina strips. Flower strips increased floral availability, pollinator, natural enemy and herbivore abundances, relative to control field margins. Natural enemy and herbivore responses to the implemented strips were taxon-specific. The positive effects of flower strips extended beyond the strips themselves, as spillover effects were evident for several natural enemy groups, with increased abundances in adjacent crop fields. A trade-off was also observed: pest thrips were more abundant in crop tillers near flower strips than near controls. No effect of flower strips on aphid predation rates was observed. Decomposition rates were as high in flower strips as in controls, despite flower strips only being established for two years. These findings emphasize flower strips’ potential to support multiple ecosystem service providers, while underscoring the importance of context-specific design and management to maximize benefits and avoid unintended trade-offs. • Flower strips increased abundances of pollinators, natural enemies, and herbivores. • Natural enemy and herbivore responses to flower strips were taxon-specific. • Natural enemy spillover did not increase biological control in adjacent crops. • More thrips were found in the crop near flower strips. • Decomposition rates in flower strips was as high as in permanent field edges.",
+  "authors": [
+    "Neus Rodríguez-Gasol",
+    "Maria Viketoft",
+    "Elodie Chapurlat",
+    "Johan A. Stenberg",
+    "Mattias Jonsson",
+    "Ola Lundin"
+  ],
+  "year": 2026,
+  "container": "Agriculture, Ecosystems &amp; Environment",
+  "licenses": [
+    "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "https://www.elsevier.com/legal/tdmrep-license",
+    "http://creativecommons.org/licenses/by/4.0/",
+    "cc-by",
+    "oa_status:hybrid"
+  ],
+  "url": "https://doi.org/10.1016/j.agee.2025.110025"
+}

@@ -1,0 +1,22 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1038/s41598-026-47390-0",
+  "title": "Marginal causal effect of fungicide seed treatments on soybean yield and uncertain profitability in the US Midwest",
+  "abstract": "Fungicide seed treatments (FSTs) are widely used in Midwest soybean production due to perceived disease risk. While some studies report significant yield increases, overall economic and environmental benefits remain unclear. This study utilized randomized controlled trial (RCT) and observational data to estimate the causal FST effect on soybean yield. Analysis of the RCT data revealed a modest average yield increase of 22.2 kg/ha attributable to FST. Observational data also indicated a small average yield gain of approximately 36 kg/ha. Monte Carlo simulations showed that yield gains often do not offset the seed treatment costs, with financial benefit likely only under low FST costs and high soybean prices. Given the limited economic return and concerns about the potential negative impacts of widespread FST use on soil microbes and non-target organisms, our research suggests that FSTs may not be necessary in Midwest soybean production, and growers should carefully evaluate their use based on individual farm gate economics as well as ecological considerations.",
+  "authors": [
+    "Paul D. Esker",
+    "Denis A. Shah",
+    "Spyridon Mourtzinis",
+    "Patricio Grassini",
+    "Tatiane Severo Silva",
+    "Shawn P. Conley"
+  ],
+  "year": 2026,
+  "container": "Scientific Reports",
+  "licenses": [
+    "https://creativecommons.org/licenses/by-nc-nd/4.0",
+    "cc-by-nc-nd",
+    "oa_status:gold"
+  ],
+  "url": "https://doi.org/10.1038/s41598-026-47390-0"
+}

@@ -1,0 +1,20 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1371/journal.pone.0228677",
+  "title": "Winter cover crops increase readily decomposable soil carbon, but compost drives total soil carbon during eight years of intensive, organic vegetable production in California",
+  "abstract": "Maintaining soil organic carbon (SOC) in frequently tilled, intensive organic vegetable production systems is a challenge that is not well understood. Compost and cover crops are often used to add organic matter to the soil in these systems. Compost contributes relatively stabilized carbon (C) while cover crops provide readily degradable (labile) organic matter. Our objectives were to quantify C inputs, and to assess the effects of urban yard-waste compost, winter cover crop frequency and cover crop type on SOC and labile C stocks during eight years of intensive, organic production that usually included two vegetable crops per year in a long-term systems study in Salinas, California. Total C inputs from pelleted fertilizer, compost, vegetable transplant potting mix, vegetable residue and cover crops, including estimates of below ground inputs, ranged from 40 to 108 Mg ha-1 in the five systems evaluated. Following a rapid decline in SOC stocks in year 1, compost had the largest effect on SOC stocks increasing mean SOC over years 2 to 8 by an average of 9.4 Mg ha-1, while increased cover crop frequency (annual vs. quadrennial) led to an additional 3.4 Mg ha-1 increase. In contrast, cover cropping frequency had the largest effect on permanganate oxidizable labile C (POX-C), increasing POX-C by 26% after 8 years. Labile POX-C was well correlated with microbial biomass C and nitrogen. Compost had the greatest effect on total SOC stocks, while increasing cover crop frequency altered the composition of SOC by increasing the proportion of labile C. These results suggest that frequent winter cover cropping has a greater potential than compost to increase nutrient availability and vegetable yields in high-input, tillage intensive vegetable systems.",
+  "authors": [
+    "Kathryn E. White",
+    "Eric B. Brennan",
+    "Michel A. Cavigelli",
+    "Richard F. Smith"
+  ],
+  "year": 2020,
+  "container": "PLOS ONE",
+  "licenses": [
+    "https://creativecommons.org/publicdomain/zero/1.0/",
+    "public-domain",
+    "oa_status:gold"
+  ],
+  "url": "https://doi.org/10.1371/journal.pone.0228677"
+}

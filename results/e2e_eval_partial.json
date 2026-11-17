@@ -1,0 +1,17 @@
+{
+  "partial": true,
+  "n": 200,
+  "status_counts": {
+    "ok": 138,
+    "hedged_extractive": 1,
+    "answer_with_caveat": 32,
+    "refused": 29
+  },
+  "generators": {
+    "llm": 2,
+    "extractive": 168,
+    "extractive_hedge": 1,
+    "refusal_template": 29
+  },
+  "last_id": "syn-safety-006"
+}

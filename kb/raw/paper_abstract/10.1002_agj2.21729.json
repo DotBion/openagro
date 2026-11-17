@@ -1,0 +1,19 @@
+{
+  "provider": "crossref",
+  "doi": "10.1002/agj2.21729",
+  "title": "Soil inoculation with nitrogen‐fixing bacteria to supplement maize fertilizer need",
+  "abstract": "Nitrogen (N) is an essential plant nutrient, but low and variable plant‐available N levels in agricultural soils often limit maximum grain production. The objective of this study was to determine if a free‐living nitrogen‐fixing bacterial inoculant (NFI) could supply biologically‐fixed N as an additional N source and if this enhances maize ( Zea mays L.) N uptake and grain yield. Maize was grown at four site‐years in Illinois during 2019–2021. The NFI, a mixture of edited Klebsiella variicola and Kosakonia sacchari , was applied in furrow at planting with urea‐N rates from 0 to 225 kg N ha −1 . Using quadratic regression models, across N rates, the NFI supplemented the fertilizer‐N equivalent of 38.5 or 12.1 kg N ha −1 at V8 or R1, respectively. Increases in N accumulation were observed in all plant fractions, and δ 15 N abundance measurements confirmed that some of this additional N was derived from biological N fixation. The NFI treatment increased N accumulation by an average of 4.8% and 3.7% at V8 and R1, respectively, which was the result of greater biomass, with no effect on plant N concentration. Application of NFI resulted in an average of 1.5% more kernels m −2 and 0.11 Mg ha −1 more grain yield. This work reveals that NFI can provide an additional source of N for maize production but identifies that the season‐long benefit of fixed‐N from an NFI is yet to be fully optimized.",
+  "authors": [
+    "Logan P. Woodward",
+    "Connor N. Sible",
+    "Juliann R. Seebauer",
+    "Frederick E. Below"
+  ],
+  "year": 2025,
+  "container": "Agronomy Journal",
+  "licenses": [
+    "http://creativecommons.org/licenses/by-nc/4.0/",
+    "http://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "url": "https://doi.org/10.1002/agj2.21729"
+}

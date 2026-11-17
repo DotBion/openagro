@@ -1,0 +1,20 @@
+{
+  "provider": "crossref",
+  "doi": "10.7717/peerj.11119",
+  "title": "Commercial arbuscular mycorrhizal fungal inoculant failed to establish in a vineyard despite priority advantage",
+  "abstract": "Arbuscular mycorrhizal (AM) fungi associate with most plants and can increase nutrient uptake. As a result, commercial inoculants called “biofertilizers” containing AM fungi have been developed and marketed to increase plant performance. However, successful establishment of these inoculants remains a challenge, and may be negatively impacted by competition with fungi already present (priority effects). Perennial agriculture may be more amenable if inoculants can be successfully established on crops prior to field planting. Here, we inoculate grapevine ( Vitis vinifera ) with a commercial inoculant in three treatments designed to manipulate the strength and direction of priority effects and quantified the abundance of the fungal strain before and after introduction using droplet digital PCR (ddPCR). We found that the introduced strain did not establish in any treatment, even with priority advantage, and inoculated vines did not differ in performance from non-inoculated vines. Fungal abundance was not greater than in pre-inoculation soil samples during any of the five years sampled and may have been impaired by high available phosphorus levels in the soil. This study highlights the need to understand and evaluate how the management of the agricultural system will affect establishment before introduction of “biofertilizers”, which is often unpredictable.",
+  "authors": [
+    "Corrina Thomsen",
+    "Laura Loverock",
+    "Vasilis Kokkoris",
+    "Taylor Holland",
+    "Patricia A. Bowen",
+    "Miranda Hart"
+  ],
+  "year": 2021,
+  "container": "PeerJ",
+  "licenses": [
+    "https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "url": "https://doi.org/10.7717/peerj.11119"
+}

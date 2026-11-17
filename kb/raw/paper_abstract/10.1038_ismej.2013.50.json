@@ -1,0 +1,19 @@
+{
+  "provider": "crossref",
+  "doi": "10.1038/ismej.2013.50",
+  "title": "Temporal variability in soil microbial communities across land-use types",
+  "abstract": "Although numerous studies have investigated changes in soil microbial communities across space, questions about the temporal variability in these communities and how this variability compares across soils have received far less attention. We collected soils on a monthly basis (May to November) from replicated plots representing three land-use types (conventional and reduced-input row crop agricultural plots and early successional grasslands) maintained at a research site in Michigan, USA. Using barcoded pyrosequencing of the 16S rRNA gene, we found that the agricultural and early successional land uses harbored unique soil bacterial communities that exhibited distinct temporal patterns. α-Diversity, the numbers of taxa or lineages, was significantly influenced by the sampling month with the temporal variability in α-diversity exceeding the variability between land-use types. In contrast, differences in community composition across land-use types were reasonably constant across the 7-month period, suggesting that the time of sampling is less important when assessing β-diversity patterns. Communities in the agricultural soils were most variable over time and the changes were significantly correlated with soil moisture and temperature. Temporal shifts in bacterial community composition within the successional grassland plots were less predictable and are likely a product of complex interactions between the soil environment and the more diverse plant community. Temporal variability needs to be carefully assessed when comparing microbial diversity across soil types and the temporal patterns in microbial community structure can not necessarily be generalized across land uses, even if those soils are exposed to the same climatic conditions.",
+  "authors": [
+    "Christian L Lauber",
+    "Kelly S Ramirez",
+    "Zach Aanderud",
+    "Jay Lennon",
+    "Noah Fierer"
+  ],
+  "year": 2013,
+  "container": "The ISME Journal",
+  "licenses": [
+    "https://academic.oup.com/pages/standard-publication-reuse-rights"
+  ],
+  "url": "https://doi.org/10.1038/ismej.2013.50"
+}

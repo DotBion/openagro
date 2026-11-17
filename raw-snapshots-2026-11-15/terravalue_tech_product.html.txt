@@ -1,0 +1,319 @@
+Platform — TerraValue
+Platform
+Pricing
+Atlas
+Perspectives
+Company
+45Z tool
+Workspace
+Open the workspace
+The platform
+What a field produced, what it is worth, and who paid.
+TerraValue runs a field the way it is farmed and the way it would be farmed conventionally, on the same soil and weather. The difference is an outcome someone can pay for: bushels, water kept, nitrate kept out, carbon, and dollars by who pays. One record serves the farmer, the water buyer, the insurer, the lender and the supply chain.
+Open the field workspace
+What we sell
+Model output · one surveyed field
+York, Nebraska
+ · 
+Hord
+silt loam
+York County
+Sandhills
+Conventional
+Irrigated corn
+Reduced till + cover
+Regenerative
+TerraValue score
+72
+/ 100
++
+27
+ vs conventional
+Net benefit vs conventional
+$86
+per acre per year
+ Private
+$8
+ Programs
+$90
+ Costs
+−$12
+Six outcomes
+Soil carbon
++2.9 t CO₂e/ha
+83
+Water quality
+4.9 kg N/ha leached
+94
+Water quantity
+5 mm runoff
+74
+Biodiversity
+$64/ac, not counted
+62
+Yield resilience
+58% kept in a dry year
+67
+Economics
+$86/ac net
+48
+Reduced Till + Cover Crops
+.
+Reduced tillage with a grass cover crop
+, on the same soil, slope and climate as the conventional twin.
+Run your own field →
+USDA soil survey record and ERA5 climate 1991–2020 for one point. Estimates, not measurements.
+What is live, and what we are testing
+One thing, in several wrappers.
+A verified outcome for a named field, priced for a named buyer and recorded once. The farmer’s version is free, because it is how fields come in. Every other version is paid for by someone who saves money or needs a claim. Two are live today. The rest are proposals we are testing with the people who would buy them, so if one is close to what you need, tell us what it would have to do.
+Field report
+Live today
+For 
+farmers and landowners
+What they get
+A score, six outcomes against a conventional twin, a dollar estimate by who pays, and the next three changes worth making.
+Why they pay
+To know what a practice change is worth on this field before committing to it.
+Free to the farmer, who is the seller. Advisors pay a seat.
+Open the workspace
+ →
+Source-water outcome contract
+Proposed
+For 
+cities, water utilities, natural resources districts, companies with water pledges
+What they get
+Pounds of nitrate kept out of a wellhead area each year, verified, owned by one buyer, checkable against the buyer’s own wells.
+Why they pay
+The price sits below the treatment plant or compliance cost avoided, and the claim holds up.
+Per outcome unit, with an exchange fee paid by the buyer; set-up and structuring per contract.
+See pricing
+ →
+Watershed ledger and program verification
+Proposed
+For 
+natural resources districts, conservation districts, state programs
+What they get
+Documentation a district already requires, with a field outcome attached, and a registry of who owns which outcome in its zones.
+Why they pay
+Less staff time per application, proof the program works, and a baseline everyone shares.
+Annual licence per district plus a per-enrolled-acre fee; statewide contracts available.
+See pricing
+ →
+Supply-shed scoring
+Proposed
+For 
+grain processors, food brands, retailers, livestock integrators
+What they get
+Soil carbon and avoided nitrous oxide against a conventional twin for every supplier field, with one owner per tonne.
+Why they pay
+Supply-chain claims that pass audit without double counting, and no need for exclusivity.
+Per scored acre, plus a share of the claims issued.
+See pricing
+ →
+Clean-fuel feedstock records and 45Z tool
+Live today
+For 
+ethanol plants, feedstock suppliers, advisors
+What they get
+Field records ready for the USDA carbon-intensity calculator, a plain-English guide to the credit, and a calculator for what a lower score is worth.
+Why they pay
+The credit goes to the plant; this shows what it is worth to share with growers.
+Free guide and single-field estimate; plant licence plus a per-bushel fee on verified low-carbon grain.
+Open the 45Z tool
+ →
+Lender and insurer risk file
+Proposed
+For 
+farm credit associations, banks, crop insurers, reinsurers, farmer mac
+What they get
+Field outcomes, dry-year yield retention and stewardship evidence on each borrower or policy, tied to contracted outcome payments.
+Why they pay
+To see the cash behind a stewardship loan, and to price a premium discount on evidence.
+Per acre in the book, plus a fee per stewardship-linked loan.
+See pricing
+ →
+Water quantity and retention units
+Concept
+For 
+irrigation districts, flood control districts, data centers, bottlers
+What they get
+Acre-feet not pumped, recharge below the roots, and runoff retained upstream, counted by a standard method inside the buyer’s own watershed.
+Why they pay
+Practices are the cheapest source of water and retention, once they can be counted.
+Per outcome unit, with an exchange fee paid by the buyer.
+Natural-capital appraisal and lease addendum
+Concept
+For 
+landowners, farm managers, farmland investors
+What they get
+Outcomes on every field of a holding, and a stewardship clause that writes the owner’s share of the dividend into the lease.
+Why they pay
+The dividend raises the value of the land, and the clause carries the practice across tenants.
+Per holding, plus a per-acre monitoring fee.
+Outcome fund operation
+Concept
+For 
+districts or funds that want the fund run for them
+What they get
+TerraValue buys outcomes, pays stewards at planting, resells to buyers and carries the reserve.
+Why they pay
+Only after the price and ledger have been proven on someone else’s balance sheet.
+A spread between what buyers pay and what stewards receive.
+Inside the workspace
+Every model reads one shared field state.
+Public data and the farmer’s answers describe the field. A shared layer works out its water, nitrogen and yield, once for the field and once for its conventional twin. Six outcome models read that state, and economics reads the other five.
+Inputs
+public data, plus the farmer
+Soil
+USDA SSURGO survey, or SoilGrids where it is unavailable: texture by layer, organic matter, drainage, slope.
+Climate
+ERA5 reanalysis, 1991 to 2020: monthly rain, temperature, evaporative demand, growing degree days.
+Management
+Ten answers from the farmer: crop, tillage, cover, nitrogen, rotation, irrigation, tiles, years in practice.
+Shared field state
+computed for the field and its conventional twin
+Water balance
+Monthly: runoff, crop water use, irrigation, percolation below the roots.
+Nitrogen budget
+Annual: supply, crop removal, gas loss, cover-crop capture, leaching.
+Attainable yield
+Set by heat; limited by water and nitrogen.
+Six outcome models
+economics reads the other five
+Soil carbon
+Carbon in the top 30 cm over ten years, plus avoided nitrous oxide.
+Water quality
+Soil lost, nitrate leached, phosphorus risk.
+Water quantity
+Rain captured, water pumped and its cost, drought resilience.
+Biodiversity
+Habitat, pollinators, soil life, species.
+Yield
+Bushels, and how much is kept in a dry year.
+Economics
+Private savings, program money, costs; reads the other five.
+Outputs
+per acre, per field, with sources
+Score and next moves
+Six 0 to 100 scores, one composite, and the three best single changes on this field.
+Dollars by who pays
+Per acre and per field, against the twin, with private and program money kept apart.
+The six models
+Published methods, named plainly.
+Each model is built from published equations and public data, and each is compared with the twin where a comparison makes sense. Where it does not, the score is the field’s own, and we say so.
+Model
+What it computes
+Method
+Compared with
+Soil carbon
+Carbon gained or lost in the top 30 cm over ten years; nitrous oxide avoided when less nitrogen is applied.
+A monthly pool model after RothC, with inputs from residue, roots, cover crops and manure; IPCC emission factors for nitrous oxide.
+Carbon is the field’s own change. Nitrous oxide is against the twin.
+Water quality
+Soil lost to water erosion, nitrate leaving the root zone, phosphorus runoff risk.
+The Revised Universal Soil Loss Equation; the shared nitrogen budget; a phosphorus index.
+Against the twin, and priced at the dividend’s base water price.
+Water quantity
+Rain captured, irrigation pumped and what it costs, a drought-resilience index.
+A monthly soil-water balance: Saxton and Rawls soil water, NRCS curve-number runoff, FAO-56 crop coefficients.
+Irrigation against the twin; the rest is the field’s own.
+Biodiversity
+Habitat quality, pollinator support, soil biology and species diversity, each 0 to 100.
+Practice indices after InVEST habitat quality and the NRCS pollinator habitat assessment.
+An absolute score. Its dollar figure is shown but never counted.
+Yield
+Attainable yield for the climate, what water and nitrogen cost it, and dry-year retention.
+A growing-degree-day curve set from USDA yields and trials; FAO-33 water response; a nitrogen response curve.
+Against the twin, which sets the nitrogen yield penalty.
+Economics
+Ten lines of money per acre: inputs, erosion, pumping, carbon, water, cost-share, margins, transition.
+USDA ARMS cost budgets, NRCS payment schedules, and prices already paid in the US.
+Every line against the twin. Program lines are potential, not guaranteed.
+Evidence tiers
+Better evidence pays more.
+Nothing is paid until the practice itself is verified from records, invoices or imagery. A confidence factor then sets the share of a modeled outcome that is paid, and it rises as soil samples and well data come in. From what is paid, 
+10
+% goes to a risk reserve and up to
+10
+% to verification.
+Tier 
+1
+60
+%
+Modeled
+Practice verified by records, invoices or imagery; outcome from process models.
+Tier 
+2
+80
+%
+Modeled + sampled
+Models calibrated with stratified soil and water samples.
+Tier 
+3
+95
+%
+Measured
+Edge-of-field monitoring and repeat soil sampling.
+Standards
+Trust is a product feature.
+Environmental estimates become inputs to operating and financial decisions. So the platform shows its work, and says plainly what it cannot do yet.
+What the models cannot do yet
+These are screening models. They run monthly, on one point per field, for one typical year.
+They do not model aquifer decline, district allocations, or the years it takes nitrate to reach a well.
+They do not produce verified credits. Verification is a later step, with a buyer and an auditor.
+They have not yet been checked against measured outcomes on Nebraska fields. That is what the pilot is for.
+0
+1
+Visible assumptions
+Inputs and defaults are part of the result, not hidden behind a score. The soil survey value and the farmer’s override are both shown.
+0
+2
+Source traceability
+Public evidence, the farmer’s data and TerraValue calculations are labelled differently, and every published figure links to its source.
+0
+3
+Explicit uncertainty
+Ranges, evidence tiers and validation status make clear where an output is directional rather than verified.
+0
+4
+Replaceable models
+Each model can move from literature-based logic to a calibrated model without breaking the workflow around it.
+Clean fuel credit
+Understand the 45Z credit, and what a lower carbon-intensity score is worth.
+A plain-English guide to the clean fuel production credit, and a calculator for fuel producers and feedstock suppliers. The credit goes to the plant; the tool shows what there is to share with growers.
+Open the 45Z tool
+Pilot
+Put your field, your wells or your supply shed into the model.
+The first pilots pair a town or natural resources district with the farmers in its source-water area. If you sit anywhere in that picture, we would like to talk.
+Request a pilot
+A farm produces more than yield.
+TerraValue measures what a field produces beyond the crop, prices it at what someone already pays, and records who paid, so the money can reach the people who manage the land.
+Built on USDA SSURGO soil survey data and ERA5 climate normals. Outputs are modeled estimates against a conventional twin, not measurements, and not verified credits.
+Product
+Platform
+Pricing
+Field workspace
+45Z clean fuel calculator
+Feedstock CI record
+Scope 3 inventory
+Water and nitrogen inventory
+Request a pilot
+Reading
+Perspectives
+Atlas of working land
+The Ecosystem Dividend
+Who pays for better land?
+The money is already moving
+Questions and answers
+Company
+About TerraValue
+Our ecosystem
+Investment & support
+The market we are building
+Photo credits
+Privacy
+Terms
+© 
+2026
+ TerraValue. All rights reserved.
+Modeled estimates. Verify program eligibility and tax positions with qualified advisors.

@@ -1,0 +1,25 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.2489/jswc.73.5.587",
+  "title": "Evaluation of the Haney Soil Health Tool for corn nitrogen recommendations across eight Midwest states",
+  "abstract": "Use and development of soil biological tests for estimating soil nitrogen (N) availability and subsequently corn (Zea mays L.) fertilizer N recommendations is garnering considerable interest. The objective of this research was to evaluate relationships between the Haney Soil Health Test (HSHT), also known as the Soil Health Tool or Haney test, and the economically optimum N rate (EONR) for corn grain yield at 17 sites in eight Midwest US states in 2016. Trials were conducted with a standard set of protocols that included a nonfertilized control plus six N rates applied at planting or as a split between planting and sidedress, soil samples for the HSHT prior to planting, and grain harvest at physiological maturity, and determination of EONR for each N application timing. Results indicated that HSHT recommendations with expected yield accounted for ≤28% of the variation in EONR among sites and N timings. Two components of the HSHT not directly used in the HSHT N recommendation for corn, the soil health calculation, or soil health score, and the Solvita carbon dioxide (CO2)-Burst lab test, accounted for the most variation in EONR. These two components were moderately related (R2 = 0.29 to 0.39) to soil organic matter (OM), highly related (R2 = 0.98) with each other, and subsequently both accounted for over one-half (R2 = 0.55) of the variation in EONR for N applied at planting or as a split. With additional research, these two components may help improve N recommendations for corn in the Midwest, especially Solvita CO2-Burst because it costs less to determine than the soil health calculation.",
+  "authors": [
+    "M.A. Yost",
+    "K.S. Veum",
+    "N.R. Kitchen",
+    "J.E. Sawyer",
+    "J.J. Camberato",
+    "P.R. Carter",
+    "R.B. Ferguson",
+    "F.G. Fernández",
+    "D.W. Franzen",
+    "C.A. Laboski",
+    "E.D. Nafziger"
+  ],
+  "year": 2018,
+  "container": "Journal of Soil and Water Conservation",
+  "licenses": [
+    "oa_status:closed"
+  ],
+  "url": "https://doi.org/10.2489/jswc.73.5.587"
+}

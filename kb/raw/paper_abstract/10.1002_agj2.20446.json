@@ -1,0 +1,25 @@
+{
+  "provider": "crossref",
+  "doi": "10.1002/agj2.20446",
+  "title": "Weather and soil in the US Midwest influence the effectiveness of single‐ and split‐nitrogen applications in corn production",
+  "abstract": "Splitting the N application into two or more timings may improve corn ( Zea mays L.) grain yield and N recovery relative to a single‐N application. A 49 site‐year study across eight U.S. Midwestern states compared the effect of an at‐planting (single‐N application) and two split‐N applications [45 (45+SD) or 90 kg N ha −1 (90+SD) at planting with the remainder of the total rate (180 or 270 kg N ha −1 ) applied at V9]. For split‐N applications, soil and plant responses were similar between 45+SD and 90+SD 93–98% of the time, indicating the at‐planting N rate of 45 kg N ha −1 may be all that is needed in most cropping scenarios. Splitting the N application compared to a single‐N application changed soil NO 3 –N at VT and post‐harvest &lt;35% of the time and plant N uptake and grain yield &lt;15% of the time. Split‐N applications had greater grain yield in areas with uniform precipitation around the sidedress timing (Shannon Diversity Index &gt;0.56–0.59) to incorporate N in the root zone, and in coarse‐textured soil (sand content &gt;4–10%) that had greater potential for N loss. Single‐N applications produced greater grain yield in soils with more total N (&gt;2.1–2.4 g kg −1 ) to support N mineralization and greater cation exchange capacity (CEC) (&gt; 27–31 cmol c kg −1 ), silt content (&gt;66–74%), or clay content (&gt;24–37%) to improve nutrient and water retention. Decisions on nitrogen application timing should be made based on soil parameters and typical weather conditions around the sidedress timing.",
+  "authors": [
+    "Jason D. Clark",
+    "Fabián G. Fernández",
+    "James J. Camberato",
+    "Paul R. Carter",
+    "Richard B. Ferguson",
+    "David W. Franzen",
+    "Newell R. Kitchen",
+    "Carrie A. M. Laboski",
+    "Emerson D. Nafziger",
+    "John E. Sawyer",
+    "John F. Shanahan"
+  ],
+  "year": 2020,
+  "container": "Agronomy Journal",
+  "licenses": [
+    "http://creativecommons.org/licenses/by/4.0/"
+  ],
+  "url": "https://doi.org/10.1002/agj2.20446"
+}

@@ -1,0 +1,17 @@
+{
+  "provider": "crossref+openalex_abstract",
+  "doi": "10.1093/jee/tox379",
+  "title": "A Meta-analysis and Economic Evaluation of Neonicotinoid Seed Treatments and Other Prophylactic Insecticides in Indiana Maize From 2000–2015 With IPM Recommendations",
+  "abstract": "Corn rootworm remains the key pest of maize in the United States. It is managed largely by Bt corn hybrids, along with soil insecticides and neonicotinoid seed treatments (NSTs), the latter of which are applied to virtually all conventionally (non-Bt) produced maize. Frequently, more than one of these pest-management approaches is employed at the same time. To determine the utility and relative contributions of these various approaches, a meta-analysis was conducted on plant health and pest damage metrics from 15 yr of insecticide efficacy trials conducted on Indiana maize to compare the pest-protection potential of NSTs to that of other insecticides and Bt hybrids. The probability of recovering the insecticide cost associated with each treatment was also calculated when possible. With the exception of early-season plant health (stand counts), in which the NSTs performed better than all other insecticides, the vast majority of insecticides performed similarly in all plant health metrics, including yield. Furthermore, all tested insecticides (including NSTs) reported a high probability (>80%) of recovering treatment costs. Given the similarity in performance and probability of recovering treatment costs, we suggest NSTs be optional for producers, so that they can be incorporated into an insecticide rotation when managing for corn rootworm, the primary Indiana corn pest. This approach could simultaneously reduce costs to growers, lower the likelihood of nontarget effects, and reduce the risk of pests evolving resistance to the neonicotinoid insecticides.",
+  "authors": [
+    "A M Alford",
+    "C H Krupke"
+  ],
+  "year": 2018,
+  "container": "Journal of Economic Entomology",
+  "licenses": [
+    "https://academic.oup.com/journals/pages/about_us/legal/notices",
+    "oa_status:closed"
+  ],
+  "url": "https://doi.org/10.1093/jee/tox379"
+}

@@ -1,0 +1,21 @@
+{
+  "provider": "crossref",
+  "doi": "10.21273/hortsci15867-21",
+  "title": "The Interplay between Calcium and Strontium in Chinese Cabbage under Normal and Low Calcium Conditions",
+  "abstract": "The structure and chemical properties of strontium and calcium are similar. To study the interplay between calcium and strontium in plants, different concentrations of SrCl 2 (0, 1, 4, and 10 mmol·L −1 ) were added to the Hoagland nutrient solution with 4 mmol·L −1 Ca 2+ (normal level Ca 2+ ) or 0.4 mmol·L −1 Ca 2+ (low-level Ca 2+ ), which were used to cultivate Chinese cabbage seedlings. Under the low-level calcium condition, strontium not only did not promote the growth of Chinese cabbage but showed more severe toxicity compared with that under the normal calcium condition. Under normal calcium condition, although the growth of Chinese cabbage was significantly inhibited by 4 mmol·L −1 strontium, strontium did not show significant toxicity. However, under the low-level calcium condition, 1 mmol·L −1 strontium caused a significant decline of plant biomass and photosynthetic activity. Sr 2+ showed a competitive inhibitory effect on the absorption of Ca 2+ , and strontium was more easily absorbed by Chinese cabbage. Under the low-level calcium condition, strontium aggravated the inhibition of calcium absorption. The inhibitory effect of strontium on plant growth was significantly related to the calcium content in Chinese cabbage. Strontium cannot replace the function of calcium in plants under calcium-deficient conditions.",
+  "authors": [
+    "Nianwei Qiu",
+    "Li Tian",
+    "Xifeng Yan",
+    "Haoyu Dong",
+    "Mengyu Zhang",
+    "Guoliang Han",
+    "Feng Zhou"
+  ],
+  "year": 2021,
+  "container": "HortScience",
+  "licenses": [
+    "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "url": "https://doi.org/10.21273/hortsci15867-21"
+}

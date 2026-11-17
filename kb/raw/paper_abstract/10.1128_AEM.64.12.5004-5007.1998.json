@@ -1,0 +1,18 @@
+{
+  "provider": "crossref",
+  "doi": "10.1128/aem.64.12.5004-5007.1998",
+  "title": "Ink and Vinegar, a Simple Staining Technique for Arbuscular-Mycorrhizal Fungi",
+  "abstract": "We developed a reliable, inexpensive, and simple method for staining arbuscular-mycorrhizal fungal colonizations in root tissues. Apart from applications in research, this nontoxic, high-quality staining method also could be of great utility in teaching exercises. After adequate clearing with KOH, an ink-vinegar solution successfully stained all fungal structures, rendering them clearly visible.",
+  "authors": [
+    "Horst Vierheilig",
+    "Andrew P. Coughlan",
+    "Urs Wyss",
+    "Yves Piché"
+  ],
+  "year": 1998,
+  "container": "Applied and Environmental Microbiology",
+  "licenses": [
+    "https://journals.asm.org/non-commercial-tdm-license"
+  ],
+  "url": "https://doi.org/10.1128/aem.64.12.5004-5007.1998"
+}

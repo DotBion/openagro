@@ -1,0 +1,17 @@
+{
+  "provider": "crossref",
+  "doi": "10.1128/aem.63.9.3531-3538.1997",
+  "title": "Phosphorus effects on the mycelium and storage structures of an arbuscular mycorrhizal fungus as studied in the soil and roots by analysis of Fatty Acid signatures",
+  "abstract": "The distribution of an arbuscular mycorrhizal (AM) fungus between soil and roots, and between mycelial and storage structures, was studied by use of the fatty acid signature 16:1(omega)5. Increasing the soil phosphorus level resulted in a decrease in the level of the fatty acid 16:1(omega)5 in the soil and roots. A similar decrease was detected by microscopic measurements of root colonization and of the length of AM fungal hyphae in the soil. The fatty acid 16:1(omega)5 was estimated from two types of lipids, phospholipids and neutral lipids, which mainly represent membrane lipids and storage lipids, respectively. The numbers of spores of the AM fungus formed in the soil correlated most closely with neutral lipid fatty acid 16:1(omega)5, whereas the hyphal length in the soil correlated most closely with phospholipid fatty acid 16:1(omega)5. The fungal neutral lipid/phospholipid ratio in the extraradical mycelium was positively correlated with the level of root infection and thus decreased with increasing applications of P. The neutral lipid/phospholipid ratio indicated that at high P levels, less carbon was allocated to storage structures. At all levels of P applied, the major part of the AM fungus was found to be present outside the roots, as estimated from phospholipid fatty acid 16:1(omega)5. The ratio of extraradical biomass/intraradical biomass was not affected by the application of P, except for a decrease at the highest level of P applied.",
+  "authors": [
+    "P A Olsson",
+    "E Baath",
+    "I Jakobsen"
+  ],
+  "year": 1997,
+  "container": "Applied and Environmental Microbiology",
+  "licenses": [
+    "https://journals.asm.org/non-commercial-tdm-license"
+  ],
+  "url": "https://doi.org/10.1128/aem.63.9.3531-3538.1997"
+}

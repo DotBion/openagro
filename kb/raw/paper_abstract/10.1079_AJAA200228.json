@@ -1,0 +1,19 @@
+{
+  "provider": "crossref",
+  "doi": "10.1079/ajaa200228",
+  "title": "Estimating active carbon for soil quality assessment: A simplified method for laboratory and field use",
+  "abstract": "A simple method of estimating changes in biologically active soil carbon (C) could help evaluate soil quality impacts of alternative management practices. Most reports of permanganate for active C determination use highly concentrated solutions (0.333 M) that are difficult to work with and tend to react with a large fraction of soil C that is not well distinguished from total organic C. We report on a highly simplified method in which dilute, slightly alkaline KMnO 4 reacts with the most readily oxidizable (active) forms of soil C, converting Mn(VII) to Mn(II), and proportionally lowering absorbance of 550 nm light. The amount of soil C that reacted increased with concentration of KMnO4 used (0.01 to 0.1 M), degree of soil drying (moist fresh soil to air-dried for 24 hour) and time of shaking (1–15 minutes). Shaking of air-diy soil in a 0.02 M KMnO 4 solution for 2 minutes produced consistent and management-sensitive results, both in the laboratory and with a field kit that used a hand-held colorimeter. Addition of 0.1 M. CaCl 2 to the permanganate reagent enhanced settling of the soil after shaking, eliminating the need for centrifugaron in the field kit. Results from the laboratory and field-kit protocols were nearly identical (R 2 = 0.98), as were those from an inter-laboratory sample exchange (R 2 = 0.91). The active soil C measured by the new procedure was more sensitive to management effects than total organic C, and more closely related to biologically mediated soil properties, such as respiration, microbial biomass and aggregation, than several other measures of soil organic C.",
+  "authors": [
+    "Ray R. Weil",
+    "Kandikar R. Islam",
+    "Melissa A. Stine",
+    "Joel B. Gruver",
+    "Susan E. Samson-Liebig"
+  ],
+  "year": 2003,
+  "container": "American Journal of Alternative Agriculture",
+  "licenses": [
+    "https://www.cambridge.org/core/terms"
+  ],
+  "url": "https://doi.org/10.1079/ajaa200228"
+}

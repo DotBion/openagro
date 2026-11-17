@@ -1,0 +1,18 @@
+{
+  "provider": "crossref",
+  "doi": "10.3390/pathogens12070913",
+  "title": "Influence of Integrated Management Strategies on Soybean Sudden Death Syndrome (SDS) Root Infection, Foliar Symptoms, Yield and Net Returns",
+  "abstract": "Three soybean field trials were conducted in Indiana to evaluate the integration of seed treatment, cultivar selection, and seeding rate on sudden death syndrome (SDS) root rot, pathogen load in the root, foliar symptoms, yield, and net return. Two soybean cultivars, one moderately resistant and one susceptible to SDS, were planted at three seeding rates (272,277 seeds/ha, 346,535 seeds/ha, and 420,792 seeds/ha). Fluopyram and pydiflumetofen seed treatments were applied to both cultivars, and the cultivars were then compared with a control. Low foliar SDS disease pressure was observed in our study. Seed treatment with either fluopyram or pydiflumetofen and the use of a moderately resistant cultivar decreased Fusarium virguliforme DNA concentration in the root relative to the control and the use of a susceptible cultivar. Fluopyram significantly reduced visual root rot severity by 8.8% and increased yield by 105 kg/ha relative to the control but was not different from pydiflumetofen. However, pydiflumetofen performed the same as the control with respect to root rot severity and yield. Findings from this study support the use of a seed treatment to protect roots from infection and the use of a moderately resistant cultivar planted at a seeding rate of 346,535 seeds/ha to protect yield and maximize net returns when a field has low foliar SDS pressure.",
+  "authors": [
+    "Mariama T. Brown",
+    "Daren S. Mueller",
+    "Yuba R. Kandel",
+    "Darcy E. P. Telenko"
+  ],
+  "year": 2023,
+  "container": "Pathogens",
+  "licenses": [
+    "https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "url": "https://doi.org/10.3390/pathogens12070913"
+}

@@ -1,0 +1,26 @@
+{
+  "provider": "crossref",
+  "doi": "10.1094/pdis-02-23-0291-re",
+  "title": "Efficacy and Profitability of Fungicides for Managing Frogeye Leaf Spot on Soybean in the United States: A 10-Year Quantitative Summary",
+  "abstract": "Frogeye leaf spot (FLS), caused by Cercospora sojina, is an economically important disease of soybean in the United States. Data from 66 uniform fungicide trials (UFTs) conducted from 2012 to 2021 across eight states (Alabama, Arkansas, Illinois, Iowa, Kentucky, Louisiana, Mississippi, and Tennessee) were gathered and analyzed to determine the efficacy and profitability of the following fungicides applied at the beginning pod developmental stage (R3): azoxystrobin + difenoconazole (AZOX + DIFE), difenoconazole + pydiflumetofen (DIFE + PYDI), pyraclostrobin (PYRA), pyraclostrobin + fluxapyroxad + propiconazole (PYRA + FLUX + PROP), tetraconazole (TTRA), thiophanate-methyl (TMET), thiophanate-methyl + tebuconazole (TMET + TEBU), and trifloxystrobin + prothioconazole (TFLX + PROT). A network meta-analytic model was fitted to the log of the means of FLS severity data and to the nontransformed mean yield for each treatment, including the nontreated. The percent reduction in disease severity (%) and the yield response (kg/ha) relative to the nontreated was the lowest for PYRA (11%; 136 kg/ha) and the greatest for DIFE + PYDI (57%; 441 kg/ha). A significant decline in efficacy over time was detected for PYRA (18 percentage points [p.p.]), TTRA (27 p.p.), AZOX + DIFE (18 p.p.), and TMET + TEBU (19 p.p.) by using year as a continuous covariate in the model. Finally, probabilities of breaking even were the greatest (&gt;65%) for the most effective fungicide DIFE + PYDI and the lowest (&lt;55%) for PYRA. Results of this meta-analysis may be useful to support decisions when planning fungicide programs.",
+  "authors": [
+    "Jhonatan P. Barro",
+    "Emerson M. Del Ponte",
+    "Tom W. Allen",
+    "Jason P. Bond",
+    "Travis R. Faske",
+    "Clayton A. Hollier",
+    "Yuba R. Kandel",
+    "Daren S. Mueller",
+    "Heather M. Kelly",
+    "Nathan M. Kleczewski",
+    "Keith A. Ames",
+    "Paul P. Price",
+    "Edward J. Sikora",
+    "Carl A. Bradley"
+  ],
+  "year": 2023,
+  "container": "Plant Disease",
+  "licenses": [],
+  "url": "https://doi.org/10.1094/pdis-02-23-0291-re"
+}
