@@ -1,0 +1,306 @@
+{
+  "created_at": "2026-11-17T16:34:32-05:00",
+  "n": 200,
+  "variant": "hybrid_rerank",
+  "use_llm": true,
+  "llm": {
+    "keys_present": [
+      "AWS_ACCESS_KEY_ID",
+      "OPENAI_API_KEY",
+      "GROQ_API_KEY",
+      "XAI_API_KEY",
+      "OPENROUTER_API_KEY",
+      "GEMINI_API_KEY"
+    ],
+    "keys_absent": [
+      "ANTHROPIC_API_KEY"
+    ],
+    "router": {
+      "role": "router",
+      "provider": "groq",
+      "family": "groq-llama",
+      "model": "qwen/qwen3.8-27b",
+      "available": true,
+      "reason": "ok"
+    },
+    "generator": {
+      "role": "generator",
+      "provider": "bedrock",
+      "family": "amazon-nova",
+      "model": "us.amazon.nova-lite-v1:0",
+      "available": true,
+      "reason": "ok"
+    },
+    "judge": {
+      "role": "judge",
+      "provider": "groq",
+      "family": "groq-llama",
+      "model": "qwen/qwen3.8-27b",
+      "available": true,
+      "reason": "cached"
+    },
+    "stub_only": false,
+    "notes": "Generator is Amazon Nova Lite (us.amazon.nova-lite-v1:0) via Bedrock Converse."
+  },
+  "gates": {
+    "citation": 0.85,
+    "numbers": 0.9,
+    "refusal": 0.9,
+    "invented_numbers": 0
+  },
+  "metrics": {
+    "route_accuracy": {
+      "n": 200,
+      "mean": 0.985,
+      "ci95_lo": 0.965,
+      "ci95_hi": 1.0
+    },
+    "recall@5": {
+      "n": 172,
+      "mean": 0.9593023255813954,
+      "ci95_lo": 0.9302325581395349,
+      "ci95_hi": 0.9883720930232558
+    },
+    "recall@10": {
+      "n": 172,
+      "mean": 0.9593023255813954,
+      "ci95_lo": 0.9302325581395349,
+      "ci95_hi": 0.9883720930232558
+    },
+    "citation_pass": {
+      "n": 170,
+      "mean": 1.0,
+      "ci95_lo": 1.0,
+      "ci95_hi": 1.0
+    },
+    "numbers_pass": {
+      "n": 170,
+      "mean": 1.0,
+      "ci95_lo": 1.0,
+      "ci95_hi": 1.0
+    },
+    "verifier_pass": {
+      "n": 170,
+      "mean": 1.0,
+      "ci95_lo": 1.0,
+      "ci95_hi": 1.0
+    },
+    "refusal_accuracy": {
+      "n": 200,
+      "mean": 0.995,
+      "ci95_lo": 0.985,
+      "ci95_hi": 1.0
+    },
+    "answer_with_caveat": {
+      "n": 10,
+      "mean": 0.6,
+      "ci95_lo": 0.3,
+      "ci95_hi": 0.9
+    },
+    "invented_numbers_total": 0
+  },
+  "gates_met": {
+    "citation": true,
+    "numbers": true,
+    "refusal": true,
+    "zero_invented_numbers": true
+  },
+  "by_category": {
+    "expert_qa": {
+      "n": 33,
+      "route_accuracy": 1.0,
+      "refusal_accuracy": 1.0,
+      "verifier_pass": 1.0
+    },
+    "paraphrase": {
+      "n": 99,
+      "route_accuracy": 0.98989898989899,
+      "refusal_accuracy": 0.98989898989899,
+      "verifier_pass": 1.0
+    },
+    "funding": {
+      "n": 15,
+      "route_accuracy": 1.0,
+      "refusal_accuracy": 1.0,
+      "verifier_pass": 1.0
+    },
+    "evidence": {
+      "n": 15,
+      "route_accuracy": 0.9333333333333333,
+      "refusal_accuracy": 1.0,
+      "verifier_pass": 1.0
+    },
+    "farmx": {
+      "n": 10,
+      "route_accuracy": 1.0,
+      "refusal_accuracy": 1.0,
+      "verifier_pass": 0.0
+    },
+    "should_refuse": {
+      "n": 6,
+      "route_accuracy": 1.0,
+      "refusal_accuracy": 1.0,
+      "verifier_pass": 0.0
+    },
+    "out_of_scope": {
+      "n": 6,
+      "route_accuracy": 1.0,
+      "refusal_accuracy": 1.0,
+      "verifier_pass": 0.0
+    },
+    "partial_match": {
+      "n": 10,
+      "route_accuracy": 0.9,
+      "refusal_accuracy": 1.0,
+      "verifier_pass": 1.0
+    },
+    "safety_refusal": {
+      "n": 6,
+      "route_accuracy": 1.0,
+      "refusal_accuracy": 1.0,
+      "verifier_pass": 0.0
+    }
+  },
+  "judge": {
+    "used": true,
+    "uncalibrated": true,
+    "n": 5,
+    "grounded": 1.0,
+    "refusal_ok": 1.0,
+    "caveat_ok": 1.0,
+    "note": "LLM-as-judge scores are uncalibrated until 30 human labels exist (see qna/human_spotcheck_30.csv). Do not treat these as a gate.",
+    "family": "groq-llama",
+    "generator_family": "amazon-nova"
+  },
+  "status_counts": {
+    "ok_after_retry": 16,
+    "hedged_extractive": 47,
+    "ok": 85,
+    "answer_with_caveat": 22,
+    "refused": 30
+  },
+  "caveat_behavior": {
+    "expected_answer_with_caveat_n9": {
+      "n": 9,
+      "mean": 0.6666666666666666,
+      "n_ok": 6,
+      "ids_ok": [
+        "syn-partial-001",
+        "syn-partial-002",
+        "syn-partial-003",
+        "syn-partial-004",
+        "syn-partial-008",
+        "syn-partial-009"
+      ],
+      "ids_miss": [
+        "syn-partial-006",
+        "syn-partial-007",
+        "syn-partial-010"
+      ],
+      "status_counts": {
+        "answer_with_caveat": 5,
+        "hedged_extractive": 2,
+        "ok_after_retry": 2
+      }
+    },
+    "partial_match_n10": {
+      "n": 10,
+      "mean": 0.7,
+      "n_ok": 7,
+      "ids_ok": [
+        "syn-partial-001",
+        "syn-partial-002",
+        "syn-partial-003",
+        "syn-partial-004",
+        "syn-partial-005",
+        "syn-partial-008",
+        "syn-partial-009"
+      ],
+      "ids_miss": [
+        "syn-partial-006",
+        "syn-partial-007",
+        "syn-partial-010"
+      ],
+      "status_counts": {
+        "answer_with_caveat": 5,
+        "refused": 1,
+        "hedged_extractive": 2,
+        "ok_after_retry": 2
+      }
+    },
+    "union": {
+      "n": 10,
+      "mean": 0.7,
+      "n_ok": 7,
+      "ids_ok": [
+        "syn-partial-001",
+        "syn-partial-002",
+        "syn-partial-003",
+        "syn-partial-004",
+        "syn-partial-008",
+        "syn-partial-009",
+        "syn-partial-005"
+      ],
+      "ids_miss": [
+        "syn-partial-006",
+        "syn-partial-007",
+        "syn-partial-010"
+      ],
+      "status_counts": {
+        "answer_with_caveat": 5,
+        "hedged_extractive": 2,
+        "ok_after_retry": 2,
+        "refused": 1
+      }
+    },
+    "note": "Rate is the share of items that issued an answer containing explicit caveat wording (or, for the one expected-refuse partial-match item, a correct refusal). Hedged non-answers do not count as caveat behavior."
+  },
+  "llm_usage": {
+    "by_provider_role": {
+      "bedrock:probe": {
+        "calls": 1,
+        "input_tokens": 8,
+        "output_tokens": 3,
+        "total_tokens": 11
+      },
+      "groq:probe": {
+        "calls": 1,
+        "input_tokens": 19,
+        "output_tokens": 2,
+        "total_tokens": 21
+      },
+      "groq:router": {
+        "calls": 26,
+        "input_tokens": 7173,
+        "output_tokens": 1318,
+        "total_tokens": 8491
+      },
+      "bedrock:generator": {
+        "calls": 246,
+        "input_tokens": 1342288,
+        "output_tokens": 25981,
+        "total_tokens": 1368269
+      },
+      "groq:judge": {
+        "calls": 6,
+        "input_tokens": 4356,
+        "output_tokens": 929,
+        "total_tokens": 5285
+      }
+    },
+    "all": {
+      "calls": 280,
+      "input_tokens": 1353844,
+      "output_tokens": 28233,
+      "total_tokens": 1382077
+    },
+    "nova_lite": {
+      "calls": 247,
+      "input_tokens": 1342296,
+      "output_tokens": 25984,
+      "total_tokens": 1368280,
+      "usd_estimate": 0.08677392,
+      "price_source": "On-demand list price $0.06 / $0.24 per 1M input/output tokens for amazon.nova-lite-v1:0 in us-east-1 and us-west-2, checked 2026-11-17 (https://aws.amazon.com/bedrock/pricing/)."
+    }
+  }
+}

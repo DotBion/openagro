@@ -88,9 +88,9 @@ Keys are read from the environment only. Values are never logged or written to t
 See `results/llm_availability.json` for the last probe (names and success only). In this build:
 
 - Present but unusable: `OPENAI_API_KEY` (rejected by the API), `XAI_API_KEY` (rejected by the API), `OPENROUTER_API_KEY` (402, out of credits).
-- Present and working (last probe): `GEMINI_API_KEY` (`gemini-2.5-flash` as generator), `GROQ_API_KEY` (router and judge; 429s are retried with Retry-After / exponential backoff).
+- Present and working (last probe): `AWS_ACCESS_KEY_ID` + `AWS_SECRET_ACCESS_KEY` (Bedrock Nova Lite `us.amazon.nova-lite-v1:0` as the default generator), `GROQ_API_KEY` (router and judge; 429s are retried with Retry-After / exponential backoff), `GEMINI_API_KEY` (generator fallback).
 - Absent: `ANTHROPIC_API_KEY`.
-- Preference for the generator is OpenAI, then Gemini, then Groq, then OpenRouter, then xAI. The current after-fix e2e uses Gemini to generate and Groq for the router and judge. If no working generator key is found, the extractive stub still runs retrieval and the verifier.
+- Preference for the generator is Bedrock Nova Lite, then Gemini, then Groq, then OpenAI, then OpenRouter, then xAI. The router prefers Groq, then Nova Lite. If no working generator is found, the extractive stub still runs retrieval and the verifier.
 
 ## Retrieval results (eval_v2 items with `gold_doc_ids`)
 
@@ -195,33 +195,40 @@ The four expected-caveat misses issued a verified `ok` answer without caveat wor
 Category route / refusal accuracy after is unchanged from the earlier extractive run (funding and evidence 93.3% route accuracy; `partial_match` 90%; all other categories 100%; refusal 100% in every category).
 
 <!-- E2E_TABLES -->
-### LLM generator + judge (completed 2:55 PM ET)
+### LLM generator + judge (Amazon Nova Lite, 4:41 PM ET)
 
-The after-fix 200-item run finished at **2:55 PM ET** on 2026-11-17 (`results/e2e_eval.json`, `results/e2e_items.jsonl`). It was executed under `nohup` in resume mode (no `--fresh`), with Gemini `gemini-2.5-flash` pinned as the generator and Groq as the router/judge. OpenRouter is out of credits (402). Groq 429s are retried briefly, then the router falls back to rules/default evidence and the judge is skipped after a short circuit-breaker so a rate limit cannot stall the eval. After two successful Gemini generations, Gemini returned a hard quota/billing 429; further generator calls were short-circuited and the extractive quote-first fallback finished the remaining items. **Only 2 of 200 answers were model-written** (`SHE-FA-2024-0001`, `SHE-FA-2026-0061`). The other issued answers used the same quote-first extractive path as the `--no-llm` run. Do not treat this as a full model-written generator eval.
+The default generator is now **Amazon Nova Lite** on AWS Bedrock (`us.amazon.nova-lite-v1:0` via the Converse API, us-east-1 / us-west-2). Gemini and Groq remain fallbacks if Bedrock is unavailable. The router stays on Groq (`qwen/qwen3.8-27b`) when that key works; otherwise Nova Lite can route. A 200-item model-written eval finished at **4:41 PM ET** on 2026-11-17 (`--tag nova`, `results/e2e_nova_eval.json`, `results/e2e_nova_items.jsonl`). Quote-first prompting and the strict verifier were unchanged. After a first pass, Nova often cited a parent document id (`[c:SHE-FA-2026-0037]`) instead of the exact chunk id (`[c:SHE-FA-2026-0037::c1]`) and sometimes placed the marker after the period; `normalize_llm_citations()` rewrites those slips to a retrieved chunk id and the 60 hedged rows were rerun. The numbers below are the final 200-item file.
 
-Status mix: answered (`ok`) 138, answered with caveat 32, hedged 1, refused 29. Issued factual answers: **170/200**. Generators: llm 2, extractive 168, extractive_hedge 1, refusal_template 29.
+**Generator mix:** `llm` (Nova) **150/200 (75%)**, refusal template 30, verified extractive fallback 19, unverified hedge 1. Among non-refusal items, 150/170 (88%) are Nova-written.
 
-| Metric | Value | Gate | Met? |
-|---|---|---|---|
-| Route accuracy | 99.0% (95% CI 97.5–100.0, n=200) | — | — |
-| Retrieval recall@5 (during chat) | 96.5% (95% CI 93.6–98.8, n=172); funding 15/15 | — | — |
-| Citation pass (issued factual answers) | 100% (n=171) | ≥ 85% | yes |
-| Numbers pass (issued factual answers) | 100% (n=171) | ≥ 90% | yes |
-| Refusal accuracy | 100% (n=200) | ≥ 90% | yes |
-| Invented numbers (issued answers) | 0 | 0 | yes |
-| Caveat behavior (9 expected `answer_with_caveat`) | **77.8% (7/9)** | — | — |
-| Caveat behavior (10 `partial_match` items) | **80% (8/10)**; includes a correct refusal on `syn-partial-005` | — | — |
+Status mix: answered (`ok`) 115, `ok_after_retry` 18, answered with caveat 16, `answer_with_caveat_after_retry` 3, verified extractive fallback (`hedged_extractive`) 17, unverified hedge 1, refused 30. Issued factual answers (excluding the 17 verified extractive fallbacks and the 1 hedge): **152/200**.
 
-Funding route accuracy on this run is 100% (15/15). Chat-path recall misses are the same six as the extractive-only run.
+| Metric | Extractive (`--no-llm`) | Nova Lite | Gate | Met (Nova)? |
+|---|---|---|---|---|
+| Route accuracy | 98.5% (96.5–100, n=200) | 98.0% (96.0–99.5, n=200) | — | — |
+| Chat recall@5 | 96.5% (93.6–98.8, n=172) | 95.9% (93.0–98.8, n=172) | — | — |
+| Citation pass | 100% (n=170) | 100% (n=169) | ≥ 85% | yes |
+| Numbers pass | 100% (n=170) | 100% (n=169) | ≥ 90% | yes |
+| Refusal accuracy | 100% (n=200) | 99.5% (98.5–100, n=200) | ≥ 90% | yes |
+| Invented numbers | 0 | 0 | 0 | yes |
+| Caveat (9 expected) | 55.6% (5/9) | **77.8% (7/9)** | — | — |
+| Caveat (10 partial_match) | 60% (6/10) | **80% (8/10)** | — | — |
+| Hedge / extractive fallback | 1 unverified hedge | 17 verified extractive fallbacks + 1 unverified hedge | — | — |
+| Avg issued-answer length | 449 characters | 325 characters (322 for the 150 Nova answers) | — | — |
 
-Caveats vs the earlier extractive-only table: `syn-partial-002` and `syn-partial-009` now issue `answer_with_caveat` (002 because the cited K-State chunk is abstract-only; 009 because the cited source is New Mexico cattle guidance, not UK sheep). The two remaining misses are unchanged:
+The one refusal miss is `syn-para-SHE-FA-2026-0021-03` (a paraphrase that should have been answered; the router refused it). Caveat misses on this run: `syn-partial-007`, `syn-partial-010`.
 
-- `syn-partial-006` — the question names both Louisiana sugarcane and Nebraska corn; Illinois/Nebraska corn guidance matches the Nebraska/corn wording, so Louisiana sugarcane is never flagged.
-- `syn-partial-010` — the question names both 1990s Minnesota work and newer Iowa studies; the Iowa source matches the Iowa mention, and year/era is not a mismatch signal.
+Nova Lite tokens for this eval effort (both the first pass and the 60-item resume), from `results/llm_usage.jsonl`: **1,836,294 input + 33,751 output = 1,870,045 total tokens** in 337 Bedrock calls. Estimated on-demand cost **$0.118** at the 2026-11-17 list price of **$0.06 / $0.24 per 1M input/output tokens** for `amazon.nova-lite-v1:0` in us-east-1 / us-west-2 ([Bedrock pricing](https://aws.amazon.com/bedrock/pricing/)).
 
-The LLM judge stays **uncalibrated**. Only 3 items received a Groq judge score before repeated 429s tripped the skip; do not use the aggregated judge rates in `e2e_eval.json`. Human labels: `qna/human_spotcheck_30.csv` (all 30 ids filled from this run, mostly `model_generator=extractive`; label columns empty). How to score: `qna/human_spotcheck_howto.md`.
+The LLM judge is Groq (different family from Nova) and stays **uncalibrated**. Only 4 items were scored before Groq 429s; do not use those scores as a gate.
 
-See `results/e2e_eval.json`, `results/e2e_extractive_eval.json`, and `results/e2e_extractive_before_after.json`.
+Three example pairs (Nova first, extractive second) are in `results/e2e_nova_vs_extractive.json`. Short versions:
+
+- `SHE-FA-2026-0011` (aragonite studies): Nova writes two short cited sentences ("Aragonite and calcite are two crystal forms of the same compound, CaCO3"). The extractive fallback copies marketing bullets from the question, including "20–30% potential".
+- `syn-fund-005` (official EQIP page and last-verified date): Nova cites the official NRCS URL and "November 14, 2026". Extractive quoted a different program (an EQIP bridge loan).
+- `syn-para-SHE-FA-2024-0001-02` (Nebraska gumbo under pivot): both are grounded; Nova is slightly tighter ("Gumbo is a dense, clay-rich soil with low permeability. Hold off on re-tiling and moving soil.").
+
+See also `results/e2e_extractive_eval.json` and `results/e2e_extractive_before_after.json`.
 
 ## Known gaps
 
@@ -239,7 +246,7 @@ See `results/e2e_eval.json`, `results/e2e_extractive_eval.json`, and `results/e2
 - The reranker still slightly increases how often FarmDeck outranks independent evidence (6/49 vs 4/49 for hybrid) until the serving demotion is applied.
 
 - Journal / FarmDeck chunk lengths still wander outside 350–500 tokens (documented in `kb/README.md`).
-- E2E LLM-as-judge is uncalibrated until the 30-item human spot-check is labeled. How to score: `qna/human_spotcheck_howto.md`. The CSV at `qna/human_spotcheck_30.csv` is filled from the completed 200-item run (`model_source=e2e_items`, mostly `model_generator=extractive` because Gemini hit a hard quota) with empty label columns. Only 2/200 answers in that run were model-written; a full model-written generator eval still needs a working generator quota.
+- E2E LLM-as-judge is uncalibrated until the 30-item human spot-check is labeled. How to score: `qna/human_spotcheck_howto.md`. A 200-item Nova Lite generator eval is in `results/e2e_nova_eval.json` (150/200 answers are model-written). The spot-check CSV can be refreshed from that file with `scripts/fill_spotcheck.py` if desired; label columns stay empty until a person scores them.
 - Open-Meteo is a live public forecast; it is the only outbound HTTP the chat tools make at answer time (plus the optional LLM provider).
 
 ## File paths

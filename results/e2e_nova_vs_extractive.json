@@ -1,0 +1,268 @@
+{
+  "created_at": "2026-11-17T16:41:41-05:00",
+  "nova": {
+    "n": 200,
+    "status_counts": {
+      "ok_after_retry": 18,
+      "ok": 115,
+      "answer_with_caveat": 16,
+      "refused": 30,
+      "hedged_extractive": 17,
+      "answer_with_caveat_after_retry": 3,
+      "hedged": 1
+    },
+    "generators": {
+      "llm": 150,
+      "refusal_template": 30,
+      "extractive_hedge": 19,
+      "hedge": 1
+    },
+    "issued_factual": 152,
+    "hedged": 18,
+    "refused": 30,
+    "llm_generator_share": 0.75,
+    "route_accuracy": 0.98,
+    "chat_recall@5": 0.9593023255813954,
+    "citation_pass": 1.0,
+    "citation_n": 152,
+    "numbers_pass": 1.0,
+    "numbers_n": 152,
+    "refusal_accuracy": 0.995,
+    "invented_numbers": 0,
+    "avg_issued_answer_chars": 325.42763157894734,
+    "caveat_n9": {
+      "n": 9,
+      "mean": 0.7777777777777778,
+      "n_ok": 7,
+      "ids_ok": [
+        "syn-partial-001",
+        "syn-partial-002",
+        "syn-partial-003",
+        "syn-partial-004",
+        "syn-partial-006",
+        "syn-partial-008",
+        "syn-partial-009"
+      ],
+      "ids_miss": [
+        "syn-partial-007",
+        "syn-partial-010"
+      ],
+      "status_counts": {
+        "answer_with_caveat": 4,
+        "answer_with_caveat_after_retry": 1,
+        "ok": 1,
+        "ok_after_retry": 2,
+        "hedged_extractive": 1
+      }
+    },
+    "caveat_n10": {
+      "n": 10,
+      "mean": 0.8,
+      "n_ok": 8,
+      "ids_ok": [
+        "syn-partial-001",
+        "syn-partial-002",
+        "syn-partial-003",
+        "syn-partial-004",
+        "syn-partial-005",
+        "syn-partial-006",
+        "syn-partial-008",
+        "syn-partial-009"
+      ],
+      "ids_miss": [
+        "syn-partial-007",
+        "syn-partial-010"
+      ],
+      "status_counts": {
+        "answer_with_caveat": 4,
+        "answer_with_caveat_after_retry": 1,
+        "refused": 1,
+        "ok": 1,
+        "ok_after_retry": 2,
+        "hedged_extractive": 1
+      }
+    },
+    "gates_met": {
+      "citation": true,
+      "numbers": true,
+      "refusal": true,
+      "zero_invented_numbers": true
+    },
+    "llm_usage": {
+      "by_provider_role": {
+        "bedrock:probe": {
+          "calls": 1,
+          "input_tokens": 8,
+          "output_tokens": 3,
+          "total_tokens": 11
+        },
+        "groq:probe": {
+          "calls": 1,
+          "input_tokens": 19,
+          "output_tokens": 2,
+          "total_tokens": 21
+        },
+        "groq:router": {
+          "calls": 2,
+          "input_tokens": 494,
+          "output_tokens": 100,
+          "total_tokens": 594
+        },
+        "bedrock:generator": {
+          "calls": 85,
+          "input_tokens": 488851,
+          "output_tokens": 7707,
+          "total_tokens": 496558
+        }
+      },
+      "all": {
+        "calls": 89,
+        "input_tokens": 489372,
+        "output_tokens": 7812,
+        "total_tokens": 497184
+      },
+      "nova_lite": {
+        "calls": 86,
+        "input_tokens": 488859,
+        "output_tokens": 7710,
+        "total_tokens": 496569,
+        "usd_estimate": 0.03118194,
+        "price_source": "On-demand list price $0.06 / $0.24 per 1M input/output tokens for amazon.nova-lite-v1:0 in us-east-1 and us-west-2, checked 2026-11-17 (https://aws.amazon.com/bedrock/pricing/)."
+      }
+    },
+    "llm_usage_all_passes": {
+      "note": "Combined Nova Lite / Bedrock token log for this eval effort, including the first pass and the 60-item citation-normalizer resume. Source: results/llm_usage.jsonl, 2026-11-17 16:22–16:41 ET.",
+      "provider": "bedrock",
+      "model": "us.amazon.nova-lite-v1:0",
+      "calls": 337,
+      "input_tokens": 1836294,
+      "output_tokens": 33751,
+      "total_tokens": 1870045,
+      "usd_estimate": 0.118278,
+      "price_source": "On-demand list price $0.06 / $0.24 per 1M input/output tokens for amazon.nova-lite-v1:0 in us-east-1 and us-west-2, checked 2026-11-17 (https://aws.amazon.com/bedrock/pricing/)."
+    },
+    "generator_mix": {
+      "llm": 150,
+      "extractive_hedge": 19,
+      "hedge": 1,
+      "refusal_template": 30,
+      "llm_share": 0.75,
+      "llm_share_nonrefuse": 0.8823529411764706
+    }
+  },
+  "extractive": {
+    "n": 200,
+    "status_counts": {
+      "ok": 127,
+      "answer_with_caveat": 43,
+      "hedged": 1,
+      "refused": 29
+    },
+    "generators": {
+      "extractive": 170,
+      "hedge": 1,
+      "refusal_template": 29
+    },
+    "issued_factual": 170,
+    "hedged": 1,
+    "refused": 29,
+    "llm_generator_share": 0.0,
+    "route_accuracy": 0.985,
+    "chat_recall@5": 0.9651162790697675,
+    "citation_pass": 1.0,
+    "citation_n": 170,
+    "numbers_pass": 1.0,
+    "numbers_n": 170,
+    "refusal_accuracy": 1.0,
+    "invented_numbers": 0,
+    "avg_issued_answer_chars": 448.9,
+    "caveat_n9": {
+      "n": 9,
+      "mean": 0.5555555555555556,
+      "n_ok": 5,
+      "ids_ok": [
+        "syn-partial-001",
+        "syn-partial-003",
+        "syn-partial-004",
+        "syn-partial-007",
+        "syn-partial-008"
+      ],
+      "ids_miss": [
+        "syn-partial-002",
+        "syn-partial-006",
+        "syn-partial-009",
+        "syn-partial-010"
+      ],
+      "status_counts": {
+        "answer_with_caveat": 4,
+        "ok": 5
+      }
+    },
+    "caveat_n10": {
+      "n": 10,
+      "mean": 0.6,
+      "n_ok": 6,
+      "ids_ok": [
+        "syn-partial-001",
+        "syn-partial-003",
+        "syn-partial-004",
+        "syn-partial-005",
+        "syn-partial-007",
+        "syn-partial-008"
+      ],
+      "ids_miss": [
+        "syn-partial-002",
+        "syn-partial-006",
+        "syn-partial-009",
+        "syn-partial-010"
+      ],
+      "status_counts": {
+        "answer_with_caveat": 4,
+        "ok": 5,
+        "refused": 1
+      }
+    },
+    "gates_met": {
+      "citation": true,
+      "numbers": true,
+      "refusal": true,
+      "zero_invented_numbers": true
+    },
+    "llm_usage": null
+  },
+  "examples": [
+    {
+      "id": "SHE-FA-2026-0011",
+      "category": "expert_qa",
+      "question": "Has anyone done any studies on Aragonite calcium carbonate or do you know of anyone researching it? This is what our studies have shown. We are looking for any additional studies or someone who would do their own study if we provide the aragonite.\n\nBenefits\n- Improved drought resistance\n- Reduced irrigation demand\n- Enhanced microbial activity\n- Increased yield consistency\n- Reduced fertilizer usage (20–30% potential)\n\nStrontium Contribution\nTrace Sr enhances:\n- Cell wall strength\n- Stress tolerance\n- Root development (at controlled levels)\n\nAragoCor Minerals LLC",
+      "nova_status": "ok",
+      "extractive_status": "ok",
+      "nova_generator": "llm",
+      "extractive_generator": "extractive",
+      "nova_answer": "Aragonite and calcite are two crystal forms of the same compound, CaCO3 [c:SHE-FA-2026-0011::c1]. Aragonite has been tested as a soil amendment [c:SHE-FA-2026-0011::c3].",
+      "extractive_answer": "We are looking for any additional studies or someone who would do their own study if we provide the aragonite. - Improved drought resistance - Reduced irrigation demand - Enhanced microbial activity - Increased yield consistency - Reduced fertilizer usage (20–30% potential) - Cell wall strength - Stress tolerance - Root development (at controlled levels) Strontium behaves much like calcium and can compete with it [c:SHE-FA-2026-0011::c2]. - Improved drought resistance - Reduced irrigation demand - Enhanced microbial activity - Increased yield consistency - Reduced fertilizer usage (20–30% potential) - Cell wall strength - Stress tolerance - Root development (at controlled levels) Aragonite and calcite are two crystal forms of the same compound, CaCO3 [c:SHE-FA-2026-0011::c1]."
+    },
+    {
+      "id": "syn-fund-005",
+      "category": "funding",
+      "question": "Where is the official USDA page for EQIP, and when did Soil Health Exchange last verify its EQIP entry?",
+      "nova_status": "ok",
+      "extractive_status": "ok",
+      "nova_generator": "llm",
+      "extractive_generator": "extractive",
+      "nova_answer": "The official USDA page for EQIP is [https://www.nrcs.usda.gov/programs-initiatives/environmental-quality-incentives-program](https://www.nrcs.usda.gov/programs-initiatives/environmental-quality-incentives-program) [c:she_funding:usda-nrcs-eqip::c1]. Soil Health Exchange last verified its EQIP entry on November 14, 2026 [c:she_funding:usda-nrcs-eqip::c1].",
+      "extractive_answer": "Borrowers must have an EQIP award; prospective EQIP applicants can submit interest for support before an award [c:she_funding:food-system-six-eqip-bridge-loan::c1]. USDA NRCS Advancing Markets for Producers funds the project. **Readiness:** Prep docs first **Who can apply:** producer, Sheep and wool producers in California, Colorado, Idaho, Montana, Nevada, New York, South Dakota, Utah or Wyoming **Coverage:** CA, CO, ID, MT, NV, NY, SD, UT, WY **Deadline & timing:** The official site accepts producer applications with no posted application closing date as verified October 10, 2026 [c:she_funding:ncat-wool-quality-improvement::c1]. As of 2026-11-05; official url: https://www.foodsystem6.org/the-eqip-bridge-loan-program; these are program criteria as written on the page, not a determination that anyone qualifies [c:she_funding:food-system-six-eqip-bridge-loan::c1]."
+    },
+    {
+      "id": "syn-para-SHE-FA-2024-0001-02",
+      "category": "paraphrase",
+      "question": "our low clay spots get so sticky we stuck a combine, some of the field is better black soil and sand, most of it is under pivot in Nebraska. tile didn't fix it. any soil health ideas?",
+      "nova_status": "ok",
+      "extractive_status": "ok",
+      "nova_generator": "llm",
+      "extractive_generator": "extractive",
+      "nova_answer": "Gumbo is a dense, clay-rich soil with low permeability [c:SHE-FA-2024-0001::c1]. Hold off on re-tiling and moving soil [c:SHE-FA-2024-0001::c2].",
+      "extractive_answer": "I need some help with how to deal with this to improve the soil and be able to keep it under pivot [c:SHE-FA-2024-0001::c2]. Gumbo is a dense, clay-rich soil with low permeability [c:SHE-FA-2024-0001::c1]."
+    }
+  ]
+}

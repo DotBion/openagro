@@ -385,3 +385,41 @@ def extractive_quote_answer(
         seen.add(key)
         out.append(s)
     return " ".join(out).strip()
+
+
+import re as _re
+
+_CITE_RE = _re.compile(r"\[c:([^\]]+)\]")
+
+
+def normalize_llm_citations(text: str, chunk_ids: list[str]) -> str:
+    """Fix common generator citation slips without changing the verifier.
+
+    - Expand a parent-doc id (SHE-FA-2026-0037) to a retrieved chunk id
+      (SHE-FA-2026-0037::c1) when that parent appears in the retrieved set.
+    - Move a citation that was left after the period back onto the sentence
+      ("hard. [c:id]" -> "hard [c:id].").
+    """
+    if not text:
+        return text
+    idset = {c for c in chunk_ids if c}
+    by_parent: dict[str, list[str]] = {}
+    for cid in chunk_ids:
+        if not cid:
+            continue
+        parent = cid.split("::", 1)[0]
+        by_parent.setdefault(parent, []).append(cid)
+
+    def _repl(m: _re.Match[str]) -> str:
+        raw = (m.group(1) or "").strip()
+        if raw in idset:
+            return f"[c:{raw}]"
+        parent = raw.split("::", 1)[0]
+        kids = by_parent.get(parent) or []
+        if kids:
+            return f"[c:{kids[0]}]"
+        return m.group(0)
+
+    out = _CITE_RE.sub(_repl, text)
+    out = _re.sub(r"([.!?])(\s*)(\[c:[^\]]+\])", r" \3\1", out)
+    return out

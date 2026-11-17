@@ -117,3 +117,21 @@ def test_attach_caveat_keeps_single_cited_sentence():
     out = attach_caveat_to_sentence(raw, ["crop", "region"])
     assert out.count("[c:SHE-FA-2026-0008::c1]") == 1
     assert "may not apply to a different crop" in out.lower()
+
+
+def test_normalize_expands_parent_id_and_moves_citation_before_period():
+    from chat.quotes import normalize_llm_citations
+
+    text = "There is no basis for the idea that ammonia can make the soil hard. [c:SHE-FA-2026-0037]"
+    out = normalize_llm_citations(text, ["SHE-FA-2026-0037::c1", "SHE-ART-2026-0099::c10"])
+    assert "[c:SHE-FA-2026-0037::c1]" in out
+    assert "[c:SHE-FA-2026-0037]" not in out.replace("[c:SHE-FA-2026-0037::c1]", "")
+    assert "hard [c:SHE-FA-2026-0037::c1]." in out
+
+
+def test_normalize_leaves_exact_chunk_ids_alone():
+    from chat.quotes import normalize_llm_citations
+
+    text = "Eligible land includes rangeland [c:she_funding:usda-nrcs-eqip::c1]."
+    out = normalize_llm_citations(text, ["she_funding:usda-nrcs-eqip::c1"])
+    assert out == text

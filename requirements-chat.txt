@@ -13,3 +13,4 @@ scipy>=1.11
 pytest>=8
 transformers>=5
 tokenizers>=0.20
+boto3>=1.34

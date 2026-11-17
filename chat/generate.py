@@ -196,7 +196,7 @@ def extractive_answer(question: str, decision: RouteDecision, tool_results: list
 
 _SYSTEM = """You are OpenAgronomy, a local agronomy assistant. You may use ONLY the source blocks provided.
 
-Write a short answer of 2–4 sentences. Each sentence must be a verbatim quote or a close paraphrase of ONE cited source, with a citation marker [c:<chunk_id>] at the end of that sentence. Use only ids that appear in the sources. Do not dump long passages or copy whole sections.
+Write a short answer of 2–4 sentences. Each sentence must be a verbatim quote or a close paraphrase of ONE cited source, with a citation marker [c:<chunk_id>] at the end of that sentence, BEFORE the period. Copy the chunk id exactly from the SOURCE id=... line, including the ::cN suffix. Example: ... make the soil hard [c:SHE-FA-2026-0037::c1]. Do not cite a parent document id without ::cN. Use only ids that appear in the sources. Do not dump long passages or copy whole sections.
 
 Rules:
 - Never invent numbers, dates, rates, yields, payment amounts, or study results. If a figure is not in the cited source block, omit it.
@@ -220,7 +220,7 @@ def _pack_sources(tool_results: list[dict[str, Any]], question: str = "") -> str
         for h in tr.get("hits") or []:
             all_chunks.append(h)
             header = (
-                f"SOURCE id={h.get('id')} source={h.get('source')} title={h.get('title')!r} "
+                f"SOURCE id={h.get('id')}  (cite exactly as [c:{h.get('id')}]) source={h.get('source')} title={h.get('title')!r} "
                 f"region={h.get('region')!r} states={h.get('states')!r} crop={h.get('crop')!r} "
                 f"date={h.get('date')!r} abstract_only={h.get('abstract_only')} "
                 f"as_of={h.get('as_of')!r} url={h.get('url')!r} deadline={h.get('deadline')!r}"
@@ -271,7 +271,15 @@ def llm_answer(
         max_tokens=500,
         timeout=90,
     )
-    return (text or "").strip()
+    ids: list[str] = []
+    for tr in tool_results:
+        for key in ("hits", "chunks"):
+            for h in tr.get(key) or []:
+                if h.get("id"):
+                    ids.append(h["id"])
+    from chat.quotes import normalize_llm_citations
+
+    return normalize_llm_citations((text or "").strip(), ids)
 
 
 def generate_answer(

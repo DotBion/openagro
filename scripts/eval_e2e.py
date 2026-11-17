@@ -391,7 +391,13 @@ def main() -> int:
         ),
     }
 
-    judged = [r["judge"] for r in rows if r.get("judge") and "error" not in (r.get("judge") or {})]
+    try:
+        from chat.llm import usage_summary
+        report["llm_usage"] = usage_summary()
+    except Exception:
+        report["llm_usage"] = None
+
+    judged = [r["judge"] for r in rows if r.get("judge") and "error" not in (r.get("judge") or {}) and "skipped" not in (r.get("judge") or {})]
     report["judge"]["n"] = len(judged)
     if judged:
         report["judge"]["grounded"] = sum(int(j.get("grounded") or 0) for j in judged) / len(judged)
